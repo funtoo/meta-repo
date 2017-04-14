@@ -1,0 +1,4 @@
+[security-kit]
+location = /var/git/meta-repo/kits/security-kit
+auto-sync = no
+priority = 1

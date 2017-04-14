@@ -1,0 +1,4 @@
+[python-kit]
+location = /var/git/meta-repo/kits/python-kit
+auto-sync = no
+priority = 1

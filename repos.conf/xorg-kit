@@ -1,0 +1,4 @@
+[xorg-kit]
+location = /var/git/meta-repo/kits/xorg-kit
+auto-sync = no
+priority = 1

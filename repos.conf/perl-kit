@@ -1,0 +1,4 @@
+[perl-kit]
+location = /var/git/meta-repo/kits/perl-kit
+auto-sync = no
+priority = 1
