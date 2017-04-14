@@ -1,0 +1,24 @@
+[submodule "kits/core-kit"]
+	path = kits/core-kit
+	url = https://github.com/funtoo/core-kit.git
+[submodule "kits/security-kit"]
+	path = kits/security-kit
+	url = https://github.com/funtoo/security-kit.git
+[submodule "kits/xorg-kit"]
+	path = kits/xorg-kit
+	url = https://github.com/funtoo/xorg-kit.git
+[submodule "kits/media-kit"]
+	path = kits/media-kit
+	url = https://github.com/funtoo/media-kit.git
+[submodule "kits/python-kit"]
+	path = kits/python-kit
+	url = https://github.com/funtoo/python-kit.git
+[submodule "kits/perl-kit"]
+	path = kits/perl-kit
+	url = https://github.com/funtoo/perl-kit.git
+[submodule "kits/nokit"]
+	path = kits/nokit
+	url = https://github.com/funtoo/nokit.git
+[submodule "kits/editors-kit"]
+	path = kits/editors-kit
+	url = https://github.com/funtoo/editors-kit.git
