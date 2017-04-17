@@ -59,7 +59,7 @@ that is currently documented:
 `perl-kit`_
   Similar to ``python-kit``, perl-kit contains all ebuilds related to perl.
 
-`php-kit`_
+`php-kit`
   Similar to ``python-kit``, php-kit contains ebuilds that provide core PHP
   support.
 
