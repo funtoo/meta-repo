@@ -22,3 +22,6 @@
 [submodule "kits/editors-kit"]
 	path = kits/editors-kit
 	url = https://github.com/funtoo/editors-kit.git
+[submodule "kits/gnome-kit"]
+	path = kits/gnome-kit
+	url = https://github.com/funtoo/gnome-kit.git

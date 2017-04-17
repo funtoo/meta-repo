@@ -49,7 +49,7 @@ that is currently documented:
 
 `core-kit`_
   Core-kit contains a set of what we consider 'core' ebuilds -- ebuilds needed
-  to build a stage3, plus essential userland utilities, development tools and
+  to build a stage3, plus essential userland utilities, firmware, development tools and
   libraries, except for perl and python.
 
 `python-kit`_
@@ -58,6 +58,10 @@ that is currently documented:
 
 `perl-kit`_
   Similar to ``python-kit``, perl-kit contains all ebuilds related to perl.
+
+`php-kit`_
+  Similar to ``python-kit``, php-kit contains ebuilds that provide core PHP
+  support.
 
 `security-kit`_
   Security-kit contains all core ebuilds related to Kerberos, SELinux and other
@@ -75,6 +79,43 @@ that is currently documented:
 `xorg-kit`_
   Xorg-kit contains all ebuilds that provide core graphics functionality,
   including xorg-server, OpenGL/Mesa, Vulkan, etc.
+
+`desktop-kit`
+  Desktop-kit includes all non-GNOME, KDE or GNUSTEP desktop environments and
+  applications. This includes all window managers, leechcraft, office suites,
+  lxde, lxqt, MATE, XFCE and general X applications, terms and themes.
+
+`gnome-kit`
+  Gnome-kit includes all ebuilds related to setting up a GNOME environment.
+
+`kde-kit`
+  Kde-kit includes all ebuilds that compose a KDE environment, and associated
+  KDE/QT applications.
+
+`media-kit`
+  Media-kit contains all media and graphics-related applications and tools.
+
+`net-kit`
+  Net-kit contains all network applications, including Web and other application
+  servers, as well as Web browsers.
+
+`science-kit`
+  Science-kit contains all ebuilds related to scientific research.
+
+`text-kit`
+  Text-kit contains text-related tools and libraries, TeX, texlive, dictionaries
+  and documentation.
+
+`java-kit`
+  Java-kit contains all Java-related ebuilds -- JDKs, JREs, java libraries, etc.
+
+`dev-kit`
+  Dev-kit contains all development tools, libraries and utilities, except for
+  core dev tools and libraries, perl, python, PHP and Java.
+
+`games-kit`
+  Games-kit contains all games, except for certain games included by default
+  with desktop environments (which will be bundled in gnome-kit, for exmaple.)
 
 `nokit`_
   The 'nokit' kit contains all ebuilds that have not yet been 'kitted', or
@@ -94,11 +135,26 @@ core-kit       1.0-prime
 python-kit     3.4-prime
 perl-kit       5.24-prime
 security-kit   1.0-prime
-editors-kit    1.0-prime
-media-kit      1.0-prime
+media-kit      1.0-snap
 xorg-kit       1.17-prime
+xorg-kit       1.19-snap
+gnome-kit      3.20-prime
+php-kit        7.1.3-prime
+java-kit       master
+dev-kit        master
+kde-kit        master
+desktop-kit    master
+editors-kit    master
+net-kit        master
+text-kit       master
+science-kit    master
+games-kit      master
 nokit          master
 ============   ============
+
+"-prime" indicates an enterprise-stable branch, "-snap" indicates a stable branch,
+and "master" indicates a branch that exists simply to group ebuilds -- no freezing
+of ebuilds occurs here and the latest ebuilds from Gentoo are made available.
 
 These are the branches that we plan to maintain going forward. 
 
