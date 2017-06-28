@@ -1,54 +1,54 @@
 [submodule "kits/core-kit"]
 	path = kits/core-kit
-	url = repos@git.funtoo.org:kits/core-kit.git
+	url = https://github.com/funtoo/core-kit.git
 [submodule "kits/security-kit"]
 	path = kits/security-kit
-	url = repos@git.funtoo.org:kits/security-kit.git
+	url = https://github.com/funtoo/security-kit.git
 [submodule "kits/xorg-kit"]
 	path = kits/xorg-kit
-	url = repos@git.funtoo.org:kits/xorg-kit.git
+	url = https://github.com/funtoo/xorg-kit.git
 [submodule "kits/media-kit"]
 	path = kits/media-kit
-	url = repos@git.funtoo.org:kits/media-kit.git
+	url = https://github.com/funtoo/media-kit.git
 [submodule "kits/python-kit"]
 	path = kits/python-kit
-	url = repos@git.funtoo.org:kits/python-kit.git
+	url = https://github.com/funtoo/python-kit.git
 [submodule "kits/perl-kit"]
 	path = kits/perl-kit
-	url = repos@git.funtoo.org:kits/perl-kit.git
+	url = https://github.com/funtoo/perl-kit.git
 [submodule "kits/nokit"]
 	path = kits/nokit
-	url = repos@git.funtoo.org:kits/nokit.git
+	url = https://github.com/funtoo/nokit.git
 [submodule "kits/editors-kit"]
 	path = kits/editors-kit
-	url = repos@git.funtoo.org:kits/editors-kit.git
+	url = https://github.com/funtoo/editors-kit.git
 [submodule "kits/gnome-kit"]
 	path = kits/gnome-kit
-	url = repos@git.funtoo.org:kits/gnome-kit.git
+	url = https://github.com/funtoo/gnome-kit.git
 [submodule "kits/php-kit"]
 	path = kits/php-kit
-	url = repos@git.funtoo.org:kits/php-kit.git
+	url = https://github.com/funtoo/php-kit.git
 [submodule "kits/java-kit"]
 	path = kits/java-kit
-	url = repos@git.funtoo.org:kits/java-kit.git
+	url = https://github.com/funtoo/java-kit.git
 [submodule "kits/dev-kit"]
 	path = kits/dev-kit
-	url = repos@git.funtoo.org:kits/dev-kit.git
+	url = https://github.com/funtoo/dev-kit.git
 [submodule "kits/kde-kit"]
 	path = kits/kde-kit
-	url = repos@git.funtoo.org:kits/kde-kit.git
+	url = https://github.com/funtoo/kde-kit.git
 [submodule "kits/desktop-kit"]
 	path = kits/desktop-kit
-	url = repos@git.funtoo.org:kits/desktop-kit.git
+	url = https://github.com/funtoo/desktop-kit.git
 [submodule "kits/net-kit"]
 	path = kits/net-kit
-	url = repos@git.funtoo.org:kits/net-kit.git
+	url = https://github.com/funtoo/net-kit.git
 [submodule "kits/text-kit"]
 	path = kits/text-kit
-	url = repos@git.funtoo.org:kits/text-kit.git
+	url = https://github.com/funtoo/text-kit.git
 [submodule "kits/science-kit"]
 	path = kits/science-kit
-	url = repos@git.funtoo.org:kits/science-kit.git
+	url = https://github.com/funtoo/science-kit.git
 [submodule "kits/games-kit"]
 	path = kits/games-kit
-	url = repos@git.funtoo.org:kits/games-kit.git
+	url = https://github.com/funtoo/games-kit.git
