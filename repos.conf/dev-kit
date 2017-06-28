@@ -1,0 +1,4 @@
+[dev-kit]
+location = /var/git/meta-repo/kits/dev-kit
+auto-sync = no
+priority = 1

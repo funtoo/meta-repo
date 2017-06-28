@@ -1,0 +1,4 @@
+[desktop-kit]
+location = /var/git/meta-repo/kits/desktop-kit
+auto-sync = no
+priority = 1

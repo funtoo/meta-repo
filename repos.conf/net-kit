@@ -1,0 +1,4 @@
+[net-kit]
+location = /var/git/meta-repo/kits/net-kit
+auto-sync = no
+priority = 1

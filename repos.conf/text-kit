@@ -1,0 +1,4 @@
+[text-kit]
+location = /var/git/meta-repo/kits/text-kit
+auto-sync = no
+priority = 1
