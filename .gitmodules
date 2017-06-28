@@ -22,3 +22,33 @@
 [submodule "kits/editors-kit"]
 	path = kits/editors-kit
 	url = https://github.com/funtoo/editors-kit.git
+[submodule "kits/gnome-kit"]
+	path = kits/gnome-kit
+	url = repos@git.funtoo.org:kits/gnome-kit.git
+[submodule "kits/php-kit"]
+	path = kits/php-kit
+	url = repos@git.funtoo.org:kits/php-kit.git
+[submodule "kits/java-kit"]
+	path = kits/java-kit
+	url = repos@git.funtoo.org:kits/java-kit.git
+[submodule "kits/dev-kit"]
+	path = kits/dev-kit
+	url = repos@git.funtoo.org:kits/dev-kit.git
+[submodule "kits/kde-kit"]
+	path = kits/kde-kit
+	url = repos@git.funtoo.org:kits/kde-kit.git
+[submodule "kits/desktop-kit"]
+	path = kits/desktop-kit
+	url = repos@git.funtoo.org:kits/desktop-kit.git
+[submodule "kits/net-kit"]
+	path = kits/net-kit
+	url = repos@git.funtoo.org:kits/net-kit.git
+[submodule "kits/text-kit"]
+	path = kits/text-kit
+	url = repos@git.funtoo.org:kits/text-kit.git
+[submodule "kits/science-kit"]
+	path = kits/science-kit
+	url = repos@git.funtoo.org:kits/science-kit.git
+[submodule "kits/games-kit"]
+	path = kits/games-kit
+	url = repos@git.funtoo.org:kits/games-kit.git
