@@ -1,0 +1,4 @@
+[kde-kit]
+location = /var/git/meta-repo/kits/kde-kit
+auto-sync = no
+priority = 1
