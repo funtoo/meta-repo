@@ -52,3 +52,6 @@
 [submodule "kits/games-kit"]
 	path = kits/games-kit
 	url = https://github.com/funtoo/games-kit.git
+[submodule "kits/core-hw-kit"]
+	path = kits/core-hw-kit
+	url = https://github.com/funtoo/core-hw-kit.git
