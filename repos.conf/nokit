@@ -2,3 +2,4 @@
 location = /var/git/meta-repo/kits/nokit
 auto-sync = no
 priority = -500 
+masters = core-kit
