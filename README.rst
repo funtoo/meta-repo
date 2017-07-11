@@ -38,6 +38,23 @@ steps on your Funtoo Linux system, as root:
 At this point, you should be able to use the ``emerge`` command and use 
 Portage normally.
 
+------------------
+Updating Meta-Repo
+------------------
+
+At the moment, updating the Portage tree involves interacting with git directly,
+by typing the following commands:
+
+::
+
+ # cd /var/git/meta-repo
+ # git pull
+ # git submodule update
+ # chown -R portage:portage /var/git/meta-repo
+
+After updating, the ``emerge -auDN @world`` command may be used to update your
+system.
+
 ----------------
 What is Included
 ----------------

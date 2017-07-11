@@ -1,0 +1,4 @@
+[core-hw-kit]
+location = /var/git/meta-repo/kits/core-hw-kit
+auto-sync = no
+priority = 1
