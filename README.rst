@@ -32,12 +32,13 @@ steps on your Funtoo Linux system, as root:
  # git submodule init
  # git submodule update
  # rm /usr/share/portage/config/repos.conf
- # rm -rf /etc/portage/repos.conf
+ # mv /etc/portage/repos.conf /etc/portage/repos.conf.bak
  # ln -s /var/git/meta-repo/repos.conf /etc/portage/repos.conf
  # chown -R portage:portage /var/git/meta-repo
 
 At this point, you should be able to use the ``emerge`` command and use 
-Portage normally.
+Portage normally. Once you have kits running well, at that point you may re-enable
+any custom overlays.
 
 ------------------
 Updating Meta-Repo
