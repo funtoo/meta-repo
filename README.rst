@@ -25,6 +25,7 @@ steps on your Funtoo Linux system, as root:
 
 ::
 
+ # install -d /var/git
  # cd /var/git
  # git clone https://github.com/funtoo/meta-repo.git
  # cd meta-repo
