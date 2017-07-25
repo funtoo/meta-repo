@@ -1,0 +1,4 @@
+[games-kit]
+location = /var/git/meta-repo/kits/games-kit
+auto-sync = no
+priority = 1
