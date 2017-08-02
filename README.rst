@@ -20,8 +20,10 @@ time.
 Using Meta-Repo
 ---------------
 
-To use meta-repo as your meta-repository for Funtoo Linux, perform the following
-steps on your Funtoo Linux system, as root:
+To use meta-repo as your meta-repository for Funtoo Linux, first make sure that
+you have not defined ``PORTDIR`` in ``/etc/make.conf`` to point to a specific
+Portage repository location. If you have ``PORTDIR`` defined, comment it out or
+remove this line. Then, perform the following steps as root:
 
 ::
 
@@ -154,9 +156,8 @@ core-kit       1.0-prime
 python-kit     3.4-prime
 perl-kit       5.24-prime
 security-kit   1.0-prime
-media-kit      1.0-snap
+media-kit      1.0-prime
 xorg-kit       1.17-prime
-xorg-kit       1.19-snap
 gnome-kit      3.20-prime
 php-kit        7.1.3-prime
 java-kit       master
