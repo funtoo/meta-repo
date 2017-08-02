@@ -47,7 +47,8 @@ Updating to Meta-Repo with Funtoo Containers
 --------------------------------------------
 
 If you are a Funtoo Container user, you can enable meta-repo in your container
-by performing the following steps:
+as follows. First make sure that you remove the ``PORTDIR=/var/src/portage``
+line from ``/etc/make.conf``. Then perform the following steps as root:
 
 ::
 
