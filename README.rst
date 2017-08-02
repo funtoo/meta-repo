@@ -42,6 +42,28 @@ At this point, you should be able to use the ``emerge`` command and use
 Portage normally. Once you have kits running well, at that point you may re-enable
 any custom overlays.
 
+--------------------------------------------
+Updating to Meta-Repo with Funtoo Containers
+--------------------------------------------
+
+If you are a Funtoo Container user, you can enable meta-repo in your container
+by performing the following steps:
+
+::
+
+ # install -d /var/git/meta-repo
+ # reboot
+
+After your container restarts, you will have a read-only version of meta-repo
+mounted inside your container. At this point, you can perform the following
+steps to complete the migration to meta-repo:
+
+::
+
+ # rm /usr/share/portage/config/repos.conf
+ # mv /etc/portage/repos.conf /etc/portage/repos.conf.bak
+ # ln -s /var/git/meta-repo/repos.conf /etc/portage/repos.conf
+
 ------------------
 Updating Meta-Repo
 ------------------
