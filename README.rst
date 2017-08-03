@@ -10,12 +10,6 @@ as git *submodules*. For those who are unfamiliar with submodules, they are
 essentially git's flavor of 'symbolic links' to other repositories, so that
 a git repository can link to other repositories.
 
-Please note that meta-repo is currently in beta. If you use meta-repo at the
-moment, it should be for the primary purpose of testing meta-repo for Funtoo
-Linux. It will receive significantly fewer updates than our regular ports
-tree, so this if this concerns you, you should not be using meta-repo at this
-time.
-
 ---------------
 Using Meta-Repo
 ---------------
