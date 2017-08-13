@@ -28,6 +28,7 @@
 [submodule "kits/php-kit"]
 	path = kits/php-kit
 	url = https://github.com/funtoo/php-kit.git
+	branch = master
 [submodule "kits/java-kit"]
 	path = kits/java-kit
 	url = https://github.com/funtoo/java-kit.git
