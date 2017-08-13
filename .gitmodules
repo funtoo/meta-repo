@@ -1,30 +1,39 @@
 [submodule "kits/core-kit"]
 	path = kits/core-kit
 	url = https://github.com/funtoo/core-kit.git
+	branch = 1.0-prime
 [submodule "kits/security-kit"]
 	path = kits/security-kit
 	url = https://github.com/funtoo/security-kit.git
+	branch = 1.0-prime
 [submodule "kits/xorg-kit"]
 	path = kits/xorg-kit
 	url = https://github.com/funtoo/xorg-kit.git
+	branch = 1.17-prime
 [submodule "kits/media-kit"]
 	path = kits/media-kit
 	url = https://github.com/funtoo/media-kit.git
+	branch = 1.0-prime
 [submodule "kits/python-kit"]
 	path = kits/python-kit
 	url = https://github.com/funtoo/python-kit.git
+	branch = 3.4-prime
 [submodule "kits/perl-kit"]
 	path = kits/perl-kit
 	url = https://github.com/funtoo/perl-kit.git
+	branch = 5.24-prime
 [submodule "kits/nokit"]
 	path = kits/nokit
 	url = https://github.com/funtoo/nokit.git
+	branch = master
 [submodule "kits/editors-kit"]
 	path = kits/editors-kit
 	url = https://github.com/funtoo/editors-kit.git
+	branch = master
 [submodule "kits/gnome-kit"]
 	path = kits/gnome-kit
 	url = https://github.com/funtoo/gnome-kit.git
+	branch = 3.20-prime
 [submodule "kits/php-kit"]
 	path = kits/php-kit
 	url = https://github.com/funtoo/php-kit.git
@@ -32,27 +41,36 @@
 [submodule "kits/java-kit"]
 	path = kits/java-kit
 	url = https://github.com/funtoo/java-kit.git
+	branch = master
 [submodule "kits/dev-kit"]
 	path = kits/dev-kit
 	url = https://github.com/funtoo/dev-kit.git
+	branch = master
 [submodule "kits/kde-kit"]
 	path = kits/kde-kit
 	url = https://github.com/funtoo/kde-kit.git
+	branch = master
 [submodule "kits/desktop-kit"]
 	path = kits/desktop-kit
 	url = https://github.com/funtoo/desktop-kit.git
+	branch = master
 [submodule "kits/net-kit"]
 	path = kits/net-kit
 	url = https://github.com/funtoo/net-kit.git
+	branch = master
 [submodule "kits/text-kit"]
 	path = kits/text-kit
 	url = https://github.com/funtoo/text-kit.git
+	branch = master
 [submodule "kits/science-kit"]
 	path = kits/science-kit
 	url = https://github.com/funtoo/science-kit.git
+	branch = master
 [submodule "kits/games-kit"]
 	path = kits/games-kit
 	url = https://github.com/funtoo/games-kit.git
+	branch = master
 [submodule "kits/core-hw-kit"]
 	path = kits/core-hw-kit
 	url = https://github.com/funtoo/core-hw-kit.git
+	branch = master
