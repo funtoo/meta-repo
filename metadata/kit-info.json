@@ -1,0 +1,82 @@
+{
+    "kit_order": [
+        "core-kit",
+        "core-hw-kit",
+        "security-kit",
+        "xorg-kit",
+        "gnome-kit",
+        "media-kit",
+        "perl-kit",
+        "python-kit",
+        "php-kit",
+        "java-kit",
+        "dev-kit",
+        "kde-kit",
+        "desktop-kit",
+        "editors-kit",
+        "net-kit",
+        "text-kit",
+        "science-kit",
+        "games-kit",
+        "nokit"
+    ],
+    "kit_settings": {
+        "core-hw-kit": {
+            "default": "master"
+        },
+        "core-kit": {
+            "default": "1.0-prime"
+        },
+        "desktop-kit": {
+            "default": "master"
+        },
+        "dev-kit": {
+            "default": "master"
+        },
+        "editors-kit": {
+            "default": "master"
+        },
+        "games-kit": {
+            "default": "master"
+        },
+        "gnome-kit": {
+            "default": "3.20-prime"
+        },
+        "java-kit": {
+            "default": "master"
+        },
+        "kde-kit": {
+            "default": "master"
+        },
+        "media-kit": {
+            "default": "1.0-prime"
+        },
+        "net-kit": {
+            "default": "master"
+        },
+        "nokit": {
+            "default": "master"
+        },
+        "perl-kit": {
+            "default": "5.24-prime"
+        },
+        "php-kit": {
+            "default": "master"
+        },
+        "python-kit": {
+            "default": "3.4-prime"
+        },
+        "science-kit": {
+            "default": "master"
+        },
+        "security-kit": {
+            "default": "1.0-prime"
+        },
+        "text-kit": {
+            "default": "master"
+        },
+        "xorg-kit": {
+            "default": "1.17-prime"
+        }
+    }
+}
