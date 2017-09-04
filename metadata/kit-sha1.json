@@ -3,14 +3,14 @@
         "master": "36cf87e26a4a08261e54d15d3a7f6c0220dbd225"
     },
     "core-kit": {
-        "1.0-prime": "3b166e19b9dad40730264978a1b2dce95922a239",
-        "master": "9fbc952bc658a76facaca60344cc3c08bac52370"
+        "1.0-prime": "6c486de166d096385d1a45217d230c83f3c3ce98",
+        "master": "b0b4210a86411d375b3fd6d4e56aadd0331fb30e"
     },
     "desktop-kit": {
-        "master": "20d3668704cf919c0d069c1cab837abd8d8839c4"
+        "master": "b10dd76dc8755bd2d63d18058a37908696d1eb2c"
     },
     "dev-kit": {
-        "master": "d6a52da122b279fcf6fb8392e70ed0b142023aab"
+        "master": "959c48c786018e8bbcf82e267e48ed56c37c3d73"
     },
     "editors-kit": {
         "master": "2d9c63d6306184be2eebca232075a1c317929882"
@@ -19,8 +19,8 @@
         "master": "287993d8786fd173bb6b426b1cdbfeb14a0ca883"
     },
     "gnome-kit": {
-        "3.20-prime": "d13335844827c98de8eee13e9c4b08b9b764dedb",
-        "master": "0740b33087f7fd3122bb42ad4ae6a32f9264ae53"
+        "3.20-prime": "ad229d6744da5155f4cabee32b7556ea5d205e11",
+        "master": "da3a2ecc6ea342b03e9dfa7f4bd92fbcb31a3fa4"
     },
     "java-kit": {
         "master": "251e81aa6095e612f2d843e2bb3d4fecaf374899"
@@ -29,14 +29,14 @@
         "master": "230c2bffda2b226e2ad7c80528805c3c73225e72"
     },
     "media-kit": {
-        "1.0-prime": "ad1610ff5f04a1588fdceb7dd1250a6f9e51d692",
-        "master": "3751f67b5e5aaa882b2623c6af9ba04692acf905"
+        "1.0-prime": "9c6e301b6a87f38acbf3698b9b00f05cf955d227",
+        "master": "628c325685c3414ae23675d65376e6171f5c1305"
     },
     "net-kit": {
-        "master": "ff8423b1118fd6c32cfcc929bc90049babcf13eb"
+        "master": "f16b8a818c37a1e34a7da18fdf5eff78b71848ba"
     },
     "nokit": {
-        "master": "535acb41a636dc15e696097f24a25deee912a5bb"
+        "master": "ca65941c761682b9d764a4eb13f18f98edc21197"
     },
     "perl-kit": {
         "5.24-prime": "de60ea9757620fbece44fac54b8127333e07b146",
@@ -51,7 +51,7 @@
         "master": "be5935e1313c16f1af1cbf422d319fb63f7d8f5b"
     },
     "science-kit": {
-        "master": "f8a6569faa7e68d928dcaee266edef8c22bacfa7"
+        "master": "b7bfdfcfdcbde6af135961cf7fba07b28ae52765"
     },
     "security-kit": {
         "1.0-prime": "7ca3fffa1efb242f1439efed401a042be9e0282f",
@@ -61,7 +61,7 @@
         "master": "5d02b7775064625705a8daab22b771e2a98b305b"
     },
     "xorg-kit": {
-        "1.17-prime": "refs/heads/1.17-prime",
+        "1.17-prime": "d43534d7a789a0ff761061b63a13ba3fdb235247",
         "1.19-prime": "fbc65898fa4b4ad68975d1875e8604a86b73b6a4",
         "master": "758effcba7818477c227f376c62bb8107c03f7af"
     }
