@@ -3,14 +3,14 @@
         "master": "36cf87e26a4a08261e54d15d3a7f6c0220dbd225"
     },
     "core-kit": {
-        "1.0-prime": "b5de014cba6f8ca9f52c73cf580da7e577e07eab",
+        "1.0-prime": "fa9f4a61379cb9313a166bf80bb6a2d9992b005a",
         "master": "870fc05b174ab74181531f8f8d026efb226d30f6"
     },
     "desktop-kit": {
         "master": "5777c9bfb5f28db7395fd1ec911e2adc48876684"
     },
     "dev-kit": {
-        "master": "b373a144800f69a0361a1af4037830f1060fd6f0"
+        "master": "aac4f6709ab3ce7b7ef3a0059ff0956a32ac8bc5"
     },
     "editors-kit": {
         "master": "486b46ed5d3c5d39b60f61380785c10a2773952a"
@@ -19,8 +19,8 @@
         "master": "c36dc0973cfef5bfd32a298234854aaf903d1f36"
     },
     "gnome-kit": {
-        "3.20-prime": "90b5ec0b4f549c1d4eda71c4ab8d26daa9b0dd32",
-        "master": "3fef099771aabd1d6e843eb28e4b1a9c68ae4224"
+        "3.20-prime": "c8c1adea528bb5b2e5fc3a30e3c9e3bc130917ac",
+        "master": "84c017a571e79b46cb5c911abd972137a4a48fc7"
     },
     "java-kit": {
         "master": "07cb9783376ca1149a497cd9c63e92ee390ad697"
@@ -29,14 +29,14 @@
         "master": "54ce04133e74c57b4b6276ef8a43bae804d81ec9"
     },
     "media-kit": {
-        "1.0-prime": "93c0db34300fb11120057d958eaa665b858b38b9",
-        "master": "fdae917e6acc833ccda7ea2da3b9dfb0e813777c"
+        "1.0-prime": "53ae5d6a7f43bd0080fc1bc38f1ab7b5284bf88b",
+        "master": "b0f831298a739aa6ee3a238eccd14e6869480cd0"
     },
     "net-kit": {
-        "master": "22090b7f15c5b256c9a8e4f13753943055f79b71"
+        "master": "cbb4d934a6189cc6752c1144ba4ba939e6cee084"
     },
     "nokit": {
-        "master": "4c28bb5a5cdbfff6cfda5c43f432538a1b47c464"
+        "master": "2edb3b2fe06ebac97d7414e03bc402cd20d646ca"
     },
     "perl-kit": {
         "5.24-prime": "0e50a2e4b8f0431f18d6af035d94b2708953ba97",
@@ -46,9 +46,9 @@
         "master": "1c26fb2e1c5664099a13b03a1d5e6f4597cf7fe1"
     },
     "python-kit": {
-        "3.4-prime": "f5940c976051a026f84d2d915ca1997b4b33ac82",
-        "3.6-prime": "a560e57abc92fae24b78ccda9da654c3b7a042ee",
-        "master": "449a9b82ff1a07e4347d5d4ed87845ee5a0096a4"
+        "3.4-prime": "c86c7b711dcfd20a30c7dab65d7ed7f761a76014",
+        "3.6-prime": "6034b69ac903288774b50a8e52243893de01fc60",
+        "master": "4f8dcfd7ded0ee8ff2b95cf307cfd9b562a202fa"
     },
     "science-kit": {
         "master": "df7938a04dbf2f6e9f444502fe09c47931fa46b4"
