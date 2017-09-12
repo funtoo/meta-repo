@@ -63,8 +63,19 @@ steps to complete the migration to meta-repo:
 Updating Meta-Repo
 ------------------
 
-At the moment, updating the Portage tree involves interacting with git directly,
-by typing the following commands:
+At first, ego must be updated to the last version:
+
+::
+
+ # emerge -1 ego
+
+After this ego can automatically updates meta-repo:
+
+::
+
+ # ego sync
+
+If ego updating fails, you can update meta-repo manually:
 
 ::
 
