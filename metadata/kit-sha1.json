@@ -3,14 +3,14 @@
         "master": "960d483cd8829ce4eb3f16ae74388a8246214b59"
     },
     "core-kit": {
-        "1.0-prime": "e3bf330e33acb9e477ec11e27be66b0d556a02e3",
-        "master": "c5d40aeede828a07f63b51b25c37eea18b80a2a6"
+        "1.0-prime": "f488c512145db8814f62dfe9e17aec9a0b55b8b9",
+        "master": "981cd909477f32e29d490684c1498012c61e9da1"
     },
     "desktop-kit": {
         "master": "12af7a3a78bb610b76bf6b7da4af0012d7cc303f"
     },
     "dev-kit": {
-        "master": "5f716bb619b126d7738f6d07951b952b687bdbe6"
+        "master": "72380ac378bf826bb1b8781dea43106b404aeba7"
     },
     "editors-kit": {
         "master": "e888c855bd6f16a3f4a7955b128659ca95abb399"
@@ -19,8 +19,8 @@
         "master": "7e2a8a42f55129c115da1ca678147fddce2fdea8"
     },
     "gnome-kit": {
-        "3.20-prime": "c375d413287c26e0bf08c9809f7192201bfe811d",
-        "master": "57a61b63c4a46e4c8ced6f8b0aef6f27f2f6a97c"
+        "3.20-prime": "5dfc3a0b84db1a95e8c00605dc9b95b6b1743128",
+        "master": "12d355f0d91c1a4209eb260aedb8e924efbd8003"
     },
     "java-kit": {
         "master": "3d9dd84c507deb08ee61340407e4d7a164005475"
@@ -29,14 +29,14 @@
         "master": "076e3b508a90994ae2c35965d80804d3b36a328a"
     },
     "media-kit": {
-        "1.0-prime": "4dd6a8e1b783dc0876676406a25af3b9e89088a0",
-        "master": "6b96d4494b1fc16d1991d0b476be3d44ac14844d"
+        "1.0-prime": "e57f34f646c2209311d4d31837147319842bb6a1",
+        "master": "d7a21a6425896183b5c1303c12929b4ece502cac"
     },
     "net-kit": {
-        "master": "94918438decf2ec880c58e3f41d13e505a9304f8"
+        "master": "bf87fe5a4b112963c5a0a9468f0d5bf8394ec9af"
     },
     "nokit": {
-        "master": "7902334e78e9c8ba020b6e5ea53fdc151283adc4"
+        "master": "54bb1c8508ad0c83529a0b3ac6bf6db5270195d8"
     },
     "perl-kit": {
         "5.24-prime": "2d141e25178a0bb047c4ae2bb5106fe0447e65d1",
@@ -51,7 +51,7 @@
         "master": "3f984c58f3cfb9e079cbedfd29fad2856f625ae6"
     },
     "science-kit": {
-        "master": "078459ed9d92814c059436c4851e45a9ab83e98c"
+        "master": "91f9bd09999172cdd0f6d924f3dbf15cd55ac08a"
     },
     "security-kit": {
         "1.0-prime": "7ca3fffa1efb242f1439efed401a042be9e0282f",
