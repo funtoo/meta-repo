@@ -3,24 +3,24 @@
         "master": "960d483cd8829ce4eb3f16ae74388a8246214b59"
     },
     "core-kit": {
-        "1.0-prime": "9f243c9eb460289543ed9034ace64845551ce1da",
-        "master": "2e8129bdad35aa75514726f90b2ed7fcc8d1a957"
+        "1.0-prime": "a3ac71c0c6ba6cd95b9fe1455069fd76670e227a",
+        "master": "e0db1731cff4f982791dab5bfc157788187f3046"
     },
     "desktop-kit": {
-        "master": "559bc40c7e630b91e19b61d3b44021757f31d009"
+        "master": "732bcb79245fc6defc3fff1bb9b1fa08bdef2407"
     },
     "dev-kit": {
-        "master": "536fed708f79a9111cfd57ca629bfaef6993f2bd"
+        "master": "fd35c8931f84e6fd9c546cc86fd06a3ded523b8e"
     },
     "editors-kit": {
-        "master": "d56f1c5561df366feb54859046dd72d1991e155f"
+        "master": "97c93d2a706845b8492a193f324cae05cae5029e"
     },
     "games-kit": {
         "master": "7e2a8a42f55129c115da1ca678147fddce2fdea8"
     },
     "gnome-kit": {
-        "3.20-prime": "4ce53b331747492dd7f7ae1f1b9be90c4aac515f",
-        "master": "ccdcf5277ae6e32da1d56e6ed568dd102499d939"
+        "3.20-prime": "a95c92130a27c86a2c044c93d1563f290c89f928",
+        "master": "71d1bb018397882ca4c5ae2a524d7ae9ecc7a887"
     },
     "java-kit": {
         "master": "3d9dd84c507deb08ee61340407e4d7a164005475"
@@ -29,14 +29,14 @@
         "master": "076e3b508a90994ae2c35965d80804d3b36a328a"
     },
     "media-kit": {
-        "1.0-prime": "d87fc8373b4d30ee5c7c742a44dc2ae78f726272",
-        "master": "59857bd42038d93eb0b2ba3b273114f96789cb46"
+        "1.0-prime": "5fdc83744a582384b99616b9f5e396770990eaf9",
+        "master": "e7f2d91e7d03fb2e47da05970d8fbaeb78617ffb"
     },
     "net-kit": {
-        "master": "cc13a5f41e48a7b72ca5c86740ffacbd2e3f6f92"
+        "master": "6e7ded8f250946a3ed266e8171e52cd72018eea6"
     },
     "nokit": {
-        "master": "cd887d070b3e337960d266b1ed24bf9d6d733144"
+        "master": "195307ebdceccff73fcc8fc249dad3d67c1ef274"
     },
     "perl-kit": {
         "5.24-prime": "2d141e25178a0bb047c4ae2bb5106fe0447e65d1",
@@ -51,7 +51,7 @@
         "master": "7744025d1ff6a055dd9aae6c9d00819fbc0ecf84"
     },
     "science-kit": {
-        "master": "feec400ac6f54ea3f3d21fba620144afec5e15f4"
+        "master": "a6b43723f7e8e9ef47c548bfd42790e02f67d54c"
     },
     "security-kit": {
         "1.0-prime": "7ca3fffa1efb242f1439efed401a042be9e0282f",
