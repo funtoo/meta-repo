@@ -3,14 +3,14 @@
         "master": "7e8c23ff277569ef39934debc3e5ff1bee442bfd"
     },
     "core-kit": {
-        "1.0-prime": "9797d914893a2c767818b775d1e710e019265747",
-        "master": "7bee181274365e265a54459be8e0ff33769e5d86"
+        "1.0-prime": "bdab1c72f37239315efef038bb6b6c9d742e0cb1",
+        "master": "5203b38e7a1c5e71bbb987a0116fbd3499cf4904"
     },
     "desktop-kit": {
-        "master": "f3f840ad82ea3a988e51df8815a9a0c0289f59f8"
+        "master": "9edb8e7e1745302ef6461af0456a0635a4586861"
     },
     "dev-kit": {
-        "master": "cb5222cf11244e532f4bca168d77086f612bb21f"
+        "master": "e183a097474a3e300138b84bac69d548294c3d32"
     },
     "editors-kit": {
         "master": "b6c13e20566682e296ac98702737254cd3a71da6"
@@ -19,25 +19,25 @@
         "master": "fe2971a83dd76f5052f505156cd68b70f09003e8"
     },
     "gnome-kit": {
-        "3.20-prime": "b4dfbe42a3b3d1576dd0305ec18bc62353e6a1ce",
-        "master": "61697ccba685b1cb942dcef632f7178dd317b9d9"
+        "3.20-prime": "d7f244aaa55fe9cbe2c228acee1fdbba9e898cba",
+        "master": "417c6644be7d208abe2c867cb4e18f8f047cf1fc"
     },
     "java-kit": {
-        "master": "d9e6f8647232e4a753d7d7c13396f130f4d9de4b"
+        "master": "03ace8b7f0faac2065a3f294709f21b4420f8ea2"
     },
     "kde-kit": {
         "master": "2c6a5c32a34965ac267a2a4c83614b30ecf7d493"
     },
     "media-kit": {
-        "1.0-prime": "b2be66d0fcf92fc6aa4da29125aed7bf24d5c1f5",
-        "2.0-prime": "de055b97dc05648341b38d3709d80f29a67a8937",
-        "master": "6bf909da2255daee79218001961cd07c735c0b33"
+        "1.0-prime": "f1922c690db132224e836a4621282c1b383e1d8f",
+        "2.0-prime": "143291efb35045dce012b02b2312012744b8edf4",
+        "master": "5e99b36dd0855f0209238d1deaf0d766695611f3"
     },
     "net-kit": {
-        "master": "e70f4050496a1ceb86aaada0b956ceddd4e401ce"
+        "master": "d78cb029dfc2f32deb4d577ce423a9919e4de1c7"
     },
     "nokit": {
-        "master": "b4a7168c408eb51916bfe26435ec6e8a37628e61"
+        "master": "d13bc9ef1aac60c6b43ef941062450762f168141"
     },
     "perl-kit": {
         "5.24-prime": "2d141e25178a0bb047c4ae2bb5106fe0447e65d1",
@@ -52,7 +52,7 @@
         "master": "dcfbfadd9dbe746f9938c1ecb5c140e63a6b45f6"
     },
     "science-kit": {
-        "master": "416b00193284e7f63790a35ece090f71301c7781"
+        "master": "a932a7bef71e565795418e23d4a8e5b8dbcbd273"
     },
     "security-kit": {
         "1.0-prime": "7ca3fffa1efb242f1439efed401a042be9e0282f",
