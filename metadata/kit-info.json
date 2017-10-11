@@ -23,7 +23,6 @@
     "kit_settings": {
         "core-hw-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
@@ -33,35 +32,30 @@
                 "master"
             ],
             "default": "1.0-prime",
-            "devbetanear-prime": [],
             "prime": [
                 "1.0-prime"
             ]
         },
         "desktop-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
         },
         "dev-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
         },
         "editors-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
         },
         "games-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
@@ -71,21 +65,18 @@
                 "master"
             ],
             "default": "3.20-prime",
-            "devbetanear-prime": [],
             "prime": [
                 "3.20-prime"
             ]
         },
         "java-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
         },
         "kde-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
@@ -95,21 +86,18 @@
                 "master"
             ],
             "default": "1.0-prime",
-            "devbetanear-prime": [],
             "prime": [
                 "1.0-prime"
             ]
         },
         "net-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
         },
         "nokit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
@@ -119,14 +107,12 @@
                 "master"
             ],
             "default": "5.24-prime",
-            "devbetanear-prime": [],
             "prime": [
                 "5.24-prime"
             ]
         },
         "php-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
@@ -136,14 +122,12 @@
                 "master"
             ],
             "default": "3.4-prime",
-            "devbetanear-prime": [],
             "prime": [
                 "3.4-prime"
             ]
         },
         "science-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
@@ -153,14 +137,12 @@
                 "master"
             ],
             "default": "1.0-prime",
-            "devbetanear-prime": [],
             "prime": [
                 "1.0-prime"
             ]
         },
         "text-kit": {
             "default": "master",
-            "devbetanear-prime": [],
             "prime": [
                 "master"
             ]
@@ -170,7 +152,6 @@
                 "master"
             ],
             "default": "1.17-prime",
-            "devbetanear-prime": [],
             "prime": [
                 "1.17-prime",
                 "1.19-prime"
