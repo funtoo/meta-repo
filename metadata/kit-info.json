@@ -5,13 +5,13 @@
         "security-kit",
         "xorg-kit",
         "gnome-kit",
+        "kde-kit",
         "media-kit",
         "perl-kit",
         "python-kit",
         "php-kit",
         "java-kit",
         "dev-kit",
-        "kde-kit",
         "desktop-kit",
         "editors-kit",
         "net-kit",
@@ -76,9 +76,12 @@
             ]
         },
         "kde-kit": {
-            "default": "master",
-            "prime": [
+            "current": [
                 "master"
+            ],
+            "default": "5.10-prime",
+            "prime": [
+                "5.10-prime"
             ]
         },
         "media-kit": {
