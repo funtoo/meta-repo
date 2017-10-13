@@ -3,7 +3,7 @@
         "master": "68795bb0c01dcac13da33067ed8c9b3f1810103e"
     },
     "core-kit": {
-        "1.0-prime": "d9a31fe70c342f92cb286a19d0aa248608b25e1e",
+        "1.0-prime": "e5f55270e850b4dc8f182372999c4422521ae3da",
         "1.1-prime": "8acf714ad2ebc80e840c11a7aceaacfb9bcfc88b",
         "master": "4b5b67a6a0ac3684f7781e021d94522db0980c61"
     },
@@ -11,7 +11,7 @@
         "master": "6214b00c8d67ec28b20f2010ba127b7e89d72723"
     },
     "dev-kit": {
-        "master": "047692335004f82ee5114a1b46bd8865c13828fd"
+        "master": "159f622cba53e739c9a9b675d6cdf4b5ac7cc10a"
     },
     "editors-kit": {
         "master": "1aa753532fc376df32be0cd28278605c0f021bcc"
@@ -20,8 +20,8 @@
         "master": "39b04ed0f1cc2fbf54a7f3f0b33e60bd61aabf93"
     },
     "gnome-kit": {
-        "3.20-prime": "a7ef1fbd64594ee8b4cdbf1a765074041e9863ab",
-        "master": "8e5321212d2436f16b0bb4b04fc24f53da5c68cc"
+        "3.20-prime": "1c6adc0b152e3d25a0dd5d1962027d6183d7c3f5",
+        "master": "5d2086f57d7cc4e3d7da2ef10cec459fd4105127"
     },
     "java-kit": {
         "master": "115ea83e5ae2b88863df112610d98adc06896f67"
@@ -31,15 +31,15 @@
         "master": "4d412f807f2997d95f2b0eaddfbb13b674db926f"
     },
     "media-kit": {
-        "1.0-prime": "bc27764fb57220e0c0650c8e3beb86e76a244a3f",
-        "1.1-prime": "e7abbfe86201e2bb37318533c2763f35b0a6dcc5",
-        "master": "7d03a2581e7f48de5ae6f405e9d24c76558d5113"
+        "1.0-prime": "4d004cc2c173b7636b20efb4bd6ef87ff3c37a39",
+        "1.1-prime": "bad4c5e0e44c270cba361def0a43de03232c3d65",
+        "master": "ee5084bbaf3449e08ae24d22a542ede8e965928f"
     },
     "net-kit": {
-        "master": "48a2e4e8ea74f4faa529f1a0e854e1da085c83a1"
+        "master": "901be2c1df250794161744389591845cef8d23be"
     },
     "nokit": {
-        "master": "6806ef5b2bccd12eb04410c467943572b58d2800"
+        "master": "723a26b02ef3758c72d05ac782c87b15051b1071"
     },
     "perl-kit": {
         "5.24-prime": "a263f0eb4c6c1a97240655a06e2d85cb8d4a9fea",
@@ -56,7 +56,7 @@
         "master": "20d4386606b23a94a7d6f96d39f7f8d3d3e8b622"
     },
     "science-kit": {
-        "master": "235bb018e407df6b21fbfb6db11a5c925fc61999"
+        "master": "9b6bdfdd1a2c482681aa5b00353f570ea6629ee9"
     },
     "security-kit": {
         "1.0-prime": "ff9ab7fe91df8b667b22558901454eaf91a00a14",
