@@ -3,9 +3,9 @@
         "master": "74eeebad3052099ac58e39d2e1925eee6c7b3524"
     },
     "core-kit": {
-        "1.0-prime": "0f49ef0dd120b2332477465f46f750bf30422699",
-        "1.1-prime": "eead7e85cb1a427638c14a2660067e8d44b60676",
-        "master": "438ec2a3b6fbaf062f79d323c62de6b81dfc5e3f"
+        "1.0-prime": "12c97d5ddbaadfa807955f8052691e3c8314a67f",
+        "1.1-prime": "f0a6e0d1f26b3d21c7b48a3b9ed47697f01dbb9e",
+        "master": "03a72a6945be1b01400d7b473d3ad217d9fbfbb3"
     },
     "desktop-kit": {
         "master": "4a65ebd32d2a2c10b1ba7244466a4e0a1da9bbf7"
@@ -14,7 +14,7 @@
         "master": "bbcfb447e6391ec78c3e84a9ffc3799579515d32"
     },
     "editors-kit": {
-        "master": "1a7121c5d4253f23a8bcbd98b24c755acf5cde6c"
+        "master": "eae4aaca555b899b956f33df66edbc95fef6b169"
     },
     "games-kit": {
         "master": "f5dfec9260600feb788af9c21baf4625070b33ca"
@@ -50,9 +50,9 @@
         "master": "6ab362cfc4e5168f36b8f5cf5562502d48a050a0"
     },
     "python-kit": {
-        "3.4-prime": "40bc77b3f63367b288edc0c2ad2344ac1ac504a9",
-        "3.6-prime": "89063b0a74077d3d342c34fba162bcc5e280ef27",
-        "3.6.3-prime": "38e334955d28bd988f9b32602e3d043c417b61d6",
+        "3.4-prime": "a4dc054e5c5277ba1b5a1787ef42eedc3cbcf996",
+        "3.6-prime": "dd0b715bceeb3b3e93c085e6e523bebd17bdd41a",
+        "3.6.3-prime": "d694304e58a210165dd41dfaca0ec58916ead440",
         "master": "d5492d338a1c05bd05e4e9017986fd203582c8fb"
     },
     "science-kit": {
