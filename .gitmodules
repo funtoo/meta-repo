@@ -41,11 +41,11 @@
 [submodule "kits/java-kit"]
 	path = kits/java-kit
 	url = https://github.com/funtoo/java-kit.git
-	branch = master
+	branch = 1.1-prime
 [submodule "kits/dev-kit"]
 	path = kits/dev-kit
 	url = https://github.com/funtoo/dev-kit.git
-	branch = master
+	branch = 1.1-prime
 [submodule "kits/kde-kit"]
 	path = kits/kde-kit
 	url = https://github.com/funtoo/kde-kit.git
@@ -53,7 +53,7 @@
 [submodule "kits/desktop-kit"]
 	path = kits/desktop-kit
 	url = https://github.com/funtoo/desktop-kit.git
-	branch = master
+	branch = 1.1-prime
 [submodule "kits/net-kit"]
 	path = kits/net-kit
 	url = https://github.com/funtoo/net-kit.git
@@ -74,3 +74,23 @@
 	path = kits/core-hw-kit
 	url = https://github.com/funtoo/core-hw-kit.git
 	branch = master
+[submodule "kits/ruby-kit"]
+	path = kits/ruby-kit
+	url = https://github.com/funtoo/ruby-kit.git
+	branch = 1.1-prime
+[submodule "kits/haskell-kit"]
+	path = kits/haskell-kit
+	url = https://github.com/funtoo/haskell-kit.git
+	branch = 1.1-prime
+[submodule "kits/ml-lang-kit"]
+	path = kits/ml-lang-kit
+	url = https://github.com/funtoo/ml-lang-kit.git
+	branch = 1.1-prime
+[submodule "kits/lisp-scheme-kit"]
+	path = kits/lisp-scheme-kit
+	url = https://github.com/funtoo/lisp-scheme-kit.git
+	branch = 1.1-prime
+[submodule "kits/xfce-kit"]
+	path = kits/xfce-kit
+	url = https://github.com/funtoo/xfce-kit.git
+	branch = 4.12-prime

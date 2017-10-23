@@ -11,7 +11,12 @@
         "python-kit",
         "php-kit",
         "java-kit",
+        "ruby-kit",
+        "haskell-kit",
+        "ml-lang-kit",
+        "lisp-scheme-kit",
         "dev-kit",
+        "xfce-kit",
         "desktop-kit",
         "editors-kit",
         "net-kit",
@@ -31,20 +36,19 @@
             "default": "1.0-prime",
             "stability": {
                 "1.0-prime": "prime",
-                "1.1-prime": "dev",
-                "master": "current"
+                "1.1-prime": "dev"
             }
         },
         "desktop-kit": {
-            "default": "master",
+            "default": "1.1-prime",
             "stability": {
-                "master": "prime"
+                "1.1-prime": "prime"
             }
         },
         "dev-kit": {
-            "default": "master",
+            "default": "1.1-prime",
             "stability": {
-                "master": "prime"
+                "1.1-prime": "prime"
             }
         },
         "editors-kit": {
@@ -62,29 +66,44 @@
         "gnome-kit": {
             "default": "3.20-prime",
             "stability": {
-                "3.20-prime": "prime",
-                "master": "current"
+                "3.20-prime": "prime"
+            }
+        },
+        "haskell-kit": {
+            "default": "1.1-prime",
+            "stability": {
+                "1.1-prime": "prime"
             }
         },
         "java-kit": {
-            "default": "master",
+            "default": "1.1-prime",
             "stability": {
-                "master": "prime"
+                "1.1-prime": "prime"
             }
         },
         "kde-kit": {
             "default": "5.10-prime",
             "stability": {
-                "5.10-prime": "prime",
-                "master": "current"
+                "5.10-prime": "prime"
+            }
+        },
+        "lisp-scheme-kit": {
+            "default": "1.1-prime",
+            "stability": {
+                "1.1-prime": "prime"
             }
         },
         "media-kit": {
             "default": "1.0-prime",
             "stability": {
                 "1.0-prime": "prime",
-                "1.1-prime": "prime",
-                "master": "current"
+                "1.1-prime": "prime"
+            }
+        },
+        "ml-lang-kit": {
+            "default": "1.1-prime",
+            "stability": {
+                "1.1-prime": "prime"
             }
         },
         "net-kit": {
@@ -103,8 +122,7 @@
             "default": "5.24-prime",
             "stability": {
                 "5.24-prime": "prime",
-                "5.26-prime": "prime",
-                "master": "current"
+                "5.26-prime": "prime"
             }
         },
         "php-kit": {
@@ -118,8 +136,13 @@
             "stability": {
                 "3.4-prime": "prime",
                 "3.6-prime": "prime",
-                "3.6.3-prime": "prime",
-                "master": "current"
+                "3.6.3-prime": "prime"
+            }
+        },
+        "ruby-kit": {
+            "default": "1.1-prime",
+            "stability": {
+                "1.1-prime": "prime"
             }
         },
         "science-kit": {
@@ -132,8 +155,7 @@
             "default": "1.0-prime",
             "stability": {
                 "1.0-prime": "prime",
-                "1.1-prime": "dev",
-                "master": "current"
+                "1.1-prime": "dev"
             }
         },
         "text-kit": {
@@ -142,12 +164,17 @@
                 "master": "prime"
             }
         },
+        "xfce-kit": {
+            "default": "4.12-prime",
+            "stability": {
+                "4.12-prime": "prime"
+            }
+        },
         "xorg-kit": {
             "default": "1.17-prime",
             "stability": {
                 "1.17-prime": "prime",
-                "1.19-prime": "prime",
-                "master": "current"
+                "1.19-prime": "prime"
             }
         }
     }
