@@ -94,3 +94,7 @@
 	path = kits/xfce-kit
 	url = https://github.com/funtoo/xfce-kit.git
 	branch = 4.12-prime
+[submodule "kits/lang-kit"]
+	path = kits/lang-kit
+	url = https://github.com/funtoo/lang-kit.git
+	branch = 1.1-prime

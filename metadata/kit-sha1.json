@@ -3,14 +3,14 @@
         "master": "adaaf608907b762f10c93ea30796d439f5e31c7b"
     },
     "core-kit": {
-        "1.0-prime": "7c2e2d6f7a8920e03ee8d3424eaa19a7b2d01e70",
-        "1.1-prime": "3ab532cad6d7c0419b1d6fa65c5d4e132320334d"
+        "1.0-prime": "366dddf7691cb73abaef4409ed07ec7f8bc49a79",
+        "1.1-prime": "1190769bc37e686a4537f3abf27c8ad4132ceafa"
     },
     "desktop-kit": {
         "1.1-prime": "bc2f63175cea04b44bf9abeb17523aa4f3b3c5e1"
     },
     "dev-kit": {
-        "1.1-prime": "dcca19617765798373a875dd36e97e21b73cbef0"
+        "1.1-prime": "49e514c68dd93320c194fdd4919d3d632d068880"
     },
     "editors-kit": {
         "master": "3fe6e8f7f7a2c8be3a46433690c41a798133fb28"
@@ -30,6 +30,9 @@
     "kde-kit": {
         "5.10-prime": "618949cf2941953add96f191a73e6d06bccd6293"
     },
+    "lang-kit": {
+        "1.1-prime": "a49455ac2c42400dc5c6c0c372b4cd6849fadaf6"
+    },
     "lisp-scheme-kit": {
         "1.1-prime": "d045c168267645e5bed2f8b0dd885ecc4a46f52f"
     },
@@ -41,13 +44,13 @@
         "1.1-prime": "fd7da018ed97f61f3738edb4d0bb9f8bc3427097"
     },
     "net-kit": {
-        "master": "4a9df8e0265e9a81bff795316849703ea4fd2d82"
+        "master": "0e504bca69fe519edb2d9cc23e847fa88153eba6"
     },
     "nokit": {
         "master": "5558351542773f03a1dc53727af78df6d4c1be34"
     },
     "perl-kit": {
-        "5.24-prime": "a263f0eb4c6c1a97240655a06e2d85cb8d4a9fea",
+        "5.24-prime": "253b25b6a77eb6d2d863d8969795db58bdb89036",
         "5.26-prime": "1fff35a66163872187de6502aba7c0f31426cb6f"
     },
     "php-kit": {

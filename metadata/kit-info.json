@@ -15,6 +15,7 @@
         "haskell-kit",
         "ml-lang-kit",
         "lisp-scheme-kit",
+        "lang-kit",
         "dev-kit",
         "xfce-kit",
         "desktop-kit",
@@ -85,6 +86,12 @@
             "default": "5.10-prime",
             "stability": {
                 "5.10-prime": "prime"
+            }
+        },
+        "lang-kit": {
+            "default": "1.1-prime",
+            "stability": {
+                "1.1-prime": "prime"
             }
         },
         "lisp-scheme-kit": {
