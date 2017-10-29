@@ -3,8 +3,8 @@
         "master": "adaaf608907b762f10c93ea30796d439f5e31c7b"
     },
     "core-kit": {
-        "1.0-prime": "d6b21402c91762c89a78fa221e2304e285265ce7",
-        "1.1-prime": "29ca6322d9a7aa63b7eb0754782dcef018ed591e"
+        "1.0-prime": "6a4737bb91a04568efc98d0860b15d0623f7f761",
+        "1.1-prime": "4b92b9e226789c852f44cfce1ee8e85ae093f6b1"
     },
     "desktop-kit": {
         "1.1-prime": "bc2f63175cea04b44bf9abeb17523aa4f3b3c5e1"
@@ -13,7 +13,7 @@
         "1.1-prime": "49e514c68dd93320c194fdd4919d3d632d068880"
     },
     "editors-kit": {
-        "master": "4473ada75573854383d412861044121d857544ae"
+        "master": "4bd627219590df83e52c0335ce98b674304dc4b3"
     },
     "games-kit": {
         "master": "f8224668628dc652dcdb1fa46b6d9a2eee9ddef1"
@@ -37,17 +37,17 @@
         "1.1-prime": "d045c168267645e5bed2f8b0dd885ecc4a46f52f"
     },
     "media-kit": {
-        "1.0-prime": "8f7d500755293555ce1ab591ce95890bf2174269",
+        "1.0-prime": "1d821608618b91a6fbfd7e6a177ed23280207ab6",
         "1.1-prime": "9270ef8b9937a349ce507fa56f3b9ae5fe771ec7"
     },
     "ml-lang-kit": {
         "1.1-prime": "fd7da018ed97f61f3738edb4d0bb9f8bc3427097"
     },
     "net-kit": {
-        "master": "7c31d21a7710f3ec6fe55d5ecde629dafcd746e4"
+        "master": "fbe2db65ba956d6bb98ac1b261c2e97b670e71c4"
     },
     "nokit": {
-        "master": "c23dd780995ab3447ad31400c7de418399285d5d"
+        "master": "9e971c0281d1c362fb08a69edc103b11403698b2"
     },
     "perl-kit": {
         "5.24-prime": "253b25b6a77eb6d2d863d8969795db58bdb89036",
@@ -65,14 +65,14 @@
         "1.1-prime": "a41f4ddec263c59aefff3ad00a1a736d133cc237"
     },
     "science-kit": {
-        "master": "2de54760d447c72bc87584979c6d1a45de541ac7"
+        "master": "299e581d8d260b808359833703b9f9723dbfdc18"
     },
     "security-kit": {
         "1.0-prime": "ff9ab7fe91df8b667b22558901454eaf91a00a14",
         "1.1-prime": "0bd2f303c4d1d4719bb7134f0e53b4ccd50b020d"
     },
     "text-kit": {
-        "master": "f5b9bac59a0afb23b2716423077a124ab1b2e843"
+        "master": "57d7239c510c3c1bbef98037f4fa24babc2c69d0"
     },
     "xfce-kit": {
         "4.12-prime": "7e49b765dcf39659389bb275b91d91f40c1261d1"
