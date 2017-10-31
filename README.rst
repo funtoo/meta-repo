@@ -31,7 +31,11 @@ remove this line. Then, perform the following steps as root:
  # mv /etc/portage/repos.conf /etc/portage/repos.conf.bak
  # ln -s /var/git/meta-repo/repos.conf /etc/portage/repos.conf
  # chown -R portage:portage /var/git/meta-repo
-
+ # my_pyver="$(eselect python show --python3)"
+ # USE="python_targets_${my_pyver/./_} python_single_target_${my_pyver/./_}" emerge -1 --nodeps ego
+ # hash -r
+ # epro update
+ 
 At this point, you should be able to use the ``emerge`` command and use 
 Portage normally. Once you have kits running well, at that point you may re-enable
 any custom overlays.
