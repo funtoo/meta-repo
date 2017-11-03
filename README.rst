@@ -29,8 +29,13 @@ remove this line. Then, perform the following steps as root:
  # git submodule update
  # rm /usr/share/portage/config/repos.conf
  # mv /etc/portage/repos.conf /etc/portage/repos.conf.bak
- # ln -s /var/git/meta-repo/repos.conf /etc/portage/repos.conf
+ # mkdir /etc/portage/repos.conf
+ # ln -s /var/git/meta-repo/repos.conf /etc/portage/repos.conf/funtoo
  # chown -R portage:portage /var/git/meta-repo
+ # my_pyver="$(eselect python show --python3)"
+ # USE="python_targets_${my_pyver/./_} python_single_target_${my_pyver/./_}" emerge -1 --nodeps ego
+ # hash -r
+ # epro update
 
 At this point, you should be able to use the ``emerge`` command and use 
 Portage normally. Once you have kits running well, at that point you may re-enable
@@ -63,15 +68,11 @@ steps to complete the migration to meta-repo:
 Updating Meta-Repo
 ------------------
 
-At the moment, updating the Portage tree involves interacting with git directly,
-by typing the following commands:
+From now on you will be using 'ego sync' to update the Portage tree:
 
 ::
 
- # cd /var/git/meta-repo
- # git pull
- # git submodule update
- # chown -R portage:portage /var/git/meta-repo
+ # ego sync
 
 After updating, the ``emerge -auDN @world`` command may be used to update your
 system.
