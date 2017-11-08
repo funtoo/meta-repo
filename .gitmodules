@@ -9,7 +9,7 @@
 [submodule "kits/xorg-kit"]
 	path = kits/xorg-kit
 	url = https://github.com/funtoo/xorg-kit.git
-	branch = 1.17-prime
+	branch = 1.19-prime
 [submodule "kits/media-kit"]
 	path = kits/media-kit
 	url = https://github.com/funtoo/media-kit.git
