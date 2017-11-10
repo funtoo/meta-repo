@@ -178,7 +178,7 @@
             }
         },
         "xorg-kit": {
-            "default" : "1.19-prime",
+            "default": "1.19-prime",
             "stability": {
                 "1.17-prime": "prime",
                 "1.19-prime": "prime"
