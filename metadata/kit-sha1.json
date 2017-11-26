@@ -3,8 +3,8 @@
         "master": "8c51e1cce4bc0c0a93b0025891a5e208bf6459b1"
     },
     "core-kit": {
-        "1.0-prime": "1a3dfb941840d48b3eb75166f8b363f329c4a3b6",
-        "1.1-prime": "a857da720cb8ada05c3dd4b0032c29b55077b1a1"
+        "1.0-prime": "793741fa6d19bde852355f93b8ad963b4d24b922",
+        "1.1-prime": "a0f8980587b5087ccbc23d40e0c16e233751526e"
     },
     "desktop-kit": {
         "1.1-prime": "094a053e39217d4aea0f5ac3e46c75c81ff5da60"
@@ -13,10 +13,10 @@
         "1.1-prime": "5c6e03123ccbcb1635a4deea0cd48da849bf9da5"
     },
     "editors-kit": {
-        "master": "e688bd42f5edbeb67e3ade1a2fbaac84caad078a"
+        "master": "f26ec830894f0f9fb2cc42a43f1538011106d2cd"
     },
     "games-kit": {
-        "master": "1e43182dba580fa955eb6ad84911b84d3e82b807"
+        "master": "edef1eb3e83f1028cb321159556f86c719c72581"
     },
     "gnome-kit": {
         "3.20-prime": "966bee6ea4487b5a7ed83e47d1f426318421285f"
@@ -44,10 +44,10 @@
         "1.1-prime": "fd7da018ed97f61f3738edb4d0bb9f8bc3427097"
     },
     "net-kit": {
-        "master": "3fb39a2f2e42658d67f74984aa9ef55bdc1a3985"
+        "master": "9bfe64678ccb1bfd08528ee791daf3559db23ec7"
     },
     "nokit": {
-        "master": "f65a2edf0db6c9389c2e7a32b54433c4fbb267b4"
+        "master": "1a05c5ece8cdec8b49ed1e5c3607c2fc4deadaa6"
     },
     "perl-kit": {
         "5.24-prime": "253b25b6a77eb6d2d863d8969795db58bdb89036",
@@ -65,14 +65,14 @@
         "1.1-prime": "a41f4ddec263c59aefff3ad00a1a736d133cc237"
     },
     "science-kit": {
-        "master": "d98faed4e2424b8bfadafb96230ef8fe0c1bde80"
+        "master": "e595d9424541968c1f81b647d8d2ae419fa82276"
     },
     "security-kit": {
         "1.0-prime": "ff9ab7fe91df8b667b22558901454eaf91a00a14",
         "1.1-prime": "0bd2f303c4d1d4719bb7134f0e53b4ccd50b020d"
     },
     "text-kit": {
-        "master": "7f409e9fedecf4246bee825db4adcb96e5ef012c"
+        "master": "5a579a10e25154700f46178373bc0a6a04be0c57"
     },
     "xfce-kit": {
         "4.12-prime": "7e49b765dcf39659389bb275b91d91f40c1261d1"
