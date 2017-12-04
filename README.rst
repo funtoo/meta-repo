@@ -23,10 +23,7 @@ remove this line. Then, perform the following steps as root:
 
  # install -d /var/git
  # cd /var/git
- # git clone https://github.com/funtoo/meta-repo.git
- # cd meta-repo
- # git submodule init
- # git submodule update
+ # git clone --recursive https://github.com/funtoo/meta-repo.git
  # rm /usr/share/portage/config/repos.conf
  # mv /etc/portage/repos.conf /etc/portage/repos.conf.bak
  # mkdir /etc/portage/repos.conf
