@@ -13,13 +13,13 @@
         "1.1-prime": "207847bfa0960fb0543b867dc1fe42789015f060"
     },
     "editors-kit": {
-        "master": "2b1fedd86128940d69843d44e2d5b67b5a80c10a"
+        "master": "84bf4a4a576ee4887ab06b1277fbfcbd02b3d79f"
     },
     "games-kit": {
-        "master": "ab6750f2f6c68950f4e48f211a20286c45b09761"
+        "master": "dbb834934e465b2fa33d1a8ecbc7892e2a0b6d8b"
     },
     "gnome-kit": {
-        "3.20-prime": "e684ae5faea933b0f3973508650c1f0bc51e1a80"
+        "3.20-prime": "f630daeeb249d46c8977fed3f62836b12430c8a8"
     },
     "haskell-kit": {
         "1.1-prime": "d3779e8ea30e43abfddf8937c7b34a2c560870dd"
@@ -44,17 +44,17 @@
         "1.1-prime": "09e9391bd4050c846885f98d6f2ddc3f27a04dbc"
     },
     "net-kit": {
-        "master": "6a28fd4b9137ec8a89db3f072d30dae1bb97d35d"
+        "master": "765c51f8d0b050022215446b04a53446a625a8db"
     },
     "nokit": {
-        "master": "676dbe6a79361d831bfc4e01f80924c7a28a9bdd"
+        "master": "153aeba839ce9299efd4523bca972916ca1818c7"
     },
     "perl-kit": {
         "5.24-prime": "253b25b6a77eb6d2d863d8969795db58bdb89036",
         "5.26-prime": "1fff35a66163872187de6502aba7c0f31426cb6f"
     },
     "php-kit": {
-        "master": "7ff0c276e30bb3960c5dad22884707a4880f917e"
+        "master": "b8e2838433c0f132ccebbe10aa0a946768138b50"
     },
     "python-kit": {
         "3.4-prime": "fc58704cd0f3688b56c44a659292699834ed832d",
@@ -65,14 +65,14 @@
         "1.1-prime": "a101b79dc719316ba7a91af3d5670ff5e8afc74f"
     },
     "science-kit": {
-        "master": "33f0481b1aa397755cebbe7a506c4ce4b062db14"
+        "master": "f6bc2c52f46e3260949de935a7c289cdd8ee9eea"
     },
     "security-kit": {
         "1.0-prime": "116fe8272b15802802cf7c81c94ceb3fb9a26351",
         "1.1-prime": "0bd2f303c4d1d4719bb7134f0e53b4ccd50b020d"
     },
     "text-kit": {
-        "master": "6bb359e2cf907c049ef3ab1e3ebdf76b598e516d"
+        "master": "b35c0515fc4c659ae67220d4003cb2143f33dfe5"
     },
     "xfce-kit": {
         "4.12-prime": "7e49b765dcf39659389bb275b91d91f40c1261d1"
