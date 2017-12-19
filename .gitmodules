@@ -13,7 +13,7 @@
 [submodule "kits/media-kit"]
 	path = kits/media-kit
 	url = https://github.com/funtoo/media-kit.git
-	branch = 1.0-prime
+	branch = 1.1-prime
 [submodule "kits/python-kit"]
 	path = kits/python-kit
 	url = https://github.com/funtoo/python-kit.git
