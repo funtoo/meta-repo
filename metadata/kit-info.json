@@ -67,7 +67,8 @@
         "gnome-kit": {
             "default": "3.20-prime",
             "stability": {
-                "3.20-prime": "prime"
+                "3.20-prime": "prime",
+                "3.26-prime": "prime"
             }
         },
         "haskell-kit": {
