@@ -3,8 +3,8 @@
         "master": "8ac1fdca892c64aac9d35e8c4114239506af3f1c"
     },
     "core-kit": {
-        "1.0-prime": "8d9fffd6e5ef9937f8d1bf57ab76cb099462a4e5",
-        "1.1-prime": "47d8ad700496da5922fb26152cf2df50ac6658a8"
+        "1.0-prime": "e8fd1fbf15b41522da1e95dee545d830736c0fec",
+        "1.1-prime": "d9c0e985b4c3357950197d1c4bf403845a3f3adb"
     },
     "desktop-kit": {
         "1.1-prime": "b26cbb6c2d302868df1e893272eded1d33b613ed"
@@ -19,8 +19,8 @@
         "master": "ddbe31529b18618082cc910b2cc3c31c9e75dd0e"
     },
     "gnome-kit": {
-        "3.20-prime": "21f52ce14c2690499b86d1f586559ad90717e027",
-        "3.26-prime": "a5661d67c53c95dc0ec9db83ce8e8dccf87d9658"
+        "3.20-prime": "cc136dbd2dcc0975cad5a37f31ef5bdcb3c6199e",
+        "3.26-prime": "581cdc5e3d26ddc479904e60256e9fd080b006bb"
     },
     "haskell-kit": {
         "1.1-prime": "d3779e8ea30e43abfddf8937c7b34a2c560870dd"
@@ -39,7 +39,7 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "111d54b0007e665c95650ff210c14daf76b88623"
+        "1.1-prime": "8822d3e11047a41ec1e5b33f528e05474835e2b5"
     },
     "ml-lang-kit": {
         "1.1-prime": "09e9391bd4050c846885f98d6f2ddc3f27a04dbc"
@@ -58,7 +58,7 @@
         "master": "0ad749578fd61edf53d6a1b602fa2a723c1b700d"
     },
     "python-kit": {
-        "3.4-prime": "6f380ab8f246e94b7ad277621e95d96b077ca9b4",
+        "3.4-prime": "2574cf797c8427d378616151154a286c4acffcc5",
         "3.6-prime": "d93843c198d728740f0981cf5060b5e9423781b3",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
