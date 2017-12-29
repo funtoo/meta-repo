@@ -37,19 +37,22 @@
             "default": "1.0-prime",
             "stability": {
                 "1.0-prime": "prime",
-                "1.1-prime": "dev"
+                "1.1-prime": "deprecated",
+                "1.2-prime": "dev"
             }
         },
         "desktop-kit": {
             "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime"
+                "1.1-prime": "prime",
+                "1.2-prime": "dev"
             }
         },
         "dev-kit": {
             "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime"
+                "1.1-prime": "prime",
+                "1.2-prime": "dev"
             }
         },
         "editors-kit": {
@@ -68,19 +71,21 @@
             "default": "3.20-prime",
             "stability": {
                 "3.20-prime": "prime",
-                "3.26-prime": "prime"
+                "3.26-prime": "dev"
             }
         },
         "haskell-kit": {
             "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime"
+                "1.1-prime": "prime",
+                "1.2-prime": "dev"
             }
         },
         "java-kit": {
             "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime"
+                "1.1-prime": "prime",
+                "1.2-prime": "dev"
             }
         },
         "kde-kit": {
@@ -92,26 +97,30 @@
         "lang-kit": {
             "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime"
+                "1.1-prime": "prime",
+                "1.2-prime": "dev"
             }
         },
         "lisp-scheme-kit": {
             "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime"
+                "1.1-prime": "prime",
+                "1.2-prime": "dev"
             }
         },
         "media-kit": {
             "default": "1.1-prime",
             "stability": {
-                "1.0-prime": "prime",
-                "1.1-prime": "prime"
+                "1.0-prime": "deprecated",
+                "1.1-prime": "prime",
+                "1.2-prime": "dev"
             }
         },
         "ml-lang-kit": {
             "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime"
+                "1.1-prime": "prime",
+                "1.2-prime": "dev"
             }
         },
         "net-kit": {
@@ -130,7 +139,7 @@
             "default": "5.24-prime",
             "stability": {
                 "5.24-prime": "prime",
-                "5.26-prime": "prime"
+                "5.26-prime": "dev"
             }
         },
         "php-kit": {
@@ -144,13 +153,14 @@
             "stability": {
                 "3.4-prime": "prime",
                 "3.6-prime": "prime",
-                "3.6.3-prime": "prime"
+                "3.6.3-prime": "deprecated"
             }
         },
         "ruby-kit": {
             "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime"
+                "1.1-prime": "prime",
+                "1.2-prime": "dev"
             }
         },
         "science-kit": {
@@ -163,7 +173,8 @@
             "default": "1.0-prime",
             "stability": {
                 "1.0-prime": "prime",
-                "1.1-prime": "dev"
+                "1.1-prime": "deprecated",
+                "1.2-prime": "dev"
             }
         },
         "text-kit": {
