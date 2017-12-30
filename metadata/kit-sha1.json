@@ -3,27 +3,27 @@
         "master": "8ac1fdca892c64aac9d35e8c4114239506af3f1c"
     },
     "core-kit": {
-        "1.0-prime": "45a56b11570d7b7c609069e815403fd100142756",
+        "1.0-prime": "ecbd346e7787b2d9c163a0a61f3e1c1c7f2f7b44",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "25bbf6836e4993541655545322b61242c576b55e"
+        "1.2-prime": "39ee6d34d7c622b933cb8a1659de97f8748b6a90"
     },
     "desktop-kit": {
         "1.1-prime": "0cc575b01767ce4723519c8860ca48aa777b2ab5",
-        "1.2-prime": "b68965f4e36d61a31b09ed7ba37040714831c690"
+        "1.2-prime": "7d943d6a682ad056d982ff8e2db666d527b37aba"
     },
     "dev-kit": {
         "1.1-prime": "136e0200ea5dd2205258ff1b134061ed1f9081cf",
-        "1.2-prime": "10243b46f1ba2672d17ac8558466ea7a0a0637f5"
+        "1.2-prime": "f50c33ad8f8230f5e9e60c4cb04dc97bf5c33c48"
     },
     "editors-kit": {
-        "master": "cc79b067ba302d1bae6ee25887a33d5ff2ea3380"
+        "master": "f085be85a120e670187586720544c101a910e3b5"
     },
     "games-kit": {
-        "master": "df873e0e34b6ba1e59ea3cb964a3dde12b840b1f"
+        "master": "390b9e8773c605f760a814cfb291aa03de1cf24a"
     },
     "gnome-kit": {
         "3.20-prime": "cc136dbd2dcc0975cad5a37f31ef5bdcb3c6199e",
-        "3.26-prime": "110e5fb98435f1d26d875249f61e10f15bbf40a8"
+        "3.26-prime": "9cb9f9520acc09d1aa8b1baf2746c96bf492e4f9"
     },
     "haskell-kit": {
         "1.1-prime": "d3779e8ea30e43abfddf8937c7b34a2c560870dd",
@@ -31,33 +31,33 @@
     },
     "java-kit": {
         "1.1-prime": "7d445ae68ef69290a527cb29d7fc3e1989cd4bbb",
-        "1.2-prime": "d74488a597ec8f3ec31b303d8917a82ef5109ab4"
+        "1.2-prime": "66d36fae899de2b7a3041c393bc586b7466733aa"
     },
     "kde-kit": {
-        "5.10-prime": "704556c433124140be09cbda663d35da8c9c54a9"
+        "5.10-prime": "9097858caca888a82032bbef42a43b0b1389a65f"
     },
     "lang-kit": {
         "1.1-prime": "e92cdecbd2181987305e9e6e0f1f65f3903fde87",
-        "1.2-prime": "055446e56c1300a1da9a1b01bb23e16849fdb5b1"
+        "1.2-prime": "2e45fbe7e8faf04b235949a99a3ad47ae0b5bf67"
     },
     "lisp-scheme-kit": {
         "1.1-prime": "d045c168267645e5bed2f8b0dd885ecc4a46f52f",
-        "1.2-prime": "862739508c421af1f6cb3b61211b0d180d311518"
+        "1.2-prime": "4c31f750016fe3d365c1421cfe03d529ac26304b"
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
         "1.1-prime": "c3830133ae386749b753d3d3571063c29987b5b3",
-        "1.2-prime": "96ef2b4fb22d7bf25ab1972bb75fa085ddb346a8"
+        "1.2-prime": "52868c76cc5793914abbdff9d7f106f8cbb2990f"
     },
     "ml-lang-kit": {
         "1.1-prime": "09e9391bd4050c846885f98d6f2ddc3f27a04dbc",
         "1.2-prime": "20c4a93d003d53eb99ce1affe73076634d83952f"
     },
     "net-kit": {
-        "master": "edfe130358ceaf14316f9328e5af48274143e1b2"
+        "master": "397c546fb1cebfa8f884f033b2f7f42f0a8a84f3"
     },
     "nokit": {
-        "master": "ddfc3f4c0c1fa92e36294be727f3870855aa42bf"
+        "master": "6d241fbe4c3c153c0d9794df8069bd0b96033b9f"
     },
     "perl-kit": {
         "5.24-prime": "36e549afc3c866f83d3f79023ee9e697aa74d276",
@@ -73,10 +73,10 @@
     },
     "ruby-kit": {
         "1.1-prime": "aca0d49211a4894d3a30d130307a5417606fdbe5",
-        "1.2-prime": "4197a7f96c44df2b6db805bfdaf40b17ba4139a4"
+        "1.2-prime": "2202a7b6122793d0a878aad3de4b6ce67e1f3d82"
     },
     "science-kit": {
-        "master": "0c148aec34ae8ed3a6b24b6230da718a2f8c85b9"
+        "master": "94ffed4acb944e8ab286f3d15b9c43ccf6e271f2"
     },
     "security-kit": {
         "1.0-prime": "e67c8bcda9486194ae8a699d702f77603a31a122",
@@ -84,7 +84,7 @@
         "1.2-prime": "ee632b5d88bf4e784fc42272f407cb49da36eea8"
     },
     "text-kit": {
-        "master": "e065f4036c0b397e882354053ddee2ad65044551"
+        "master": "06bfa7a32dc02f2b25ce0c59d1238b0b055f5007"
     },
     "xfce-kit": {
         "4.12-prime": "7e49b765dcf39659389bb275b91d91f40c1261d1"
