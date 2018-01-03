@@ -3,12 +3,12 @@
         "master": "55cbf6509ed5108975b68032d08f6dd475b455d0"
     },
     "core-kit": {
-        "1.0-prime": "02d9922ceabde83f656a8a1beb046a12f91c39c2",
+        "1.0-prime": "af63d52d87f71c861ec84178a5c86494f9bc9af7",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "521d4259905d1bc4d07159dd1eead368af83999b"
+        "1.2-prime": "bc1d63ec1f32eeef79137d3e4467b8fa1961c3e6"
     },
     "desktop-kit": {
-        "1.1-prime": "15495d5fafa63bb598326d89731ecf78f80cdaed",
+        "1.1-prime": "b633ddaafe6085b7534d4f84517e9a457556075e",
         "1.2-prime": "ef54b973c112620b600988e4373f302392df45a8"
     },
     "dev-kit": {
@@ -30,7 +30,7 @@
         "1.2-prime": "9ce93ab7f3fc6e839af4faa21b0911df79894b3a"
     },
     "java-kit": {
-        "1.1-prime": "916962dcad6a39872ee18364788fbbd4599f8270",
+        "1.1-prime": "6cdbc1a165e741319f048564e86b8a89dab8cae8",
         "1.2-prime": "27ff96629174e9860fd5175e8183676a924308f1"
     },
     "kde-kit": {
@@ -54,13 +54,13 @@
         "1.2-prime": "189aa9bfe8b7d3893c1332354380aa8199fd5ef3"
     },
     "net-kit": {
-        "master": "825641865e6b6ff220e81302b03843f12b00ced4"
+        "master": "8bc42d0c91bcafa85dfe57707caafaec0b978698"
     },
     "nokit": {
         "master": "53d02b650a2bdead01b297e13e2a6b1e638e82ea"
     },
     "perl-kit": {
-        "5.24-prime": "18843718c9b9432e9c49adc122182d5fa9601679",
+        "5.24-prime": "aa8deb5c7e18e9dc236e1403764a819f0720e7d2",
         "5.26-prime": "b34f03b3fe030558cd73d3ac6fa343676e3b0cbe"
     },
     "php-kit": {
@@ -76,7 +76,7 @@
         "1.2-prime": "1cd1eee8f0063712d723e12a3a81f98e437bdc29"
     },
     "science-kit": {
-        "master": "5dd58e0306a83b042e0c37bdd45dfa2cb6e3360d"
+        "master": "bf312a0e7651ceb25100d7201b9477548b061b36"
     },
     "security-kit": {
         "1.0-prime": "e67c8bcda9486194ae8a699d702f77603a31a122",
@@ -87,7 +87,7 @@
         "master": "55d6ab84a1dbe5ff52ccc4f48992f3bcf389b171"
     },
     "xfce-kit": {
-        "4.12-prime": "7e49b765dcf39659389bb275b91d91f40c1261d1"
+        "4.12-prime": "301748e76bab863eabb393af0559127b263f7ed6"
     },
     "xorg-kit": {
         "1.17-prime": "b5152891d9253b8e912f9c5af61ddc41980dfbbf",
