@@ -3,7 +3,7 @@
         "master": "55cbf6509ed5108975b68032d08f6dd475b455d0"
     },
     "core-kit": {
-        "1.0-prime": "3d36526a2a3f62c6dfd01c0d57975a80ce27c68d",
+        "1.0-prime": "02d9922ceabde83f656a8a1beb046a12f91c39c2",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
         "1.2-prime": "4ebd2703c87c5c6c65939885c8d9b589ac9e2590"
     },
@@ -16,7 +16,7 @@
         "1.2-prime": "fa7cca6c0485c4e195588aaf0766e1f5cbf5a4a2"
     },
     "editors-kit": {
-        "master": "fd067d601d2e8f77478fde4598deeccf0078d01e"
+        "master": "0d9260eedf142700317eb27916f25be861366d74"
     },
     "games-kit": {
         "master": "38651eef84882dd0580f16ebda520e71bd12fbd0"
@@ -91,6 +91,6 @@
     },
     "xorg-kit": {
         "1.17-prime": "b5152891d9253b8e912f9c5af61ddc41980dfbbf",
-        "1.19-prime": "ce881a1ffe79799bac35737393ac7b8a343e05d2"
+        "1.19-prime": "5a425063221f69514ed3d6d2b03e4bff2e27b9d7"
     }
 }
