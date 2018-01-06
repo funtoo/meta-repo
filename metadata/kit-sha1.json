@@ -3,23 +3,23 @@
         "master": "15a41ea3ac253242b80ff9dbcf07d65554d5633f"
     },
     "core-kit": {
-        "1.0-prime": "83bfb6f99045743649facd09007917324ee5a739",
+        "1.0-prime": "1d8f70dc622dcf8bd11ca5410697d01d9b07de83",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "e2e0f1407dbe932fc5ca46796cd97c68f3c21a36"
+        "1.2-prime": "9e4904874b2ba699855b694c3bd5fab5d342644d"
     },
     "desktop-kit": {
         "1.1-prime": "b032e2cf7e82b21ba5cf48de65313c810d0a7d67",
-        "1.2-prime": "39598ffd4cf5b6e9447e285d3d9b9d12c9e98bc6"
+        "1.2-prime": "7da15a59cf4a270d465fe6833ceb9b063e592f3e"
     },
     "dev-kit": {
-        "1.1-prime": "5b023fe563deb0076f3c941b618c00c05b2e3aef",
-        "1.2-prime": "c8d88104b11c392a344b918849d13428c53944b3"
+        "1.1-prime": "322848be965bbe30767d66cbf99b18ddce2ecc45",
+        "1.2-prime": "9cfbc769767f5f506101e6dad2b8186abc0cf2a4"
     },
     "editors-kit": {
-        "master": "35c2d9caf08a28a64c6e779772229823a707cf94"
+        "master": "736572b900ef7f5cbd9b4d5a73c2353e2257117a"
     },
     "games-kit": {
-        "master": "30cda17c88a6dd6e7820d4eccd96bbe1a2aebbc7"
+        "master": "e923ca70c753d13aea4108a7dac09c5401a7603f"
     },
     "gnome-kit": {
         "3.20-prime": "06f68f17332055511fd478b11734383ced75d8fe",
@@ -31,14 +31,14 @@
     },
     "java-kit": {
         "1.1-prime": "6cdbc1a165e741319f048564e86b8a89dab8cae8",
-        "1.2-prime": "fd55df668c398f5256597a043963529b31cc5ea1"
+        "1.2-prime": "28037e1532974f8687c761684d04ba1e3e6ec31c"
     },
     "kde-kit": {
         "5.10-prime": "9336350715b711cbcaeb0cad45b4e2c5fc8e4423"
     },
     "lang-kit": {
         "1.1-prime": "a66a889d6ee31b5fce44b8cabfc2c9378016d695",
-        "1.2-prime": "f9e4ea9a8c58afed547f40ae019afd804cb1a799"
+        "1.2-prime": "786f0fd4f31b84c991fc5e162811cea8305a1777"
     },
     "lisp-scheme-kit": {
         "1.1-prime": "ab1de160772a1618afcb9ef825741b94c9a9e77f",
@@ -47,17 +47,17 @@
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
         "1.1-prime": "8f607755ae68529723bcee6e353e66ede0e7c5f4",
-        "1.2-prime": "aaa86e0cde5b54e6e96bd5e5aeb78d04f9468abe"
+        "1.2-prime": "84a30751c562bd76442c84336bc57d751cd6a1dc"
     },
     "ml-lang-kit": {
         "1.1-prime": "035b5dc90b178991d1eb2d115b9fe01dbaf3aacb",
         "1.2-prime": "0d39dcb655457f3d992291a067b602ac4aea3f47"
     },
     "net-kit": {
-        "master": "c4c33cb0334746ac5ce9e1938bebd1d737db8e17"
+        "master": "ef6bfc52960a05cfbb1e44d9b803f94218882912"
     },
     "nokit": {
-        "master": "e9baaff0490e17721b0a3dac5939fcd317447647"
+        "master": "cb5cfb2d0fbb250bb0d4ac241ad8d8aa43b99016"
     },
     "perl-kit": {
         "5.24-prime": "aa8deb5c7e18e9dc236e1403764a819f0720e7d2",
@@ -67,16 +67,16 @@
         "master": "3850cfda003bdc4e65810823ad0d750d6f3e9aa4"
     },
     "python-kit": {
-        "3.4-prime": "aacb2e8190127cf8f7f375c2d37bcab93a600949",
-        "3.6-prime": "f068157b73e824911867bcf35eab4a06ec6a0c56",
+        "3.4-prime": "e93ffec6445bdd511b304f1891656c939fd2df6a",
+        "3.6-prime": "20f8a807bf373cdc445ab9ffb2978deaf2cd9d1e",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
         "1.1-prime": "4851713ef72a94ca57c78e6293ef97de95df46cc",
-        "1.2-prime": "e554be8b07f2f6d7128d2429775ba2215293fc7e"
+        "1.2-prime": "fdb57796cd0e846b5deb26713eee40653abc0315"
     },
     "science-kit": {
-        "master": "abb227b98af69336d4358bbfc47d3b80191ce0f0"
+        "master": "f3b39e0def35343845462dc5a6eda77803c90224"
     },
     "security-kit": {
         "1.0-prime": "e67c8bcda9486194ae8a699d702f77603a31a122",
@@ -84,7 +84,7 @@
         "1.2-prime": "4beb3f2499f0237e93b2d2578e2dae3ef13c8198"
     },
     "text-kit": {
-        "master": "bfe57257aae5616f2a6c9217601fb301fca9d33c"
+        "master": "2dcf3b0fb3c7d7c3257a71996bbf5bef2fb12d8a"
     },
     "xfce-kit": {
         "4.12-prime": "301748e76bab863eabb393af0559127b263f7ed6"
