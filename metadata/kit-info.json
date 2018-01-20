@@ -38,21 +38,21 @@
             "stability": {
                 "1.0-prime": "prime",
                 "1.1-prime": "deprecated",
-                "1.2-prime": "alpha"
+                "1.2-prime": "beta"
             }
         },
         "desktop-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "dev"
+                "1.2-prime": "beta"
             }
         },
         "dev-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "dev"
+                "1.2-prime": "beta"
             }
         },
         "editors-kit": {
@@ -78,14 +78,14 @@
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "dev"
+                "1.2-prime": "beta"
             }
         },
         "java-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "dev"
+                "1.2-prime": "beta"
             }
         },
         "kde-kit": {
@@ -98,14 +98,14 @@
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "dev"
+                "1.2-prime": "beta"
             }
         },
         "lisp-scheme-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "dev"
+                "1.2-prime": "beta"
             }
         },
         "media-kit": {
@@ -113,14 +113,14 @@
             "stability": {
                 "1.0-prime": "deprecated",
                 "1.1-prime": "prime",
-                "1.2-prime": "dev"
+                "1.2-prime": "beta"
             }
         },
         "ml-lang-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "dev"
+                "1.2-prime": "beta"
             }
         },
         "net-kit": {
@@ -160,7 +160,7 @@
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "dev"
+                "1.2-prime": "beta"
             }
         },
         "science-kit": {
@@ -174,7 +174,7 @@
             "stability": {
                 "1.0-prime": "prime",
                 "1.1-prime": "deprecated",
-                "1.2-prime": "alpha"
+                "1.2-prime": "beta"
             }
         },
         "text-kit": {

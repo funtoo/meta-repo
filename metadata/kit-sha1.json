@@ -12,8 +12,8 @@
         "1.2-prime": "92746a88a89b35e91be33ffca080b9d4611c1503"
     },
     "dev-kit": {
-        "1.1-prime": "93e5ddb0c8968c36c4c051272c957362e020ae2b",
-        "1.2-prime": "86c69c782603503b26435c9f0018158eca94eb15"
+        "1.1-prime": "1cd1b17f8e9c97029621781c38d8e34bbc29bd3d",
+        "1.2-prime": "493b3502c25de24d0fd56932d4c3099571a48cf6"
     },
     "editors-kit": {
         "master": "3c8cc28dd4f5c35edefeb46bd1d6902f8c9d8497"
@@ -34,7 +34,7 @@
         "1.2-prime": "212aeda235c9f86861c45d00e8c103f5ca485ebc"
     },
     "kde-kit": {
-        "5.10-prime": "5d4cb3af5a15acc16af56a5164a7c83ca87fc419"
+        "5.10-prime": "f0dff43b118ee317b6b994699838216a3302c142"
     },
     "lang-kit": {
         "1.1-prime": "6e9a8ab17ac72fc8812994711c1d586adb3b558b",
@@ -54,10 +54,10 @@
         "1.2-prime": "4edef10fcdb06b1ea7d85f3a20988ff75b64f77c"
     },
     "net-kit": {
-        "master": "e48bdfd287d70b8935dc445be2b1e6d109fc14ac"
+        "master": "379d8317292e7633d2e7f90871f249d824eb9578"
     },
     "nokit": {
-        "master": "111489a9f4c20f70090ff2d440262437b9024970"
+        "master": "b4a90fbcd1cc60804b285ac79816ea2e5b79fab1"
     },
     "perl-kit": {
         "5.24-prime": "aa8deb5c7e18e9dc236e1403764a819f0720e7d2",
@@ -67,8 +67,8 @@
         "master": "cd783d1bd22435c2a6dbfa8c10b5d664a8f1926c"
     },
     "python-kit": {
-        "3.4-prime": "ee427bac0fca764a1a8a2a95fef1bf2aec287d19",
-        "3.6-prime": "b11d9575a74df94a6946a8c459d7d29304317a1b",
+        "3.4-prime": "8aadb0b3747f9e84252b490b68466d4a90d98b96",
+        "3.6-prime": "3fe6c467f3a85ad6f702095e886e859d2cda1c30",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
@@ -76,7 +76,7 @@
         "1.2-prime": "6ef4a54689a700439cd8f772de8475329add9892"
     },
     "science-kit": {
-        "master": "db018c8e755b2f8d2bf1b44785c74ab5ba35df2e"
+        "master": "b50615208e7d2e373bb91866c796c6e7c10d8dae"
     },
     "security-kit": {
         "1.0-prime": "e67c8bcda9486194ae8a699d702f77603a31a122",
