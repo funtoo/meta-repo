@@ -3,7 +3,7 @@
         "master": "bf36e5b5b2e04406b16df80a05f2083831796764"
     },
     "core-kit": {
-        "1.0-prime": "f4674429d022aa046b875d050fcad7680c807930",
+        "1.0-prime": "6b0ba5a30731d00ab3a45e344adf3eaf68f922dc",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
         "1.2-prime": "13a2cd1bc4e0cba5e7dc6541f991c7126d7c9648"
     },
@@ -38,7 +38,7 @@
     },
     "lang-kit": {
         "1.1-prime": "8fb9b8cee64b90d3e64dbc8dafc52cf2125eaf41",
-        "1.2-prime": "cc85fa66e01e0e5f0f5eea615f278087ab116df2"
+        "1.2-prime": "815cc9393f08b8e9a59cfec44d6252d042661c83"
     },
     "lisp-scheme-kit": {
         "1.1-prime": "ae0237214066fa80a71cab6ec7e9ec9cc8524cfd",
@@ -46,7 +46,7 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "f2ed443338559e7ba8fd55d375298f428fe65fe8",
+        "1.1-prime": "12dc96110ad213e191750820055376792ec2a51e",
         "1.2-prime": "d486cee939eedd521fe44469084288b8938f541c"
     },
     "ml-lang-kit": {
@@ -54,10 +54,10 @@
         "1.2-prime": "c21b387d902651bc10bc5143e411b7e5ca97aa5c"
     },
     "net-kit": {
-        "master": "5ed1bc1f3e26ac2cd73d8460d98c309dd92de60a"
+        "master": "6b05a9d1f309b4601ca329d3c184475c3a383678"
     },
     "nokit": {
-        "master": "13ac7cf6a22f34c3317acec22d9253b66cf4df5f"
+        "master": "e98dadfc0fe1ee650b4427379343672466958ee0"
     },
     "perl-kit": {
         "5.24-prime": "8881340d67cee90de98923b36229bd756aa57ab8",
@@ -76,7 +76,7 @@
         "1.2-prime": "6ef4a54689a700439cd8f772de8475329add9892"
     },
     "science-kit": {
-        "master": "3179a32daccce80a1bea635196703bb10682fe2a"
+        "master": "61b3472244a80502e1bb4c9754d276048ce19aed"
     },
     "security-kit": {
         "1.0-prime": "e67c8bcda9486194ae8a699d702f77603a31a122",
