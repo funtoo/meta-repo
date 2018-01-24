@@ -3,9 +3,9 @@
         "master": "bf36e5b5b2e04406b16df80a05f2083831796764"
     },
     "core-kit": {
-        "1.0-prime": "6b0ba5a30731d00ab3a45e344adf3eaf68f922dc",
+        "1.0-prime": "140e81010d66f1a3cbaf92830a7550bb1edb2138",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "13a2cd1bc4e0cba5e7dc6541f991c7126d7c9648"
+        "1.2-prime": "8935cd1fb5a5f4bab9648ab88a9dc952925af09f"
     },
     "desktop-kit": {
         "1.1-prime": "3bbf86f11d511927572a3835402eef678bb8f280",
@@ -22,8 +22,8 @@
         "master": "efeaf67f7853fdf457e76e997f5d4b867e0bbcbc"
     },
     "gnome-kit": {
-        "3.20-prime": "851bf271267be0c0414d52f5bb0e1483ab756354",
-        "3.26-prime": "c2f9e5b4cc96ded2753132f5edbe64be999911b2"
+        "3.20-prime": "a001c04eddff7a2b2bb7991f7396123e821b9cbc",
+        "3.26-prime": "1c551bc6f8767b955c2b576ea85676fec686d896"
     },
     "haskell-kit": {
         "1.1-prime": "1fec064659836deae56e93e89e9039813c46b9d3",
@@ -67,8 +67,8 @@
         "master": "d7dc86cb0221b631fa2184cfbc3e1deb5cf474f0"
     },
     "python-kit": {
-        "3.4-prime": "ddd2d7ab05dc554eaada8bce3d67fe2b56b71cc5",
-        "3.6-prime": "734fb36abb6d68e51c238cb96ddf2ca444c12f6e",
+        "3.4-prime": "32df2823017d9a6d82f00729864c72e2bc6b71e6",
+        "3.6-prime": "44f54a629abcafade9d0ac0d57398240aeea00e6",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
