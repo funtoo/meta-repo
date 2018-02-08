@@ -118,10 +118,10 @@
             }
         },
         "ml-lang-kit": {
-            "default": "1.1-prime",
+            "default": "1.2-prime",
             "stability": {
-                "1.1-prime": "prime",
-                "1.2-prime": "beta"
+                "1.1-prime": "deprecated",
+                "1.2-prime": "prime"
             }
         },
         "net-kit": {

@@ -85,7 +85,7 @@
 [submodule "kits/ml-lang-kit"]
 	path = kits/ml-lang-kit
 	url = https://github.com/funtoo/ml-lang-kit.git
-	branch = 1.1-prime
+	branch = 1.2-prime
 [submodule "kits/lisp-scheme-kit"]
 	path = kits/lisp-scheme-kit
 	url = https://github.com/funtoo/lisp-scheme-kit.git
