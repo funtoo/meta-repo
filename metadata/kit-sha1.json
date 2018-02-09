@@ -16,7 +16,7 @@
         "1.2-prime": "36e4c5fc007d6b4f49ed20159474e13f35984691"
     },
     "editors-kit": {
-        "master": "ad0d8ce932c5f47aceb15184c9418febfec9cddf"
+        "master": "7c1ab7e4f2da4a4b31432dd7d025800fde2a6310"
     },
     "games-kit": {
         "master": "c7afc53febfb69f112491cb22234d948096102df"
@@ -47,18 +47,18 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "fec03e55b3445855654a12394156ab2c4b0c9d1f",
-        "1.2-prime": "95a2f6a53be148906358342abb9d8d47887767ec"
+        "1.1-prime": "01d0326481ff3b7ccc6e05d8aa8e5444e84388cd",
+        "1.2-prime": "e8c1367d49cd6e7d32043eb3fdd4354d1fcb1434"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
         "1.2-prime": "c21b387d902651bc10bc5143e411b7e5ca97aa5c"
     },
     "net-kit": {
-        "master": "f60e387d6a51a145ea16b6b30714809a4e6dc4fb"
+        "master": "059507e11f89d169916718b3295a879e2cade608"
     },
     "nokit": {
-        "master": "997352fde5ef907d0eeb979e14ef43c73fc4795c"
+        "master": "249aa0f2d75542710c4dd856b217949f9859f6e4"
     },
     "perl-kit": {
         "5.24-prime": "8881340d67cee90de98923b36229bd756aa57ab8",
@@ -80,12 +80,12 @@
         "master": "0858a3a9a2bad5b4317871c04c80057d10f0687b"
     },
     "security-kit": {
-        "1.0-prime": "e67c8bcda9486194ae8a699d702f77603a31a122",
+        "1.0-prime": "5fcb2cadb641dbc060a1d079030020df328f325a",
         "1.1-prime": "0bd2f303c4d1d4719bb7134f0e53b4ccd50b020d",
         "1.2-prime": "675b04cf2da8978fb3158fc5157dff308bd4b453"
     },
     "text-kit": {
-        "master": "a224b068f5321f551b050ce4a442dce262d6a042"
+        "master": "a45f52bc7543a1c768bf72b6bfc91dc741af84c7"
     },
     "xfce-kit": {
         "4.12-prime": "301748e76bab863eabb393af0559127b263f7ed6"
