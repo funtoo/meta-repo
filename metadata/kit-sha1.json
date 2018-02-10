@@ -1,11 +1,11 @@
 {
     "core-hw-kit": {
-        "master": "e87f83425867f819b3c81737105864eb51c8fc28"
+        "master": "911547b03687d2298fd5790f3ba53cf2d6c88d96"
     },
     "core-kit": {
-        "1.0-prime": "f92f23313eeb97c05118d2c459ab790a8aae712c",
+        "1.0-prime": "819f5a088cc7e92890fd1c110e32ef88fd1e81cd",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "ff66b27f871bf493b8d47ead7ebbaa22a86b99a7"
+        "1.2-prime": "73910c3ca6782edfd955da117580542d8d4b8b16"
     },
     "desktop-kit": {
         "1.1-prime": "28ba02ed537d0ce4348ffb869fbecf31551e2174",
@@ -58,7 +58,7 @@
         "master": "b279c6eb34ff55f0ac016989b2c8cfd24f4493b1"
     },
     "nokit": {
-        "master": "9644ad3b596062991ef9737f2f277bfdfd1b7023"
+        "master": "473d555f014801313967c072b8363b0493aabe8c"
     },
     "perl-kit": {
         "5.24-prime": "8881340d67cee90de98923b36229bd756aa57ab8",
