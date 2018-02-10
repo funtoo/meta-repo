@@ -16,7 +16,7 @@
         "1.2-prime": "36e4c5fc007d6b4f49ed20159474e13f35984691"
     },
     "editors-kit": {
-        "master": "87125bed8dce5ce3682c54e8c1b127ee8933f200"
+        "master": "63769cbf059be5b13825876e3324dc110a588e28"
     },
     "games-kit": {
         "master": "c7afc53febfb69f112491cb22234d948096102df"
@@ -47,18 +47,18 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "01d0326481ff3b7ccc6e05d8aa8e5444e84388cd",
-        "1.2-prime": "e8c1367d49cd6e7d32043eb3fdd4354d1fcb1434"
+        "1.1-prime": "7a97adbc6ec05180d6fde695b2c16df0fc2e035d",
+        "1.2-prime": "18ee4e5cc3e506744cea46fb6e452da98fe7d9ba"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
         "1.2-prime": "c21b387d902651bc10bc5143e411b7e5ca97aa5c"
     },
     "net-kit": {
-        "master": "059507e11f89d169916718b3295a879e2cade608"
+        "master": "bd3b71e6ea9f93d8e80ecf57c8d3b749a8c89c56"
     },
     "nokit": {
-        "master": "249aa0f2d75542710c4dd856b217949f9859f6e4"
+        "master": "ec178d9cf9901704d8712c74afced1dd883f99d2"
     },
     "perl-kit": {
         "5.24-prime": "8881340d67cee90de98923b36229bd756aa57ab8",
@@ -68,8 +68,8 @@
         "master": "f7fe3af890bbc0807a62878adc05db0454ceb744"
     },
     "python-kit": {
-        "3.4-prime": "cd1e5a0a92d74dd98f6cdd6082799a7fd9e6e9e7",
-        "3.6-prime": "4dce1b5189e67867583e73f4e8a38ded4ba3d00f",
+        "3.4-prime": "7d4e6869059b441c8e665dc33b05ede4c442a1a9",
+        "3.6-prime": "60ab3289230e80dcce537a1a032bce39e5b07b8f",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
@@ -85,7 +85,7 @@
         "1.2-prime": "675b04cf2da8978fb3158fc5157dff308bd4b453"
     },
     "text-kit": {
-        "master": "a45f52bc7543a1c768bf72b6bfc91dc741af84c7"
+        "master": "c1c355c9ecae31d1b12219dca5f44e7e9eb670a0"
     },
     "xfce-kit": {
         "4.12-prime": "301748e76bab863eabb393af0559127b263f7ed6"
