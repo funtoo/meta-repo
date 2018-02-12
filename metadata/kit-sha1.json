@@ -1,6 +1,6 @@
 {
     "core-hw-kit": {
-        "master": "e1204bb3cf7b30ebae376b64774182f0a3272027"
+        "master": "12706bc54bbea1e3b45ee6f7add45bac2e11c93c"
     },
     "core-kit": {
         "1.0-prime": "efa051df0e59d6ecb3fa3249a252f8ae2cdf3a47",
@@ -55,10 +55,10 @@
         "1.2-prime": "c21b387d902651bc10bc5143e411b7e5ca97aa5c"
     },
     "net-kit": {
-        "master": "6da48bc5e95cd735996e455235688b430833a973"
+        "master": "a822ae8ef5c1bfc4db1777a4014212e7c833d9a3"
     },
     "nokit": {
-        "master": "a7be44575403b93ecaaaec01544a78958c960477"
+        "master": "3b78ad10665599ffa3412517cdb342818a9edd4e"
     },
     "perl-kit": {
         "5.24-prime": "8881340d67cee90de98923b36229bd756aa57ab8",
