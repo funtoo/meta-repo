@@ -98,7 +98,7 @@ that is currently documented:
 `perl-kit`_
   Similar to ``python-kit``, perl-kit contains all ebuilds related to perl.
 
-`php-kit`
+`php-kit`_
   Similar to ``python-kit``, php-kit contains ebuilds that provide core PHP
   support.
 
@@ -119,40 +119,40 @@ that is currently documented:
   Xorg-kit contains all ebuilds that provide core graphics functionality,
   including xorg-server, OpenGL/Mesa, Vulkan, etc.
 
-`desktop-kit`
+`desktop-kit`_
   Desktop-kit includes all non-GNOME, KDE or GNUSTEP desktop environments and
   applications. This includes all window managers, leechcraft, office suites,
   lxde, lxqt, MATE, XFCE and general X applications, terms and themes.
 
-`gnome-kit`
+`gnome-kit`_
   Gnome-kit includes all ebuilds related to setting up a GNOME environment.
 
-`kde-kit`
+`kde-kit`_
   Kde-kit includes all ebuilds that compose a KDE environment, and associated
   KDE/QT applications.
 
-`media-kit`
+`media-kit`_
   Media-kit contains all media and graphics-related applications and tools.
 
-`net-kit`
+`net-kit`_
   Net-kit contains all network applications, including Web and other application
   servers, as well as Web browsers.
 
-`science-kit`
+`science-kit`_
   Science-kit contains all ebuilds related to scientific research.
 
-`text-kit`
+`text-kit`_
   Text-kit contains text-related tools and libraries, TeX, texlive, dictionaries
   and documentation.
 
-`java-kit`
+`java-kit`_
   Java-kit contains all Java-related ebuilds -- JDKs, JREs, java libraries, etc.
 
-`dev-kit`
+`dev-kit`_
   Dev-kit contains all development tools, libraries and utilities, except for
   core dev tools and libraries, perl, python, PHP and Java.
 
-`games-kit`
+`games-kit`_
   Games-kit contains all games, except for certain games included by default
   with desktop environments (which will be bundled in gnome-kit, for exmaple.)
 
@@ -205,6 +205,16 @@ bug tracker at https://bugs.funtoo.org. Thank you! :)
 
 .. _core-kit: https://github.com/funtoo/core-kit
 .. _python-kit: https://github.com/funtoo/python-kit
+.. _php-kit: https://github.com/funtoo/php-kit
+.. _desktop-kit: https://github.com/funtoo/desktop-kit
+.. _gnome-kit: https://github.com/funtoo/gnome-kit
+.. _kde-kit: https://github.com/funtoo/kde-kit
+.. _net-kit: https://github.com/funtoo/net-kit
+.. _science-kit: https://github.com/funtoo/science-kit
+.. _text-kit: https://github.com/funtoo/text-kit
+.. _java-kit: https://github.com/funtoo/java-kit
+.. _dev-kit: https://github.com/funtoo/dev-kit
+.. _games-kit: https://github.com/funtoo/games-kit
 .. _perl-kit: https://github.com/funtoo/perl-kit
 .. _security-kit: http://github.com/funtoo/security-kit
 .. _editors-kit: http://github.com/funtoo/editors-kit
