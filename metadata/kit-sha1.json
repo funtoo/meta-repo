@@ -19,7 +19,7 @@
         "master": "00a41d4c8a8cf4c25369630fa142f9baa26c55a8"
     },
     "games-kit": {
-        "master": "c92c49fc15107d9a4a06004a13ee51d987bcc028"
+        "master": "4dc8cdf3484d5a0135b68eb7eaf168e275d05ca9"
     },
     "gnome-kit": {
         "3.20-prime": "5ca0e2d5a90c160c53f64a16d5222ab7802520eb",
@@ -55,20 +55,20 @@
         "1.2-prime": "c21b387d902651bc10bc5143e411b7e5ca97aa5c"
     },
     "net-kit": {
-        "master": "e49da45bb4702e3fc23d5cfaf248d773fe03d924"
+        "master": "72daa4f1d620f72e8e1e88773282bb4842b22f90"
     },
     "nokit": {
-        "master": "3a6a45af5ec08312901709403d4721c3f8a92be5"
+        "master": "49f9b7d007cd7576ae4985c9367b83344b5ca68b"
     },
     "perl-kit": {
-        "5.24-prime": "8881340d67cee90de98923b36229bd756aa57ab8",
-        "5.26-prime": "b34f03b3fe030558cd73d3ac6fa343676e3b0cbe"
+        "5.24-prime": "b523b02c0f57ba94373ee7f66fa437432f8c737a",
+        "5.26-prime": "f6e21d267a978537f74530d1a7273014820dc4e4"
     },
     "php-kit": {
         "master": "d9ddcebead99c7f88688392b17f7ece5391fabb4"
     },
     "python-kit": {
-        "3.4-prime": "33bc759a51e5736b57ff953badbd0fa51e522265",
+        "3.4-prime": "9fa896b046bf676f37c6a7ab11ed41329f0a2c60",
         "3.6-prime": "cc5c68235d6d190693c95556a16aab05274bbafb",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
@@ -77,7 +77,7 @@
         "1.2-prime": "dbd17afe855eb0682d54d9f164067fd21462c995"
     },
     "science-kit": {
-        "master": "7aea3b5c7a4b63142c961b548a7f1f0fb0ba19e5"
+        "master": "ba634548962cd6d9238b3b4dda7da6dba83bb9d0"
     },
     "security-kit": {
         "1.0-prime": "4deb0b7646474962357097665352bfd4cff34bf3",
@@ -85,7 +85,7 @@
         "1.2-prime": "4e6fe1d0790115a095cd073ae84e6f26fdad1f6a"
     },
     "text-kit": {
-        "master": "060aad56d61b83795866cfa5f6c0d0429e571a40"
+        "master": "c44cf8db8327ea032efc16e625c4830a968af225"
     },
     "xfce-kit": {
         "4.12-prime": "301748e76bab863eabb393af0559127b263f7ed6"
