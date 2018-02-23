@@ -3,9 +3,9 @@
         "master": "3b086bb531c229be4fa98fd1451c33a2e2c9bb8f"
     },
     "core-kit": {
-        "1.0-prime": "6bb37cf481ef961d12f7eb2b927b993c7191804c",
+        "1.0-prime": "5296330f634105f92a3252c9af50c8753c5dcd3c",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "c465fff0a1516d21201d11a50155b6cf2e0121de"
+        "1.2-prime": "ac1046c79e4b65c4cdb34545778a22a2d575fdb1"
     },
     "desktop-kit": {
         "1.1-prime": "caf6a3f67599e0f324f95c647898b2ed03af8293",
@@ -22,8 +22,8 @@
         "master": "bb04e86eda924f7776faf4fd4f97996199b7398a"
     },
     "gnome-kit": {
-        "3.20-prime": "02a182b46319e847d4244f2484b31e4142d1afbd",
-        "3.26-prime": "045e9604dcf992ec787a0fbdaaf93312afa21535"
+        "3.20-prime": "5b4cec940e77b0403323bbb719d84894892a6cdc",
+        "3.26-prime": "311b1e45c18a0e9ae111dca0a3256310bbb3e372"
     },
     "haskell-kit": {
         "1.1-prime": "01f4d241cab52efa3a30fe89f9f3baeaeb363487",
@@ -58,7 +58,7 @@
         "master": "b30508f103732c743b9d921fce4db8531da7002f"
     },
     "nokit": {
-        "master": "3e807d996ea03a82560b471adbf1f6d6525fb5dc"
+        "master": "e6e4d3242b2baab2a7b748b2bffff56f8018530b"
     },
     "perl-kit": {
         "5.24-prime": "81da3385974611d0403b997d851e1560325f9f74",
