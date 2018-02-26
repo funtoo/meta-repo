@@ -8,22 +8,22 @@
         "1.2-prime": "8be157f2d93943b250ca47a14d823bd2f05d3297"
     },
     "desktop-kit": {
-        "1.1-prime": "5bcc9f78990d1523fa8e58ccc6e104ffb7614c76",
-        "1.2-prime": "9dc5ac9bf5c21456578dc28ad0fda4359e7de7b7"
+        "1.1-prime": "fa2cbe5ee93fa7e092ab3ba19d36adbb511f16f5",
+        "1.2-prime": "4b2ef14b7541784f9f46885e0151166ea3505308"
     },
     "dev-kit": {
         "1.1-prime": "4ff6b769b0cb2a7fad69174c29d9d535f110e12c",
         "1.2-prime": "cebb665193bd4397f0fcadcdebf6fb7e82cc615e"
     },
     "editors-kit": {
-        "master": "3126b48c3305c5eb9a94e841edcec2f729f3cddf"
+        "master": "33fe9b520101775994e017f2cc6ad35259596704"
     },
     "games-kit": {
-        "master": "bb04e86eda924f7776faf4fd4f97996199b7398a"
+        "master": "9f786e28a0ecd69e490e364a4d7304bd4703317d"
     },
     "gnome-kit": {
-        "3.20-prime": "c60315955093e62128ae09748a33bbc796403b6c",
-        "3.26-prime": "c3d4f0990919b4d344c4d344af7ba9a146c2874d"
+        "3.20-prime": "812107716f7692543c0e36fab1778469db452729",
+        "3.26-prime": "19b2c1065fa1f757ed1c212587e09f8ae0f7999e"
     },
     "haskell-kit": {
         "1.1-prime": "01f4d241cab52efa3a30fe89f9f3baeaeb363487",
@@ -55,10 +55,10 @@
         "1.2-prime": "c21b387d902651bc10bc5143e411b7e5ca97aa5c"
     },
     "net-kit": {
-        "master": "84ad90d8013bea1b1a75e1856f7bedffb55a586c"
+        "master": "74157399860797abfb469e0a382eb16f5aea2031"
     },
     "nokit": {
-        "master": "8a5e733c6fc9001c0a1b010b9020b63c5261220c"
+        "master": "12f86a844b5ba8e9bc1d8b444845da6690776688"
     },
     "perl-kit": {
         "5.24-prime": "81da3385974611d0403b997d851e1560325f9f74",
@@ -91,7 +91,7 @@
         "4.12-prime": "301748e76bab863eabb393af0559127b263f7ed6"
     },
     "xorg-kit": {
-        "1.17-prime": "afc6f01d89c0d0aca7ec5f813c87e0114566557e",
-        "1.19-prime": "4d50f123a8c6b9b9cd55483aad75ab05fba81ea7"
+        "1.17-prime": "f205bf95506ed59dbb4d222304bd778bd2258842",
+        "1.19-prime": "a803a0785902c092068d5bb9433a85fd15173040"
     }
 }
