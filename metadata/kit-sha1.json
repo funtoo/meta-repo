@@ -8,8 +8,8 @@
         "1.2-prime": "5ca26088b779c4c0d139c186987db8f42fce2de1"
     },
     "desktop-kit": {
-        "1.1-prime": "134ec9d6a5aaa2ae5610218a98c28a9068cc8275",
-        "1.2-prime": "83f5de05babfe6e848e9f18e16ea68836b256344"
+        "1.1-prime": "c19ab00f74003dc35011ac49ea1d000df6059740",
+        "1.2-prime": "8217501b2a3455b182eb2bfdf719b161224adc64"
     },
     "dev-kit": {
         "1.1-prime": "6237fc236c34210799f1ead1f05d2eac6ab183ca",
@@ -34,7 +34,7 @@
         "1.2-prime": "73c825ab68af1890c9ece9bbf761dd9650b0c4f6"
     },
     "kde-kit": {
-        "5.10-prime": "4f314ab9b88c046c0d782f71f1ec6a99691ae626",
+        "5.10-prime": "08851bb58559bfdb255a5a87af45140ac33b19bb",
         "5.11-prime": "3070eb0de680c62446790ff6eb5f6c26247600ad"
     },
     "lang-kit": {
@@ -88,10 +88,10 @@
         "master": "9fda604533016e9b27231aa065487feab54e96f9"
     },
     "xfce-kit": {
-        "4.12-prime": "301748e76bab863eabb393af0559127b263f7ed6"
+        "4.12-prime": "e844e417902bb146b0ac85d389bb6776ded43d08"
     },
     "xorg-kit": {
         "1.17-prime": "0717404409afa7c12c93994166345810b6c6fe06",
-        "1.19-prime": "5a7856ef45937478b08e6d008fd9a62a4d1326a5"
+        "1.19-prime": "03dd57fcdab72400330a0a31b9f49fd427446254"
     }
 }
