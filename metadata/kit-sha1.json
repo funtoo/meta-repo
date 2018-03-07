@@ -1,6 +1,6 @@
 {
     "core-hw-kit": {
-        "master": "82f1d93cfdff856100d9ec2770357825778e7327"
+        "master": "75d31a5f0044874549b9c476afe4dfc2da10b8e6"
     },
     "core-kit": {
         "1.0-prime": "82351fc1e3f2d2e90eae3eb908a92d388214ee2c",
@@ -55,7 +55,7 @@
         "1.2-prime": "bc0b35f407aef230a53b25b75ca2b0c1465d9f9d"
     },
     "net-kit": {
-        "master": "45b1dfcc7596473f5b4aed5d8fd5840d861e507c"
+        "master": "ea38b5453a9d53905df94e3dec965e4a6ef3c4c0"
     },
     "nokit": {
         "master": "591374180ffe85b22f7d55e7ab77aedd7f71e146"
@@ -85,13 +85,13 @@
         "1.2-prime": "47edddde30ae65c7d2a3eabf0a8c8fe1aa2212a6"
     },
     "text-kit": {
-        "master": "347cb796571952bff1d81fd965db55940a434dc3"
+        "master": "d4ee0f8c8752e7651eb40703f0e19f9a62eefa2c"
     },
     "xfce-kit": {
         "4.12-prime": "0e9651a7acf35230b01fa8cb89ada79271214d2a"
     },
     "xorg-kit": {
         "1.17-prime": "c8add4829c5cfceadb3b3c554a77a20d642dcc40",
-        "1.19-prime": "a571b372193b304eda0605992827c36f3640c0f1"
+        "1.19-prime": "4da098dae99011d910aeb48ff5ac38579ab6e720"
     }
 }
