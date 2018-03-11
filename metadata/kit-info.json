@@ -92,7 +92,8 @@
             "default": "5.10-prime",
             "stability": {
                 "5.10-prime": "prime",
-                "5.11-prime": "beta"
+                "5.11-prime": "beta",
+                "5.12-prime": "beta"
             }
         },
         "lang-kit": {
