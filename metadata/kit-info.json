@@ -89,11 +89,11 @@
             }
         },
         "kde-kit": {
-            "default": "5.10-prime",
+            "default": "5.12-prime",
             "stability": {
-                "5.10-prime": "prime",
-                "5.11-prime": "beta",
-                "5.12-prime": "beta"
+                "5.10-prime": "deprecated",
+                "5.11-prime": "deprecated",
+                "5.12-prime": "prime"
             }
         },
         "lang-kit": {
