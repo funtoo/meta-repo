@@ -12,11 +12,11 @@
         "1.2-prime": "5abcafce2a0aef53aee1e6b1ff85d4294218dd68"
     },
     "dev-kit": {
-        "1.1-prime": "17fa9f80a381e361de11ddd6eeb5568a0e37f89f",
-        "1.2-prime": "28016202a89daac8a3a4927642d128c6b50c04ef"
+        "1.1-prime": "92cf961a732e25b4ec19ef38db6497ecd1963506",
+        "1.2-prime": "b5d44783c35de080c19fe1b536fe73658beabf6b"
     },
     "editors-kit": {
-        "master": "53b49b7ad85d51723c9c8ebff521b2bcb791c144"
+        "master": "62a7b0ae35e809ac4803c0c6b979c08d0fffe27e"
     },
     "games-kit": {
         "master": "3d4ee04082b7b8729139f474905553cf860828f4"
@@ -30,13 +30,13 @@
         "1.2-prime": "950e6e9a110bf408f302b53fc593e8058e922cfc"
     },
     "java-kit": {
-        "1.1-prime": "aa249b47d7da01d997f6b341cef50a5828c9406b",
-        "1.2-prime": "823cf0b05a4f95dba6cc579afbb1a2f8faa6aa18"
+        "1.1-prime": "754b5ef29e618ed491e4aa793e00ad3246cd45c2",
+        "1.2-prime": "5fbb31d4fb2915157bd1975fa8fb2ee3a2e3ce76"
     },
     "kde-kit": {
         "5.10-prime": "4faf09c0e19a098dcebeb4d9e37d11bd2709ca9d",
         "5.11-prime": "5c32d90a3de8e3775690d140722cdddbd790dea2",
-        "5.12-prime": "e37a56f3ba6db66e58f66f1a3a0a633deb8194d7"
+        "5.12-prime": "f4d78c387e77dbd28bd1486e92890d36a74950e9"
     },
     "lang-kit": {
         "1.1-prime": "ac2774ec13298e0c947414f2eadb73d2f20f5058",
@@ -56,7 +56,7 @@
         "1.2-prime": "bc0b35f407aef230a53b25b75ca2b0c1465d9f9d"
     },
     "net-kit": {
-        "master": "00a1afa7134edd4325ce7b120bdee178e05e47a8"
+        "master": "30d5ecc67e0e74a6b5deb4eca2678d6f78a8316b"
     },
     "nokit": {
         "master": "17cd7264b1df6797d879b1f78b74e54596c91ca1"
@@ -74,8 +74,8 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
-        "1.1-prime": "14a805182b47e3e322060a986a199e7806c6290c",
-        "1.2-prime": "4cf405fd269dd55b01442535e1f4010406b2be41"
+        "1.1-prime": "de6cac72ada726a609c1049115cb58d26caef2f9",
+        "1.2-prime": "eda9acdc71656d3e61a9cb48eeba7bc5452be922"
     },
     "science-kit": {
         "master": "29a791d07deafaf11aa1824490668273c3689272"
