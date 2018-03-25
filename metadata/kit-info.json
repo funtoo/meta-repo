@@ -16,6 +16,7 @@
         "ml-lang-kit",
         "lisp-scheme-kit",
         "lang-kit",
+        "llvm-kit",
         "dev-kit",
         "xfce-kit",
         "desktop-kit",
@@ -108,6 +109,12 @@
             "stability": {
                 "1.1-prime": "prime",
                 "1.2-prime": "beta"
+            }
+        },
+        "llvm-kit": {
+            "default": "1.2-prime",
+            "stability": {
+                "1.2-prime": "prime"
             }
         },
         "media-kit": {

@@ -98,3 +98,7 @@
 	path = kits/lang-kit
 	url = https://github.com/funtoo/lang-kit.git
 	branch = 1.1-prime
+[submodule "kits/llvm-kit"]
+	path = kits/llvm-kit
+	url = https://github.com/funtoo/llvm-kit.git
+	branch = 1.2-prime

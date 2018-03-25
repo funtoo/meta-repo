@@ -1,22 +1,22 @@
 {
     "core-hw-kit": {
-        "master": "a8fb294c9d5a3733671693f1c385aaf41693ec53"
+        "master": "9e3d03501d32e11e866eaacbf3280c116228594b"
     },
     "core-kit": {
-        "1.0-prime": "c8adbc4625e95b2c56a2a873a674ac9b4b9d31ce",
+        "1.0-prime": "aca4893e2aedc287ffdab1ed765f03b3e2552bef",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "fad9a6c7305636e0ad19477935ee243e7c31308c"
+        "1.2-prime": "ae1d150693875620bbb4ea039500cf0f8ca47c7f"
     },
     "desktop-kit": {
-        "1.1-prime": "a6e6c15627ed0a6b82255475800e3fd611033eff",
-        "1.2-prime": "6727b6b36c3c7de3d78cde54c256c53a9b05d43a"
+        "1.1-prime": "a00e91e4d2f7a84fe9104e96d4dc06cd17c07e1b",
+        "1.2-prime": "8909b183a007c72311acd2addab7e1cfa2ed8518"
     },
     "dev-kit": {
-        "1.1-prime": "302d3f3a1c0a983b2f650d281bee94bf86da90a3",
-        "1.2-prime": "1eb6170b34d03e311b2dd10075b3754b411281dc"
+        "1.1-prime": "228f3c0e3e7604e36ff38f073f0ae27ec7cdf36e",
+        "1.2-prime": "f88c58a5704e1603a49bf833869e3c29ecf82fab"
     },
     "editors-kit": {
-        "master": "bbdb684f42212173b4aeb4ee7e316cc0f438660f"
+        "master": "c87cee0c4d22387fa29b6afc35a5912d0d47793c"
     },
     "games-kit": {
         "master": "159a1fd846acb89dcfcfd3e8af4cc7b02015eb41"
@@ -39,27 +39,30 @@
         "5.12-prime": "e419e98fa1e781fce837032084edf988c1846bed"
     },
     "lang-kit": {
-        "1.1-prime": "64a43d040247dedf34d0c1809595d80aee9e24b1",
-        "1.2-prime": "2616925079289bb3eff36ab6cfae12a56a321446"
+        "1.1-prime": "709b282f0e99c45da8236a0e40eb7a5e7c4402d6",
+        "1.2-prime": "ccda00687140873133baa9a7a152406f84ae7287"
     },
     "lisp-scheme-kit": {
         "1.1-prime": "ee6b819a6106b83dd7ab10fa78d351887855bbb1",
         "1.2-prime": "e95e9c2112658369857ce778e683dabbf4776e5c"
     },
+    "llvm-kit": {
+        "1.2-prime": "7e0671c673cc5046692c205960285ca451f6c3ff"
+    },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "b6a96727fc75196fb6ca1063de99e0a72f8ea020",
-        "1.2-prime": "d5ffe7525c9ce311d1d4a5ac12b3e6200481584c"
+        "1.1-prime": "895a6c4b6e7a9f10c8f96fd8fc63383cbe86c0fd",
+        "1.2-prime": "5ee23921cb6b219ed63789084fb8a0bedf6ac1b8"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
         "1.2-prime": "f91ac15676cb56dac6a4d8a3cbf18569f6ea69c5"
     },
     "net-kit": {
-        "master": "e3973632327e8988144ad6b925babe23ef7b1f3d"
+        "master": "9c7f9254ba7d7e54bfce931b596f43c8f165c73b"
     },
     "nokit": {
-        "master": "39cbf025f8019870e233b524d7619ba233fff1c0"
+        "master": "da082681c06ab78e2049e067c52d02a02de6f6a1"
     },
     "perl-kit": {
         "5.24-prime": "4ae913dc8dd69f3f4acc25a9d17a51c6856ca366",
@@ -69,8 +72,8 @@
         "master": "af9792a673a54c1e3f675c31214f6ee05fb52eed"
     },
     "python-kit": {
-        "3.4-prime": "a27e6a94e1db54770e968b4afca294d8de639e05",
-        "3.6-prime": "571c8b8b2e767d713f47b03ecda217cd54dc5d38",
+        "3.4-prime": "af77684a231b5b14c344ba0340830b0a226fca75",
+        "3.6-prime": "d1c7fec0b194b8ea2e7b0b7daa4b24fa166a6ebb",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
@@ -78,7 +81,7 @@
         "1.2-prime": "8cf0384e0a3ff280850f43f8fc42f738745fd578"
     },
     "science-kit": {
-        "master": "f54763a00bb068d2ac2951b204bf1c83cd8499a5"
+        "master": "c2adedbea6094ce72640fe71fe328cc73fcd8860"
     },
     "security-kit": {
         "1.0-prime": "d6214a3f713192ab04b2375a14356ad38d93b3e8",
@@ -86,13 +89,13 @@
         "1.2-prime": "79797b7c698f70fa417f1a6b079315217861322c"
     },
     "text-kit": {
-        "master": "80bedb0312a1bffbeeb4ddfbd577290bd6295a15"
+        "master": "56c4129b8d7020a24589d8c686e873c12a96e5b1"
     },
     "xfce-kit": {
         "4.12-prime": "1bfc09f7b8f37b7997ad17d123d4287d3b9a2611"
     },
     "xorg-kit": {
         "1.17-prime": "e17b1448e9597e3f5401897476052235b52598c2",
-        "1.19-prime": "bca138001095d53f4d76c6f3514bf732a33ed6a8"
+        "1.19-prime": "147c745e3036d9308f0603f7997fa69e38dbf499"
     }
 }
