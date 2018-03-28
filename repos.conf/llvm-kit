@@ -1,0 +1,4 @@
+[llvm-kit]
+location = /var/git/meta-repo/kits/llvm-kit
+auto-sync = no
+priority = 1

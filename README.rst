@@ -36,6 +36,12 @@ remove this line. Then, perform the following steps as root:
  # USE="python_targets_${my_pyver/./_} python_single_target_${my_pyver/./_}" emerge -1 --nodeps ego
  # hash -r
  # epro update
+ # emerge -1 portage
+ # ego sync
+
+This should result in ``ego`` being installed, Portage being updated, and your temporary
+``/etc/portage/repos.conf`` symlink being replaced with a real directory that contains
+ego-generated repos.conf entries for each kit.
 
 At this point, you should be able to use the ``emerge`` command and use 
 Portage normally. Once you have kits running well, at that point you may re-enable
