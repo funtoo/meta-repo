@@ -3,9 +3,9 @@
         "master": "d63a95cbb2c812f7e93e5730edd8da5ae7f19c5d"
     },
     "core-kit": {
-        "1.0-prime": "0127e14fcd192f42b8fa7b129ef050b13f099a42",
+        "1.0-prime": "4618a76c729ce77e764bdd84d06b90ccc4fee868",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "d7d090538a3ddb55396fa9adf27134812125073c"
+        "1.2-prime": "ada0b6372710159749b67d1cc23273dea825af17"
     },
     "desktop-kit": {
         "1.1-prime": "6864ec97011eabcc83076be6a8947c7b0200ff97",
@@ -95,7 +95,7 @@
         "4.12-prime": "1bfc09f7b8f37b7997ad17d123d4287d3b9a2611"
     },
     "xorg-kit": {
-        "1.17-prime": "e17b1448e9597e3f5401897476052235b52598c2",
-        "1.19-prime": "4f3567eaffa4c8c588475ee24fbea3b8fb7de00b"
+        "1.17-prime": "a2ed413e0bb5f93bc8a8c709f43f8f1435e4d908",
+        "1.19-prime": "2731ccdaf125422b475b1ebb18a48613318a5e16"
     }
 }
