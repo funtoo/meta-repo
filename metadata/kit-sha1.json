@@ -16,10 +16,10 @@
         "1.2-prime": "01b028edd753b7e59e075eaa933b2928b0705649"
     },
     "editors-kit": {
-        "master": "bbf3117a54eaaafd5cb984591e20c4d585ce20bf"
+        "master": "87aa3c1e803421f009598e012d107f05e76354e1"
     },
     "games-kit": {
-        "master": "50d1e20e10a323e021021d6afe1b199ec8cafba2"
+        "master": "7e87280711d8eeb48ccce65edf15b68bbc8efbfc"
     },
     "gnome-kit": {
         "3.20-prime": "f61a754c2e3980f3c9a4e0c4912bb180917eb75e",
@@ -59,10 +59,10 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "af5c91ccca3631f3a6a21d97e959386288cc1432"
+        "master": "2db62c9108e9b0fb715d8d0664c37476985c8435"
     },
     "nokit": {
-        "master": "c68312cd33904fd5bdbc1b74bc16fe739c17561f"
+        "master": "64eb5ba028478c995b5f7489dbcc46396b4589df"
     },
     "perl-kit": {
         "5.24-prime": "4ae913dc8dd69f3f4acc25a9d17a51c6856ca366",
@@ -89,13 +89,13 @@
         "1.2-prime": "79797b7c698f70fa417f1a6b079315217861322c"
     },
     "text-kit": {
-        "master": "5349ac23604de64a360e42ceca79a1c64df042c8"
+        "master": "87c7bc0e41197f1db7545d0f5c80a56ac7456ecc"
     },
     "xfce-kit": {
         "4.12-prime": "1bfc09f7b8f37b7997ad17d123d4287d3b9a2611"
     },
     "xorg-kit": {
         "1.17-prime": "a2ed413e0bb5f93bc8a8c709f43f8f1435e4d908",
-        "1.19-prime": "7edd2804e674dadaaefd1cad2594ad13bc9a5744"
+        "1.19-prime": "cce7ce38c8f34ee4a4ae01546161104122a9a658"
     }
 }
