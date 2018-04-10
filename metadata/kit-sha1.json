@@ -16,7 +16,7 @@
         "1.2-prime": "67501c52b85074a328d10df48fb44254c4d7c253"
     },
     "editors-kit": {
-        "master": "07846f7540ea796b7764b8c659ee20fa5554f4b0"
+        "master": "180af2ef572adb68f7afa09e781b06e6c6e11557"
     },
     "games-kit": {
         "master": "0df541984b4540ad81c59566b16f89a4c3c7211c"
@@ -59,21 +59,21 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "ce52f2024a3d36c8528b83f023e3d61308bdb815"
+        "master": "86521d9d4194ea6a135097412383de5b3b0d6cf4"
     },
     "nokit": {
-        "master": "7e527613c3297d4918dd1eb6428c2f8e9bfdb763"
+        "master": "dff044d862bd1deddbb069a28372761821a95e3d"
     },
     "perl-kit": {
         "5.24-prime": "4ae913dc8dd69f3f4acc25a9d17a51c6856ca366",
         "5.26-prime": "f2db0fe30bf2b2fad13a875e3dab8c73ddd2d655"
     },
     "php-kit": {
-        "master": "acb8636537c26883aaf94871190ac494ac6549e4"
+        "master": "d2abd1c406fb7268740652222b8ed3ad5f04f796"
     },
     "python-kit": {
-        "3.4-prime": "673ae04e80e9d8384f6957048c0bb9837298c189",
-        "3.6-prime": "2302d1ee4a9c3c49fb335c7a7c73a902373aa9a9",
+        "3.4-prime": "386256573ca1f98d18d69372135e96f4e73cdf39",
+        "3.6-prime": "1f64c2736c2a88677d43894f7bc795d0db449027",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
@@ -81,7 +81,7 @@
         "1.2-prime": "659a6d89f517f19dc6b235e3e74de2ff57187de6"
     },
     "science-kit": {
-        "master": "4cde14c5cec571c9a3ff734963fa633d0124c4de"
+        "master": "b93af9ebb611737e16d167256e5112b163bc3e33"
     },
     "security-kit": {
         "1.0-prime": "d6214a3f713192ab04b2375a14356ad38d93b3e8",
@@ -89,7 +89,7 @@
         "1.2-prime": "79797b7c698f70fa417f1a6b079315217861322c"
     },
     "text-kit": {
-        "master": "98dc870c52e7ebd7bed599d59d8f654b0c1b5dde"
+        "master": "c8be505e8c1a08188167f070457f82703a8630ab"
     },
     "xfce-kit": {
         "4.12-prime": "1bfc09f7b8f37b7997ad17d123d4287d3b9a2611"
