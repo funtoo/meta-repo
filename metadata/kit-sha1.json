@@ -3,17 +3,17 @@
         "master": "62053ede67d419b891bcbe4284e8f888e091b0f5"
     },
     "core-kit": {
-        "1.0-prime": "dde1608ea633eba64dc85ed4b0b0ce4f0f97cd3d",
+        "1.0-prime": "091360f084b635bf522551cff0b7c35a7c13cd59",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "895f087da24a29449e87afbe31ab5f640ffd8404"
+        "1.2-prime": "14359e156ad255d764873dd8deeee01f27c70af6"
     },
     "desktop-kit": {
         "1.1-prime": "80bdd5432bb5829d0c7d828a9cfaba9171c44e8f",
         "1.2-prime": "7515dbfb8ea5da88abebadd2980483e1befc0568"
     },
     "dev-kit": {
-        "1.1-prime": "8e5161d86b6c8b80492a60ee51c01ca8c22088f0",
-        "1.2-prime": "c0c886eef69020ac9fe7570afd1bd0f6f1c8fffb"
+        "1.1-prime": "732022be7c0d57fa8ed9771af26b9775866bc363",
+        "1.2-prime": "4f0ff04718e68b751889f00d250fdf9f097f9a9f"
     },
     "editors-kit": {
         "master": "cc9a9b6b510a150ed2bc65e861f5a0f4b1783c7f"
@@ -59,17 +59,17 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "626ef67fdf97f5667db5755a5b0e5e3a1765ea12"
+        "master": "6ac0001dd77a217d572cd4c3894564e6da7c339e"
     },
     "nokit": {
-        "master": "83e1e94d0516add00d991b111fae41f122fe8b33"
+        "master": "47793f629a50fd657c9d72643e613e00d603d5c9"
     },
     "perl-kit": {
         "5.24-prime": "f2181b823f5a0fe0674ba6e1598f5dbd45f8f113",
         "5.26-prime": "a1cb3283c54787be8e1b19cc14dba5c2ac38129f"
     },
     "php-kit": {
-        "master": "b0ce357cdc4082885e1871974a51980b63d6811e"
+        "master": "2cf506c09a2de129a8223b8207a4915f99ba0f01"
     },
     "python-kit": {
         "3.4-prime": "0fd6f30fb1af9b193ee886623ce5f63e5363ade6",
@@ -81,7 +81,7 @@
         "1.2-prime": "4263b16ad7b3da2bbc18ca3f91a95c210ffe5cef"
     },
     "science-kit": {
-        "master": "630e785a72153cd81ceb31175f02f25f3ae044df"
+        "master": "ab32731668428842e8cabeeb2b6f823972dde0c6"
     },
     "security-kit": {
         "1.0-prime": "d6214a3f713192ab04b2375a14356ad38d93b3e8",
