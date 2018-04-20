@@ -1,6 +1,6 @@
 {
     "core-hw-kit": {
-        "master": "a060460fabf5849368bcb689f75d4127888e4880"
+        "master": "b8e19845d40e8a84a8467bc830d6a1991336ee67"
     },
     "core-kit": {
         "1.0-prime": "9b13751d7d3efa49b8674087bf3fc1029bfcac73",
@@ -19,7 +19,7 @@
         "master": "fe9c36393c85e4b9e71cd72d1afb38ef0acd1470"
     },
     "games-kit": {
-        "master": "e6fadf7c85fb864c058ff91ec2a9b9290b20f7b0"
+        "master": "1f1ab111e18f1b9ae538c3542161772f89c9e129"
     },
     "gnome-kit": {
         "3.20-prime": "96eff7556f0407532271a7d74ecf6ac54813bd90",
@@ -39,7 +39,7 @@
         "5.12-prime": "861e10ebfb8d91f3a426373ac862d91e2c5ffd42"
     },
     "lang-kit": {
-        "1.1-prime": "cccd5eb81c3096b48ba554dfcd62f09ae502d91d",
+        "1.1-prime": "eed9c69eb5d0508fa410a2e11adb8ca4bcf81f85",
         "1.2-prime": "357d898e0f6c86437c27ae19a3a911aa54a36c95"
     },
     "lisp-scheme-kit": {
@@ -59,10 +59,10 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "2f276aa38fe85e2a06cc05a4c1933dc651358364"
+        "master": "311936b9eabbd447d7de7b2990ab9a375108fdd8"
     },
     "nokit": {
-        "master": "cfe550a75e0f1ea6a85f449fdbb13aa9e165d441"
+        "master": "e1328d004f006af735610f89ce74d399e01b5888"
     },
     "perl-kit": {
         "5.24-prime": "38cbdc9baf9821f16016ea5ef6d55111847f22ca",
@@ -81,7 +81,7 @@
         "1.2-prime": "2a1726a7a7f5bfd98b641603ed61542513b1ff8c"
     },
     "science-kit": {
-        "master": "c8ef0899dcc7b371702b03e1b7545b777b235220"
+        "master": "976662dd27a0d56dad10d73d3d4d24056980aec8"
     },
     "security-kit": {
         "1.0-prime": "d6214a3f713192ab04b2375a14356ad38d93b3e8",
@@ -89,7 +89,7 @@
         "1.2-prime": "79797b7c698f70fa417f1a6b079315217861322c"
     },
     "text-kit": {
-        "master": "8e0ee4883bc4cb38edfefeb19d1bed8967492267"
+        "master": "9b865ef12429c62eb2be7772960157e11e51abde"
     },
     "xfce-kit": {
         "4.12-prime": "f6fb0ddbf91c442e9ab4b6255d9bed9e44795969"
