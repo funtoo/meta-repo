@@ -16,10 +16,10 @@
         "1.2-prime": "10f11f132192bc402149c23c696520d1b1af9b53"
     },
     "editors-kit": {
-        "master": "fc7747a3d33fc74bc56a67bac6c6b895dbb525ab"
+        "master": "fe9c36393c85e4b9e71cd72d1afb38ef0acd1470"
     },
     "games-kit": {
-        "master": "d52955662cd607018e0cee52d2a026012c7e0482"
+        "master": "e6fadf7c85fb864c058ff91ec2a9b9290b20f7b0"
     },
     "gnome-kit": {
         "3.20-prime": "96eff7556f0407532271a7d74ecf6ac54813bd90",
@@ -59,10 +59,10 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "d8f0ee8f72ee871d6930eefec93af938b14ae45f"
+        "master": "b1b42380ee6153dc9cfb306525e59e49ba905858"
     },
     "nokit": {
-        "master": "49844ccd9385c95756a8b63844172521de224b15"
+        "master": "cbe3947758a890073e85f1c3a3fd245a9deb08f4"
     },
     "perl-kit": {
         "5.24-prime": "38cbdc9baf9821f16016ea5ef6d55111847f22ca",
@@ -72,8 +72,8 @@
         "master": "0c3867a8ca0e50632d1de60d9e33ad3e9ce354e5"
     },
     "python-kit": {
-        "3.4-prime": "0fd6f30fb1af9b193ee886623ce5f63e5363ade6",
-        "3.6-prime": "1ac70b2170d68a9f8382c0cbb5d7c66116a0ae3a",
+        "3.4-prime": "2485bbb1af5e8bb3502d6805c2d9dfb2fdcd9955",
+        "3.6-prime": "cbd4c3114bcd11cc1076e1903a218a8e31e29798",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
@@ -81,7 +81,7 @@
         "1.2-prime": "2a1726a7a7f5bfd98b641603ed61542513b1ff8c"
     },
     "science-kit": {
-        "master": "9ddd16b92260463b4e060a5a148ea98caa26c6f6"
+        "master": "59cb386b17254af777d582b2094190838fd2a5aa"
     },
     "security-kit": {
         "1.0-prime": "d6214a3f713192ab04b2375a14356ad38d93b3e8",
@@ -89,7 +89,7 @@
         "1.2-prime": "79797b7c698f70fa417f1a6b079315217861322c"
     },
     "text-kit": {
-        "master": "74324e36f42bc85da28f3c2c4d4730eb2b0dae9f"
+        "master": "8e0ee4883bc4cb38edfefeb19d1bed8967492267"
     },
     "xfce-kit": {
         "4.12-prime": "f6fb0ddbf91c442e9ab4b6255d9bed9e44795969"
