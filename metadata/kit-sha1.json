@@ -47,12 +47,12 @@
         "1.2-prime": "e95e9c2112658369857ce778e683dabbf4776e5c"
     },
     "llvm-kit": {
-        "1.2-prime": "7c1b61d936985d1912dab1c7d754499cd96199b0"
+        "1.2-prime": "bb6665ab5989c86930cb7ed108fe73fe971f9a57"
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "221e5acffef4f69e2e36281f90dfc0f7d5ae14ac",
-        "1.2-prime": "3b5842a56635afe5cf9a651988c22823792fa16a"
+        "1.1-prime": "1536680d33f16aba96bbe6d59d91260303236418",
+        "1.2-prime": "d68cf19d83f5aa3e92408a400d5cdf6d50ed2cf5"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
@@ -72,8 +72,8 @@
         "master": "be4fd73dcb4ae21ed91b12a49aaff8f0f7e2d530"
     },
     "python-kit": {
-        "3.4-prime": "8fe891a2e856f3e2ff05d81aad5a916b39192670",
-        "3.6-prime": "0383ddf425f8600e709226568290c562d510f172",
+        "3.4-prime": "808a138c5c9d40cf1b920ef84619bc02dcf9a987",
+        "3.6-prime": "367c1408688bfa0a18b95b75c0974d652e09ad3d",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
