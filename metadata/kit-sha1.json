@@ -3,17 +3,17 @@
         "master": "4f4e718c76594ce11115fcbac70ee865d80d941b"
     },
     "core-kit": {
-        "1.0-prime": "2194eaf6a753e9ef9b18749c48e58d8639603f0a",
+        "1.0-prime": "c9a1dd1daf6fd8eca4cbaae54352abda2784fad6",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "aa3d598f98a172abf9cb08f251975d07b841480b"
+        "1.2-prime": "1ea383e62d7ddbe8a947891fb0339c76078eb100"
     },
     "desktop-kit": {
         "1.1-prime": "8a13b6ac4e19c29e34607c936de104240ca8dade",
         "1.2-prime": "97cac857c07bc8b6d8a3b816730006d6ab7f4e3c"
     },
     "dev-kit": {
-        "1.1-prime": "faf8648c28abb2b3b7fa10af5b57e8d015d1aad7",
-        "1.2-prime": "2eea39953d3bae6eef0c9a22297a35e78b0dd8cd"
+        "1.1-prime": "567ddacda553faf5a5ed8a98139919be20435fc9",
+        "1.2-prime": "dcedd3c9c773d7cc92cbce30204c7feb3d3e4a4e"
     },
     "editors-kit": {
         "master": "ef42a5359e4e71e9b1d5822df82ffaca81421717"
@@ -59,13 +59,13 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "ba8be133591e8fa2ea8b5940358743b2fa15aeb4"
+        "master": "bb69c8afa05c752467c8eb6dae9e162d68495ffa"
     },
     "nokit": {
         "master": "6db5c896103a2875a4c2a7f1516f3235067553a3"
     },
     "perl-kit": {
-        "5.24-prime": "38cbdc9baf9821f16016ea5ef6d55111847f22ca",
+        "5.24-prime": "90af6dc3c89c65fb6f5989dd0136a6ede309c068",
         "5.26-prime": "afc773f6e5e64f533ee23778c01183f83746c174"
     },
     "php-kit": {
