@@ -12,14 +12,14 @@
         "1.2-prime": "9e907350757ff5ff08a8c2c6842d69a9646d0f36"
     },
     "dev-kit": {
-        "1.1-prime": "df020481d8f0a0050833410539e2e181de778701",
-        "1.2-prime": "dcedd3c9c773d7cc92cbce30204c7feb3d3e4a4e"
+        "1.1-prime": "295123dd694349c2ab2a124d819d99f909a9a904",
+        "1.2-prime": "e2252282ccffcb460bddcb8dbf1bd58cdb88cf7d"
     },
     "editors-kit": {
-        "master": "14ef272d7958d79bae39236df0677a2f3c779072"
+        "master": "03c5c01e14a23d94a647790662d9cd65eae8f57f"
     },
     "games-kit": {
-        "master": "61f1cc3b12ba04c56d75f886d540a2867648dc31"
+        "master": "a6f8cb7bdfa0ab8ebc587597239fa06ed5cdc09b"
     },
     "gnome-kit": {
         "3.20-prime": "96eff7556f0407532271a7d74ecf6ac54813bd90",
@@ -51,18 +51,18 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "5b917051b2d9827c2601ca4743b3d4177052e9d7",
-        "1.2-prime": "c21dffe7095e6e748b7c30124fba031f4b29986c"
+        "1.1-prime": "77e9b9a0dfdae391e727a7b97e7d48de7f069fb6",
+        "1.2-prime": "355185e8be40172c820f41ddb39e244a8ec42077"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "896544069ec8d147fd85bf2e7b1916cc5db9d419"
+        "master": "74fbaa09cfe1e739c5f1cad02b1c3716b8023dcb"
     },
     "nokit": {
-        "master": "a02a671b5c248181353e9bb5b7a50bd08ebc4aac"
+        "master": "4acbe3cdf8da4bc71c7aa24ff4e5d4278b0bf799"
     },
     "perl-kit": {
         "5.24-prime": "90af6dc3c89c65fb6f5989dd0136a6ede309c068",
@@ -72,7 +72,7 @@
         "master": "96f4ef211688e09bdf5a23b25247ed5b608e5668"
     },
     "python-kit": {
-        "3.4-prime": "31414f3dbeaca7b7ce8899a7da896387aca9c77f",
+        "3.4-prime": "ca6f94d4c2c559c7c283bd920659f6f6644fdd0b",
         "3.6-prime": "b2225dcd2fd0c670bd62a1d96403d0538c3ba67f",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
