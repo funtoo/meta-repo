@@ -8,15 +8,15 @@
         "1.2-prime": "0c43725dbf03785b38c03cac3581155689f56781"
     },
     "desktop-kit": {
-        "1.1-prime": "160caa15f9b6166d9ec54d74b27703ab5d9b5b83",
-        "1.2-prime": "9e907350757ff5ff08a8c2c6842d69a9646d0f36"
+        "1.1-prime": "c3096f76a23b6103731d1428a104602af5338e63",
+        "1.2-prime": "19826300fcb46fcea7d70bf42ea843831519a754"
     },
     "dev-kit": {
         "1.1-prime": "33aab6e8d2f4f10bc14a05dbd956ccbfffcba260",
         "1.2-prime": "341fe0b56b288a12621cda365e53d09df3f74645"
     },
     "editors-kit": {
-        "master": "6396d0c241532423aeab50d03455a2df787cf0d6"
+        "master": "277f745d6a083d913a467f3a215081673a6e3737"
     },
     "games-kit": {
         "master": "16d247e651f3d9a27a6181a86a3cca881942a348"
@@ -59,10 +59,10 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "2ad9b919dd1850fd4de150aade361fd7334b1e40"
+        "master": "0b64d0c4b765dea639786720a5a1f3dfcda5507a"
     },
     "nokit": {
-        "master": "78bc766c9f5dbbe6dad960944d3169f27ef7c687"
+        "master": "b0b1962651cd50ae31c7171533d2035e4330fc84"
     },
     "perl-kit": {
         "5.24-prime": "08fb28ce7154029ab0892e4838e6961ae50b9abd",
@@ -72,8 +72,8 @@
         "master": "29b6b12fd0e796e307e3ae258d8181a116e55dbf"
     },
     "python-kit": {
-        "3.4-prime": "618a9740aa2025ce075f6c403a0736d0d52e0c04",
-        "3.6-prime": "92812fff458c1b121d7004b97f1db716a11cd133",
+        "3.4-prime": "839e09421ad4ca3b4618fdbc0aeaa01f52009f1d",
+        "3.6-prime": "833c2606acae7f1c53145d2be4410af9771295ef",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
@@ -81,7 +81,7 @@
         "1.2-prime": "c62597aed6d5e70fb1ae5ece7c8b38581cf09750"
     },
     "science-kit": {
-        "master": "62d8d19224f916f339a658cc6c6cf7c0c151b323"
+        "master": "83e2f8ceb64bbbd5851ac0ae1d0fe28dc49d4acf"
     },
     "security-kit": {
         "1.0-prime": "d6214a3f713192ab04b2375a14356ad38d93b3e8",
