@@ -19,7 +19,7 @@
         "master": "c84d8f75739752b63df387e37682e8022c60f0d9"
     },
     "games-kit": {
-        "master": "4aa7a74966c802e6b32bd5aab16de093ab774f17"
+        "master": "3acf4a218775340bc5261a2d6fd6d231ad1f2b37"
     },
     "gnome-kit": {
         "3.20-prime": "96eff7556f0407532271a7d74ecf6ac54813bd90",
@@ -59,10 +59,10 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "ea0c895ddc787b2635d46edf84fee1b99167682b"
+        "master": "d30ef2d0664a2a66b2c7257f959344ff8649478d"
     },
     "nokit": {
-        "master": "b14fc99c4316fa6f5d72c16a9cf18fc615c872ab"
+        "master": "b2bc4e8c003c5b255dbaf5d731523bbb5e7873ed"
     },
     "perl-kit": {
         "5.24-prime": "08fb28ce7154029ab0892e4838e6961ae50b9abd",
@@ -72,8 +72,8 @@
         "master": "29b6b12fd0e796e307e3ae258d8181a116e55dbf"
     },
     "python-kit": {
-        "3.4-prime": "e6ee5c4932a3bb4d728b9f00455cf6c0153b252a",
-        "3.6-prime": "203afc19452c3994c1eba1ed25cdbcebf6626c29",
+        "3.4-prime": "591673f411137439737407639d9afba9888d0649",
+        "3.6-prime": "37aaf6cac9b5e3a1206e2e67fa7a24f682e19a93",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
@@ -89,7 +89,7 @@
         "1.2-prime": "79797b7c698f70fa417f1a6b079315217861322c"
     },
     "text-kit": {
-        "master": "2a38de3378aec7d635897de13cbdf67c264b03f7"
+        "master": "ecca7ea29a2ebddb6188c2b0d714a9d555e5dd20"
     },
     "xfce-kit": {
         "4.12-prime": "f6fb0ddbf91c442e9ab4b6255d9bed9e44795969"
