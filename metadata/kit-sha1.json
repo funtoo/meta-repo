@@ -5,15 +5,15 @@
     "core-kit": {
         "1.0-prime": "449e75b22575308dfefa1b755693b798af227e1d",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "72a64361b929c5ce0468188aab40e9e57a8c8b76"
+        "1.2-prime": "bfe0da9304d8bc63964ba4db5df1d3430c911cff"
     },
     "desktop-kit": {
         "1.1-prime": "44b572fa7029bea4f94381557b5e43d7d87abe4f",
         "1.2-prime": "a58c828ca9de044d91ef972a6daa69c2ee09dc1a"
     },
     "dev-kit": {
-        "1.1-prime": "eac978c02b2399b4e61e2e175bf138d95c9352cc",
-        "1.2-prime": "89a65ff39ceed173c80a7ff0424755524bd17b6c"
+        "1.1-prime": "7ff1c99cdb00f62df2cfab76af27922699d9b8d1",
+        "1.2-prime": "71e36fabe102e9261f82cb02e46cd07412ed472b"
     },
     "editors-kit": {
         "master": "8c5a6f1e5b58c4ac665dc37f10b79ce4a033bb1b"
@@ -22,7 +22,7 @@
         "master": "b34c458a793098b27a809a8e12461f136741a707"
     },
     "gnome-kit": {
-        "3.20-prime": "e27cea8baf0d3c67f5cf87f956112f3d37083044",
+        "3.20-prime": "fe189b7dd9c7ad284d8197b8f2d84989834990c2",
         "3.26-prime": "838487300b18ea0409f24294293e979263b7c532"
     },
     "haskell-kit": {
