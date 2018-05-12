@@ -36,7 +36,7 @@
     "kde-kit": {
         "5.10-prime": "4faf09c0e19a098dcebeb4d9e37d11bd2709ca9d",
         "5.11-prime": "5c32d90a3de8e3775690d140722cdddbd790dea2",
-        "5.12-prime": "be918b94574bfbdb4c7c0fa40d4149bcd805dbd2"
+        "5.12-prime": "cb8f37716190f93c555a8db4c8389da1dd95f6b5"
     },
     "lang-kit": {
         "1.1-prime": "58bde9843d493a3322be690de5e1aa4a496fed35",
@@ -59,10 +59,10 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "e4be01be9916a6eed7ebc092d16580267172a340"
+        "master": "8175ccb8e294a7b2bacff0f0df2a654113208eab"
     },
     "nokit": {
-        "master": "9f4b2d8c8a0b787c17f124d20a592cba9d1d83c8"
+        "master": "bc1e5bf625c650c86cf9ed899a1917c5db83c0d8"
     },
     "perl-kit": {
         "5.24-prime": "08fb28ce7154029ab0892e4838e6961ae50b9abd",
