@@ -1,6 +1,6 @@
 {
     "core-hw-kit": {
-        "master": "d6c3f7ae219dfc3944d65a04c58a0316e36f75ef"
+        "master": "d0e5b5fa895ce6d7b4e3928411857cb9a35b7342"
     },
     "core-kit": {
         "1.0-prime": "1afb997bbb8b603465cd4703424f936c7b504488",
@@ -72,8 +72,8 @@
         "master": "9f01ed73264ea8b0fbc222785af756ebb098392f"
     },
     "python-kit": {
-        "3.4-prime": "edab3a9d7d07d68b9487c90a53c250dce8962b65",
-        "3.6-prime": "d231b07574fc1f6dfd3433933ec662f8a0d3d799",
+        "3.4-prime": "0b8950c0757419b25e938b7ff551b6ff320d48f4",
+        "3.6-prime": "be443f7962c626841ee857f54b5777f2e89cae0f",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
