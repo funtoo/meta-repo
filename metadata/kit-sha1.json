@@ -51,18 +51,18 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "8746271afe2db492112632b9a3dc17206c1c2a68",
-        "1.2-prime": "91c52a95842b7ffeac696a37ac110e31f4f495d5"
+        "1.1-prime": "7c370282e3c5bfd078abaa5019d26e90e7fd2336",
+        "1.2-prime": "b8195d79da5e598d9fdad647aa3b5658369c7711"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "72780bab4e13ac76fd4c42be26b522221b8fb212"
+        "master": "db76e21a6d79ea4acce6ae1d88b36ba62242fb5b"
     },
     "nokit": {
-        "master": "a70fdaf12340f7dcf21a56492201b7f32a657029"
+        "master": "e1e36bb542dc85c782ee4836ba69c458da00229e"
     },
     "perl-kit": {
         "5.24-prime": "08fb28ce7154029ab0892e4838e6961ae50b9abd",
@@ -81,7 +81,7 @@
         "1.2-prime": "dc88fa8126f0c6518fc1abb424b164876d68c75c"
     },
     "science-kit": {
-        "master": "34012e0766abcd1f95d8f36a31bfb5a337eed939"
+        "master": "b50b8dfbcab58c3e2329b5c2cfcbe12bff2667e0"
     },
     "security-kit": {
         "1.0-prime": "d6214a3f713192ab04b2375a14356ad38d93b3e8",
@@ -89,7 +89,7 @@
         "1.2-prime": "79797b7c698f70fa417f1a6b079315217861322c"
     },
     "text-kit": {
-        "master": "7555761b7cbc1fb2d9ee38df9044fe50d3c8e266"
+        "master": "8a2986cc89b2e7fad63d72cb8256874244717acd"
     },
     "xfce-kit": {
         "4.12-prime": "f6fb0ddbf91c442e9ab4b6255d9bed9e44795969"
