@@ -12,7 +12,7 @@
         "1.2-prime": "fca5dbf029af223b03894896187af1cffb98e94e"
     },
     "dev-kit": {
-        "1.1-prime": "ff3e10fe45d00882fe5d55250f23679b69725eeb",
+        "1.1-prime": "639b19b23d04a60ed5b952c358b21cb239faec3b",
         "1.2-prime": "79b73c910e1183662197ac7f6f4006575d94ac41"
     },
     "editors-kit": {
@@ -26,8 +26,8 @@
         "3.26-prime": "838487300b18ea0409f24294293e979263b7c532"
     },
     "haskell-kit": {
-        "1.1-prime": "748a4b9f192a5bedb791e9a0f4598d9025507663",
-        "1.2-prime": "c7ea6f17667e0e1973c25523a7ba1a8c5ecd5783"
+        "1.1-prime": "7c1092ea4e7d3d660030c93f6c7fe2b5c81466fd",
+        "1.2-prime": "b55237cddb984386fc314fa9ad2ec3ffd4b7eddd"
     },
     "java-kit": {
         "1.1-prime": "7f90c5137a54c386b322041ac13fdc794da8b923",
@@ -59,21 +59,21 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "1a35d22d4941e7f548bed766aab34b036a6bbf82"
+        "master": "6cf456478000052039e5215e9e3a1c7ff9cefb9f"
     },
     "nokit": {
-        "master": "e1e36bb542dc85c782ee4836ba69c458da00229e"
+        "master": "d6d6c9f98816c49bf32961f5f49776d61e2d620a"
     },
     "perl-kit": {
         "5.24-prime": "08fb28ce7154029ab0892e4838e6961ae50b9abd",
         "5.26-prime": "c2b5e79a5abc4ad469a33413043a7e36d3d37e07"
     },
     "php-kit": {
-        "master": "72df97c01b46016012265ac3b62293a6939ce121"
+        "master": "ff1308533d3d06d6a2ca5214cc3354a75216a62b"
     },
     "python-kit": {
-        "3.4-prime": "0b8950c0757419b25e938b7ff551b6ff320d48f4",
-        "3.6-prime": "be443f7962c626841ee857f54b5777f2e89cae0f",
+        "3.4-prime": "bd10fc78ede179890bb714099fa1f3f93b463f62",
+        "3.6-prime": "98aaf0bf98198f2db731718dcd7dc2c4d62ee052",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
@@ -81,7 +81,7 @@
         "1.2-prime": "dc88fa8126f0c6518fc1abb424b164876d68c75c"
     },
     "science-kit": {
-        "master": "b50b8dfbcab58c3e2329b5c2cfcbe12bff2667e0"
+        "master": "fcbbd866a09d99423fea16ebf935f6ca8aa0fe01"
     },
     "security-kit": {
         "1.0-prime": "d6214a3f713192ab04b2375a14356ad38d93b3e8",
@@ -89,7 +89,7 @@
         "1.2-prime": "79797b7c698f70fa417f1a6b079315217861322c"
     },
     "text-kit": {
-        "master": "8a2986cc89b2e7fad63d72cb8256874244717acd"
+        "master": "80509e2f7bb93de9a681e5c238a584107b98fc8a"
     },
     "xfce-kit": {
         "4.12-prime": "f6fb0ddbf91c442e9ab4b6255d9bed9e44795969"
