@@ -12,11 +12,11 @@
         "1.2-prime": "f30160a0542e9c0c543045a51cd16986da39b1c8"
     },
     "dev-kit": {
-        "1.1-prime": "36bbd1c5763af57245d5fd26e1741695ffbdbef8",
-        "1.2-prime": "bccbff04cc853d600af50ad3a2172f2e7c5e5991"
+        "1.1-prime": "5f793b69e44d585d3e00f11e6a91d55c89c4b1b0",
+        "1.2-prime": "7d850075de2f4c67a25be0b910390f89f4aa8688"
     },
     "editors-kit": {
-        "master": "6ad5ef67de485a8afe8d349c092f3940823b70c3"
+        "master": "cbf794a6dfebfa564973638aabfaf5cf19573c42"
     },
     "games-kit": {
         "master": "cc0be8fc7858d5db51129d7dbe5ff591dd2ac670"
@@ -72,8 +72,8 @@
         "master": "ff1308533d3d06d6a2ca5214cc3354a75216a62b"
     },
     "python-kit": {
-        "3.4-prime": "b2d752ac9f5a0aefd6af8013b066d111c36b0d7f",
-        "3.6-prime": "15e7ad97c8d5ea084e4de48d381730b140437a39",
+        "3.4-prime": "370b8d11e90c73119b8d110c1209e550aed7b8f2",
+        "3.6-prime": "ea1549809bc277ae4a8406cf959a457b33825d70",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
