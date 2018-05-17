@@ -59,10 +59,10 @@
         "1.2-prime": "ca0acd74c1cbf223f94a43a96cda2ca0ae3ffa33"
     },
     "net-kit": {
-        "master": "6f04d3e980f53c3e770bed993c613bea16afcf9f"
+        "master": "13ca48a34ba538af14fa02cd840ce63960f4fe88"
     },
     "nokit": {
-        "master": "d616da95596740c2961c761d9e8e76b6cac90a4e"
+        "master": "110e21daa16b01e9d6932fce2cbeaa222a01d556"
     },
     "perl-kit": {
         "5.24-prime": "08fb28ce7154029ab0892e4838e6961ae50b9abd",
@@ -72,8 +72,8 @@
         "master": "ff1308533d3d06d6a2ca5214cc3354a75216a62b"
     },
     "python-kit": {
-        "3.4-prime": "517737b49db2f2b7e33c05a626131386ed0126d9",
-        "3.6-prime": "b5f8475ec6445c3045b8ed930535b47a387afb84",
+        "3.4-prime": "b2d752ac9f5a0aefd6af8013b066d111c36b0d7f",
+        "3.6-prime": "15e7ad97c8d5ea084e4de48d381730b140437a39",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "ruby-kit": {
