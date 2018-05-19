@@ -3,9 +3,9 @@
         "master": "3c3388b17a041c060ad22ee0c471e308fdf364d7"
     },
     "core-kit": {
-        "1.0-prime": "f7aca7f366f0bd19da0c869c640b93596dbe8751",
+        "1.0-prime": "fa781fa16bed74d249f7132d4e8971f96a8814ec",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "42a4d4d6f18cb6950b6477b836d217e596ecb072"
+        "1.2-prime": "e18db8775e222c9b512f8f67a66417f3d85d91bd"
     },
     "desktop-kit": {
         "1.1-prime": "d617e5cc1ca10fe829f4372995c1a922eeb46b0f",
@@ -36,7 +36,7 @@
     "kde-kit": {
         "5.10-prime": "4faf09c0e19a098dcebeb4d9e37d11bd2709ca9d",
         "5.11-prime": "5c32d90a3de8e3775690d140722cdddbd790dea2",
-        "5.12-prime": "89e26f833854e887be0b2bb20612e8bc80892ae8"
+        "5.12-prime": "d6f63a670f4f1aad82e9cb986cfa97a4f36aa201"
     },
     "lang-kit": {
         "1.1-prime": "8196ae868e8afbd999b46da97f130e9de6ffa3e5",
@@ -47,7 +47,7 @@
         "1.2-prime": "e95e9c2112658369857ce778e683dabbf4776e5c"
     },
     "llvm-kit": {
-        "1.2-prime": "a24021a528680c2ca73269cc0595a54175a9ea64"
+        "1.2-prime": "5df189ede9b001d7b9e6d6476026f9608aa62186"
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
