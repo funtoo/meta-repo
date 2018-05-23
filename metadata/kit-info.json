@@ -8,6 +8,7 @@
         "kde-kit",
         "media-kit",
         "perl-kit",
+        "python-modules-kit",
         "python-kit",
         "php-kit",
         "java-kit",
@@ -163,6 +164,12 @@
                 "3.4-prime": "prime",
                 "3.6-prime": "prime",
                 "3.6.3-prime": "deprecated"
+            }
+        },
+        "python-modules-kit": {
+            "default": "master",
+            "stability": {
+                "master": "prime"
             }
         },
         "ruby-kit": {
