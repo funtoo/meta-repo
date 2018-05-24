@@ -3,12 +3,12 @@
         "master": "31b3a28d9025d04afe456340f30d36a6864c7a31"
     },
     "core-kit": {
-        "1.0-prime": "ca6526788ba07804db63338660a3717c56111e68",
+        "1.0-prime": "b8a8b0b06ebf44077b0d622692b9922390d891d5",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
         "1.2-prime": "be76b7c8d51b4c499b66e86c32e0df6b7eeb9f6d"
     },
     "desktop-kit": {
-        "1.1-prime": "0480eb3e61ed277726a0c9307397fafd08c0fbe0",
+        "1.1-prime": "726f495f975e64c3150d7693e258fda7d91746b0",
         "1.2-prime": "ee66ad5b7cde4ab2a17c343b046c751b0da587be"
     },
     "dev-kit": {
@@ -22,7 +22,7 @@
         "master": "46c2dbec41160aa6ead5954d6f71f152dcc2de74"
     },
     "gnome-kit": {
-        "3.20-prime": "2ee5c9b86dbfa7d6776c76191863570eb2e31eb5",
+        "3.20-prime": "5faf3713d0c0c98c60862bcd05665dd9e330cb40",
         "3.26-prime": "9f6026e8c4cb4a1a4bb490728f9a9fa14c3a3f68"
     },
     "haskell-kit": {
