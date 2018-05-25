@@ -17,71 +17,59 @@ Using Meta-Repo
 To use meta-repo as your meta-repository for Funtoo Linux, first make sure that
 you have not defined ``PORTDIR`` in ``/etc/make.conf`` to point to a specific
 Portage repository location. If you have ``PORTDIR`` defined, comment it out or
-remove this line. Then, perform the following steps as root:
+remove this line. Then, perform the following steps as root to set up a temporary
+``ego`` instance using git master::
 
-::
+ # cd /var/tmp
+ # git clone https://github.com/funtoo/ego.git
+ # cd ego
+ # ./ego sync
 
- # install -d /var/git
- # cd /var/git
- # git clone https://github.com/funtoo/meta-repo.git
- # cd meta-repo
- # git submodule init
- # git submodule update
- # rm /usr/share/portage/config/repos.conf
- # mv /etc/portage/repos.conf /etc/portage/repos.conf.bak
- # mkdir /etc/portage/repos.conf
- # ln -s /var/git/meta-repo/repos.conf /etc/portage/repos.conf/funtoo
- # chown -R portage:portage /var/git/meta-repo
- # my_pyver="$(eselect python show --python3)"
- # USE="python_targets_${my_pyver/./_} python_single_target_${my_pyver/./_}" emerge -1 --nodeps ego
- # hash -r
- # epro update
- # emerge -1 portage
- # ego sync
+The ``./ego sync`` action will create a meta-repo at ``/var/git/meta-repo``, along
+with kits, and also update your ``/etc/portage/repos.conf`` directory and
+``/etc/portage/make.profile/parent`` file to work with ``ego`` and Funtoo Linux.
 
-This should result in ``ego`` being installed, Portage being updated, and your temporary
-``/etc/portage/repos.conf`` symlink being replaced with a real directory that contains
-ego-generated repos.conf entries for each kit.
-
-At this point, you should be able to use the ``emerge`` command and use 
-Portage normally. Once you have kits running well, at that point you may re-enable
-any custom overlays.
+You can use this temporary ``ego`` installation as needed until you are able to
+emerge a recent version of ``ego`` directly. As long as you run the ``ego`` command
+within the git repository, it should run self-hosted from the repository. Some
+functionality such as MediaWiki document retrieval (``ego doc`` and query functionality
+``ego query`` will not work without the ``mwparserfromhell`` and ``appi`` modules
+being installed, but ``ego sync`` and ``ego profile`` commands should work.
 
 --------------------------------------------
 Updating to Meta-Repo with Funtoo Containers
 --------------------------------------------
 
 If you are a Funtoo Container user, you can enable meta-repo in your container
-as follows. First make sure that you remove the ``PORTDIR=/var/src/portage``
-line from ``/etc/make.conf``. Then perform the following steps as root:
+by making sure that you remove the ``PORTDIR=/var/src/portage``
+line from ``/etc/make.conf``. Then follow the steps above to clone a git master
+version of ego into ``/var/tmp/ego``, but do *not* run ``ego sync`` as the
+last step; instead, run this variation of the command as the last step::
 
-::
+ # ./ego sync --config-only
 
- # install -d /var/git/meta-repo
- # reboot
+This won't actually update any files in meta-repo, since it's read-only, but will
+update your local ``/etc/portage/repos.conf`` directory and
+``/etc/portage/make.profile/parent`` to work with meta-repo.
 
-After your container restarts, you will have a read-only version of meta-repo
-mounted inside your container. At this point, you can perform the following
-steps to complete the migration to meta-repo:
-
-::
-
- # rm /usr/share/portage/config/repos.conf
- # mv /etc/portage/repos.conf /etc/portage/repos.conf.bak
- # ln -s /var/git/meta-repo/repos.conf /etc/portage/repos.conf
+As above, you can now use the self-hosted git version of ``ego`` until your
+system is fully upgraded and you have a local version of ego installed.
 
 ------------------
 Updating Meta-Repo
 ------------------
 
-From now on you will be using 'ego sync' to update the Portage tree:
-
-::
+From now on you will be using 'ego sync' to update the Portage tree::
 
  # ego sync
 
-After updating, the ``emerge -auDN @world`` command may be used to update your
-system.
+For read-only meta-repo configurations like the default meta-repo on Funtoo
+Containers, you can periodically use the read-only equivalent to ensure that
+any new kits are properly enabled and accounted for::
+
+ # ego sync --config-only
+
+The ``emerge -auDN @world`` command may be used to update your system.
 
 ----------------
 What is Included
@@ -206,7 +194,7 @@ These are the branches that we plan to maintain going forward.
 Reporting Bugs
 ---------------
 
-To report bugs or suggest improvements to meta-kit, please use the Funtoo Linux
+To report bugs or suggest improvements to meta-repo, please use the Funtoo Linux
 bug tracker at https://bugs.funtoo.org. Thank you! :)
 
 .. _core-kit: https://github.com/funtoo/core-kit
