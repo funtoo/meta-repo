@@ -5,10 +5,9 @@ master branch
 ---------------------------
 
 Meta-repo is a git repository that contains all the ports trees for Funtoo
-Linux. The ports trees for Funtoo Linux are stored in the ``kits`` sub-directory,
-as git *submodules*. For those who are unfamiliar with submodules, they are
-essentially git's flavor of 'symbolic links' to other repositories, so that
-a git repository can link to other repositories.
+Linux. Meta-repo also contains pointers to kits, which are functional units of
+ebuilds used by Funtoo Linux, and which are managed by Funtoo Linux's personality
+tool, `ego`.
 
 ---------------
 Using Meta-Repo
@@ -18,7 +17,7 @@ To use meta-repo as your meta-repository for Funtoo Linux, first make sure that
 you have not defined ``PORTDIR`` in ``/etc/make.conf`` to point to a specific
 Portage repository location. If you have ``PORTDIR`` defined, comment it out or
 remove this line. Then, perform the following steps as root to set up a temporary
-``ego`` instance using git master::
+``ego`` instance::
 
  # cd /var/tmp
  # git clone https://github.com/funtoo/ego.git
@@ -27,13 +26,14 @@ remove this line. Then, perform the following steps as root to set up a temporar
 
 The ``./ego sync`` action will create a meta-repo at ``/var/git/meta-repo``, along
 with kits, and also update your ``/etc/portage/repos.conf`` directory and
-``/etc/portage/make.profile/parent`` file to work with ``ego`` and Funtoo Linux.
+``/etc/portage/make.profile/parent`` file to work with ``ego`` and Funtoo Linux's
+meta-repo.
 
 You can use this temporary ``ego`` installation as needed until you are able to
 emerge a recent version of ``ego`` directly. As long as you run the ``ego`` command
 within the git repository, it should run self-hosted from the repository. Some
 functionality such as MediaWiki document retrieval (``ego doc`` and query functionality
-``ego query`` will not work without the ``mwparserfromhell`` and ``appi`` modules
+``ego query``) will not work without the ``mwparserfromhell`` and ``appi`` modules
 being installed, but ``ego sync`` and ``ego profile`` commands should work.
 
 --------------------------------------------
