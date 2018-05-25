@@ -1,8 +1,6 @@
 ===========================
 meta-repo
 ===========================
-master branch
----------------------------
 
 Meta-repo is a git repository that contains all the ports trees for Funtoo
 Linux. Meta-repo also contains pointers to kits, which are functional units of
