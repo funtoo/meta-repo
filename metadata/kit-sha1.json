@@ -3,9 +3,9 @@
         "master": "18132834f858428b048a84a8308393f202b12ca4"
     },
     "core-kit": {
-        "1.0-prime": "9d5fa0ef59014ec38dd71df95bb1ffc3830150dc",
+        "1.0-prime": "66a724684bfee25db4600ea9e3eef926e40bee20",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "2507c57d794b4dc5b5f5ed0d485e51e516205518"
+        "1.2-prime": "b0c1cbbbfba94c1944e19333db6a5a6ca69a1e69"
     },
     "desktop-kit": {
         "1.1-prime": "285158d6a4ca11e183a50c36e9b8c94f7a970182",
@@ -19,7 +19,7 @@
         "master": "2cd840d6dadba74bf2a3a339e9457886e7b505be"
     },
     "games-kit": {
-        "master": "1ea9386fcd9ed2d6364114a69548c2dcb6ef1ba5"
+        "master": "8e61fa9b97f57d3d17ad61ff09a8d1d41314026b"
     },
     "gnome-kit": {
         "3.20-prime": "50354a326eb513a7036c9ff2c1c4096a5b7b21bc",
@@ -51,18 +51,18 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "feb20f1d13fbb067047646a3e17d6fde9dbb0035",
-        "1.2-prime": "95de9aece180e25bfcbbbc47a294ff2ad76a3caa"
+        "1.1-prime": "2a007bf1a2d4515c68ca2fcb42a09153aca41b73",
+        "1.2-prime": "4083be1038802f8cada66c98609c840c9d51784c"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
         "1.2-prime": "4284307335d02312a8c7370417bc788d0e83c618"
     },
     "net-kit": {
-        "master": "9d30ddc902121056f5a17bfc413ff4a6ebc303f2"
+        "master": "cf6273e4ba0cbba9ed532a16501e1e23fd5ecc1b"
     },
     "nokit": {
-        "master": "f8c946007735c47f67733073d321e68472a8dae5"
+        "master": "7316ff732ebe9271c29ec66c299a5c9916e6db6e"
     },
     "perl-kit": {
         "5.24-prime": "4814905ed13c43f188908da5eed9b7249f52b362",
@@ -77,7 +77,7 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "525d6c19f1884ec42fdea313421caf38e5057909"
+        "master": "421d81c1a54fea199d1572dc4cf572b7d4365a1f"
     },
     "ruby-kit": {
         "1.1-prime": "6c81b31f3c585f08911831cc42877ca704570577",
