@@ -3,9 +3,9 @@
         "master": "18132834f858428b048a84a8308393f202b12ca4"
     },
     "core-kit": {
-        "1.0-prime": "3b3be8bbd161853dc4d6bb367894fd38b89860d2",
+        "1.0-prime": "a4f7879985698f458194d85c1ada74cf6c236bf8",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "b5df8ccedbefd907bed9b717a407793a16211116"
+        "1.2-prime": "18e863ffca2a8279a0755d9844907545c75874f6"
     },
     "desktop-kit": {
         "1.1-prime": "8022349bea7650219ef1e5948026a2d1d695688c",
@@ -16,10 +16,10 @@
         "1.2-prime": "ed989c5194b3194a9fe2ad4aba20174affe21038"
     },
     "editors-kit": {
-        "master": "f68933d20ff7fdae85544dcc3352dc344285f744"
+        "master": "f22318ef56bf5f7cf9e0bbe5f37305b17ceb5f18"
     },
     "games-kit": {
-        "master": "b8bad37906987715c720b54f19c2078a06b8b6e8"
+        "master": "f9d114623f1d9c2e6549fa3a0794a9bf1fb3dd52"
     },
     "gnome-kit": {
         "3.20-prime": "50354a326eb513a7036c9ff2c1c4096a5b7b21bc",
@@ -59,10 +59,10 @@
         "1.2-prime": "4284307335d02312a8c7370417bc788d0e83c618"
     },
     "net-kit": {
-        "master": "80af04773a3f0eec028004c4487cce251e124927"
+        "master": "6945f71fe52785b0223c9cb976a65eaba71d1b50"
     },
     "nokit": {
-        "master": "1a522e664c6e0346da6b66be215639a7a9329f56"
+        "master": "9d2951f8e930b41eacec495c2b7d859decb0de9d"
     },
     "perl-kit": {
         "5.24-prime": "4814905ed13c43f188908da5eed9b7249f52b362",
@@ -77,14 +77,14 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "e74c9511e81d3ef84845e25f30f9fc083ecc4cec"
+        "master": "0556a29f66a053ff8be4dfe04489529311f525b3"
     },
     "ruby-kit": {
         "1.1-prime": "c228493bf8994c309209f8b9dc2c0cc60742c002",
         "1.2-prime": "acb721fd85d884f42c84cd23a776e62f2e74b2e5"
     },
     "science-kit": {
-        "master": "a5ad64d7437dacf4e2c5e2d1ef94923249ff847f"
+        "master": "8119b8a9d7fc77cfef672703d31e53594d74e2e4"
     },
     "security-kit": {
         "1.0-prime": "fc2ab3a2648ec9e3672e53eaa1c8cf57626054ba",
