@@ -1,6 +1,6 @@
 {
     "core-hw-kit": {
-        "master": "1a51ab9d26f488d581a18aed4cbf95ce58b9bf76"
+        "master": "25742cc185f83a50df88d8886a527154cb7fff6d"
     },
     "core-kit": {
         "1.0-prime": "a4f7879985698f458194d85c1ada74cf6c236bf8",
@@ -12,11 +12,11 @@
         "1.2-prime": "610b242441245c982432471f8ad73788474e31fe"
     },
     "dev-kit": {
-        "1.1-prime": "a43b9a53de62500c996e69a2d74e84a5c5f86303",
-        "1.2-prime": "e75f2614610ca980acf08d3646fc41212f104dd3"
+        "1.1-prime": "a5e438e9d7287734d6646d76f8a1177f0f1ef1d0",
+        "1.2-prime": "721de0bb1101b64d98e13f05e0a1cf16c65d5650"
     },
     "editors-kit": {
-        "master": "6340f560a593291e089f7698852b14d4b4f06f8a"
+        "master": "c2f27d020dbc1a7b01fa963d686c4ed96a1c3238"
     },
     "games-kit": {
         "master": "192a3c6f4dc01bddb551c91f8b6104807ed14089"
@@ -51,25 +51,25 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "fac7fb6da42b572b9057cd6d9b8d8a84ff5d3b59",
-        "1.2-prime": "128e6c44ae746b5687510236487fb7ba9e5a35b7"
+        "1.1-prime": "7756fc3b2596a4bc8cdf07e30c7da20347fe45df",
+        "1.2-prime": "9c2dcea92e65b5a57527fc0d974b03b0e0e113b0"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
         "1.2-prime": "4284307335d02312a8c7370417bc788d0e83c618"
     },
     "net-kit": {
-        "master": "58c7c30ece2015bf5983da0924bee0e8bb4b09ab"
+        "master": "39ff687a33f4acc08e8daa1f98a17c01976caecb"
     },
     "nokit": {
-        "master": "e9fd57e94bbdab784c45a2bc0df07d3368a89fb7"
+        "master": "86c91efa6ec5d0bf92b4a95ae8aaa6b195dce7db"
     },
     "perl-kit": {
         "5.24-prime": "4814905ed13c43f188908da5eed9b7249f52b362",
         "5.26-prime": "603a1495a601fff980f896fa269eb7da02eb3457"
     },
     "php-kit": {
-        "master": "f290d39a2832890c8f0b03d8d7a8781e0a20e5a2"
+        "master": "7ba1a914237c5b3747ab7539c55032bf771ab2fb"
     },
     "python-kit": {
         "3.4-prime": "537e38910506f6573b6810af2d3365772f9dc309",
@@ -84,7 +84,7 @@
         "1.2-prime": "b1c8ff97754475c26c5a143971e0033fa3acab63"
     },
     "science-kit": {
-        "master": "3a8845da839a7df06e7210df9d77aa848677a85d"
+        "master": "e0d7317e7b420a49147d27881fbff531ffef7867"
     },
     "security-kit": {
         "1.0-prime": "fc2ab3a2648ec9e3672e53eaa1c8cf57626054ba",
