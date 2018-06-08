@@ -3,9 +3,9 @@
         "master": "862aa84ffb83a210fc8a7ca859b91912a5de0439"
     },
     "core-kit": {
-        "1.0-prime": "77779a6f081d3756e9f058be883d7f9eb2648d8c",
+        "1.0-prime": "4817b9b04fe5aa77d2307998eb58dde8893a9c98",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "355774cad71393b5ea12da1e4bf2b834c91bf309"
+        "1.2-prime": "0d157beede3f4c47d2e222ba6038cc5708843859"
     },
     "desktop-kit": {
         "1.1-prime": "8022349bea7650219ef1e5948026a2d1d695688c",
@@ -16,10 +16,10 @@
         "1.2-prime": "721de0bb1101b64d98e13f05e0a1cf16c65d5650"
     },
     "editors-kit": {
-        "master": "dc90984fb65c0510772933485ee20360fe7f96ed"
+        "master": "eac81711ab79d5440d1dbeacfe38fa84a9b84dce"
     },
     "games-kit": {
-        "master": "a45cd9a6bd5ad23d0859231674591b24f1bdf440"
+        "master": "37ea187947bf7d5e839b07c06caed4fdd6a1239f"
     },
     "gnome-kit": {
         "3.20-prime": "50354a326eb513a7036c9ff2c1c4096a5b7b21bc",
@@ -59,10 +59,10 @@
         "1.2-prime": "4284307335d02312a8c7370417bc788d0e83c618"
     },
     "net-kit": {
-        "master": "08604e1e317c3cdefb158eea4ad81c78182655bc"
+        "master": "b60c140a05f896d0d81d98ad511a991150be7ec1"
     },
     "nokit": {
-        "master": "615df92407edb9b8ae9ea9fb063ccfc985037209"
+        "master": "bcef7671139dc30b2473c2869f1a19f55fb0b17c"
     },
     "perl-kit": {
         "5.24-prime": "4814905ed13c43f188908da5eed9b7249f52b362",
@@ -77,11 +77,11 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "62cb488e6156f182b984fa11a08ae5523a72b2da"
+        "master": "b9ce9bd060bc9c5baebad9932c68b3fdb41197d8"
     },
     "ruby-kit": {
-        "1.1-prime": "fac4ddb93929866e77481f0918080565f62de4bc",
-        "1.2-prime": "b1c8ff97754475c26c5a143971e0033fa3acab63"
+        "1.1-prime": "df0f8ad72b1bca37606e74e7cafeddde3f956c4b",
+        "1.2-prime": "e79999610576d288a58c0bd4c8f5d2b83bb55f28"
     },
     "science-kit": {
         "master": "f7442a56b30fb649cba0384d6e1c6293bd2d921d"
