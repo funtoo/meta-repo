@@ -12,11 +12,11 @@
         "1.2-prime": "309bde7e37e88bb6a156e2c8996b4415de7f5922"
     },
     "dev-kit": {
-        "1.1-prime": "2f3514d3ce4d30cb1041a08fddad7df956fb0c6e",
-        "1.2-prime": "aaf5dcdbbfab84d6a1b0ee7893f71b37a0cf6006"
+        "1.1-prime": "970f54ab6ff2be5c65aff60c415251b969c89bbc",
+        "1.2-prime": "b9a1af2e2f925e63cdd9d20f9f99e8d93effc71c"
     },
     "editors-kit": {
-        "master": "3da9671c502ba5acab6edea3bf3f0b8cff6e4201"
+        "master": "324b86277dc926835aef1fd08df76181b23ebb02"
     },
     "games-kit": {
         "master": "49acec833d7759140ee36ec536a2a170b49190c0"
@@ -59,10 +59,10 @@
         "1.2-prime": "4284307335d02312a8c7370417bc788d0e83c618"
     },
     "net-kit": {
-        "master": "55934d108d372a378adf58fee33560706cd023e3"
+        "master": "38b884a70405f23eddab5fbe7ebd7a3f3992bbae"
     },
     "nokit": {
-        "master": "86676057a2d0efe6123f4f757e3939875fe866a4"
+        "master": "03d6cfa803cac4300bf085f1cea9b1b80b7b4a26"
     },
     "perl-kit": {
         "5.24-prime": "4814905ed13c43f188908da5eed9b7249f52b362",
@@ -77,14 +77,14 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "1d668ff4e5458e82e91068b2d48b0977ecc780fb"
+        "master": "49a676878013e8a9b20cca4f86707c8e004f76ef"
     },
     "ruby-kit": {
         "1.1-prime": "d88db01038a6a11c1feac269ede6b69997281e0a",
         "1.2-prime": "45e7de942c387714539532b86e34ad1cadf5f575"
     },
     "science-kit": {
-        "master": "07efe651fc5fda86868552f26855e57989e70ef0"
+        "master": "4b19404e4f32ce0439ce74f04d776072243955ba"
     },
     "security-kit": {
         "1.0-prime": "fc2ab3a2648ec9e3672e53eaa1c8cf57626054ba",
@@ -92,7 +92,7 @@
         "1.2-prime": "717ddb38faf1c434f39fa5847e471e6de1fe0a00"
     },
     "text-kit": {
-        "master": "c438b152d0fe785278ab48d8a02d537acd5995f5"
+        "master": "cb5f4525f91a32bdfdec9a809efc53587dfaf355"
     },
     "xfce-kit": {
         "4.12-prime": "0b2ccac56465ae4cc0ecc85494d24f87b9cde43f"
