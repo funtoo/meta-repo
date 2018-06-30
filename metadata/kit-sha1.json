@@ -12,11 +12,11 @@
         "1.2-prime": "0135c8351de0d96c1ab359e7416a6ebdaeaa6b6d"
     },
     "dev-kit": {
-        "1.1-prime": "505ed0c8c851e0ff49e9efa87d018a46b1f233bd",
-        "1.2-prime": "052ab47968ae42a1265727983e01ee2d99de663c"
+        "1.1-prime": "fc3dc9979a6d518ee656ee71b36e95ce4320ea4e",
+        "1.2-prime": "37fe8c2ae63e16c83ef76ad04b70af2fe07f0a77"
     },
     "editors-kit": {
-        "master": "d85be9d13e5c23b8febfffab89da2e2de6fa1a42"
+        "master": "edc6185f7b4657d741d1ebe1de3519ff75a120ce"
     },
     "games-kit": {
         "master": "aa4cfdb2c5e1c763f7587adc1adb517302b1e857"
@@ -39,8 +39,8 @@
         "5.12-prime": "1de11be79f738cf7c357b8ea149bbd6d5738e96c"
     },
     "lang-kit": {
-        "1.1-prime": "d0bdcc5070592fc6527d3728354ae8e0fd97e8ad",
-        "1.2-prime": "64d28ba5943ec6473235fd391c3a4bd0b762b697"
+        "1.1-prime": "27e8b3d606f601ba3b5a2e70cab1f0355da8045b",
+        "1.2-prime": "93b63e85151fe82730934eaef3559ed358562afa"
     },
     "lisp-scheme-kit": {
         "1.1-prime": "5f66c202f7f4215615ac0d0dfed051bcc08ab612",
@@ -59,10 +59,10 @@
         "1.2-prime": "4284307335d02312a8c7370417bc788d0e83c618"
     },
     "net-kit": {
-        "master": "723ff048495f6a1caede511e664238226f80d2ed"
+        "master": "ba4e4d09d42095c79edf3862be4d62e24ad4278e"
     },
     "nokit": {
-        "master": "d1f727c7de09a17f47112499779971557541c105"
+        "master": "021889351c5b47220a33dc9b1dfc18f8d347f7fc"
     },
     "perl-kit": {
         "5.24-prime": "4814905ed13c43f188908da5eed9b7249f52b362",
@@ -77,14 +77,14 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "dee24520eda608db94f6b0b5d82eae13fd440128"
+        "master": "3c723cef3b2102a5f52e582897eb14a4e10b0447"
     },
     "ruby-kit": {
         "1.1-prime": "57f5fcabf4d02cf9752e62656e3820e56b0dfe37",
         "1.2-prime": "86f194a540bc831af087141ea9eb0d328586a51b"
     },
     "science-kit": {
-        "master": "61a7d76b050dda252f334334b234ac1174899e92"
+        "master": "392207bdfd5a76c12c9911988c6cce5c67eeab9b"
     },
     "security-kit": {
         "1.0-prime": "fc2ab3a2648ec9e3672e53eaa1c8cf57626054ba",
