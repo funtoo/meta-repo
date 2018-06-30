@@ -1,6 +1,6 @@
 {
     "core-hw-kit": {
-        "master": "256b23ee49fb2b86e75307bb9382262e47aafaae"
+        "master": "732a83e81f459da1533aa189c9b4dd94553aaf5c"
     },
     "core-kit": {
         "1.0-prime": "2fd07e841117eb8606a7bae1791d267e01abf7de",
@@ -16,10 +16,10 @@
         "1.2-prime": "37fe8c2ae63e16c83ef76ad04b70af2fe07f0a77"
     },
     "editors-kit": {
-        "master": "edc6185f7b4657d741d1ebe1de3519ff75a120ce"
+        "master": "b77dd8cf9ca0a4e1b1c62db0051cd78ab00cab4a"
     },
     "games-kit": {
-        "master": "aa4cfdb2c5e1c763f7587adc1adb517302b1e857"
+        "master": "391647615921c20761eb9870a7826c595c5b2db3"
     },
     "gnome-kit": {
         "3.20-prime": "85192b7a04fa622f9dd097fc01caa4124b30f82f",
@@ -36,7 +36,7 @@
     "kde-kit": {
         "5.10-prime": "4faf09c0e19a098dcebeb4d9e37d11bd2709ca9d",
         "5.11-prime": "5c32d90a3de8e3775690d140722cdddbd790dea2",
-        "5.12-prime": "1de11be79f738cf7c357b8ea149bbd6d5738e96c"
+        "5.12-prime": "86d8bd4b69a2736c380bd6372bfb0a8ba19b3c0b"
     },
     "lang-kit": {
         "1.1-prime": "27e8b3d606f601ba3b5a2e70cab1f0355da8045b",
@@ -59,10 +59,10 @@
         "1.2-prime": "4284307335d02312a8c7370417bc788d0e83c618"
     },
     "net-kit": {
-        "master": "ba4e4d09d42095c79edf3862be4d62e24ad4278e"
+        "master": "83b4773c5b282324ec91844618b59e8102f87a24"
     },
     "nokit": {
-        "master": "021889351c5b47220a33dc9b1dfc18f8d347f7fc"
+        "master": "b5df707642976034ba97bc8fc9b8cc8a514fc4da"
     },
     "perl-kit": {
         "5.24-prime": "4814905ed13c43f188908da5eed9b7249f52b362",
@@ -77,14 +77,14 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "3c723cef3b2102a5f52e582897eb14a4e10b0447"
+        "master": "a47eae8a1da7226054a929ac46b0599f2af9f285"
     },
     "ruby-kit": {
         "1.1-prime": "57f5fcabf4d02cf9752e62656e3820e56b0dfe37",
         "1.2-prime": "86f194a540bc831af087141ea9eb0d328586a51b"
     },
     "science-kit": {
-        "master": "392207bdfd5a76c12c9911988c6cce5c67eeab9b"
+        "master": "c8e89eee96a0ae573133e360061d803093888fcd"
     },
     "security-kit": {
         "1.0-prime": "fc2ab3a2648ec9e3672e53eaa1c8cf57626054ba",
