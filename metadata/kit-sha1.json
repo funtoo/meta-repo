@@ -16,7 +16,7 @@
         "1.2-prime": "2b7d4aaedc6e46a7a3e9c184b5dfb67dc419df46"
     },
     "editors-kit": {
-        "master": "c4a38beecbb1226d18cf4dbffec840385d827a9c"
+        "master": "d56c15b6bea3f72e5f94070fb7c60615fb7c98af"
     },
     "games-kit": {
         "master": "c8acca93b199b659c53733ea082c396612dda0e2"
@@ -43,8 +43,8 @@
         "1.2-prime": "a0b39aeaba9b25e3f7f28988377acbed02cfbd87"
     },
     "lisp-scheme-kit": {
-        "1.1-prime": "5c2e56f6578402a1903abbf5994569bef3575d82",
-        "1.2-prime": "9e9138e15a7cf51d07415f855f11013cd7854efc"
+        "1.1-prime": "5d9497888f4df47f7fd709e7bba5697353015fad",
+        "1.2-prime": "77e53b546251523604da213d9c127a807ec1d702"
     },
     "llvm-kit": {
         "1.2-prime": "cff2d461b0620e6e11b9b1a64c94afdde5ee75ed"
@@ -59,10 +59,10 @@
         "1.2-prime": "4284307335d02312a8c7370417bc788d0e83c618"
     },
     "net-kit": {
-        "master": "91b6096c7051914091946b4b46d423c7465cc90c"
+        "master": "8797defcaeec0c4a5610fd7135a606dcab4073cc"
     },
     "nokit": {
-        "master": "b54ab86e87dd262fbb4a0acca34812d4fa78bd17"
+        "master": "e4f0bedd228ba83d9f2fbd7287cfc066dac8b14f"
     },
     "perl-kit": {
         "5.24-prime": "4814905ed13c43f188908da5eed9b7249f52b362",
@@ -77,14 +77,14 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "028bae37a8e86ea616574cc4e47f26852a52a159"
+        "master": "e199f2a547c5a8fd3082204cb699d71e45b85c76"
     },
     "ruby-kit": {
         "1.1-prime": "9e7a3bca9a4cd61e369d43636874b2a80c766bc3",
         "1.2-prime": "2be4803df53c8e596c6c38609de089245ec4c35b"
     },
     "science-kit": {
-        "master": "f02ef8a66507cccf49194d3fb363dad06d740ecc"
+        "master": "6f7957c11d64fcfc49a94a1d37de7845f79cfb14"
     },
     "security-kit": {
         "1.0-prime": "fc2ab3a2648ec9e3672e53eaa1c8cf57626054ba",
@@ -92,7 +92,7 @@
         "1.2-prime": "717ddb38faf1c434f39fa5847e471e6de1fe0a00"
     },
     "text-kit": {
-        "master": "e6fa837063803d320b30bbcb55b0dfab33d6064d"
+        "master": "cdf71a775acb3e7e3ca37e00c7ced6104d27071b"
     },
     "xfce-kit": {
         "4.12-prime": "0b2ccac56465ae4cc0ecc85494d24f87b9cde43f"
