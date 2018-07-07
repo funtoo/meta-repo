@@ -16,10 +16,10 @@
         "1.2-prime": "2b7d4aaedc6e46a7a3e9c184b5dfb67dc419df46"
     },
     "editors-kit": {
-        "master": "916c944df4b5d5be91b9043be9d01ee3edf2ac61"
+        "master": "c4a38beecbb1226d18cf4dbffec840385d827a9c"
     },
     "games-kit": {
-        "master": "d911d08a633c0933c34da5c0c4cb1b17d0973be0"
+        "master": "c8acca93b199b659c53733ea082c396612dda0e2"
     },
     "gnome-kit": {
         "3.20-prime": "85192b7a04fa622f9dd097fc01caa4124b30f82f",
@@ -43,8 +43,8 @@
         "1.2-prime": "a0b39aeaba9b25e3f7f28988377acbed02cfbd87"
     },
     "lisp-scheme-kit": {
-        "1.1-prime": "5f66c202f7f4215615ac0d0dfed051bcc08ab612",
-        "1.2-prime": "c1db10cefdf1d98dde9f40a8867535e870008972"
+        "1.1-prime": "5c2e56f6578402a1903abbf5994569bef3575d82",
+        "1.2-prime": "9e9138e15a7cf51d07415f855f11013cd7854efc"
     },
     "llvm-kit": {
         "1.2-prime": "cff2d461b0620e6e11b9b1a64c94afdde5ee75ed"
@@ -59,10 +59,10 @@
         "1.2-prime": "4284307335d02312a8c7370417bc788d0e83c618"
     },
     "net-kit": {
-        "master": "4b4e2eb20770b1d807b0c73cadfe42f972729822"
+        "master": "91b6096c7051914091946b4b46d423c7465cc90c"
     },
     "nokit": {
-        "master": "cfd8d0c6ec84ec2c9da4ca0fa37fbad55715a307"
+        "master": "b54ab86e87dd262fbb4a0acca34812d4fa78bd17"
     },
     "perl-kit": {
         "5.24-prime": "4814905ed13c43f188908da5eed9b7249f52b362",
@@ -77,7 +77,7 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "8ee43f95e3d552ec054fad427df4ee54f13acefe"
+        "master": "028bae37a8e86ea616574cc4e47f26852a52a159"
     },
     "ruby-kit": {
         "1.1-prime": "9e7a3bca9a4cd61e369d43636874b2a80c766bc3",
@@ -92,7 +92,7 @@
         "1.2-prime": "717ddb38faf1c434f39fa5847e471e6de1fe0a00"
     },
     "text-kit": {
-        "master": "4c68fff1f30cdddebadf4cb9c70fa73417b5910e"
+        "master": "e6fa837063803d320b30bbcb55b0dfab33d6064d"
     },
     "xfce-kit": {
         "4.12-prime": "0b2ccac56465ae4cc0ecc85494d24f87b9cde43f"
