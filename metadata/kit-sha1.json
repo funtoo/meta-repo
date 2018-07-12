@@ -16,10 +16,10 @@
         "1.2-prime": "a211798308ce300bb4d93edd43bdee65ef0b71d3"
     },
     "editors-kit": {
-        "master": "151bbac8c70cc1de2205820aa2ffca68955ccced"
+        "master": "5a6557d19ec104c61c5abcbf7443e814b153a4f5"
     },
     "games-kit": {
-        "master": "5fbffa241e2336923b2e154e0e4162065d10d2d3"
+        "master": "1ff100491ce8cfb2dc6eaadd140b45aacbc035dd"
     },
     "gnome-kit": {
         "3.20-prime": "cfd18d9c759b20028d16c17304ca0f7dfb195ebc",
@@ -51,18 +51,18 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "fb7cf02600bc8e4c2342827068a58e33f52ab2d3",
-        "1.2-prime": "e2a7bd58d71aa29d0ae9290569375cdb445c6cfa"
+        "1.1-prime": "073440c32bb427b3681898b843cd6a6789874a4e",
+        "1.2-prime": "2821372de4488df2767fe6bc4fe962fe95bc97eb"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
         "1.2-prime": "6cfa740f020d0c5eab98643b38adcf5e4aeafc1b"
     },
     "net-kit": {
-        "master": "2015535c92dfde126eb1fca16e7fbea38ea9a876"
+        "master": "eb3ab1e1075e9af2d5b903ab54bb8ab37643351e"
     },
     "nokit": {
-        "master": "0266aabb15ac3aa6526fdc6782ffa7572d2b0cf1"
+        "master": "97661b6c126537500c79e5585b812e91a4f95ddc"
     },
     "perl-kit": {
         "5.24-prime": "a84c405438797161a89ddb1202bbb9c699c24f30",
@@ -77,14 +77,14 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "50e8fbd81e1edca359ef7819823164be0fca3503"
+        "master": "965bcad1f9a77e59ebf2361a96b71b098bbcfe94"
     },
     "ruby-kit": {
         "1.1-prime": "3d359dadb8cbb173ef56e0e45851d0d6f1ac7cce",
         "1.2-prime": "4ec221d0404f9d1d1bde041d94df0ab6da563721"
     },
     "science-kit": {
-        "master": "d2ce304f5d91b90ccf822967b43182929055d9c4"
+        "master": "db45bcdc8c4c990b6aaa0bd2349f60dcb03139f9"
     },
     "security-kit": {
         "1.0-prime": "5b8162dfcb2e14f1205775ac95183fe1d4ff485c",
