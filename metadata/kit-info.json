@@ -212,5 +212,52 @@
                 "1.19-prime": "prime"
             }
         }
+    },
+    "release_defs": {
+        "1.2": {
+            "core-kit": [
+                "1.2-prime"
+            ],
+            "desktop-kit": [
+                "1.2-prime"
+            ],
+            "dev-kit": [
+                "1.2-prime"
+            ],
+            "gnome-kit": [
+                "3.20-prime",
+                "3.26-prime"
+            ],
+            "haskell-kit": [
+                "1.2-prime"
+            ],
+            "java-kit": [
+                "1.2-prime"
+            ],
+            "kde-kit": [
+                "5.12-prime"
+            ],
+            "lang-kit": [
+                "1.2-prime"
+            ],
+            "lisp-scheme-kit": [
+                "1.2-prime"
+            ],
+            "media-kit": [
+                "1.2-prime"
+            ],
+            "python-kit": [
+                "3.6-prime"
+            ],
+            "ruby-kit": [
+                "1.2-prime"
+            ],
+            "security-kit": [
+                "1.2-prime"
+            ]
+        }
+    },
+    "release_info": {
+        "default": null
     }
 }
