@@ -5,7 +5,7 @@
     "core-kit": {
         "1.0-prime": "d65c9a9f1fbf1f5fe2ab7b473713e16c7cda4023",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "580ad9b09cf77f4402eb53251762068b76e499f0"
+        "1.2-prime": "19c9112c39c63668058d955c351b160609a7ab5d"
     },
     "desktop-kit": {
         "1.1-prime": "13d4e01159125809ff4b60e7834553a96f432d7f",
@@ -22,8 +22,8 @@
         "master": "1ff100491ce8cfb2dc6eaadd140b45aacbc035dd"
     },
     "gnome-kit": {
-        "3.20-prime": "cfd18d9c759b20028d16c17304ca0f7dfb195ebc",
-        "3.26-prime": "7469a292e5eb975254d7f78a182ce94055c90eae"
+        "3.20-prime": "26a9c8b52c6b9bd6e86612be566ce1d577c86293",
+        "3.26-prime": "67e5e9da6d880482d6543de13798fe7f0b53c32b"
     },
     "haskell-kit": {
         "1.1-prime": "95485e5b946fc63da089ade2af6aa74d0350ee05",
@@ -51,8 +51,8 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "dbd8082d1ee26f65128fdc2d55834438fc2a7d24",
-        "1.2-prime": "ae831dd947e07e75b91a4a1e7b92a6c34e8595ca"
+        "1.1-prime": "2ba67dd4b730785fb15e74d870bd433a5117c5b5",
+        "1.2-prime": "8a7823accd2ce2118335f897d20439edf4c09fbf"
     },
     "ml-lang-kit": {
         "1.1-prime": "6cde784c6df406705743280d06015b9fe74be8ee",
@@ -62,7 +62,7 @@
         "master": "f20571a24964891a5135004d4aa71e8b02e5093d"
     },
     "nokit": {
-        "master": "a97634f587682ed140a6263d00096377128c0315"
+        "master": "ea5733b6f5e569051baf2b1b093a90b2cf4be192"
     },
     "perl-kit": {
         "5.24-prime": "a84c405438797161a89ddb1202bbb9c699c24f30",
@@ -87,9 +87,9 @@
         "master": "1211e4bd79ce2d0a6f74e3ecb66b025843cd4cd8"
     },
     "security-kit": {
-        "1.0-prime": "5b8162dfcb2e14f1205775ac95183fe1d4ff485c",
+        "1.0-prime": "6f9065d0b5a35500e940dca82131271479d469e1",
         "1.1-prime": "0bd2f303c4d1d4719bb7134f0e53b4ccd50b020d",
-        "1.2-prime": "5452859f4ab1606aa1e795f0420fb06d728b785c"
+        "1.2-prime": "f1e76f9148b4ea02c80a648f23648284b94279b0"
     },
     "text-kit": {
         "master": "7bf356b0590e402d3ae7c56f40797460cb906fa6"
