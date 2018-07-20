@@ -40,21 +40,21 @@
             "stability": {
                 "1.0-prime": "prime",
                 "1.1-prime": "deprecated",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "desktop-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "dev-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "editors-kit": {
@@ -73,21 +73,21 @@
             "default": "3.20-prime",
             "stability": {
                 "3.20-prime": "prime",
-                "3.26-prime": "dev"
+                "3.26-prime": "prime"
             }
         },
         "haskell-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "java-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "kde-kit": {
@@ -102,14 +102,14 @@
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "lisp-scheme-kit": {
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "llvm-kit": {
@@ -123,7 +123,7 @@
             "stability": {
                 "1.0-prime": "deprecated",
                 "1.1-prime": "prime",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "ml-lang-kit": {
@@ -176,7 +176,7 @@
             "default": "1.1-prime",
             "stability": {
                 "1.1-prime": "prime",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "science-kit": {
@@ -190,7 +190,7 @@
             "stability": {
                 "1.0-prime": "prime",
                 "1.1-prime": "deprecated",
-                "1.2-prime": "beta"
+                "1.2-prime": "prime"
             }
         },
         "text-kit": {
