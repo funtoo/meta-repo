@@ -12,14 +12,14 @@
         "1.2-prime": "19ce08c581550b002c6b5e2530ff0d91b56d3cd4"
     },
     "dev-kit": {
-        "1.1-prime": "917e3dfa466ad59d1a9b0bae608454da39ad4759",
-        "1.2-prime": "3c98783bb865b3c1f96c6b7dce8803d23e6f5bc2"
+        "1.1-prime": "e98a9ed010cd3d9f8461275e3e3a3b46538f81d1",
+        "1.2-prime": "6eb2e49c9aa96e37cd5746d4588e6ddcd363e84e"
     },
     "editors-kit": {
-        "master": "1d9131da64acfadddf52af8027adfa4a684b26e3"
+        "master": "c5bff7b93400fcf24710e0f234c60f98d6b6377b"
     },
     "games-kit": {
-        "master": "8ef33113a6ed22fdeac0e3e54379ab147a5e1611"
+        "master": "b84b0e3943b2906e3ba81c86c819512f458db38c"
     },
     "gnome-kit": {
         "3.20-prime": "cbb24030f6e3504b744969ea85d0364cddce8aa6",
@@ -59,14 +59,14 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "fc19ff136a2763a9740b57f831c5b05176ef5c2a"
+        "master": "c8ff2579c1c24656475a250c5771c6afaba44c71"
     },
     "nokit": {
-        "master": "fec20d5de45e8c5fd6bb5b3183860c7b34e8fc54"
+        "master": "3e57dcd4c191a674d9ba9f4211ea080eed326819"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
-        "5.26-prime": "84d36b748c0876713d3a0ca732c8cb9fafd36350"
+        "5.26-prime": "4350c0707f5f8f0674306025b6e9a838feee8824"
     },
     "php-kit": {
         "master": "97c9895fe2326e3746bb5f7ce0c2a7304d473faf"
@@ -77,14 +77,14 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "bd1cb9d7a1ccea512f7af02de7ee777ec20fbabf"
+        "master": "02593eb22ebc93f8d4acd9867290afe410618ccc"
     },
     "ruby-kit": {
         "1.1-prime": "508320d3e1d87a3f615c2832785a31ab38c8cd61",
         "1.2-prime": "6f9fade704420ace0d22f44b28c1cd8a5f704029"
     },
     "science-kit": {
-        "master": "753411d0d5f8920f9289fb5029d96190680e1938"
+        "master": "45633d57b2b386285b2dfe0c7f3198850e086bd7"
     },
     "security-kit": {
         "1.0-prime": "6b346524bbbedc8e91272a2d23e7b31c90784d54",
