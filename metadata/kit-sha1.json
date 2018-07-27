@@ -23,7 +23,7 @@
     },
     "gnome-kit": {
         "3.20-prime": "fbb9f1d69252f97e8e52b28f54eae48965b06b99",
-        "3.26-prime": "f13f53ad9fe54f84527095ad9a901499c6a16568"
+        "3.26-prime": "d2946dc438a903bbe96d326953dea72b7ae6bdff"
     },
     "haskell-kit": {
         "1.1-prime": "063c47cdc6dec590f931fbf5223c59534f1845aa",
@@ -59,10 +59,10 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "bf701cd825bb5d741775de0826edd1e871849cfc"
+        "master": "ccc60269732a4355667aedfda1a45ca56ab07a94"
     },
     "nokit": {
-        "master": "f51adabc323ab9f6c1a2673572de01ef44fe7668"
+        "master": "3fa96ae93d09d1dc1e671a324da9fc0cd4978cb8"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
