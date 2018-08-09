@@ -3,20 +3,20 @@
         "master": "50bc3c5a9153a45ca52f21e2e504bd434a474cac"
     },
     "core-kit": {
-        "1.0-prime": "9684f0252a17f213033d9a1fb0a49efb70f84e84",
+        "1.0-prime": "d368020559bdc95882c2cf3df4c36c1b9d6b044d",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "1ab93e57acbf1570554f216cc9c24a389addcef5"
+        "1.2-prime": "ea9a62b3daf990677cc455e26ef0d486e6b495b3"
     },
     "desktop-kit": {
         "1.1-prime": "54514c5ceec5d7687d89212cc2f63fed4f997fca",
         "1.2-prime": "c2e7d903a4d6e918b9cd51842b64493bfec96482"
     },
     "dev-kit": {
-        "1.1-prime": "a4fd5f5f927c9826651fcf8f692617f2e903a1fc",
-        "1.2-prime": "2616cc8aae9efca34a3201b58fafb21a08e5fce4"
+        "1.1-prime": "99797469b3d42d0132d80f9144e3faa790b60325",
+        "1.2-prime": "ebb3a5c5eba86801c5d163b32a105933c836d9af"
     },
     "editors-kit": {
-        "master": "35b160217f8db0e52e05a544123ec3385cd42958"
+        "master": "44b229268cbdbc1ad2ec14454eefc292dd367d0d"
     },
     "games-kit": {
         "master": "2cdd26923c47b1ab21c604b2deff0c7271dfe0b0"
@@ -62,14 +62,14 @@
         "master": "bdf6cfbb5297294994aa95900a9a947a3f2fe389"
     },
     "nokit": {
-        "master": "e2333a570c01300cc86eb8581bc3d666076859e4"
+        "master": "07a571fff0a9f05033bcd6965eaef7c06d4e7504"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
         "5.26-prime": "97f57e64eb6cb560727ce4b1be10eb43572e6b26"
     },
     "php-kit": {
-        "master": "b7a7aa3e431c4377bbb23ef7b0d61ce41ac2569d"
+        "master": "3f6c610809a0a71b59790096c34f2f23e82ec82f"
     },
     "python-kit": {
         "3.4-prime": "efa57315fe78dd42489b7d731d6e5872b8ff6e54",
@@ -77,7 +77,7 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "d72d4f828589d1720656b0f7693f66d1aa38b28e"
+        "master": "e7034046cd04e5d352e96296dd6801a957fd0a94"
     },
     "ruby-kit": {
         "1.1-prime": "3b61b2b3085315d9698668bf5f32bf73720bfb1a",
