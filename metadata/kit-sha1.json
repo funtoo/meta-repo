@@ -12,11 +12,11 @@
         "1.2-prime": "c2e7d903a4d6e918b9cd51842b64493bfec96482"
     },
     "dev-kit": {
-        "1.1-prime": "99797469b3d42d0132d80f9144e3faa790b60325",
-        "1.2-prime": "ebb3a5c5eba86801c5d163b32a105933c836d9af"
+        "1.1-prime": "497c9994cc1864a260a107e5c173d9166d9630b5",
+        "1.2-prime": "1551651083897a2c514dfc482a2d9b87ddf55bc6"
     },
     "editors-kit": {
-        "master": "44b229268cbdbc1ad2ec14454eefc292dd367d0d"
+        "master": "0c8977d700eb72c2632262ad062379297148c871"
     },
     "games-kit": {
         "master": "2cdd26923c47b1ab21c604b2deff0c7271dfe0b0"
@@ -59,10 +59,10 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "bdf6cfbb5297294994aa95900a9a947a3f2fe389"
+        "master": "046e750483b03d95a7f5d9a157a3d1d6e4a1020b"
     },
     "nokit": {
-        "master": "07a571fff0a9f05033bcd6965eaef7c06d4e7504"
+        "master": "523354a63f7b929128c2de209047f66638b377b2"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
@@ -77,14 +77,14 @@
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e"
     },
     "python-modules-kit": {
-        "master": "e7034046cd04e5d352e96296dd6801a957fd0a94"
+        "master": "82d5be0620a0342bd3533f3a42e0f02b82ff65f1"
     },
     "ruby-kit": {
         "1.1-prime": "3b61b2b3085315d9698668bf5f32bf73720bfb1a",
         "1.2-prime": "8b57010b14c654c87716c19279bb68931972a1b4"
     },
     "science-kit": {
-        "master": "b9b13bc1ca50bc647cdaf103c7c261121a8cc610"
+        "master": "e336a8f7f3a61eadcd2e6345d252e1dfa9a8154c"
     },
     "security-kit": {
         "1.0-prime": "6b346524bbbedc8e91272a2d23e7b31c90784d54",
@@ -92,7 +92,7 @@
         "1.2-prime": "8400cb43a03415bdb8747a3b37159e27154d9600"
     },
     "text-kit": {
-        "master": "40fc5e74c0350e499f27b29ea84c6a667b9b9706"
+        "master": "9e12f3229301f18445c8bb37ce5dd12a7f284d86"
     },
     "xfce-kit": {
         "4.12-prime": "98055f417173711bda74530275c59ea1403b3fd6"
