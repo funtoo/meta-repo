@@ -208,11 +208,11 @@
             }
         },
         "xorg-kit": {
-            "default": "1.20-releae",
+            "default": "1.20-release",
             "stability": {
                 "1.17-prime": "prime",
                 "1.19-prime": "prime",
-                "1.20-releae": "prime"
+                "1.20-release": "prime"
             }
         }
     },
