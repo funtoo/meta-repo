@@ -16,14 +16,14 @@
         "1.2-prime": "df30b51d87091cf6f0db8bf2a7af9a223f2c6e96"
     },
     "editors-kit": {
-        "master": "a67c2b6d353f7f905d0a9dfca83fce48449e5ed5"
+        "master": "433ad0d5c4ce063d87a47a0cc496dcdd438ee8a7"
     },
     "games-kit": {
         "master": "f401bfc72fd161ccd87fb53580a5801914503ff8"
     },
     "gnome-kit": {
         "3.20-prime": "fbb9f1d69252f97e8e52b28f54eae48965b06b99",
-        "3.26-prime": "aa738b47580de8dfb8c9fe8a88d2bc7be6604443"
+        "3.26-prime": "f6f07c38a4b1f11e8172ffbbf9772c0a754eff38"
     },
     "haskell-kit": {
         "1.1-prime": "9a734811efe60d8b0d657e764f45e2565dd234f2",
@@ -62,7 +62,7 @@
         "master": "3358b036701477f76f05fa5e8a380288a1a6209c"
     },
     "nokit": {
-        "master": "6e9a24a25606f4a26a65aff5567518500e3472f7"
+        "master": "139d7dda34adb80c572731c7639eecd6ffe3bc30"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
