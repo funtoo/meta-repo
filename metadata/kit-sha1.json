@@ -16,7 +16,7 @@
         "1.2-prime": "4bb286cff286053176c101e5eabdfba64139ce41"
     },
     "editors-kit": {
-        "master": "e05940c0483530b83129675cb6dd67598b9d24ea"
+        "master": "397c5ed725a4f57bc6bdf0cd1acc997c9edf90a6"
     },
     "games-kit": {
         "master": "1b2d929834bd85a6cf6446c22e94f363f12cf2ae"
@@ -59,10 +59,10 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "9527b5946f1559ac7ea839cae56dca9cca06a8c1"
+        "master": "6b84846d448bf9d289bea5d3eb236cb8c6818f91"
     },
     "nokit": {
-        "master": "d1cd96ea95b780743fe7209a76b4d1ed17893565"
+        "master": "7fab72ae51b95522391a37a9ad18506d476fca34"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
@@ -79,14 +79,14 @@
         "3.7-release": "f0a9050342a198d86a9b86d356ef03214d0bccbb"
     },
     "python-modules-kit": {
-        "master": "e85462a9d4025ff173b3efeefda0c12f714df7b7"
+        "master": "798d156278f82751d4af5a79009de4f47909cb47"
     },
     "ruby-kit": {
         "1.1-prime": "cf4bdc385e7d356f41f73be49c92c6eebe76f185",
         "1.2-prime": "7ac83f24abd6593b5dad8c23eec1a3960d6ef4c3"
     },
     "science-kit": {
-        "master": "c4979f241c788a6a478e5e2ab76d1bff7f7eefc7"
+        "master": "86055e33bfdcb4c6aa0f557d6f2c3e1f774e3a07"
     },
     "security-kit": {
         "1.0-prime": "6b346524bbbedc8e91272a2d23e7b31c90784d54",
@@ -102,6 +102,6 @@
     "xorg-kit": {
         "1.17-prime": "ecd3d9dbe9e49ccb641388912f80a851a680cbef",
         "1.19-prime": "90787ea7993b692d9e6d6f7cd1bb4d9b0ca5f8ad",
-        "1.20-release": "74a38c6170130c32e4855093dcfb2083b11fab49"
+        "1.20-release": "763a9a9eff0aa723460330606e6febc1791eb34b"
     }
 }
