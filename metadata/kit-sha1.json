@@ -3,9 +3,9 @@
         "master": "15a9b1b006da69a34ea310625a6247a7804c5c7d"
     },
     "core-kit": {
-        "1.0-prime": "6a09c7e72d0b070d22b82a8522c79f58f7bf5053",
+        "1.0-prime": "cbcf5a1626b9451ed3a0b1398e72244082b9cc84",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "4f3f51af1538edb73b97276a23d18421e2c7f0e5"
+        "1.2-prime": "b77b2e1df8112c9e29222ba38bc84bceced670ba"
     },
     "desktop-kit": {
         "1.1-prime": "e98ce84292757f219ac967e504b673f008b02750",
@@ -59,18 +59,18 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "9d513c70d64fa4964dd07ccdfcae79c8a64f5443"
+        "master": "6cbe322edd35066c05b97fb004a7cfd8066a7671"
     },
     "nokit": {
-        "master": "97581560e50457f57bd3aa2c373457bfeef08fe7"
+        "master": "62d7b1669aca7ad44339eaa9826574b0ca8d1471"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
         "5.26-prime": "97f57e64eb6cb560727ce4b1be10eb43572e6b26",
-        "5.28-release": "0ae9d1583d37ee1d89484fd14e2b825fbbc2c12b"
+        "5.28-release": "9d88005a5a6c5cca827be05169387a93a1807452"
     },
     "php-kit": {
-        "master": "8d4ea1a946567fa6f4565c1a4f42c2dc02ab6233"
+        "master": "a5e16589f49aec8a03c3663f44da959b1c7c8e86"
     },
     "python-kit": {
         "3.4-prime": "efa57315fe78dd42489b7d731d6e5872b8ff6e54",
@@ -79,7 +79,7 @@
         "3.7-release": "24be4068a198d9a360bdcbcf372da5c0a34b89f3"
     },
     "python-modules-kit": {
-        "master": "7a5a4782451ff4628cad8962f05c6900baa76aca"
+        "master": "1710e9949d9d9e8583cae210a89701a24c521360"
     },
     "ruby-kit": {
         "1.1-prime": "7f60a932acaf711872e4221099754e2662537033",
@@ -94,7 +94,7 @@
         "1.2-prime": "7b3d4adca9b722f312cfb5dd087ccd29e57aa2a5"
     },
     "text-kit": {
-        "master": "9ac01aff0344a103ba4542ee2cd4cac9d5260151"
+        "master": "402d9aa9186e0b6faaa0d3dca2350839f15b8ddc"
     },
     "xfce-kit": {
         "4.12-prime": "988802d0ab85cc83d28594de4bad55c00ddf14f5"
@@ -102,6 +102,6 @@
     "xorg-kit": {
         "1.17-prime": "ecd3d9dbe9e49ccb641388912f80a851a680cbef",
         "1.19-prime": "5b8b44391acd4e1909ac9e323945af249e82edcd",
-        "1.20-release": "be967155b3eb952ec78f1b1ed05e205f27d0474a"
+        "1.20-release": "ba4b3fc6d6b41abe56584df68757afb0758d64e1"
     }
 }
