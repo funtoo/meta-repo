@@ -115,7 +115,8 @@
         "llvm-kit": {
             "default": "1.2-prime",
             "stability": {
-                "1.2-prime": "prime"
+                "1.2-prime": "prime",
+                "master": "dev"
             }
         },
         "media-kit": {
