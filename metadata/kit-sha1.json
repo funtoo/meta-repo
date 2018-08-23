@@ -12,11 +12,11 @@
         "1.2-prime": "6cc91582095052e2b4f59bc315944bf9c8a11f39"
     },
     "dev-kit": {
-        "1.1-prime": "29688c8e87cc727d4ab17dcc449c3f168b015d3a",
-        "1.2-prime": "522873ff19efe5d66f03360131eb80dee748e4af"
+        "1.1-prime": "df08076c38c1441d67ba23e7a90377d314488c7d",
+        "1.2-prime": "de072535135137ce901d5cdd758750eda92475ba"
     },
     "editors-kit": {
-        "master": "6abe3e5118cf586ac15b7c026bec23816a3c0818"
+        "master": "662484cf7be763f3413c795a928327b7d6b6c86f"
     },
     "games-kit": {
         "master": "55a2f6fe2611d6162984bf8a510f16995e996e1b"
@@ -101,8 +101,8 @@
         "4.12-prime": "988802d0ab85cc83d28594de4bad55c00ddf14f5"
     },
     "xorg-kit": {
-        "1.17-prime": "ecd3d9dbe9e49ccb641388912f80a851a680cbef",
-        "1.19-prime": "f973883095a0cd3f2f33592dc8cfc11ddabbe5c9",
+        "1.17-prime": "56d4010dc0107e09799c15cf5fc067a696a8bfbf",
+        "1.19-prime": "ab7e976b1ac893951e646b3c4a5bfb87326532cd",
         "1.20-release": "8c64eadb377c24aa341b41895cfddbad3dc59ee1"
     }
 }
