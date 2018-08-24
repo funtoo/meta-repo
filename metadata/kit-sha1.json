@@ -3,9 +3,9 @@
         "master": "15a9b1b006da69a34ea310625a6247a7804c5c7d"
     },
     "core-kit": {
-        "1.0-prime": "174eae8068558856d41d41ebe274625b04ccab91",
+        "1.0-prime": "9438fcbb6d53560be2674adaf9ab9e8aa8698bd7",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "ba8a3439d5e0d8cc3ce6cfc27d55df791eaedf0a"
+        "1.2-prime": "54d84e6b67d9da9c6a95fe0332a4e54071be6afa"
     },
     "desktop-kit": {
         "1.1-prime": "63c2fd3874558fe1fba3e4f9225ac9649bb86df5",
@@ -13,7 +13,7 @@
     },
     "dev-kit": {
         "1.1-prime": "df08076c38c1441d67ba23e7a90377d314488c7d",
-        "1.2-prime": "de072535135137ce901d5cdd758750eda92475ba"
+        "1.2-prime": "70347f3e33e7761c6ef4036c8501343227cf5e4b"
     },
     "editors-kit": {
         "master": "9b52c2581b7c1cbaf64e07d1c5fbe7babadc47f0"
@@ -80,7 +80,7 @@
         "3.7-release": "24be4068a198d9a360bdcbcf372da5c0a34b89f3"
     },
     "python-modules-kit": {
-        "master": "88fd9ec3e5f8f00824cb638f376b832517a96505"
+        "master": "189de38db19d7e06e9ae8b1d9ca16318bb5c1cf1"
     },
     "ruby-kit": {
         "1.1-prime": "7f60a932acaf711872e4221099754e2662537033",
