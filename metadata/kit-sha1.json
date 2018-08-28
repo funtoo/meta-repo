@@ -1,11 +1,11 @@
 {
     "core-hw-kit": {
-        "master": "a7ab2ed9017052c02d2e060a255505b1c0c306b9"
+        "master": "3c8606a867f3fb50bfcbe1b567af27101e0eaf7a"
     },
     "core-kit": {
-        "1.0-prime": "c92510852eb49115fb13b7c58a7ba99a6e81fb6f",
+        "1.0-prime": "f26e56c912196682041fd1f8bc7dce1d2c56dff8",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "ce41c1eb49b27491510ca85cfa2a82c9d58d1d6b"
+        "1.2-prime": "43b8208ad661d6ff6fe66166658d35c49584c8f8"
     },
     "desktop-kit": {
         "1.1-prime": "63c2fd3874558fe1fba3e4f9225ac9649bb86df5",
@@ -16,7 +16,7 @@
         "1.2-prime": "afdd2a45bbf94d53d0abd331ced556ae94b80574"
     },
     "editors-kit": {
-        "master": "13f7277cd0065eff05272b728833f1eac31d45d9"
+        "master": "d627034258b955c5f6ecc4108eaf47c3d8c65e26"
     },
     "games-kit": {
         "master": "c43ba850149eafb4ed6053acf24aef067ca97548"
@@ -80,7 +80,7 @@
         "3.7-release": "24be4068a198d9a360bdcbcf372da5c0a34b89f3"
     },
     "python-modules-kit": {
-        "master": "3a2981877283b5355dbe1fb817e8bd81c1856adc"
+        "master": "bc3e8f4251dfeb38f7c12050c75ffdafdb598d93"
     },
     "ruby-kit": {
         "1.1-prime": "7f60a932acaf711872e4221099754e2662537033",
