@@ -1,11 +1,11 @@
 {
     "core-hw-kit": {
-        "master": "3c8606a867f3fb50bfcbe1b567af27101e0eaf7a"
+        "master": "823bc491370488b2bfaff7a61280f996dc9f3ff0"
     },
     "core-kit": {
-        "1.0-prime": "3ac029ae7c08da52648d37ebcd373a555e8d880d",
+        "1.0-prime": "71d80f66fdd881a16a3e7706d2bce9fdcf4cac40",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "5d455322d1d6268aaca5f23715b9b74cc6770644"
+        "1.2-prime": "9bbeecd4d52b55e7f4e1c207cd1ac3cf82398403"
     },
     "desktop-kit": {
         "1.1-prime": "63c2fd3874558fe1fba3e4f9225ac9649bb86df5",
@@ -16,7 +16,7 @@
         "1.2-prime": "afdd2a45bbf94d53d0abd331ced556ae94b80574"
     },
     "editors-kit": {
-        "master": "d627034258b955c5f6ecc4108eaf47c3d8c65e26"
+        "master": "2a3b673cd324d6a114860109186c4fadb18656a4"
     },
     "games-kit": {
         "master": "c43ba850149eafb4ed6053acf24aef067ca97548"
@@ -48,7 +48,7 @@
     },
     "llvm-kit": {
         "1.2-prime": "845cb2e4574ae8acaa1d10ca7cc07decf5e6ba6e",
-        "master": "a00add5f4f701c41474344835a799f5e5ee7ed47"
+        "master": "ea5dcfda73958cc0d2fea344dd44fc61edbc5411"
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
@@ -60,10 +60,10 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "9c51c3df47bbdeb7f5c4a160d144c145ee99a44c"
+        "master": "0b95fe603dafbb0df35729597e7df34c5654785c"
     },
     "nokit": {
-        "master": "2c06541623380ace0901f036e69868b0aeb8f861"
+        "master": "18e60c6606ae8abc2ea23ce9cf4f66766f305c8d"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
@@ -80,7 +80,7 @@
         "3.7-release": "24be4068a198d9a360bdcbcf372da5c0a34b89f3"
     },
     "python-modules-kit": {
-        "master": "bc3e8f4251dfeb38f7c12050c75ffdafdb598d93"
+        "master": "8a8ea0875b39fdd1faac905f4d940ea62cba0651"
     },
     "ruby-kit": {
         "1.1-prime": "7f60a932acaf711872e4221099754e2662537033",
@@ -95,7 +95,7 @@
         "1.2-prime": "7b3d4adca9b722f312cfb5dd087ccd29e57aa2a5"
     },
     "text-kit": {
-        "master": "5e8670c3ebfa8442fbc17708dc04a3b9f2837bf1"
+        "master": "5bbe5e084e893044c8817bccd5c3f91e95c3bc77"
     },
     "xfce-kit": {
         "4.12-prime": "988802d0ab85cc83d28594de4bad55c00ddf14f5"
@@ -103,6 +103,6 @@
     "xorg-kit": {
         "1.17-prime": "56d4010dc0107e09799c15cf5fc067a696a8bfbf",
         "1.19-prime": "ab7e976b1ac893951e646b3c4a5bfb87326532cd",
-        "1.20-release": "07656352ff36b6cff776e7887bcd731a4a4fb7f3"
+        "1.20-release": "8fb0e03f2b790903ad9695371de3a926e69ee620"
     }
 }
