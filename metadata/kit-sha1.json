@@ -3,17 +3,17 @@
         "master": "66a9ce4709e13f62fe7cf085ce31df4d087abfb6"
     },
     "core-kit": {
-        "1.0-prime": "89ee7280bc2f64ab180267e47b41e966a13c1a70",
+        "1.0-prime": "a6a7fdf8dae28a66051c90dc4719d384980967d0",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "226656b140973c5cf58c00d6a4e6e74e2537a01e"
+        "1.2-prime": "92c63ef46f47545a37464181b6d4445ce3c02977"
     },
     "desktop-kit": {
         "1.1-prime": "aba506eee20cbf3746d1bdfa24efe195eedaa59b",
         "1.2-prime": "f9a96a847e28723cbf0fa99a2814bcf5f41a8cab"
     },
     "dev-kit": {
-        "1.1-prime": "d9559af26e83c72a17008546b9f99fb85b1a49a3",
-        "1.2-prime": "d03ed257302a95497de4e0c00f14c511555ea427"
+        "1.1-prime": "1c143cb1b2b3a11b9793a7f82e0929f2d63cec64",
+        "1.2-prime": "e0acf3d62ae3d0de2677f18e5324652d9cabfa79"
     },
     "editors-kit": {
         "master": "d768be94d7027c0ae2d671227aaeb4d5c77dcc03"
@@ -60,10 +60,10 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "b6a865e297e4fecee3a3baffc1423d9df9b6de69"
+        "master": "b4aae8140f04e1ed3a5e8667e949776d6e072043"
     },
     "nokit": {
-        "master": "0b534e647e197a0d66e448e7c3f4c70bb0c4bde4"
+        "master": "910f03767c0e6378770bc7e54bb79c194e5b4c2c"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
