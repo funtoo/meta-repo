@@ -1,11 +1,11 @@
 {
     "core-hw-kit": {
-        "master": "66a9ce4709e13f62fe7cf085ce31df4d087abfb6"
+        "master": "20ba07b4e33d66aef5dc66e90c956072bf0beb57"
     },
     "core-kit": {
-        "1.0-prime": "ccc15bc09165d0e90f2f52ae6d302a5698d5da73",
+        "1.0-prime": "c589bcf815bbf83877a1a394a29c045130feb1ae",
         "1.1-prime": "3667846bcb1bacbabe7845ac9ce2c0bb95698ffe",
-        "1.2-prime": "6c83fa8ac572e0e627477b5550fd983e23701091"
+        "1.2-prime": "20d4b28945c07f974ebdbb461e6e5f9a19ef2a0e"
     },
     "desktop-kit": {
         "1.1-prime": "aba506eee20cbf3746d1bdfa24efe195eedaa59b",
@@ -52,7 +52,7 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "4b90d206793a881bde7ae65d4bffa644210cf777",
+        "1.1-prime": "da7b964ea7e6fbcd9df192109db65cfcd3df3e03",
         "1.2-prime": "8927df0979b21ae46f54a421c0ec8d0530c345d5"
     },
     "ml-lang-kit": {
@@ -60,15 +60,15 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "c6ee1642c1615a7e7df82f8c0160858ab2ce77fe"
+        "master": "6e13a46364246f8f38265ae7d9ca13e0f67ba1bc"
     },
     "nokit": {
-        "master": "995079303dd1b3919488f769f25a8306e4ac9bae"
+        "master": "a417bbc3a3b2071e6501b7d80bfe7b41c46cb110"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
         "5.26-prime": "97f57e64eb6cb560727ce4b1be10eb43572e6b26",
-        "5.28-release": "8ca524310ef1424bb0086efbc59200e0ad5ebfa0"
+        "5.28-release": "b2632ce94787b5b96adeceea502a6b2af642d4da"
     },
     "php-kit": {
         "master": "1be62e105de0606ebb23faf0543eb760c244cfd8"
@@ -80,7 +80,7 @@
         "3.7-release": "3cba684a790c56203a17b947586915092dd82bca"
     },
     "python-modules-kit": {
-        "master": "c6190d9e6afd3e49c644fd0ac2ed144c08134cb6"
+        "master": "da619d415230d86c5581f31b0d967eeb9de3ff5d"
     },
     "ruby-kit": {
         "1.1-prime": "7f60a932acaf711872e4221099754e2662537033",
@@ -92,7 +92,7 @@
     "security-kit": {
         "1.0-prime": "18809a660cfe47317ae3873710bcd954d3716afe",
         "1.1-prime": "0bd2f303c4d1d4719bb7134f0e53b4ccd50b020d",
-        "1.2-prime": "f94070cd55443b2c4730a14cf185299ddefddc15"
+        "1.2-prime": "54b52290899a1a10d2cedea787a970079df559b3"
     },
     "text-kit": {
         "master": "ce7d86146e3707c9444a72337471cd15bd238005"
