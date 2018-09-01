@@ -23,7 +23,7 @@
     },
     "gnome-kit": {
         "3.20-prime": "fbb9f1d69252f97e8e52b28f54eae48965b06b99",
-        "3.26-prime": "fc25cc026e7aadc49103ef55d3f74d4a73be46ce"
+        "3.26-prime": "ac33c406f5d3f87f5bf0a865374762281322528c"
     },
     "haskell-kit": {
         "1.1-prime": "9a734811efe60d8b0d657e764f45e2565dd234f2",
@@ -52,7 +52,7 @@
     },
     "media-kit": {
         "1.0-prime": "c9e3e97fb11d8b375a708c0d98ed771c5cfd5b0f",
-        "1.1-prime": "0e1a94a16da0ca5862237a2283010e9b69ac62eb",
+        "1.1-prime": "4b90d206793a881bde7ae65d4bffa644210cf777",
         "1.2-prime": "8927df0979b21ae46f54a421c0ec8d0530c345d5"
     },
     "ml-lang-kit": {
@@ -60,10 +60,10 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "e4050837b7e4cf1530a32d83494d0eb5f5f7590b"
+        "master": "c6ee1642c1615a7e7df82f8c0160858ab2ce77fe"
     },
     "nokit": {
-        "master": "f51a79589c951dacdbd2754a0c6b33c36fc03859"
+        "master": "995079303dd1b3919488f769f25a8306e4ac9bae"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
@@ -80,19 +80,19 @@
         "3.7-release": "3cba684a790c56203a17b947586915092dd82bca"
     },
     "python-modules-kit": {
-        "master": "c463ee0f1d980e3bb6fcc2f9639bdcba1e71f6ed"
+        "master": "9236d7a8a04ff392cba35a9b660b031761e2cba2"
     },
     "ruby-kit": {
         "1.1-prime": "7f60a932acaf711872e4221099754e2662537033",
         "1.2-prime": "7ac83f24abd6593b5dad8c23eec1a3960d6ef4c3"
     },
     "science-kit": {
-        "master": "cb1383295a0083ad5739cac88e73eaae5770f26d"
+        "master": "c148d708fe1a57cc2a9979b7125c0de0a7894ae5"
     },
     "security-kit": {
         "1.0-prime": "18809a660cfe47317ae3873710bcd954d3716afe",
         "1.1-prime": "0bd2f303c4d1d4719bb7134f0e53b4ccd50b020d",
-        "1.2-prime": "18137f9ec15fd4f1c2f2f683a3e9a117ec111712"
+        "1.2-prime": "f94070cd55443b2c4730a14cf185299ddefddc15"
     },
     "text-kit": {
         "master": "ce7d86146e3707c9444a72337471cd15bd238005"
