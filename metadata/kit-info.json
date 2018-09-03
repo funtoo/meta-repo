@@ -205,7 +205,8 @@
         "xfce-kit": {
             "default": "4.12-prime",
             "stability": {
-                "4.12-prime": "prime"
+                "4.12-prime": "prime",
+                "4.13-release": "dev"
             }
         },
         "xorg-kit": {
