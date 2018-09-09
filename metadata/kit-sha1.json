@@ -12,8 +12,8 @@
         "1.2-prime": "f9a96a847e28723cbf0fa99a2814bcf5f41a8cab"
     },
     "dev-kit": {
-        "1.1-prime": "23d2a33bacb7a1b90c3af6642e7b1705deb0dedc",
-        "1.2-prime": "e956bf0ca8b38358c33be417503590340c9f2a5d"
+        "1.1-prime": "4dbdca494ae99256b402191daabad38918ebb7a1",
+        "1.2-prime": "e667249c60620d030a39ea74bf5e18f7ba656c00"
     },
     "editors-kit": {
         "master": "8cae81dae132b0ce347f265dd51382edd7b8f57e"
@@ -60,10 +60,10 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "5ef50e588a431ef5c7fd33baca733ea5de1469c8"
+        "master": "c18f7478746dafb6adf45b90f3d91acb32b29e6e"
     },
     "nokit": {
-        "master": "2bf7f59e6829f9eea6ad5b538b0adc613650b979"
+        "master": "1878c8854f742d057807630fcb77a97734bbbb2d"
     },
     "perl-kit": {
         "5.24-prime": "4a58abab6f4cfe33adc3bb1d64e906b15de7ee27",
@@ -77,10 +77,10 @@
         "3.4-prime": "efa57315fe78dd42489b7d731d6e5872b8ff6e54",
         "3.6-prime": "28e54042decefe05e4fc71c8eb41bbfdaf79b167",
         "3.6.3-prime": "1f09fc264e35538252d818f7a5633ce9b20d551e",
-        "3.7-release": "72303e292d029a6d7a825dca12b26ea8d654ff9a"
+        "3.7-release": "ed40f4bcf4f2546a0a1b2a293272eb909fda7cc5"
     },
     "python-modules-kit": {
-        "master": "3797ef7443b343f7a4e127200b760f563075a8c4"
+        "master": "13b61c6fb075163cf0c343cba1790a4fdb6c4755"
     },
     "ruby-kit": {
         "1.1-prime": "7f60a932acaf711872e4221099754e2662537033",
