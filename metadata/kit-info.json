@@ -203,10 +203,10 @@
             }
         },
         "xfce-kit": {
-            "default": "4.12-prime",
+            "default": "4.13-release",
             "stability": {
-                "4.12-prime": "prime",
-                "4.13-release": "dev"
+                "4.12-prime": "deprecated",
+                "4.13-release": "prime"
             }
         },
         "xorg-kit": {
