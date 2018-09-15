@@ -19,11 +19,11 @@
         "master": "23dbe8dd709569c432eefac77e543af814105d28"
     },
     "games-kit": {
-        "master": "8ed8c4ffdb0b0074864c801b128b2ee291be918e"
+        "master": "2938557c6d35712c9ba121ed7c32d379dc4e28d8"
     },
     "gnome-kit": {
         "3.20-prime": "fbb9f1d69252f97e8e52b28f54eae48965b06b99",
-        "3.26-prime": "ac33c406f5d3f87f5bf0a865374762281322528c"
+        "3.26-prime": "5383a886e3c8b9e49e2bf4446df0dcb007bc2fd9"
     },
     "haskell-kit": {
         "1.1-prime": "9a734811efe60d8b0d657e764f45e2565dd234f2",
@@ -60,18 +60,18 @@
         "1.2-prime": "1921d97dc138199ed31aaf83b2826910dd643f0e"
     },
     "net-kit": {
-        "master": "abe94af00acd5b0cfb5c07fbbb11342db8ca424b"
+        "master": "8ad47e8f65a37fb795eeaa8cb14d14455ca316d8"
     },
     "nokit": {
-        "master": "cd35ac63316820f162f0cab0c0733343fa36df59"
+        "master": "5455bbf476f1b0f2cd458593a9ad398ef32f443c"
     },
     "perl-kit": {
         "5.24-prime": "a29a3ca532ba0ff243088d58d7e0e3daa50f67d6",
         "5.26-prime": "97f57e64eb6cb560727ce4b1be10eb43572e6b26",
-        "5.28-release": "45fce067c0da862f26772425c24f9fe1cce7a7cf"
+        "5.28-release": "9dc6b189dc4d5d38255083ff4614687cd7c4392c"
     },
     "php-kit": {
-        "master": "29a35a495ad0015ae6dda9d976a301018b35986c"
+        "master": "e02b5b710ee78a07dcf72d15949b994997efda46"
     },
     "python-kit": {
         "3.4-prime": "efa57315fe78dd42489b7d731d6e5872b8ff6e54",
@@ -80,14 +80,14 @@
         "3.7-release": "b573765770721bf8eeb84b00895bc5932d7cbac4"
     },
     "python-modules-kit": {
-        "master": "9b22823387e386f85d9f38c6343e28f23288c6a4"
+        "master": "f7225225a6279a0f2cf2d0ece5b2f7aa92168365"
     },
     "ruby-kit": {
         "1.1-prime": "7f60a932acaf711872e4221099754e2662537033",
         "1.2-prime": "64313966e285aa5045846c4dc631f62cb0bbc720"
     },
     "science-kit": {
-        "master": "6eb823f598e499338c31c657870fb79b134b5891"
+        "master": "857eb5af61bf03125acfbf99bb7c47231b7c11e7"
     },
     "security-kit": {
         "1.0-prime": "18809a660cfe47317ae3873710bcd954d3716afe",
