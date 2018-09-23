@@ -30,196 +30,146 @@
     ],
     "kit_settings": {
         "core-hw-kit": {
-            "default": "master",
             "stability": {
-                "master": "prime"
+                "master": "current"
             }
         },
         "core-kit": {
-            "default": "1.0-prime",
             "stability": {
-                "1.0-prime": "prime",
-                "1.1-prime": "deprecated",
                 "1.2-prime": "prime"
             }
         },
         "desktop-kit": {
-            "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime",
                 "1.2-prime": "prime"
             }
         },
         "dev-kit": {
-            "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime",
                 "1.2-prime": "prime"
             }
         },
         "editors-kit": {
-            "default": "master",
             "stability": {
-                "master": "prime"
+                "master": "current"
             }
         },
         "games-kit": {
-            "default": "master",
             "stability": {
-                "master": "prime"
+                "master": "current"
             }
         },
         "gnome-kit": {
-            "default": "3.26-prime",
             "stability": {
-                "3.20-prime": "prime",
                 "3.26-prime": "prime"
             }
         },
         "haskell-kit": {
-            "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime",
                 "1.2-prime": "prime"
             }
         },
         "java-kit": {
-            "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime",
                 "1.2-prime": "prime"
             }
         },
         "kde-kit": {
-            "default": "5.12-prime",
             "stability": {
-                "5.10-prime": "deprecated",
-                "5.11-prime": "deprecated",
                 "5.12-prime": "prime"
             }
         },
         "lang-kit": {
-            "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime",
                 "1.2-prime": "prime"
             }
         },
         "lisp-scheme-kit": {
-            "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime",
                 "1.2-prime": "prime"
             }
         },
         "llvm-kit": {
-            "default": "1.2-prime",
             "stability": {
-                "1.2-prime": "prime",
-                "master": "dev"
+                "1.2-prime": "prime"
             }
         },
         "media-kit": {
-            "default": "1.1-prime",
             "stability": {
-                "1.0-prime": "deprecated",
-                "1.1-prime": "prime",
                 "1.2-prime": "prime"
             }
         },
         "ml-lang-kit": {
-            "default": "1.2-prime",
             "stability": {
-                "1.1-prime": "deprecated",
                 "1.2-prime": "prime"
             }
         },
         "net-kit": {
-            "default": "master",
             "stability": {
-                "master": "prime"
+                "master": "current"
             }
         },
         "nokit": {
-            "default": "master",
             "stability": {
-                "master": "prime"
+                "master": "current"
             }
         },
         "perl-kit": {
-            "default": "5.24-prime",
             "stability": {
-                "5.24-prime": "prime",
-                "5.26-prime": "deprecated",
-                "5.28-release": "dev"
+                "5.24-prime": "prime"
             }
         },
         "php-kit": {
-            "default": "master",
             "stability": {
-                "master": "prime"
+                "master": "current"
             }
         },
         "python-kit": {
-            "default": "3.4-prime",
             "stability": {
-                "3.4-prime": "prime",
-                "3.6-prime": "prime",
-                "3.6.3-prime": "deprecated",
-                "3.7-release": "dev"
+                "3.6-prime": "prime"
             }
         },
         "python-modules-kit": {
-            "default": "master",
             "stability": {
-                "master": "prime"
+                "master": "current"
             }
         },
         "ruby-kit": {
-            "default": "1.1-prime",
             "stability": {
-                "1.1-prime": "prime",
                 "1.2-prime": "prime"
             }
         },
         "science-kit": {
-            "default": "master",
             "stability": {
-                "master": "prime"
+                "master": "current"
             }
         },
         "security-kit": {
-            "default": "1.0-prime",
             "stability": {
-                "1.0-prime": "prime",
-                "1.1-prime": "deprecated",
                 "1.2-prime": "prime"
             }
         },
         "text-kit": {
-            "default": "master",
             "stability": {
-                "master": "prime"
+                "master": "current"
             }
         },
         "xfce-kit": {
-            "default": "4.13-release",
             "stability": {
-                "4.12-prime": "deprecated",
                 "4.13-release": "prime"
             }
         },
         "xorg-kit": {
-            "default": "1.19-prime",
             "stability": {
-                "1.17-prime": "prime",
-                "1.19-prime": "prime",
-                "1.20-release": "dev"
+                "1.19-prime": "prime"
             }
         }
     },
     "release_defs": {
         "1.2": {
+            "core-hw-kit": [
+                "master"
+            ],
             "core-kit": [
                 "1.2-prime"
             ],
@@ -228,6 +178,12 @@
             ],
             "dev-kit": [
                 "1.2-prime"
+            ],
+            "editors-kit": [
+                "master"
+            ],
+            "games-kit": [
+                "master"
             ],
             "gnome-kit": [
                 "3.26-prime",
@@ -248,21 +204,56 @@
             "lisp-scheme-kit": [
                 "1.2-prime"
             ],
+            "llvm-kit": [
+                "1.2-prime",
+                "master"
+            ],
             "media-kit": [
                 "1.2-prime"
+            ],
+            "ml-lang-kit": [
+                "1.2-prime"
+            ],
+            "net-kit": [
+                "master"
+            ],
+            "nokit": [
+                "master"
+            ],
+            "perl-kit": [
+                "5.24-prime"
+            ],
+            "php-kit": [
+                "master"
             ],
             "python-kit": [
                 "3.6-prime"
             ],
+            "python-modules-kit": [
+                "master"
+            ],
             "ruby-kit": [
                 "1.2-prime"
             ],
+            "science-kit": [
+                "master"
+            ],
             "security-kit": [
                 "1.2-prime"
+            ],
+            "text-kit": [
+                "master"
+            ],
+            "xfce-kit": [
+                "4.13-release"
+            ],
+            "xorg-kit": [
+                "1.19-prime",
+                "1.17-prime"
             ]
         }
     },
     "release_info": {
-        "default": null
+        "default": "1.2"
     }
 }
