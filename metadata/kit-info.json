@@ -78,6 +78,7 @@
         },
         "gnome-kit": {
             "stability": {
+                "3.20-prime": "prime",
                 "3.26-prime": "prime"
             }
         },
@@ -173,6 +174,8 @@
         },
         "xorg-kit": {
             "stability": {
+                "1.17-prime": "prime",
+                "1.19-prime": "prime",
                 "1.20-prime": "dev"
             }
         }
