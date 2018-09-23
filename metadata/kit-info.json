@@ -61,6 +61,7 @@
         },
         "gnome-kit": {
             "stability": {
+                "3.20-prime": "prime",
                 "3.26-prime": "prime"
             }
         },
@@ -91,7 +92,8 @@
         },
         "llvm-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.2-prime": "prime",
+                "master": "dev"
             }
         },
         "media-kit": {
@@ -161,6 +163,7 @@
         },
         "xorg-kit": {
             "stability": {
+                "1.17-prime": "prime",
                 "1.19-prime": "prime"
             }
         }
