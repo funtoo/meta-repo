@@ -1,3 +1,6 @@
 {
-    "version": 1
+    "required": {
+        "ego": "2.6.0"
+    },
+    "version": 10
 }
