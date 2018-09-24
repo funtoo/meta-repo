@@ -158,7 +158,7 @@
         },
         "xfce-kit": {
             "stability": {
-                "4.13-release": "prime"
+                "4.12-prime": "prime"
             }
         },
         "xorg-kit": {
@@ -248,7 +248,7 @@
                 "master"
             ],
             "xfce-kit": [
-                "4.13-release"
+                "4.12-prime"
             ],
             "xorg-kit": [
                 "1.19-prime",
