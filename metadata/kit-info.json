@@ -119,7 +119,7 @@
         },
         "ml-lang-kit": {
             "stability": {
-                "1.2-release": "dev"
+                "1.3-release": "dev"
             }
         },
         "net-kit": {
@@ -234,7 +234,7 @@
             "1.3-release"
         ],
         "ml-lang-kit": [
-            "1.2-release"
+            "1.3-release"
         ],
         "net-kit": [
             "1.3-release"
