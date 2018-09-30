@@ -6,22 +6,22 @@
         "1.3-release": "66c7b00021e8a1debb1f211f8c7ca893ce7b765a"
     },
     "core-kit": {
-        "1.3-release": "017bedc87f9bcad96ed09aaa56358cdc1610eb77"
+        "1.3-release": "81310d8a0ef4c4d6cabd1b98ee380af557862974"
     },
     "core-server-kit": {
-        "1.3-release": "728a0dcdd67b603f15f0db2bba8e174b433e3445"
+        "1.3-release": "3cc88a7d63b82d9484c5fcecbbecead91bcdf2bb"
     },
     "core-ui-kit": {
         "1.3-release": "1b152993b3c73af9847f5b33cb111354f09fda8e"
     },
     "desktop-kit": {
-        "1.3-release": "c45235acd18d9e5d77d19dcdb96a62b39d635f61"
+        "1.3-release": "0edb27f5380a41871ef786d6692021546720e355"
     },
     "dev-kit": {
-        "1.3-release": "9cf2a4033eaf604add60b518a8789fa4e84fbc5e"
+        "1.3-release": "fe7828eff8e1d3c8cd683afe9380e97dced6c7b4"
     },
     "editors-kit": {
-        "1.3-release": "7443a518c2702fc8b176963ae145a30678449c7b"
+        "1.3-release": "b555d1cf049522ed118903c8e51babbb81080918"
     },
     "games-kit": {
         "1.3-release": "753a091464bbab64b1d5473f04980ebbb219de80"
@@ -37,10 +37,10 @@
         "1.3-release": "175ef8b9d0bf81a3b6c0adaff00c04fec73bf04f"
     },
     "kde-kit": {
-        "1.3-release": "21a3f9da0b875ec526ff745fce1cca91c25440b4"
+        "1.3-release": "329c73ba9670f83f2553e9ed5bff7ba9aa5f2d47"
     },
     "lang-kit": {
-        "1.3-release": "ec7be42349a8fe0f125aa51e293cff9d55977202"
+        "1.3-release": "d2e3988a1e1f1248438e9f387a26e6007bb32be2"
     },
     "lisp-scheme-kit": {
         "1.3-release": "e863c5472400a26cb496042947022af5f46e3226"
@@ -49,19 +49,19 @@
         "1.3-release": "54eed01087354917a70c547837441e1afb3bfb7e"
     },
     "media-kit": {
-        "1.3-release": "360a2b5a64a5ec253501d2bcd0ca66871245c7ac"
+        "1.3-release": "f6c6287b237bcdd1728089ee55543019ea9fc05f"
     },
     "ml-lang-kit": {
         "1.3-release": "6ff7a3c911c5661885e09b5f26a16f0a46797c45"
     },
     "net-kit": {
-        "1.3-release": "e5ecaa6603d0abaedcf59b71a0159ed2ded2109f"
+        "1.3-release": "e2ba12328a904a8aeb33a30133f668af64486c13"
     },
     "nokit": {
-        "1.3-release": "456a22ea256d926acbbe390a88da7da47e22b7ef"
+        "1.3-release": "820583b95ef4137114d0947550d207e33f262fe6"
     },
     "perl-kit": {
-        "5.28-release": "8052061dfa0b58262051c3777689daa969c2de92"
+        "5.28-release": "e9336501f35ddb54c6f9c930099faa28ada4c04c"
     },
     "python-kit": {
         "3.7-release": "5dd359a2d0163a91d7e21f114ae1013ca61980d5"
@@ -73,7 +73,7 @@
         "1.3-release": "831bd791a63801399e03509376b560caa975e1f3"
     },
     "science-kit": {
-        "1.3-release": "5df9b5831585551e92f5e9815e23cd27731f3d3d"
+        "1.3-release": "898f6987de803d79b01daf5cfe92e1ced9903afa"
     },
     "security-kit": {
         "1.3-release": "a68ce17d6d0fe5c2110d8407131a38433ac64a58"
