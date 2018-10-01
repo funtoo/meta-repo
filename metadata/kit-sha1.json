@@ -1,21 +1,21 @@
 {
     "core-hw-kit": {
-        "master": "df0da0a8bff53658b338381ffc88fee71b41fdde"
+        "master": "6b614709ae082616fac5cc6a6290c944f2184239"
     },
     "core-kit": {
-        "1.2-prime": "984cecc0d73204b061e59b0335c98a0d700e8c62"
+        "1.2-prime": "025f49e4da5f65b0cf4f7a8208a1a589938d6236"
     },
     "desktop-kit": {
-        "1.2-prime": "3f102e5266a3fcab373ad37694de7e2158b63139"
+        "1.2-prime": "5379b4deb027cacc2fb60a59c3f4fbff29c37e1b"
     },
     "dev-kit": {
         "1.2-prime": "cb2c46bf167ee18feaf7bdf08f18265e315e731b"
     },
     "editors-kit": {
-        "master": "63691fb7462a68496e6b13b83ef714ddb3c0bcae"
+        "master": "c1de74ceb82628b8e1f346d8762c47ac268ea50e"
     },
     "games-kit": {
-        "master": "2bb42feed11fc033c942d32c88ca2058002e85c6"
+        "master": "81d1d85c583cc235fea4cbea6b44a0666f55184e"
     },
     "gnome-kit": {
         "3.20-prime": "1fd8ec6e896026b43b5cbdd9d135230514b9143a",
@@ -38,7 +38,7 @@
     },
     "llvm-kit": {
         "1.2-prime": "2ea0f712fdcecb67f3e254c7acc3e6efe3a329fb",
-        "master": "44c33a3432c10376fb4b668653329c23db096c2c"
+        "master": "6d9962d5254665cb5c82fd36225ce2456cec13ca"
     },
     "media-kit": {
         "1.2-prime": "12626ecab4a4c0a3fcad0a41fb6dfdeee9253314"
@@ -47,34 +47,34 @@
         "1.2-prime": "4014aa912ec2ae267050ca98d9b111e85efd7696"
     },
     "net-kit": {
-        "master": "a95f6029c8bc83831999ee4cdf6cc63e03cc93b2"
+        "master": "8556f087380f1e5ef6da3a67decf997fe18f1d03"
     },
     "nokit": {
-        "master": "96d5527bac2372dd234475cdced8d17519b67dc3"
+        "master": "f0817d2004b4ceed80695a7ec889fd19a74a2b0c"
     },
     "perl-kit": {
         "5.24-prime": "5d8053cc67f9bffee2acba45c2c4884ab800c430"
     },
     "php-kit": {
-        "master": "4771f0f94ea6e94dd5df9d2eb0bcc9d8ee1bcddf"
+        "master": "48830e1c30a5cc590a7d6d4063e1ded2be298fde"
     },
     "python-kit": {
         "3.6-prime": "48931a6b3c04b518b7dfda4a12f9bf424e94eaba"
     },
     "python-modules-kit": {
-        "master": "c1192f05b52b6c7196513efc438bc9dcdf5de5f7"
+        "master": "90e28fa78c7bdecb69991d87498fa88ad5490719"
     },
     "ruby-kit": {
         "1.2-prime": "008ce676bd94e9e2bdd542c2ff52f605c7336cd5"
     },
     "science-kit": {
-        "master": "60ba5cd7075cd79c68da56c398d3f7b12e77fca1"
+        "master": "354453674f24854c27369cc28e887dc7816a8db3"
     },
     "security-kit": {
         "1.2-prime": "f31fad77b12ad01921aa9fc2c71d68431b75047e"
     },
     "text-kit": {
-        "master": "d6005be3647ac36c97c9aa93077a1f0d3eeecc27"
+        "master": "3c272385b2751eeadd4ce9867ac79d35ac7c185e"
     },
     "xfce-kit": {
         "4.12-prime": "d3288ec9d55c8be2e4e84e0f45a162ac3a25a55e"
