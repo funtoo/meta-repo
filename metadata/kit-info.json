@@ -23,11 +23,11 @@
         "haskell-kit",
         "ml-lang-kit",
         "lisp-scheme-kit",
+        "python-kit",
         "lang-kit",
         "llvm-kit",
         "dev-kit",
         "python-modules-kit",
-        "python-kit",
         "nokit"
     ],
     "kit_settings": {
