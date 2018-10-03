@@ -12,7 +12,7 @@
         "1.2-prime": "70f58c9b3d69356828e79c303b027c6580cbea2e"
     },
     "editors-kit": {
-        "master": "9e011b87a1f396614a398db0124b115f297cb07c"
+        "master": "89830edcd3028d63c58785c7f3edc6bd99f3ac33"
     },
     "games-kit": {
         "master": "81d1d85c583cc235fea4cbea6b44a0666f55184e"
@@ -38,7 +38,7 @@
     },
     "llvm-kit": {
         "1.2-prime": "2ea0f712fdcecb67f3e254c7acc3e6efe3a329fb",
-        "master": "921f8e8b52280b9d4d85cc0ef09b2cab398fa90e"
+        "master": "0da53d616161b02dcb40de97745e9cffc2dac484"
     },
     "media-kit": {
         "1.2-prime": "1950aa0e0ea4ce4f31b6b85928dea00f76a02cdd"
@@ -47,34 +47,34 @@
         "1.2-prime": "4014aa912ec2ae267050ca98d9b111e85efd7696"
     },
     "net-kit": {
-        "master": "0e09649a93a49cb0c60822d898fe6b502a20adb1"
+        "master": "fe54d3e067322a51c97ebeba9aa5620fcfb78db4"
     },
     "nokit": {
-        "master": "6df8aedb95a025dfd182f4cf907d415b9ebec5aa"
+        "master": "4f7dd6d90f745113bbbe50a5a6b0e5a323ef61e8"
     },
     "perl-kit": {
         "5.24-prime": "5d8053cc67f9bffee2acba45c2c4884ab800c430"
     },
     "php-kit": {
-        "master": "e9ba963cb144578f589de798b565a4c11ee0e063"
+        "master": "d1f795ee0a9de8e22488507bf494214c8e271cba"
     },
     "python-kit": {
         "3.6-prime": "48931a6b3c04b518b7dfda4a12f9bf424e94eaba"
     },
     "python-modules-kit": {
-        "master": "9ede143cedcd1582c723b8fb10efbee7bb7581c6"
+        "master": "014ed01719655b9581e433f04a40bbaa7c3bee5d"
     },
     "ruby-kit": {
         "1.2-prime": "a17bbb059fe59aa2cda46e386c2d092222f1ae4a"
     },
     "science-kit": {
-        "master": "e3a034ec3b8626bc95d1bb5917c6bf6077ad05ad"
+        "master": "be9fa70fcc06048889c8149a4dbc12551d766ee1"
     },
     "security-kit": {
         "1.2-prime": "f31fad77b12ad01921aa9fc2c71d68431b75047e"
     },
     "text-kit": {
-        "master": "56283d45500647ea370e32689a2332a2e147896f"
+        "master": "e96d4b23d9cd6dbb8e2d623b72a45ff24f4890a1"
     },
     "xfce-kit": {
         "4.12-prime": "d3288ec9d55c8be2e4e84e0f45a162ac3a25a55e"
