@@ -1,15 +1,15 @@
 {
     "core-hw-kit": {
-        "master": "140f319ed55262d7b2e665eb8164edb9dd9436b2"
+        "master": "f6c462a480f4b57154e7534af3667e5f7b9f77ad"
     },
     "core-kit": {
-        "1.2-prime": "a7acd253a2428d1a215368988e9765ac3a8e28cc"
+        "1.2-prime": "26ba05f20d5d9d1212426978945decbcc3ee2ed6"
     },
     "desktop-kit": {
         "1.2-prime": "2ef52afb8dcdf06cc3f44827db830121cb543b56"
     },
     "dev-kit": {
-        "1.2-prime": "3dfd5921cfc5c2a136275285c364bedcf8d379bf"
+        "1.2-prime": "7f956676068de3d236674eb5ca4c3e0a8f5bcce3"
     },
     "editors-kit": {
         "master": "e5a0cf1318fc0512f97deb17d871e0e19ccca317"
@@ -47,10 +47,10 @@
         "1.2-prime": "646d748194487f15aa69c6c9dee502c4217cd5d1"
     },
     "net-kit": {
-        "master": "a04f7911466e11ae775a9345bf281a1e21a48588"
+        "master": "2bfcc5289be4de8a6fbb6775e6b1b9f560f78979"
     },
     "nokit": {
-        "master": "b7b2876fb7399a8999aae83c8d72d552a4d4f01b"
+        "master": "2ee65f524711e8681c2f3b3822e5912b543fe949"
     },
     "perl-kit": {
         "5.24-prime": "8abb442cefce5976e04039000e345e3c31dbd2f7"
@@ -62,13 +62,13 @@
         "3.6-prime": "e66a4359c85b42abfbe7a4c8830701e025637efe"
     },
     "python-modules-kit": {
-        "master": "cbad7974a3ba2305562c8235f6cebf6b28b2303e"
+        "master": "21cc5a5b67ccc79a3838f88cad3ff62046ac55c5"
     },
     "ruby-kit": {
         "1.2-prime": "be0a61b5647eb779717599dcaceda29d0e565c7b"
     },
     "science-kit": {
-        "master": "ff08bca6e1736914861e88ff2defb63617a45b77"
+        "master": "8004042563e5b721ed191d3fb792d52a7767dd1f"
     },
     "security-kit": {
         "1.2-prime": "32a953297366853110eef6f79a4faf21d1d80568"
