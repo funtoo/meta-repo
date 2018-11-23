@@ -3,16 +3,16 @@
         "master": "cd51cc5b5d86aa8709a1ab1a3808ef1522e03320"
     },
     "core-kit": {
-        "1.2-prime": "194b184e2ff6ae13cadbdfa6d00cb3a7b0ca151a"
+        "1.2-prime": "3fbcbfd8db07b4c3765c8807936c8e8228f3ee7a"
     },
     "desktop-kit": {
-        "1.2-prime": "2ef52afb8dcdf06cc3f44827db830121cb543b56"
+        "1.2-prime": "1637afb56f6ef7660c4845a0d4015392ef35960c"
     },
     "dev-kit": {
         "1.2-prime": "26090f30ab67b8a51f3a4a240c236a7ff59322e9"
     },
     "editors-kit": {
-        "master": "080ea767d7859378e523a621ac3fbc15760a60ee"
+        "master": "4d9bfe901950a4aa4f1f48ac423cf1d96148d074"
     },
     "games-kit": {
         "master": "367fdaaeb76618b07108d5ed4202231d60bfa68d"
@@ -47,10 +47,10 @@
         "1.2-prime": "646d748194487f15aa69c6c9dee502c4217cd5d1"
     },
     "net-kit": {
-        "master": "e82f485bed852150fd6a3845e90d37522f87ddec"
+        "master": "3cdbdf71788456d79094c8313f454173b76f309f"
     },
     "nokit": {
-        "master": "0cea33ae4e806d2a00f9d45c8a76330cb052ad0c"
+        "master": "3ed3c0f4b65824f5b039720332c8a9682df3130f"
     },
     "perl-kit": {
         "5.24-prime": "8abb442cefce5976e04039000e345e3c31dbd2f7"
@@ -62,19 +62,19 @@
         "3.6-prime": "e66a4359c85b42abfbe7a4c8830701e025637efe"
     },
     "python-modules-kit": {
-        "master": "062606cb63759aef861070a83462cca7d0f0e69c"
+        "master": "6f92c2cba91b1ecebb0fa9182a7b1d328505603a"
     },
     "ruby-kit": {
-        "1.2-prime": "015fb8ef8ede9a87ed7e9b3b78a592b15d0ff7bb"
+        "1.2-prime": "b7bafd6f2f5692501610a730b893e5fb3deec0ed"
     },
     "science-kit": {
-        "master": "8fa20247c74366f3ecb9cb0dd4062212030da935"
+        "master": "5c21a3b5d9bae5698adacdaa7df7aa2340578817"
     },
     "security-kit": {
         "1.2-prime": "32a953297366853110eef6f79a4faf21d1d80568"
     },
     "text-kit": {
-        "master": "ffe77c5fced394b553290f2092ae475299b5c512"
+        "master": "21ac663963021b8de02f9d909a158db649793e56"
     },
     "xfce-kit": {
         "4.12-prime": "5cbc7f1643609063a598daef1dcafc4ab51432f4"
