@@ -29,7 +29,7 @@
     "gnome-kit": {
         "3.20-prime": "cc62a6ebb7f8445745bc256817dbebd6d212c421",
         "3.26-prime": "df17e1a16536abf02e5bf06fdfef14a2457e92bf",
-        "3.30-prime": "9915140a22bf6ca723e2384374350d3de5f54e3a"
+        "3.30-prime": "50f8df48933227e25fed01d88c72da708ee454ad"
     },
     "haskell-kit": {
         "1.3-release": "01c0a4b6259ff928e22774a5f98c11da5ca6b910"
@@ -59,7 +59,7 @@
         "1.3-release": "33ee885f0c3611d77b6689777b0f85b42c914485"
     },
     "nokit": {
-        "1.3-release": "dc9b8f5273341bf5a81300a7bd66b796838cf7a2"
+        "1.3-release": "fc64b89130af33dfb357cc12e94bb2afb54f831c"
     },
     "perl-kit": {
         "5.28-release": "5c34e468fb69c76af67fe711d6ba779a331f910f"
