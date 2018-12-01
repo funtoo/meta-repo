@@ -1,64 +1,64 @@
 {
     "core-gl-kit": {
-        "1.3-release": "bbd9b0f8730c6310745346a0ae798936d5d21a2d"
+        "1.3-release": "57cd81f2b3a945ca988ed7b64e2c545c2a1f36ce"
     },
     "core-hw-kit": {
-        "1.3-release": "d45c76ccb0095167fd975686c4c6de8aa14cf98c"
+        "1.3-release": "b5ac82359cb986e0ed4aac227e11a34324bfdac5"
     },
     "core-kit": {
-        "1.3-release": "71da6aabd35080b5cc3b35f3923df40b56c72209"
+        "1.3-release": "5b9b207b346d123a58f29feb7ee84e07a857142e"
     },
     "core-server-kit": {
-        "1.3-release": "4704027a671e56a369c26a6d52a3bc66f0dc9af4"
+        "1.3-release": "f0ddb2a34626230ceaab61374dd2c2531a89a66c"
     },
     "core-ui-kit": {
         "1.3-release": "922371e21b1cd225ab543fad6fc376b794132ca7"
     },
     "desktop-kit": {
-        "1.3-release": "cbd4d92ef9fb7cceffb9832996b9cee2ec84dbca"
+        "1.3-release": "5fac8148e326280538472891c3bc943c24cd4d8f"
     },
     "dev-kit": {
-        "1.3-release": "8b42c8bfff8716039081a9c99f3684c077deb7e8"
+        "1.3-release": "0711a4670e0582fe28e3ae12cc20d496a50d01f2"
     },
     "editors-kit": {
         "1.3-release": "681a2ed2bbc2c3dde739221ca5cfca0c0d0c4d24"
     },
     "games-kit": {
-        "1.3-release": "1a9981237f590ae5205df7689c698eba8207c026"
+        "1.3-release": "fbe8cd1467dc210e2a49e07dec72c366411fcc8d"
     },
     "gnome-kit": {
-        "3.26-prime": "115302eba4b02a166be76f7bc1160308ee308d68",
-        "3.30-prime": "2f9e2482c09399b228701f9660de7c76043537ce"
+        "3.26-prime": "0bf7e350258ee03788397df2580110de5b2ec74b",
+        "3.30-prime": "cc0e1c69d72739ea679ac4bd0b8b33c807c1e466"
     },
     "haskell-kit": {
         "1.3-release": "01c0a4b6259ff928e22774a5f98c11da5ca6b910"
     },
     "java-kit": {
-        "1.3-release": "1c81d679b779946fd2d05e4f37e6632809e53266"
+        "1.3-release": "33d24545e4a2a0c54c1fdffea2c89a447aec98c8"
     },
     "kde-kit": {
         "1.3-release": "b1193d3c6087b8a022fc4ab5d1e98c7fbdc22003"
     },
     "lang-kit": {
-        "1.3-release": "ff5b22fdcde1c391f7b5347b2b5af576ecac76d7"
+        "1.3-release": "8150fb2b0ed6c455670f2f85f06f4d2eb44eb690"
     },
     "lisp-scheme-kit": {
         "1.3-release": "05ab41a803809f4e6908ea56ae2a5964fd4d10ce"
     },
     "llvm-kit": {
-        "1.3-release": "53a3fd9d57b8afb05b67e4546cb654bcf99471ac"
+        "1.3-release": "acadfd11f39490b3cd3f03c5298da5ee607f71b1"
     },
     "media-kit": {
-        "1.3-release": "33e3ee07ad562351f24c23bb933a308a63f173d1"
+        "1.3-release": "cec2f6ee7dd6cc3c423f2224930d52c184fed241"
     },
     "ml-lang-kit": {
         "1.3-release": "f846a12a5ce53883c1a26de7414162adc5a65b14"
     },
     "net-kit": {
-        "1.3-release": "518496ad88f8a172443005a7bbf0c46a8ddeaa10"
+        "1.3-release": "8aa07a9aee1228e149c448661115513122375f01"
     },
     "nokit": {
-        "1.3-release": "fc64b89130af33dfb357cc12e94bb2afb54f831c"
+        "1.3-release": "57bc76a1828762c5f8c41c14f6f73e6f6893e041"
     },
     "perl-kit": {
         "5.28-release": "5c34e468fb69c76af67fe711d6ba779a331f910f"
@@ -67,22 +67,22 @@
         "3.7-release": "c949052c04ae87cb1377d9d707762fbac862b17f"
     },
     "python-modules-kit": {
-        "1.3-release": "2e35ce3f874e2d33e490b1420d7eb5011e3c0b76"
+        "1.3-release": "90a297bca6b4a068ac7280b73901632b6562ffcd"
     },
     "ruby-kit": {
         "1.3-release": "c625a9953cd95681740bddb2c1ab61aa9be46c81"
     },
     "science-kit": {
-        "1.3-release": "1ae138b1258183f4db9b3996d6e73e26115990c7"
+        "1.3-release": "41a4b5e7e3267fb7c9f3d7e428fc04fd6820fbef"
     },
     "security-kit": {
-        "1.3-release": "4d37afc57a736bdf06aa66690305c1c2f1728459"
+        "1.3-release": "6ede2433e0799fe89515a54ee1be2a2ab2bdf422"
     },
     "text-kit": {
-        "1.3-release": "66e4250d67cfd629486881256f14a7bc008b039b"
+        "1.3-release": "947d84df082d7030007cf892167025d6d550db95"
     },
     "xfce-kit": {
-        "4.13-release": "e4c0abaa39cb5c5bcc790f5c41e00b94538aa35a"
+        "4.13-release": "eca540f919a66d81bbe3f7cebfef6b683a19b01c"
     },
     "xorg-kit": {
         "1.17-prime": "983a5a4977c6c5116ea3616c5716b228a9167009",
