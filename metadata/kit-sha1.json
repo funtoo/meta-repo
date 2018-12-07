@@ -9,7 +9,7 @@
         "1.2-prime": "28c508337b301ff316007b75ef60e91d42694cd0"
     },
     "dev-kit": {
-        "1.2-prime": "b40b26af07ccc0445785bb77e75eb63f8755f64d"
+        "1.2-prime": "fb34fe8e373d4233778e4e4ad0626b93ac1aaad1"
     },
     "editors-kit": {
         "master": "9b624e22e5c05a60139b1434359e393e3444bec6"
@@ -33,14 +33,14 @@
         "1.2-prime": "ff5c94e9097141d3983bc433e1e75c3da0d59901"
     },
     "lisp-scheme-kit": {
-        "1.2-prime": "402e73c3c01f52bf07782af7d3b752d837a3048b"
+        "1.2-prime": "becedd78cbff5ef2e842aa23ece71ed719824e35"
     },
     "llvm-kit": {
         "1.2-prime": "f85a01f59d0cf0405f064666a337f302b291543f",
         "master": "937a573ff7aba8ab15d42097a8f7d54d58124471"
     },
     "media-kit": {
-        "1.2-prime": "15ff0b09d6ce3428a1429406a1270819bee26d54"
+        "1.2-prime": "3a34254fb6028872efbc0ba66e4fae91e68de9d6"
     },
     "ml-lang-kit": {
         "1.2-prime": "646d748194487f15aa69c6c9dee502c4217cd5d1"
@@ -55,16 +55,16 @@
         "5.24-prime": "7e6b1485062657088d4115fcf291286b06c5d8ad"
     },
     "php-kit": {
-        "master": "0e0661565eca93b2bfc4be992014a9cb2873d5c6"
+        "master": "506f028be604529820b335baf54399b0cb68a1cf"
     },
     "python-kit": {
         "3.6-prime": "e66a4359c85b42abfbe7a4c8830701e025637efe"
     },
     "python-modules-kit": {
-        "master": "0d54cfc8967ab6fb125ce079452dbbf28d7fc574"
+        "master": "3a5304156abe18ac9e912c014b6206e17fb25f0d"
     },
     "ruby-kit": {
-        "1.2-prime": "a8b88f82877bfed881164af4c359dd4efbd64816"
+        "1.2-prime": "530969bdd106749b83c7b0483e1395a3d4d10dbf"
     },
     "science-kit": {
         "master": "c27f8cfd108812ff272a848b6fcb4d18636f2579"
