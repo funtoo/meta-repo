@@ -1,6 +1,6 @@
 {
     "core-hw-kit": {
-        "master": "d3c9f41213925c9cc519a1f30f8338ec42ce924c"
+        "master": "89304f83d1ce2d8813d736744d1fd6a822bf8573"
     },
     "core-kit": {
         "1.2-prime": "7192d2d7987dcb10ef91de048a3d96f8bd5fdd06"
@@ -12,7 +12,7 @@
         "1.2-prime": "5beae7942940a9158f3f5d541429489c02ad5621"
     },
     "editors-kit": {
-        "master": "a62876e05483c8c80107a8a15873c696356dfe99"
+        "master": "56472570b12468fdabe3b4c03e930282345a0c07"
     },
     "games-kit": {
         "master": "3d56e9f15833f8e62940ea222e7d18942772e846"
@@ -37,19 +37,19 @@
     },
     "llvm-kit": {
         "1.2-prime": "0390b6c61cce2f356f94633ca07e4800507e7720",
-        "master": "f6763afa0ac962ec9b68641f6aaa75c077630934"
+        "master": "2316fed9cc75ca5bb1c4bcc5b31ccd228cc60da6"
     },
     "media-kit": {
-        "1.2-prime": "8c4ebb99e955a5957ac72febc808640270a5c3b8"
+        "1.2-prime": "db3ce1fde98f66be6fff8a9c61b09751b25beb1b"
     },
     "ml-lang-kit": {
         "1.2-prime": "646d748194487f15aa69c6c9dee502c4217cd5d1"
     },
     "net-kit": {
-        "master": "55aecc5386ba522cb4c8df5b658a6ad38b23eeee"
+        "master": "e0baef85c3344130dd5242d25f1cd6216b87b2a0"
     },
     "nokit": {
-        "master": "8e34ae2ab3f4c7abd8de4ea9d9a280865f4691cb"
+        "master": "b8d74c58321ffb092ebb3d3e849605cc84055178"
     },
     "perl-kit": {
         "5.24-prime": "7e6b1485062657088d4115fcf291286b06c5d8ad"
@@ -61,13 +61,13 @@
         "3.6-prime": "e66a4359c85b42abfbe7a4c8830701e025637efe"
     },
     "python-modules-kit": {
-        "master": "d7d6c6857d6176f1ef4d77ae6073b381c3923677"
+        "master": "aacee1eb15d784de246e150d6870ada91a4c33dd"
     },
     "ruby-kit": {
         "1.2-prime": "4a2d0d907deebe108e5867947d5f2c5ee8852f61"
     },
     "science-kit": {
-        "master": "4acbab9347fafdb465479c3eedf5ad6158ca0708"
+        "master": "037e680274e7a4fd49f08685378f1d883910cfef"
     },
     "security-kit": {
         "1.2-prime": "84f1185d586fa99b17d7bf713d3878e2e16f46cc"
