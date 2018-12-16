@@ -6,13 +6,13 @@
         "1.2-prime": "7192d2d7987dcb10ef91de048a3d96f8bd5fdd06"
     },
     "desktop-kit": {
-        "1.2-prime": "ab03b4db25dc5825982193a1064f505097a4f9be"
+        "1.2-prime": "5400feb0dec85392dc350dae4478efc96b6b0df4"
     },
     "dev-kit": {
         "1.2-prime": "5beae7942940a9158f3f5d541429489c02ad5621"
     },
     "editors-kit": {
-        "master": "ee2b39bde4473603be6b5776a1a0c5997315b589"
+        "master": "ee6f963d61657b2715c44ee05ce095d18bd4b504"
     },
     "games-kit": {
         "master": "3d56e9f15833f8e62940ea222e7d18942772e846"
@@ -73,7 +73,7 @@
         "1.2-prime": "14d46443a0dc22721e61285fc274e843a927cd63"
     },
     "text-kit": {
-        "master": "f4907f5d42514c61e59ab6e89cb45776835a807b"
+        "master": "4328bf05d39df2f68df3b1d3a22dd5a472e22af7"
     },
     "xfce-kit": {
         "4.12-prime": "4398e1d5d349d672a13c78123a7b89985293d107"
@@ -81,6 +81,6 @@
     "xorg-kit": {
         "1.17-prime": "983a5a4977c6c5116ea3616c5716b228a9167009",
         "1.19-prime": "84c89776d8e2ebe758f879694d981cde0500eabd",
-        "1.20-release": "19067eaae08acc14f7fed7e2b011671b44a52f22"
+        "1.20-release": "c81af7312f5e6f986683d94619eed171e609dfe6"
     }
 }
