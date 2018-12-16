@@ -6,7 +6,7 @@
         "1.3-release": "7fe8af535698bdbb45ea728b98e082d5d0a70966"
     },
     "core-kit": {
-        "1.3-release": "6b62640785a17f0b36aab369d030613859768b49"
+        "1.3-release": "6c304fcdd01b6f5803dd46f57f6a30e079179cda"
     },
     "core-server-kit": {
         "1.3-release": "6aeb7fb69d2d4395f783c4da4d42680909191594"
@@ -15,20 +15,20 @@
         "1.3-release": "922371e21b1cd225ab543fad6fc376b794132ca7"
     },
     "desktop-kit": {
-        "1.3-release": "e93035368cb1b36f3dbbc782d07ed39f375cfea7"
+        "1.3-release": "ee184aa02b1c118d33df52d0b5fce4927d78996b"
     },
     "dev-kit": {
         "1.3-release": "69f3cb428538a0c8b7270666434412b25a9f831d"
     },
     "editors-kit": {
-        "1.3-release": "194c7056a7346dd1c820619c3df9169808f8e14e"
+        "1.3-release": "f0f12dd4a65796d1c0fd6c8ea02837c1c15c01bf"
     },
     "games-kit": {
         "1.3-release": "081ce9edc02fc47423d3a465e69bb63d7da4a07d"
     },
     "gnome-kit": {
         "3.26-prime": "9d083fed298e9f424fc4292108dcd3b3c12d97f8",
-        "3.30-prime": "621e6b9d080289cb50cb256735fe35ff407526e2"
+        "3.30-prime": "180da2f2c4a2bf9b77d302c53f2643a787268d15"
     },
     "haskell-kit": {
         "1.3-release": "01c0a4b6259ff928e22774a5f98c11da5ca6b910"
@@ -79,7 +79,7 @@
         "1.3-release": "6ede2433e0799fe89515a54ee1be2a2ab2bdf422"
     },
     "text-kit": {
-        "1.3-release": "192ff7256e6dc9a69f84a3e8b4156b28af468443"
+        "1.3-release": "3d3b9e2399a865910d179a0d3d485ff2a9923913"
     },
     "xfce-kit": {
         "4.13-release": "2bba3fbaf4a442dc876d20fb99e84c8b198b0e02"
@@ -87,6 +87,6 @@
     "xorg-kit": {
         "1.17-prime": "983a5a4977c6c5116ea3616c5716b228a9167009",
         "1.19-prime": "84c89776d8e2ebe758f879694d981cde0500eabd",
-        "1.20-release": "19067eaae08acc14f7fed7e2b011671b44a52f22"
+        "1.20-release": "c81af7312f5e6f986683d94619eed171e609dfe6"
     }
 }
