@@ -32,140 +32,167 @@
         "core-hw-kit": {
             "stability": {
                 "master": "current"
-            }
+            },
+            "type": "auto"
         },
         "core-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "desktop-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "dev-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "editors-kit": {
             "stability": {
                 "master": "current"
-            }
+            },
+            "type": "auto"
         },
         "games-kit": {
             "stability": {
                 "master": "current"
-            }
+            },
+            "type": "auto"
         },
         "gnome-kit": {
             "stability": {
                 "3.26-prime": "prime"
-            }
+            },
+            "type": "indy"
         },
         "haskell-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "java-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "kde-kit": {
             "stability": {
                 "5.12-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "lang-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "lisp-scheme-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "llvm-kit": {
             "stability": {
                 "1.2-prime": "prime",
                 "master": "dev"
-            }
+            },
+            "type": "auto"
         },
         "media-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "ml-lang-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "net-kit": {
             "stability": {
                 "master": "current"
-            }
+            },
+            "type": "auto"
         },
         "nokit": {
             "stability": {
                 "master": "current"
-            }
+            },
+            "type": "auto"
         },
         "perl-kit": {
             "stability": {
                 "5.24-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "php-kit": {
             "stability": {
                 "master": "current"
-            }
+            },
+            "type": "auto"
         },
         "python-kit": {
             "stability": {
                 "3.6-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "python-modules-kit": {
             "stability": {
                 "master": "current"
-            }
+            },
+            "type": "auto"
         },
         "ruby-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "science-kit": {
             "stability": {
                 "master": "current"
-            }
+            },
+            "type": "auto"
         },
         "security-kit": {
             "stability": {
                 "1.2-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "text-kit": {
             "stability": {
                 "master": "current"
-            }
+            },
+            "type": "auto"
         },
         "xfce-kit": {
             "stability": {
                 "4.12-prime": "prime"
-            }
+            },
+            "type": "auto"
         },
         "xorg-kit": {
             "stability": {
                 "1.17-prime": "prime",
                 "1.19-prime": "prime",
                 "1.20-release": "dev"
-            }
+            },
+            "type": "indy"
         }
     },
     "release_defs": {
