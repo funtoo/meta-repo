@@ -1,21 +1,21 @@
 {
     "core-hw-kit": {
-        "master": "92a2a4d38d2d7371b86a4aa4ffaf9c5876ffef82"
+        "master": "68c1db460748de666d887f06f7a1f792a3e9955b"
     },
     "core-kit": {
-        "1.2-prime": "a160bebe86aefffd6c165887215ea6ce4d227101"
+        "1.2-prime": "e2d07c42f24a01b8e0a9521f1114843e55a4acc7"
     },
     "desktop-kit": {
-        "1.2-prime": "0d5bbdd71bf5d14885ff27116a490515dee1240a"
+        "1.2-prime": "d6122e01fe76b878d7d1b35b1aa863e83d9dd692"
     },
     "dev-kit": {
-        "1.2-prime": "d04030d8c5b55b9de07a8ae983fce9e58a12342c"
+        "1.2-prime": "82a62bc8e3561c47833964c2b1e4e59baa628a41"
     },
     "editors-kit": {
         "master": "efb56a453350800d43a66829e3c1601533f3d20b"
     },
     "games-kit": {
-        "master": "d2bc2381f4e91ea5ee663b3250e1f2805c211e39"
+        "master": "1e39eef0299ad9c1ec5f81d8714c4627708047da"
     },
     "gnome-kit": {
         "3.26-prime": "82b572d0a1a21a24e98fd00804f82647b20015c0"
@@ -30,7 +30,7 @@
         "5.12-prime": "00312c66b5b5a9abe5923ad173fb26e47068048c"
     },
     "lang-kit": {
-        "1.2-prime": "dd8775e09a37c866f0806f4d214b856c0fb942e0"
+        "1.2-prime": "edf59671a09701187f74c7fd7912046c68356a3f"
     },
     "lisp-scheme-kit": {
         "1.2-prime": "becedd78cbff5ef2e842aa23ece71ed719824e35"
@@ -40,16 +40,16 @@
         "master": "21f42f6aa1d12565198bf9d6570b1bfef4c3d4df"
     },
     "media-kit": {
-        "1.2-prime": "8fe94d32f10daa2c9389d8f204a9d941691ebd9e"
+        "1.2-prime": "9d4c8fe93e7dc92fa2371da4218b0c4e3c33a567"
     },
     "ml-lang-kit": {
         "1.2-prime": "646d748194487f15aa69c6c9dee502c4217cd5d1"
     },
     "net-kit": {
-        "master": "b0e9de7b09fb6aa5ba5a1529954a0d258b1bc0c3"
+        "master": "ddf33f286dd1383481afa95bdfbb373e37b9bbb4"
     },
     "nokit": {
-        "master": "a418617c476f3b2199ff4887e835909f609fdef2"
+        "master": "87e76bbcd78dc64c6405ec0600b75442d5d9c42e"
     },
     "perl-kit": {
         "5.24-prime": "7e6b1485062657088d4115fcf291286b06c5d8ad"
@@ -61,7 +61,7 @@
         "3.6-prime": "e66a4359c85b42abfbe7a4c8830701e025637efe"
     },
     "python-modules-kit": {
-        "master": "bd27f5fd8b6aece6ecaa8d5a3b2fa3dcd9523fea"
+        "master": "c8606e10598753b1d45e96d118e168cd5a5c5905"
     },
     "ruby-kit": {
         "1.2-prime": "7cee8a4f9252d4fc4048111e50895f506b36138b"
@@ -73,7 +73,7 @@
         "1.2-prime": "357f8b10c646f30fae5eeb82950c8d2e86473ca9"
     },
     "text-kit": {
-        "master": "132a43baba4c9924b97bfc1ce1f6f73707eaff0b"
+        "master": "73fabe194bfb0f49f2fc4d324c9bbc7eedc26871"
     },
     "xfce-kit": {
         "4.12-prime": "4398e1d5d349d672a13c78123a7b89985293d107"
