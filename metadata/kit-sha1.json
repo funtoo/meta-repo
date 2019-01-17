@@ -12,7 +12,7 @@
         "1.2-prime": "58268dbf708189ea3eb6fb22ffcffe920e66769d"
     },
     "editors-kit": {
-        "master": "a69f4fefe30e74530ae2bb014a4f776d57603963"
+        "master": "66f19324f67bd02abb2b8aef96adeb180a69b1ac"
     },
     "games-kit": {
         "master": "b3a38353c35440b2c24a9bed7a1058c378cb6d01"
@@ -81,6 +81,6 @@
     "xorg-kit": {
         "1.17-prime": "983a5a4977c6c5116ea3616c5716b228a9167009",
         "1.19-prime": "84c89776d8e2ebe758f879694d981cde0500eabd",
-        "1.20-release": "3413dacb7e62986a479c7541ecba52ca4aabef77"
+        "1.20-release": "7a07b87b14a78002fc4fe019967d51e14f7eaf3b"
     }
 }
