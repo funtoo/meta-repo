@@ -1,21 +1,21 @@
 {
     "core-hw-kit": {
-        "master": "3f38398776e388cea6ae234152714109fd474912"
+        "master": "a995cf5ef3f2df5be9225784846eafe41d089d28"
     },
     "core-kit": {
         "1.2-prime": "d2f72abceb6f4abd67da6990b95b10a3278aca50"
     },
     "desktop-kit": {
-        "1.2-prime": "d9593a70b58126e075934865782a002c6676587e"
+        "1.2-prime": "7a00855434309c30a2b78f1d682be2037f782a51"
     },
     "dev-kit": {
-        "1.2-prime": "9d79f748077e4dd8c448e475359ec7db147834c8"
+        "1.2-prime": "457e463340d0fce6763af657f4ebd7c2224bd59e"
     },
     "editors-kit": {
-        "master": "90c9d65eda194d28741b0787da7b9a57c26561f6"
+        "master": "da0e96d816ab4807293176d04bcb4d0abd9194b5"
     },
     "games-kit": {
-        "master": "c8e5546316cd7bf81c2357ecd9132c5307db5ab9"
+        "master": "0bb3165f5fc3716470672a36c9409de2cd662d1d"
     },
     "gnome-kit": {
         "3.26-prime": "82b572d0a1a21a24e98fd00804f82647b20015c0"
@@ -37,7 +37,7 @@
     },
     "llvm-kit": {
         "1.2-prime": "0390b6c61cce2f356f94633ca07e4800507e7720",
-        "master": "27895060cf72e7a0ab3b46df41db90fc83812c2f"
+        "master": "2e6d1e1d6362aa6f3fb0974fa1477a2dcb8ef09e"
     },
     "media-kit": {
         "1.2-prime": "40d18b5eedb6ab047c976ea86484561464cde8a5"
@@ -46,25 +46,25 @@
         "1.2-prime": "646d748194487f15aa69c6c9dee502c4217cd5d1"
     },
     "net-kit": {
-        "master": "a4ae6e707c7e5cf01b61daab962bbb72d2ad8068"
+        "master": "cd0633ef3e35c387e9bdc3dd6321110d5a16b9e6"
     },
     "nokit": {
-        "master": "5a3d9107f88b9de0f9f52b3b03eba075c8abfd5f"
+        "master": "89b03a2fdf4f5d01841c53109c4f26966e9a0334"
     },
     "perl-kit": {
         "5.24-prime": "7e6b1485062657088d4115fcf291286b06c5d8ad"
     },
     "php-kit": {
-        "master": "ddb71fda43a4423343ec439bddb6202a3913b8e1"
+        "master": "4734c948768e2696d788f06a24b7a8312cc4a3c0"
     },
     "python-kit": {
         "3.6-prime": "e66a4359c85b42abfbe7a4c8830701e025637efe"
     },
     "python-modules-kit": {
-        "master": "524454096d8ad6aeacf0d9fc37a5fb0a300d3dcc"
+        "master": "954745734354eb2f26e00ea1810959a99363cbc6"
     },
     "ruby-kit": {
-        "1.2-prime": "370b93cd2bcda063ba22dc845a477e6fefa4d435"
+        "1.2-prime": "d714e74e2db57e73921985e405c17bca69d64edf"
     },
     "science-kit": {
         "master": "a523d14d8e8d729b78a44561f367b41c8f46306e"
