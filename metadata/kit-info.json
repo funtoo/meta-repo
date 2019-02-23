@@ -8,6 +8,7 @@
         "security-kit",
         "xorg-kit",
         "gnome-kit",
+        "rust-kit",
         "xfce-kit",
         "kde-kit",
         "desktop-kit",
@@ -176,6 +177,12 @@
             },
             "type": "auto"
         },
+        "rust-kit": {
+            "stability": {
+                "1.32-prime": "prime"
+            },
+            "type": "indy"
+        },
         "science-kit": {
             "stability": {
                 "1.3-release": "prime"
@@ -282,6 +289,9 @@
         ],
         "ruby-kit": [
             "1.3-release"
+        ],
+        "rust-kit": [
+            "1.32-prime"
         ],
         "science-kit": [
             "1.3-release"
