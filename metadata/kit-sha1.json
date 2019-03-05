@@ -1,6 +1,6 @@
 {
     "core-gl-kit": {
-        "1.3-release": "ddd7649a8eceeeb50c2b5581152a32c441349aff"
+        "1.3-release": "3b106ed43a7fd53a4b0afcdb3f309245d6312047"
     },
     "core-hw-kit": {
         "1.3-release": "a54c3bfcc9d8ea3b0a424e26e3f0efdd52471827"
@@ -21,7 +21,7 @@
         "1.3-release": "0d8c0670cd779ccfa26fc01ffac6e7024681cde1"
     },
     "editors-kit": {
-        "1.3-release": "341acd1ace72f167569c28fe23614d52a5a8f3a5"
+        "1.3-release": "74feb5cbc12a50603411e41d0d6598cf6c068d7c"
     },
     "games-kit": {
         "1.3-release": "081ce9edc02fc47423d3a465e69bb63d7da4a07d"
@@ -58,7 +58,7 @@
         "1.3-release": "a0b27e83dd5cef16b849bc8745f1c0482fb81f26"
     },
     "nokit": {
-        "1.3-release": "b8c81a111ccdf243dd5fdaa566348a13ffe4afe1"
+        "1.3-release": "9a3b38b9958758837b0a6c3360e4d1f96cbf720a"
     },
     "perl-kit": {
         "5.28-release": "163bd08b7103bd5543175e151e4f8ae9cac1e16f"
@@ -73,7 +73,7 @@
         "1.3-release": "dbeab97eb8707d55e9e08dc3e8041241fd8cb8fd"
     },
     "rust-kit": {
-        "1.32-prime": "c63c9a7a365ff8b795e91af4e7b6940499fa4c49"
+        "1.32-prime": "412e0d9e3395050de8a7efc974ec5a0e3bec8c38"
     },
     "science-kit": {
         "1.3-release": "add1330459b4465e06fa5a4e94f3963cdaaeef9e"
