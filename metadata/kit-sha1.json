@@ -1,6 +1,6 @@
 {
     "core-gl-kit": {
-        "1.3-release": "8a1c4a8202df8826c08962f919eaa56461e31ec4"
+        "1.3-release": "0b5ec8c9c974952bfe0707e30abe2d0f3ca4b1e4"
     },
     "core-hw-kit": {
         "1.3-release": "a54c3bfcc9d8ea3b0a424e26e3f0efdd52471827"
@@ -21,7 +21,7 @@
         "1.3-release": "8211e12d8027559e46ad5a2eb2c1260e7cdd6cee"
     },
     "editors-kit": {
-        "1.3-release": "58b054dba41f3932fbf163e42f5cc6b7df14cd87"
+        "1.3-release": "544ca7b6b179f54aacb87c784a8f93267d20244d"
     },
     "games-kit": {
         "1.3-release": "081ce9edc02fc47423d3a465e69bb63d7da4a07d"
@@ -58,16 +58,16 @@
         "1.3-release": "ef5ad84ed754883a4d178deaa7a6eaac947dabf4"
     },
     "nokit": {
-        "1.3-release": "62b8519ac850f6303944fce5b12ca9fdb6e73414"
+        "1.3-release": "ed78736e79b96766e1bb6db2f85a1701b1d8069f"
     },
     "perl-kit": {
         "5.28-release": "163bd08b7103bd5543175e151e4f8ae9cac1e16f"
     },
     "python-kit": {
-        "3.7-release": "39e3312fea05ac04f17e39081eabca4fdb7c3efb"
+        "3.7-release": "d72a18185b242b6caf3fab537b68b87b96deec97"
     },
     "python-modules-kit": {
-        "1.3-release": "e667b811297baa035bf61b42f905e57106db573c"
+        "1.3-release": "dfa5db0860577bf3aa1fe5129d2cd42de312c240"
     },
     "ruby-kit": {
         "1.3-release": "dbeab97eb8707d55e9e08dc3e8041241fd8cb8fd"
