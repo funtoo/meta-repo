@@ -157,13 +157,13 @@
             "stability": {
                 "5.28-release": "prime"
             },
-            "type": "auto"
+            "type": "indy"
         },
         "python-kit": {
             "stability": {
                 "3.7-release": "prime"
             },
-            "type": "auto"
+            "type": "indy"
         },
         "python-modules-kit": {
             "stability": {
@@ -205,7 +205,7 @@
             "stability": {
                 "4.13-release": "prime"
             },
-            "type": "auto"
+            "type": "indy"
         },
         "xorg-kit": {
             "stability": {
