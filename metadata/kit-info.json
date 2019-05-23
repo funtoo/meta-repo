@@ -34,122 +34,123 @@
     "kit_settings": {
         "core-gl-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "core-hw-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "core-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "core-server-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "core-ui-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "desktop-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "dev-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "editors-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "games-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "gnome-kit": {
             "stability": {
                 "3.26-prime": "prime",
-                "3.30-prime": "prime"
+                "3.30-prime": "prime",
+                "3.32-prime": "prime"
             },
             "type": "indy"
         },
         "haskell-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "java-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "kde-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "lang-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "lisp-scheme-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "llvm-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "media-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "ml-lang-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "net-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "nokit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
@@ -167,13 +168,13 @@
         },
         "python-modules-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "ruby-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
@@ -185,19 +186,19 @@
         },
         "science-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "security-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
         "text-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "dev"
             },
             "type": "auto"
         },
@@ -245,6 +246,7 @@
             "1.4-release"
         ],
         "gnome-kit": [
+            "3.32-prime",
             "3.30-prime",
             "3.26-prime"
         ],
