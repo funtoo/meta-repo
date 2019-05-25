@@ -1,12 +1,12 @@
 {
     "core-gl-kit": {
-        "1.3-release": "09f055474d2ae38e3165e941321fd5c09bb1aae1"
+        "1.3-release": "083d40aea291f704ce72a01c8c0323442eb4f103"
     },
     "core-hw-kit": {
         "1.3-release": "8a1bd83496fac35a3081e717ec264121eaacd6d7"
     },
     "core-kit": {
-        "1.3-release": "a1ef6ea9f6767f58ce65e760b693d0bd0a9bd6bc"
+        "1.3-release": "0bd1e08d9b7d88c70cea6b335479312178d0a53a"
     },
     "core-server-kit": {
         "1.3-release": "5cb1a71bf6bd1a0199619f35bc28d60db7c0f062"
@@ -21,7 +21,7 @@
         "1.3-release": "37da84d34b7f7f3e54b2ad601e2d2df3c3c72cbf"
     },
     "editors-kit": {
-        "1.3-release": "2600bc73afccd01179839937318eb79eb8a1b1e7"
+        "1.3-release": "4e193ec56b548b8372b57c4f78a4a1d6b149ffce"
     },
     "games-kit": {
         "1.3-release": "50a432a8533fb722e3dfc59911535479d9d295cc"
@@ -58,7 +58,7 @@
         "1.3-release": "8317303c8a075848f5bc2feb7b461310e9d59a92"
     },
     "nokit": {
-        "1.3-release": "b51e0990a2e990743cf342fd6541b68c809069cc"
+        "1.3-release": "eeabd5a394a67530d80f76ad0d2fc0c25295fff1"
     },
     "perl-kit": {
         "5.28-release": "ec637be7a63a1da0aa87e7e309c64d8176e12779"
