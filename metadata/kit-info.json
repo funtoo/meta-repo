@@ -174,9 +174,9 @@
         },
         "ruby-kit": {
             "stability": {
-                "1.4-release": "dev"
+                "2.6-prime": "prime"
             },
-            "type": "auto"
+            "type": "indy"
         },
         "rust-kit": {
             "stability": {
@@ -290,7 +290,7 @@
             "1.4-release"
         ],
         "ruby-kit": [
-            "1.4-release"
+            "2.6-prime"
         ],
         "rust-kit": [
             "1.32-prime"
