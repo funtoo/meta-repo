@@ -21,15 +21,14 @@
         "1.4-release": "d2f274d4b5587717728369c7ea202f7fa2303da7"
     },
     "editors-kit": {
-        "1.4-release": "1cbebb6163aa51dd799f13bdbd99c4f72fc9d14a"
+        "1.4-release": "2a405665d8edacccb7798498b72068c93d0d3d25"
     },
     "games-kit": {
         "1.4-release": "a8b84e0e54276a94a0bbd2ceaefd9a8297bb7de8"
     },
     "gnome-kit": {
-        "3.26-prime": "c289217ae6f84199aadb957eba7cd912ffd9dc1b",
-        "3.30-prime": "754928b97e9739fc29c833fd3890bcb4b9b9a3b5",
-        "3.32-prime": "597e290c2a994ce83ec2e1908d5eec51bd0fdd1c"
+        "3.30-prime": "b000c8a9b5daa9cf2117d9abf8b3dabdd2979cc5",
+        "3.32-prime": "79f88dd2e07f8f19402d08ad7d07e3856c96812b"
     },
     "haskell-kit": {
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
@@ -59,7 +58,7 @@
         "1.4-release": "bd5ab14aebbd283eb9c3a3fa0ba3031f0a9d819f"
     },
     "nokit": {
-        "1.4-release": "54995ee4e4c04907d5635c3a299750ceb6c447b7"
+        "1.4-release": "21a70e52ccfec09b8ec4404f01893fcea8db9afe"
     },
     "perl-kit": {
         "5.28-release": "ec637be7a63a1da0aa87e7e309c64d8176e12779"
@@ -89,8 +88,6 @@
         "4.13-release": "b6e2fb21ab9c7bb6082c5411f27819f950b552ed"
     },
     "xorg-kit": {
-        "1.17-prime": "0ca7436a6ea4723f0fbff85023470a1410a09961",
-        "1.19-prime": "ce7437fda95ac50604ef6abec204b6b420109a75",
         "1.20-release": "cf841462c02eb22a99524c46df3b25b321b6e287"
     }
 }
