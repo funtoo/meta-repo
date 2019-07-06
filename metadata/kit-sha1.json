@@ -3,10 +3,10 @@
         "1.3-release": "083d40aea291f704ce72a01c8c0323442eb4f103"
     },
     "core-hw-kit": {
-        "1.3-release": "8a1bd83496fac35a3081e717ec264121eaacd6d7"
+        "1.3-release": "fca79d8c2bb029ae09ad81f66c816b7bab6775c2"
     },
     "core-kit": {
-        "1.3-release": "89056d8ca1191b1c61fe7fe217822dbfa28b9b95"
+        "1.3-release": "c5783a42c49161140a52c40ab5c02587187f844d"
     },
     "core-server-kit": {
         "1.3-release": "57303ccbbcae737599141674c34254e7881b4515"
@@ -21,7 +21,7 @@
         "1.3-release": "e81cfea6787b4761d177cd805b2bb3b8b54eaeac"
     },
     "editors-kit": {
-        "1.3-release": "7e48e1f06226102154b7e2fb1ee3e6e3c651d32a"
+        "1.3-release": "601be79a1aac321e65116506d659ba3cec9542ec"
     },
     "games-kit": {
         "1.3-release": "6b0d32dd2eeead6d96603ac3a4a5aee0347e39d1"
@@ -55,7 +55,7 @@
         "1.3-release": "f846a12a5ce53883c1a26de7414162adc5a65b14"
     },
     "net-kit": {
-        "1.3-release": "3e0db7a6a3b20e856e07f7e72a2b3d487ebd6ea6"
+        "1.3-release": "659488658ca70218eea2244a2ab63b7229b41a13"
     },
     "nokit": {
         "1.3-release": "768785956b8f56b1b6f48ba869c0fd94f54fb296"
@@ -64,10 +64,10 @@
         "5.28-release": "ec637be7a63a1da0aa87e7e309c64d8176e12779"
     },
     "python-kit": {
-        "3.7-release": "a1bd8ebd2da2a658d24127691a4e1e8d03660900"
+        "3.7-release": "a49903c5acbeacaa6519f96e45180ae7b49a0e25"
     },
     "python-modules-kit": {
-        "1.3-release": "d3d8c9996e3eb0f631128b3504f706aa28d85c06"
+        "1.3-release": "6685dc350785b6cbabd379bf31bddf3e2ce6d0a5"
     },
     "ruby-kit": {
         "2.6-prime": "f05a922f19822df273894c973a43d61e54bf8582"
@@ -88,8 +88,7 @@
         "4.13-release": "b6e2fb21ab9c7bb6082c5411f27819f950b552ed"
     },
     "xorg-kit": {
-        "1.17-prime": "0ca7436a6ea4723f0fbff85023470a1410a09961",
         "1.19-prime": "ce7437fda95ac50604ef6abec204b6b420109a75",
-        "1.20-release": "cf841462c02eb22a99524c46df3b25b321b6e287"
+        "1.20-release": "b9eacaead3b3c6908c60bdb2d67317ab27fa85a4"
     }
 }

@@ -209,7 +209,6 @@
         },
         "xorg-kit": {
             "stability": {
-                "1.17-prime": "prime",
                 "1.19-prime": "prime",
                 "1.20-release": "prime"
             },
@@ -307,8 +306,7 @@
         ],
         "xorg-kit": [
             "1.20-release",
-            "1.19-prime",
-            "1.17-prime"
+            "1.19-prime"
         ]
     },
     "release_info": {
