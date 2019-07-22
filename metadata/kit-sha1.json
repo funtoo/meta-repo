@@ -1,6 +1,6 @@
 {
     "core-gl-kit": {
-        "1.3-release": "083d40aea291f704ce72a01c8c0323442eb4f103"
+        "1.3-release": "39b8edad9a1f6d61717eb10baf9bc31403113c9e"
     },
     "core-hw-kit": {
         "1.3-release": "ec8c310c02636814be607798474f531bbfa6c0c1"
@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "3.26-prime": "c289217ae6f84199aadb957eba7cd912ffd9dc1b",
-        "3.30-prime": "b000c8a9b5daa9cf2117d9abf8b3dabdd2979cc5"
+        "3.30-prime": "1f570713a69cf048e11f80920a779990da2513f5"
     },
     "haskell-kit": {
         "1.3-release": "01c0a4b6259ff928e22774a5f98c11da5ca6b910"
@@ -55,7 +55,7 @@
         "1.3-release": "f846a12a5ce53883c1a26de7414162adc5a65b14"
     },
     "net-kit": {
-        "1.3-release": "fa97c2616264d089250fed49b29017b7a2559b7c"
+        "1.3-release": "36090b35ce8a3a244fe7867e3e03cd435320111c"
     },
     "nokit": {
         "1.3-release": "a08450c117dfb62d0264d55667a520ae6b107de7"
