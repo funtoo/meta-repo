@@ -21,7 +21,7 @@
         "1.4-release": "03f96ad9646a90a48d4f11bf1ae6784a50a79e34"
     },
     "editors-kit": {
-        "1.4-release": "e1f2da93fc3cbf44d054f3944506cf0a5640ebdd"
+        "1.4-release": "6344999f9ab14b1c8685c9fe00801886028abbe9"
     },
     "games-kit": {
         "1.4-release": "a8b84e0e54276a94a0bbd2ceaefd9a8297bb7de8"
@@ -58,7 +58,7 @@
         "1.4-release": "66d442b090cc15d94c36fc468808171636b49350"
     },
     "nokit": {
-        "1.4-release": "0a84162d848c7088545464337013545c2004debc"
+        "1.4-release": "4e717d73d1e593c5b8b448090376238984d24cfc"
     },
     "perl-kit": {
         "5.28-release": "ec637be7a63a1da0aa87e7e309c64d8176e12779"
@@ -88,6 +88,6 @@
         "4.13-release": "b6e2fb21ab9c7bb6082c5411f27819f950b552ed"
     },
     "xorg-kit": {
-        "1.20-release": "1a75705b918cdb792709b29602bb25cacf9c64b8"
+        "1.20-release": "3cd348091867026a15a70cb6c9416a45da36378b"
     }
 }
