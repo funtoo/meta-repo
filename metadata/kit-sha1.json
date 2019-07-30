@@ -1,6 +1,6 @@
 {
     "core-gl-kit": {
-        "1.4-release": "a8f03365fe27e278429408145de4dad79aac24ce"
+        "1.4-release": "1b1ce9488bcdb7b18e3b4ff9ff50f9aaece68abf"
     },
     "core-hw-kit": {
         "1.4-release": "9cf748d63e36ec8df792a9b5e3fa641bf3ac6a26"
@@ -21,14 +21,14 @@
         "1.4-release": "585063c58f19caf9d94651f7dc916793b223d357"
     },
     "editors-kit": {
-        "1.4-release": "8c07931073b23b9ccb4b82da6c829ee59c69df6e"
+        "1.4-release": "29c1294172c84dc6dfab4749d6a8c38a90c3a499"
     },
     "games-kit": {
         "1.4-release": "a8b84e0e54276a94a0bbd2ceaefd9a8297bb7de8"
     },
     "gnome-kit": {
         "3.30-prime": "1f570713a69cf048e11f80920a779990da2513f5",
-        "3.32-prime": "70920865c05ec5976a2b63b3090d1efe5980e069"
+        "3.32-prime": "f0407b1748ed1cc7b7ea3fff2ad9958ef345fd7c"
     },
     "haskell-kit": {
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
@@ -88,6 +88,6 @@
         "4.13-release": "b6e2fb21ab9c7bb6082c5411f27819f950b552ed"
     },
     "xorg-kit": {
-        "1.20-release": "f25b3d5c98707efb1e2a5a671c3d6799ce9dcd33"
+        "1.20-release": "680e775df39f76402e7b4b97b64ef2bc50a1f216"
     }
 }
