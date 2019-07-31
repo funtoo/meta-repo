@@ -6,7 +6,7 @@
         "1.3-release": "ec8c310c02636814be607798474f531bbfa6c0c1"
     },
     "core-kit": {
-        "1.3-release": "17cbfca45b4db2f17df821ed0d4b0635dcbf3a01"
+        "1.3-release": "844a44cca358210bd41bf548eda2ce77af69213e"
     },
     "core-server-kit": {
         "1.3-release": "57303ccbbcae737599141674c34254e7881b4515"
@@ -21,7 +21,7 @@
         "1.3-release": "e1b537d1c34a677424246809cdf92228b9cc1f10"
     },
     "editors-kit": {
-        "1.3-release": "f23db22641734d72a12e36f65aab924e9827f8fd"
+        "1.3-release": "29f659861f4e444b68d2ed9d98e921ee864ef654"
     },
     "games-kit": {
         "1.3-release": "6b0d32dd2eeead6d96603ac3a4a5aee0347e39d1"
@@ -40,7 +40,7 @@
         "1.3-release": "563ef63051ea790bcd0b0d2dda7882efe5947172"
     },
     "lang-kit": {
-        "1.3-release": "87a480991873dc0c67b058763ab01df6b2a1b3f2"
+        "1.3-release": "2fc41fbefba4dee8213725eb033ebf83c9d2ba62"
     },
     "lisp-scheme-kit": {
         "1.3-release": "4f13c71251e8fa83ba82230ceed8b0330f4c6eb3"
@@ -89,6 +89,6 @@
     },
     "xorg-kit": {
         "1.19-prime": "ce7437fda95ac50604ef6abec204b6b420109a75",
-        "1.20-release": "dbb73f4fde9eb03afb4afed4312c5071835e0f66"
+        "1.20-release": "680e775df39f76402e7b4b97b64ef2bc50a1f216"
     }
 }
