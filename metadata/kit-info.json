@@ -34,55 +34,55 @@
     "kit_settings": {
         "core-gl-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "core-hw-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "core-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "core-server-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "core-ui-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "desktop-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "dev-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "editors-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "games-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
@@ -95,61 +95,61 @@
         },
         "haskell-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "java-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "kde-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "lang-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "lisp-scheme-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "llvm-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "media-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "ml-lang-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "net-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "nokit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
@@ -167,7 +167,7 @@
         },
         "python-modules-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
@@ -185,19 +185,19 @@
         },
         "science-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "security-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "text-kit": {
             "stability": {
-                "1.4-release": "beta"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
