@@ -6,7 +6,7 @@
         "1.4-release": "9cf748d63e36ec8df792a9b5e3fa641bf3ac6a26"
     },
     "core-kit": {
-        "1.4-release": "bc545dfc0307af3e55af40de3771a42e09fdedea"
+        "1.4-release": "262d3159876e8763f97dcac6068bdcbacf83e6db"
     },
     "core-server-kit": {
         "1.4-release": "71aa01a4b080f2521a79cd81f8f559034e78f2f0"
@@ -21,7 +21,7 @@
         "1.4-release": "b6b4e71a32c00393f29a21912b85a76b71dea816"
     },
     "editors-kit": {
-        "1.4-release": "ef61404d8151fd20062a01d670bcf7c9d35745a5"
+        "1.4-release": "3fc42533bfda61ebae8a543124462e30b52784a9"
     },
     "games-kit": {
         "1.4-release": "a8b84e0e54276a94a0bbd2ceaefd9a8297bb7de8"
@@ -40,7 +40,7 @@
         "1.4-release": "e8ac329e0b0641901d0ce26e4e6510a350ac66b8"
     },
     "lang-kit": {
-        "1.4-release": "55ca8d547894b15f40241ef2c74016cc79ca95f1"
+        "1.4-release": "a46fb70cefc62e6ba4fa783cdb9ec97b7ad9cd05"
     },
     "lisp-scheme-kit": {
         "1.4-release": "c7e9c2635b22784741f7f2beb7a479914fed6219"
@@ -58,7 +58,7 @@
         "1.4-release": "8b6dbc9942b12dec9cc98b5063ef2b9ae2548142"
     },
     "nokit": {
-        "1.4-release": "37e067c8535c2875c988246aba93cdc04e83332d"
+        "1.4-release": "da6368cb8d2672f4ef9e3831630567c0229e8b16"
     },
     "perl-kit": {
         "5.28-release": "d3e192927eb422893456e0ae3daeefeece9c6452"
@@ -67,7 +67,7 @@
         "3.7-release": "a49903c5acbeacaa6519f96e45180ae7b49a0e25"
     },
     "python-modules-kit": {
-        "1.4-release": "82be1366527492fb28124960aaf60f0206e42773"
+        "1.4-release": "b811b382ab3ba5fd375459e60ab376c747afe980"
     },
     "ruby-kit": {
         "2.6-prime": "f05a922f19822df273894c973a43d61e54bf8582"
