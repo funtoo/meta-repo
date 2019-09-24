@@ -179,7 +179,8 @@
         },
         "rust-kit": {
             "stability": {
-                "1.32-prime": "prime"
+                "1.32-prime": "prime",
+                "1.37-prime": "prime"
             },
             "type": "indy"
         },
@@ -289,6 +290,7 @@
             "2.6-prime"
         ],
         "rust-kit": [
+            "1.37-prime",
             "1.32-prime"
         ],
         "science-kit": [

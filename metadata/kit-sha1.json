@@ -3,13 +3,13 @@
         "1.4-release": "c8f8d785cd5afa7f5905669ebeee9acc19535ee1"
     },
     "core-hw-kit": {
-        "1.4-release": "af9fc606f76a7cf7617b56aead178bbdc6fd19a5"
+        "1.4-release": "ed39ca818667367b800b7721eecc9fdfc65662b7"
     },
     "core-kit": {
         "1.4-release": "3479aede2e80824a7e7175350df16c905e316cbd"
     },
     "core-server-kit": {
-        "1.4-release": "71aa01a4b080f2521a79cd81f8f559034e78f2f0"
+        "1.4-release": "0f84afcb0eac67080bfdd4809e39892a412914d3"
     },
     "core-ui-kit": {
         "1.4-release": "6721c321da6036dcb028c0f40ac765b902d2abb6"
@@ -18,10 +18,10 @@
         "1.4-release": "a9cc96cff83d1c87be0e32c8380d5a43f4e8ffae"
     },
     "dev-kit": {
-        "1.4-release": "b6b4e71a32c00393f29a21912b85a76b71dea816"
+        "1.4-release": "4a0df1d262fda544a7f9f8450f38108b1beac43b"
     },
     "editors-kit": {
-        "1.4-release": "5ea936195d6d88063ac12d9981626b9c4c1518b6"
+        "1.4-release": "3816e0d41fda526e87272e5b82757afa6aca4bd3"
     },
     "games-kit": {
         "1.4-release": "a8b84e0e54276a94a0bbd2ceaefd9a8297bb7de8"
@@ -55,10 +55,10 @@
         "1.4-release": "54a2994a4effa054b748d0c47c8b67b143e1185a"
     },
     "net-kit": {
-        "1.4-release": "15fb3951805d7017630374d1de225f04cf0203dc"
+        "1.4-release": "99508c3d70af0e122ffb265a0643337b1dfabf1b"
     },
     "nokit": {
-        "1.4-release": "4b5738e0b0bd279d4f208af45593eebc89d447de"
+        "1.4-release": "234140854c6bd8be965105ecc8925a02ce6204d1"
     },
     "perl-kit": {
         "5.28-release": "d3e192927eb422893456e0ae3daeefeece9c6452"
@@ -73,13 +73,14 @@
         "2.6-prime": "f05a922f19822df273894c973a43d61e54bf8582"
     },
     "rust-kit": {
-        "1.32-prime": "412e0d9e3395050de8a7efc974ec5a0e3bec8c38"
+        "1.32-prime": "412e0d9e3395050de8a7efc974ec5a0e3bec8c38",
+        "1.37-prime": "8d405841c3cfb3e742e5d1bbd6db71ff778e29af"
     },
     "science-kit": {
         "1.4-release": "4c0664f905e1112f2553360c480474a34542cfe7"
     },
     "security-kit": {
-        "1.4-release": "0bd05b3f127e567abdcde332de97526859d5e21c"
+        "1.4-release": "83c28046349ca4e8579f139291e4c4c788059888"
     },
     "text-kit": {
         "1.4-release": "0143a4e9077513f470ee4b210b4589ad9e6f1416"
