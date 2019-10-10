@@ -1,15 +1,15 @@
 {
     "core-gl-kit": {
-        "1.3-release": "fead2ca828c95123f3a18e6960fdbdfd99375620"
+        "1.3-release": "5c192d9908d5cb0c5c14f5973af48e5f26da2309"
     },
     "core-hw-kit": {
         "1.3-release": "fc05a226753e3e42089a3e84787eebc8b392ce91"
     },
     "core-kit": {
-        "1.3-release": "337f4fc4e7a9cf24bcd351c94bf4b9ee6fee9d82"
+        "1.3-release": "9bb92f2eb2786b970d149edf4d0ed2569dcbfe3a"
     },
     "core-server-kit": {
-        "1.3-release": "8f51aac0c4090469e7887848a4e15722b7b3e4d9"
+        "1.3-release": "f930d3c8b839300682ddaa74ef2d764f01ca8819"
     },
     "core-ui-kit": {
         "1.3-release": "7a7808d40754ac61d2e56a8e8589abbb58b1e859"
@@ -18,10 +18,10 @@
         "1.3-release": "0541bb9ae5949b7b8cd218d3b1fa77a096f94b37"
     },
     "dev-kit": {
-        "1.3-release": "f1f4bf5938ac46f9c43e4d7e9ce9cf964e99a290"
+        "1.3-release": "81f839249387a948a9079c2d4bc2b51a3ab40a4a"
     },
     "editors-kit": {
-        "1.3-release": "09acf1b8a5d9540bb72bada98dcc2f1d8834f318"
+        "1.3-release": "45e1bcc2923df4f6754114e919a7fcdb89faa762"
     },
     "games-kit": {
         "1.3-release": "6b0d32dd2eeead6d96603ac3a4a5aee0347e39d1"
@@ -55,7 +55,7 @@
         "1.3-release": "f846a12a5ce53883c1a26de7414162adc5a65b14"
     },
     "net-kit": {
-        "1.3-release": "6c3bf19d8223d19ce16d698d0ff20a7946b6e566"
+        "1.3-release": "86c6598e893b02ad9730c778e4b31e21947fd2fc"
     },
     "nokit": {
         "1.3-release": "2dbfcb7f51abf74cbcf4de40a86072d941d9f7c8"
@@ -67,7 +67,7 @@
         "3.7-release": "a49903c5acbeacaa6519f96e45180ae7b49a0e25"
     },
     "python-modules-kit": {
-        "1.3-release": "9e751f3bb89ff9a577270a3c6eee71f45535592a"
+        "1.3-release": "2f96202fbed267d209aeb2ba59fc8edae201c1bc"
     },
     "ruby-kit": {
         "2.6-prime": "f05a922f19822df273894c973a43d61e54bf8582"
@@ -89,6 +89,6 @@
     },
     "xorg-kit": {
         "1.19-prime": "ce7437fda95ac50604ef6abec204b6b420109a75",
-        "1.20-release": "367e96b5992d7f68317b1d8634d08951ef24dbf8"
+        "1.20-release": "ce81a48f796423392de9142e413251000850ac2c"
     }
 }
