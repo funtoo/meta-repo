@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "3.30-prime": "43aab49b38e586a6911a4fc1be867d9d46430f44",
-        "3.32-prime": "5f9ba9a735b8cdc52d7d7f52f515f55cf2de9d9a"
+        "3.32-prime": "3659d658743ffffcda1bec6da3cf104cab6f711c"
     },
     "haskell-kit": {
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
@@ -89,6 +89,6 @@
         "4.13-release": "b6e2fb21ab9c7bb6082c5411f27819f950b552ed"
     },
     "xorg-kit": {
-        "1.20-release": "ce81a48f796423392de9142e413251000850ac2c"
+        "1.20-release": "3037a8484a0ceb3a56d1d4b41b78c39fd9af9938"
     }
 }
