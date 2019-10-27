@@ -1,15 +1,15 @@
 {
     "core-gl-kit": {
-        "1.3-release": "37b9d6fc603af44b2db8a56fe1b3d5e60f396d71"
+        "1.3-release": "1a8fc0814679f8f8e0de1afd24dc9a38edee55c6"
     },
     "core-hw-kit": {
         "1.3-release": "ddd6c363fe07283a34b43c322c4656b0fa506cd4"
     },
     "core-kit": {
-        "1.3-release": "08b866d409ee2feca8c8175313aa46b7152e367e"
+        "1.3-release": "265443bb553f0a1a437fea76ecf977852730802d"
     },
     "core-server-kit": {
-        "1.3-release": "02c3c024a6b57aafa388949e6b3c7309a84893b1"
+        "1.3-release": "ed65f6ea00a14ff5037837457c03f5e359db673a"
     },
     "core-ui-kit": {
         "1.3-release": "7a7808d40754ac61d2e56a8e8589abbb58b1e859"
@@ -18,10 +18,10 @@
         "1.3-release": "b8196cb7f94e07684fcb5252032f14f3c292880f"
     },
     "dev-kit": {
-        "1.3-release": "20a44dbc0f5cee652749c1805adace7aa898da26"
+        "1.3-release": "11edb5b0bed3f073d5afc881ccc37dbff047f987"
     },
     "editors-kit": {
-        "1.3-release": "0c3f6a77398ff698340a79bb26a6ca1c9aee6df4"
+        "1.3-release": "d89da61c5ce856da1b7f4fc794f7ec5a7fe470b8"
     },
     "games-kit": {
         "1.3-release": "6b0d32dd2eeead6d96603ac3a4a5aee0347e39d1"
@@ -49,13 +49,13 @@
         "1.3-release": "b62df453984ffc5b3d4ed365c785e88f567e2dbf"
     },
     "media-kit": {
-        "1.3-release": "38f33f4b1dab069fe60983731e84155b41e2d668"
+        "1.3-release": "eecedbf14d7332d2e1bf492aba6639c109b5ce51"
     },
     "ml-lang-kit": {
         "1.3-release": "f846a12a5ce53883c1a26de7414162adc5a65b14"
     },
     "net-kit": {
-        "1.3-release": "0bb867fdce0fac9d5c60052701ec5e525499b3ae"
+        "1.3-release": "6085175d0b2d2675727d6c6d964c10e5cb486169"
     },
     "nokit": {
         "1.3-release": "79b19ac0ef5ee840b0675d27b8d612ff178a7687"
@@ -89,6 +89,6 @@
     },
     "xorg-kit": {
         "1.19-prime": "ce7437fda95ac50604ef6abec204b6b420109a75",
-        "1.20-release": "3037a8484a0ceb3a56d1d4b41b78c39fd9af9938"
+        "1.20-release": "b738ad2c67af64b9cd8ec2008692d4279503652c"
     }
 }
