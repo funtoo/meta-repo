@@ -1,12 +1,12 @@
 {
     "core-gl-kit": {
-        "1.4-release": "073a303e5a613cf1852fe16bf12fb0409be22578"
+        "1.4-release": "0f0d9ef7dfee1873d0409cea952c2178da327218"
     },
     "core-hw-kit": {
         "1.4-release": "a7c77beaa69e7ee8ce653fe51fcc024e920e5b32"
     },
     "core-kit": {
-        "1.4-release": "f4e751646062cd4738bfaf033bf2e019ddbb17a2"
+        "1.4-release": "7c312daf85af601e71ed6f3e5d84225d89d39706"
     },
     "core-server-kit": {
         "1.4-release": "51648ea0ad3b3c997dea4497082bd128d646790b"
@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "3.30-prime": "fcc8fb5a3055353616b85b4d67a148d312e4ac54",
-        "3.32-prime": "5aa2c72969cf783816dd5dcc1dd1c589f8b4c66e",
+        "3.32-prime": "5f3c01d99e79e3d7ac7fea753cf330347a0e4fa6",
         "3.34-prime": "8c3b8ff5d1bb3ce1e8927cd55e9a8541bea75380"
     },
     "haskell-kit": {
