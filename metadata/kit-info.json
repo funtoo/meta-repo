@@ -90,7 +90,7 @@
             "stability": {
                 "3.30-prime": "prime",
                 "3.32-prime": "prime",
-                "3.34-prime": "alpha"
+                "3.34-prime": "prime"
             },
             "type": "indy"
         },
@@ -245,8 +245,8 @@
             "1.4-release"
         ],
         "gnome-kit": [
-            "3.32-prime",
             "3.34-prime",
+            "3.32-prime",
             "3.30-prime"
         ],
         "haskell-kit": [
