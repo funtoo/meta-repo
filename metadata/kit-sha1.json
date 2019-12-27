@@ -3,10 +3,10 @@
         "1.4-release": "8606747b070be2ffbdd6c3a68852c560a04d811a"
     },
     "core-hw-kit": {
-        "1.4-release": "1270a646140903cb5d09fe22a44743f1d872a91e"
+        "1.4-release": "471a64dfd72cee1573998fc4a5566beafea5b47b"
     },
     "core-kit": {
-        "1.4-release": "e5d6c96786b43cc57b87cd69fc5f3967003cfe5f"
+        "1.4-release": "4a57d45fb12be116b8288fe6289b1fdac4c11a5a"
     },
     "core-server-kit": {
         "1.4-release": "a803933869936bdc6ec89ec164b26df2d40a602b"
@@ -18,10 +18,10 @@
         "1.4-release": "fac7a253133e88aa8992af876ee02907b1808c3d"
     },
     "dev-kit": {
-        "1.4-release": "5af42b4c41fedcb6aa40ebdf91bd03eb0fa16bf4"
+        "1.4-release": "7b3f8e9954b9fdcf9fe082c1ba993afe42b982d4"
     },
     "editors-kit": {
-        "1.4-release": "cbe520171d081f33afe7a3116fd3be08c8b61a16"
+        "1.4-release": "b655e189dfc1f0f0ad4984f0206a6f5a58e89abc"
     },
     "games-kit": {
         "1.4-release": "93548c0f5eb4839bd156705b43f757b7dc75213e"
@@ -29,7 +29,7 @@
     "gnome-kit": {
         "3.30-prime": "fcc8fb5a3055353616b85b4d67a148d312e4ac54",
         "3.32-prime": "0a20f9c70a4ec3c19c74844d16b608d58af8cea5",
-        "3.34-prime": "e28cd44f624f1c7c07517ac40fea31034118b1d6"
+        "3.34-prime": "ddb924611cae30bfba8fe511ae476991efc594f1"
     },
     "haskell-kit": {
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
@@ -56,7 +56,7 @@
         "1.4-release": "556e69e40f31c7986d24a4cd930ebf84a543f717"
     },
     "net-kit": {
-        "1.4-release": "63f93f386c5195df4887d443620401a51e649965"
+        "1.4-release": "bf6b031db355bc317571aeb6c905d3ec1e424f2a"
     },
     "nokit": {
         "1.4-release": "d552000d3787cce0e9b792772c35b7084eaa5c03"
@@ -68,7 +68,7 @@
         "3.7-release": "a49903c5acbeacaa6519f96e45180ae7b49a0e25"
     },
     "python-modules-kit": {
-        "1.4-release": "dccc2f8600f3dc9c5585ce44a3292334083ad7fc"
+        "1.4-release": "404db2a7e3e8a2b0bf941f8236c0d0a654a0de5e"
     },
     "ruby-kit": {
         "2.6-prime": "f05a922f19822df273894c973a43d61e54bf8582"
