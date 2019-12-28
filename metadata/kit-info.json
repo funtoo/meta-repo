@@ -90,7 +90,8 @@
             "stability": {
                 "3.30-prime": "prime",
                 "3.32-prime": "prime",
-                "3.34-prime": "prime"
+                "3.34-prime": "prime",
+                "3.34.2-testing": "dev"
             },
             "type": "indy"
         },
@@ -246,6 +247,7 @@
         ],
         "gnome-kit": [
             "3.34-prime",
+            "3.34.2-testing",
             "3.32-prime",
             "3.30-prime"
         ],
