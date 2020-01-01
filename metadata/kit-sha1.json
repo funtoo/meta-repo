@@ -18,7 +18,7 @@
         "1.4-release": "568a8e27834af8bab87ada05cfbe9b95da056746"
     },
     "dev-kit": {
-        "1.4-release": "d0e11ffa35e6ab5918e499938a2a6ce0bb2dae3e"
+        "1.4-release": "f443aed70b5b70f8c1f101fdfec2adfed11aea1c"
     },
     "editors-kit": {
         "1.4-release": "ad942c771f12314e0b9e4b1ee6c943ac0301f066"
@@ -55,7 +55,7 @@
         "1.4-release": "556e69e40f31c7986d24a4cd930ebf84a543f717"
     },
     "net-kit": {
-        "1.4-release": "5f6063c9830def0c1f1c566df110e4ad9f75c131"
+        "1.4-release": "1808c46deec94377202c133f592421635b5ce31b"
     },
     "nokit": {
         "1.4-release": "4c791b1af8ca52c235f40167a61eefe3f1497d26"
@@ -89,6 +89,6 @@
         "4.13-release": "b6e2fb21ab9c7bb6082c5411f27819f950b552ed"
     },
     "xorg-kit": {
-        "1.20-release": "a250e0f70a54b1535c3667af75c97dae83d5b310"
+        "1.20-release": "6034bc4980545cc42639338a139a6b89f4544534"
     }
 }
