@@ -6,7 +6,7 @@
         "1.4-release": "5b78fa3ffd7a96516b8b93f296d6eb729453bde7"
     },
     "core-kit": {
-        "1.4-release": "e58f202b350c159eb88dcf67def1a648c3525804"
+        "1.4-release": "bb1342c4ed11862bbf705bae45c222370e101335"
     },
     "core-server-kit": {
         "1.4-release": "f56e2f66977243b8afa30d62f20f82cb598620c8"
@@ -18,17 +18,17 @@
         "1.4-release": "0520eb606e72076f1c7f4ff35e1ee30441f1d0ef"
     },
     "dev-kit": {
-        "1.4-release": "19acd1e25158997c0b2acca279409a96d52350b6"
+        "1.4-release": "e86f3cad2fcb4ceac8d3b6f638690ec14b9c7fea"
     },
     "editors-kit": {
-        "1.4-release": "702f0449f1e61f0184a3e69702f204d59374ced9"
+        "1.4-release": "ff7b9b8ef95faa7b9c8879786995e5e86bf04258"
     },
     "games-kit": {
         "1.4-release": "3ae11867f600df59fa6c1422d9c439c249d5a7fb"
     },
     "gnome-kit": {
         "3.32-prime": "0a20f9c70a4ec3c19c74844d16b608d58af8cea5",
-        "3.34-prime": "c70bb8e5029c27980433faf4404d5f672d234966"
+        "3.34-prime": "c73ece98e3b000becaa334a8c20db86a8926a29f"
     },
     "haskell-kit": {
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
@@ -40,7 +40,7 @@
         "1.4-release": "141e9997f918f6c839fed7f96f43b899074af7b1"
     },
     "lang-kit": {
-        "1.4-release": "3194c447b2cb960dc1bd09da1d54415a41b2394e"
+        "1.4-release": "a3b1775633a7f3ac865117cef5f0a86a6adbf93d"
     },
     "lisp-scheme-kit": {
         "1.4-release": "9e31a85f7b7bc43e93a03e60073bdfb1f10a1582"
@@ -55,10 +55,10 @@
         "1.4-release": "556e69e40f31c7986d24a4cd930ebf84a543f717"
     },
     "net-kit": {
-        "1.4-release": "5253896f6008fa0fce0159ac9c5b77af27973e17"
+        "1.4-release": "11a8b28921f28e5eb143865f28062bd62fef7d13"
     },
     "nokit": {
-        "1.4-release": "5ea7909327ac49da0f768883a25b2df7fe4d6a1c"
+        "1.4-release": "dd5d78c0eef8c2004ffe1b09a6cae550d977dada"
     },
     "perl-kit": {
         "5.28-release": "d3e192927eb422893456e0ae3daeefeece9c6452"
