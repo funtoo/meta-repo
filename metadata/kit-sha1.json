@@ -21,14 +21,15 @@
         "1.4-release": "e86f3cad2fcb4ceac8d3b6f638690ec14b9c7fea"
     },
     "editors-kit": {
-        "1.4-release": "ff7b9b8ef95faa7b9c8879786995e5e86bf04258"
+        "1.4-release": "3a810426b07f1670f35068c6c644f67579002584"
     },
     "games-kit": {
         "1.4-release": "3ae11867f600df59fa6c1422d9c439c249d5a7fb"
     },
     "gnome-kit": {
         "3.32-prime": "0a20f9c70a4ec3c19c74844d16b608d58af8cea5",
-        "3.34-prime": "c73ece98e3b000becaa334a8c20db86a8926a29f"
+        "3.34-prime": "c73ece98e3b000becaa334a8c20db86a8926a29f",
+        "3.34.3-testing": "a61420fe61b8e70960ddde99a34a42e64b5d5da1"
     },
     "haskell-kit": {
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
