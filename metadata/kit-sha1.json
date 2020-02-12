@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "23f757c7538289dbbb3f42ef831412195aaea0a2"
+        "1.4-release": "8c3620a9048d870b5e7bdf172baa62253f80f247"
     },
     "core-gl-kit": {
         "1.4-release": "39e67f3e4c6a7c100ef3ebed0002ed0a0b46ea87"
@@ -24,14 +24,14 @@
         "1.4-release": "2b1359f04cc835f81fc0a65866986082f2d37124"
     },
     "editors-kit": {
-        "1.4-release": "97412fb489b0c03219b25b9d5bc0d201dc4164f2"
+        "1.4-release": "77c257ab978530cd2a62d6eb8631dc16ca2ea65a"
     },
     "games-kit": {
         "1.4-release": "ab617710df59202006983a74132b378436e773fd"
     },
     "gnome-kit": {
         "3.32-prime": "c98381ee42351151373b30ec1f9edf328d5fd79b",
-        "3.34-prime": "3d702c00d2066469d1b5815ba96afadfdda06555",
+        "3.34-prime": "58d8a43d9aa7f1eab7c1e4591469c294cdb31ea8",
         "3.34.3-testing": "df232dee0293912212754243502a7e9b24a7acb6"
     },
     "haskell-kit": {
