@@ -2,7 +2,6 @@
     "kit_order": [
         "core-kit",
         "core-hw-kit",
-        "core-ui-kit",
         "core-server-kit",
         "core-gl-kit",
         "security-kit",
@@ -10,6 +9,7 @@
         "gnome-kit",
         "rust-kit",
         "xfce-kit",
+        "qt-kit",
         "kde-kit",
         "browser-kit",
         "desktop-kit",
@@ -58,12 +58,6 @@
             "type": "auto"
         },
         "core-server-kit": {
-            "stability": {
-                "1.4-release": "prime"
-            },
-            "type": "auto"
-        },
-        "core-ui-kit": {
             "stability": {
                 "1.4-release": "prime"
             },
@@ -179,6 +173,12 @@
             },
             "type": "auto"
         },
+        "qt-kit": {
+            "stability": {
+                "5.12.7-release": "prime"
+            },
+            "type": "indy"
+        },
         "ruby-kit": {
             "stability": {
                 "2.6-prime": "prime"
@@ -239,9 +239,6 @@
         "core-server-kit": [
             "1.4-release"
         ],
-        "core-ui-kit": [
-            "1.4-release"
-        ],
         "desktop-kit": [
             "1.4-release"
         ],
@@ -297,6 +294,9 @@
         ],
         "python-modules-kit": [
             "1.4-release"
+        ],
+        "qt-kit": [
+            "5.12.7-release"
         ],
         "ruby-kit": [
             "2.6-prime"
