@@ -28,8 +28,8 @@
     },
     "gnome-kit": {
         "3.32-prime": "c98381ee42351151373b30ec1f9edf328d5fd79b",
-        "3.34-prime": "c98381ee42351151373b30ec1f9edf328d5fd79b",
-        "3.34.3-testing": "c98381ee42351151373b30ec1f9edf328d5fd79b"
+        "3.34-prime": "8b850c2c43a5bbaf6af1f3b78293ec5786e0c7b2",
+        "3.34.3-testing": "df232dee0293912212754243502a7e9b24a7acb6"
     },
     "haskell-kit": {
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
@@ -78,7 +78,7 @@
     },
     "rust-kit": {
         "1.32-prime": "412e0d9e3395050de8a7efc974ec5a0e3bec8c38",
-        "1.37-prime": "412e0d9e3395050de8a7efc974ec5a0e3bec8c38"
+        "1.37-prime": "8d405841c3cfb3e742e5d1bbd6db71ff778e29af"
     },
     "science-kit": {
         "1.4-release": "965c8a3d16c540e6c61f10af57fffb1166c3c30e"
