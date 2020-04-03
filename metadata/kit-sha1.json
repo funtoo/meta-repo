@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "9e140bf49df8c76791a3fae919a01871bb5e81fc"
+        "1.4-release": "65d1ede80b0c74c7b5e235715e1ff04b769d51bb"
     },
     "core-gl-kit": {
         "1.4-release": "90b77b36181376e7bd0c9a869a5f834c3c7b49fd"
@@ -29,7 +29,7 @@
     "gnome-kit": {
         "3.32-prime": "c98381ee42351151373b30ec1f9edf328d5fd79b",
         "3.34-prime": "8b850c2c43a5bbaf6af1f3b78293ec5786e0c7b2",
-        "3.34.3-testing": "df232dee0293912212754243502a7e9b24a7acb6"
+        "3.34.4-testing": "5ee6aa7a3c0e32dab4d855d0b0bb4f9889b9c95a"
     },
     "haskell-kit": {
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
