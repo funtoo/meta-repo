@@ -1,30 +1,30 @@
 {
     "browser-kit": {
-        "1.4-release": "fa2114f3b9c1044997cec2fd959f7bb4a6931fa8"
+        "1.4-release": "1110e13777a9c06e7d283f35bb5e971ed21ba96d"
     },
     "core-gl-kit": {
-        "1.4-release": "90b77b36181376e7bd0c9a869a5f834c3c7b49fd"
+        "1.4-release": "33abcd1dce4cf2473aa62d2bae71651df92f15df"
     },
     "core-hw-kit": {
-        "1.4-release": "166c0e2d71debe811d947ba63daaa5dc1049488d"
+        "1.4-release": "b307fc7780f1b75c272f570a54ef9bd255309bdb"
     },
     "core-kit": {
-        "1.4-release": "37b36097c56fced5c3ffea11adc51f3c2b1b525f"
+        "1.4-release": "b4c90e77917ada5254630c14bbe0d50ffc5b0dad"
     },
     "core-server-kit": {
-        "1.4-release": "dceb31105555e0aad73ce627e2c568c56e244ae1"
+        "1.4-release": "ddb1a30b86c93784f394ab593125953a4a5e502a"
     },
     "desktop-kit": {
-        "1.4-release": "a7c0808bf91e9ff6ab213d008dedffd7651812ff"
+        "1.4-release": "5ea73910739095a3ca2a5d6ee9013fbad4366ff6"
     },
     "dev-kit": {
-        "1.4-release": "fae493be01d10ee8e33876208b0b3c232b330e5c"
+        "1.4-release": "8053182e6f75782447a38f46d4c8838fc93b865f"
     },
     "editors-kit": {
-        "1.4-release": "38120eb5c5d5953d0b67476fc926fce7d21fd65d"
+        "1.4-release": "29688071a80ca9af4acb13dadcbd887364f335c8"
     },
     "games-kit": {
-        "1.4-release": "6bd0007543175c50a6c7a83cc62db6d108bd905d"
+        "1.4-release": "ee1ba2f911d397162aae124dc3f4782af4209ffe"
     },
     "gnome-kit": {
         "3.32-prime": "c98381ee42351151373b30ec1f9edf328d5fd79b",
@@ -35,31 +35,31 @@
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
     },
     "java-kit": {
-        "1.4-release": "6989b324f958ef35389d06ebec39b34dda6d3724"
+        "1.4-release": "bd183f9807d555f20dbdcdc31c42bc83f58611df"
     },
     "kde-kit": {
-        "1.4-release": "081038fd464155b7334efcf16463e787d34f5b45"
+        "1.4-release": "169f14b2dc97fd338df029af73f9900fa8f9b915"
     },
     "lang-kit": {
-        "1.4-release": "10312834244f96803a6fdc10db3142ba1d910ec7"
+        "1.4-release": "d4246347d542d420ae3bcec03916f4a62a4afad0"
     },
     "lisp-scheme-kit": {
         "1.4-release": "4d056d90e9737f9bf06dcb757a015cfc113a337d"
     },
     "llvm-kit": {
-        "1.4-release": "3dfafbb69a903ba2e44784bcb295364794cf446a"
+        "1.4-release": "23a7e80fab7765082408e3a3e96871726b5273ec"
     },
     "media-kit": {
-        "1.4-release": "fae25548faf526e6a6bc624d6c45bd65b32c8104"
+        "1.4-release": "e459412c6dd618c2bdaeaeb5d7398f98c014d7b1"
     },
     "ml-lang-kit": {
         "1.4-release": "930aef77385da0754209716195d488524abf36ab"
     },
     "net-kit": {
-        "1.4-release": "a312731eeadb4ee0527692b21abd28fcff670f03"
+        "1.4-release": "414de872154d397f662b2135b49d59cc330924b0"
     },
     "nokit": {
-        "1.4-release": "b34a60d2ad2a35dd25c55d8e8b983aaac978ecc6"
+        "1.4-release": "543f28aa2075365f65a395b626c0fda125005cc7"
     },
     "perl-kit": {
         "5.28-release": "0819738a4f665d007db313ab3c5401f32cdf347f"
@@ -68,7 +68,7 @@
         "3.7-release": "f21faf867ecd1e6ec87b27df68238a88083cf174"
     },
     "python-modules-kit": {
-        "1.4-release": "26d05928b39921d49083e485c1fcca57cbca26b8"
+        "1.4-release": "8b745bb51d58c695d0a7b8b020c1cde6116ced1f"
     },
     "qt-kit": {
         "5.12.7-release": "ba6f8e3c7cd88549650938bb7adb7ac754bce15c"
@@ -81,13 +81,13 @@
         "1.37-prime": "8d405841c3cfb3e742e5d1bbd6db71ff778e29af"
     },
     "science-kit": {
-        "1.4-release": "965c8a3d16c540e6c61f10af57fffb1166c3c30e"
+        "1.4-release": "df3b9be6211bf5baa9bc66b7663b54fb9a6a690c"
     },
     "security-kit": {
-        "1.4-release": "360559f3758d0ccd78358ad2856a3df2bacb4565"
+        "1.4-release": "cff4137fad22c2bd33cdfb8d19d36abefdf14d0b"
     },
     "text-kit": {
-        "1.4-release": "01fb8f65726b98ae4e864c1d464c8514caafe126"
+        "1.4-release": "65f20ef67a04718f0bfad3f47fc9a8a6cd9bdbd2"
     },
     "xfce-kit": {
         "4.13-release": "e741bde11b1e0ecd1d74b67438ab47a5ff872df3"
