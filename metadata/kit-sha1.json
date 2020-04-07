@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "1110e13777a9c06e7d283f35bb5e971ed21ba96d"
+        "1.4-release": "9966ed060520c6ed833e96dffdea84b1968f4c98"
     },
     "core-gl-kit": {
         "1.4-release": "33abcd1dce4cf2473aa62d2bae71651df92f15df"
@@ -29,7 +29,7 @@
     "gnome-kit": {
         "3.32-prime": "c98381ee42351151373b30ec1f9edf328d5fd79b",
         "3.34-prime": "e905450c5ebaf59e3e6703a9efe49be1d1cbd095",
-        "3.34.4-testing": "c700bb9f9da0f2924e5a0a4477eef10addf885bd"
+        "3.34.4-testing": "a8f1ac06813dd6154da150611503e69aff21e2cf"
     },
     "haskell-kit": {
         "1.4-release": "7c08897ca6f55c67f5a977f0b192adefc031f173"
@@ -56,7 +56,7 @@
         "1.4-release": "930aef77385da0754209716195d488524abf36ab"
     },
     "net-kit": {
-        "1.4-release": "496082ab42fff4f92350bd0a13f9a07cecf39aac"
+        "1.4-release": "3e7e69e3b1e3ed4e6bb999e341d5ae03a040b955"
     },
     "nokit": {
         "1.4-release": "543f28aa2075365f65a395b626c0fda125005cc7"
@@ -81,7 +81,7 @@
         "1.37-prime": "8d405841c3cfb3e742e5d1bbd6db71ff778e29af"
     },
     "science-kit": {
-        "1.4-release": "df3b9be6211bf5baa9bc66b7663b54fb9a6a690c"
+        "1.4-release": "93db13b01a41c3bea085452f44256e30fa8e0776"
     },
     "security-kit": {
         "1.4-release": "cff4137fad22c2bd33cdfb8d19d36abefdf14d0b"
