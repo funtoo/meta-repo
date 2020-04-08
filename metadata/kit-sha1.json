@@ -9,7 +9,7 @@
         "1.4-release": "79d1183fe8d1ad1fd294fd29a08b52e85dd2a423"
     },
     "core-kit": {
-        "1.4-release": "6ca7ba033224411a7d5dfa0292979609bde331ac"
+        "1.4-release": "79aa2dee86d2208895460db04b1d02234f9a5b22"
     },
     "core-server-kit": {
         "1.4-release": "14846a55942ef1e76ca7e4c5d93f9297a5bcb483"
@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "3.32-prime": "c98381ee42351151373b30ec1f9edf328d5fd79b",
-        "3.34-prime": "e905450c5ebaf59e3e6703a9efe49be1d1cbd095",
+        "3.34-prime": "4b0f5c1faa37cc55803a34870db884a04815977f",
         "3.34.4-testing": "a8f1ac06813dd6154da150611503e69aff21e2cf"
     },
     "haskell-kit": {
