@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "86909d655f985270d9e38ca0e3022c7136dda945"
+        "1.4-release": "bbd11d7764f9d96fbe5e50b193c1e1ce8f37f1bc"
     },
     "core-gl-kit": {
         "1.4-release": "4c39e7e8b134f1ab298fff0b942530c83adcdcc4"
@@ -27,9 +27,9 @@
         "1.4-release": "d563f80cfad51494e05a3143f3e0d83cdc5a0b12"
     },
     "gnome-kit": {
-        "3.32-prime": "c98381ee42351151373b30ec1f9edf328d5fd79b",
-        "3.34-prime": "f6d2662a1ef01bf94fb0aef39d5927cc70ba6fcc",
-        "3.34.4-testing": "a8f1ac06813dd6154da150611503e69aff21e2cf"
+        "3.32-prime": "2c22d9bd66023995204ccb5a32c9d3dc2cea0289",
+        "3.34-prime": "694fe2b932d46fb9a0d77995389dca1a0945e148",
+        "3.34.4-testing": "88da89a6d5fb8be34e2359af9747cd10043c2f59"
     },
     "haskell-kit": {
         "1.4-release": "9ac10c984157b3587d7838f0d773ddc83661761f"
@@ -41,7 +41,7 @@
         "1.4-release": "0f88da3abab82ca57a760b712231c419cf055493"
     },
     "lang-kit": {
-        "1.4-release": "f7c597d8a354a8dbb2f7b07f4bf842c70c746e5a"
+        "1.4-release": "5b92bba6608bd9b610178a5f69e268178042e2fd"
     },
     "lisp-scheme-kit": {
         "1.4-release": "293ca9abf240de6e578ae6992cb88114f6faa997"
@@ -56,7 +56,7 @@
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
     },
     "net-kit": {
-        "1.4-release": "990573e9068bb1eacec0ab0ada73bf28032e92b4"
+        "1.4-release": "8cb90d8dec7d95032df04800afc87f54eee25e1b"
     },
     "nokit": {
         "1.4-release": "6349057a52570e709795c33349dc30ed064179cb"
