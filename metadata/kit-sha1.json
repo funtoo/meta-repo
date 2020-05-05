@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "e53597d9a2a9760ea7fcb9771a708144816c786f"
+        "1.4-release": "fbbc6e0a3bc64cc5faf203d9ed11883fef423cdb"
     },
     "core-gl-kit": {
         "1.4-release": "c16da29d49bb315234bfe5f1b6cd52eb18009099"
@@ -12,7 +12,7 @@
         "1.4-release": "bd9c30436f36f3cd9ec2cb33946259d29872cb5a"
     },
     "core-server-kit": {
-        "1.4-release": "c921282bdf3f6ab1e146ab100f0dbcd5a1df2565"
+        "1.4-release": "e1c1711279b8e87146a6e9aad71a9459be8a5d4c"
     },
     "desktop-kit": {
         "1.4-release": "886417980e9069ffebd280447eed41918ebc7153"
@@ -56,7 +56,7 @@
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
     },
     "net-kit": {
-        "1.4-release": "2cf1c72567b5b68de056c0b5c2cf67225056c9ff"
+        "1.4-release": "3251ae4d2c5786097fcd0290902231a72b006c34"
     },
     "nokit": {
         "1.4-release": "5f5435b164c9bb327598f419b63c5bd2ee26887d"
