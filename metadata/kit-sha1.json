@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "17f7dc9553c90018b3066a335d883ef9eb676716"
+        "1.4-release": "9a39dabcfed90f002de70931900ac3ed472d0d12"
     },
     "core-gl-kit": {
         "1.4-release": "f51020052876ba8d8fc2e6e8624e609c2fdb6f23"
@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "3.32-prime": "2c22d9bd66023995204ccb5a32c9d3dc2cea0289",
-        "3.34-prime": "f1ccd474ec0ceceba5912fb980fe6aa4549f4c87",
+        "3.34-prime": "b1c3a105b322750adc3e2652eaf555bab19bde53",
         "3.34.4-testing": "88da89a6d5fb8be34e2359af9747cd10043c2f59"
     },
     "haskell-kit": {
@@ -68,7 +68,7 @@
         "3.7-release": "1a2455fddbd9b268d949b54b5417c3d23ad4280b"
     },
     "python-modules-kit": {
-        "1.4-release": "a5b52dff0e3fb3c593ad0d123de3768ebe8060dd"
+        "1.4-release": "ad11cd9df6c5915f95091c6f761e764ec1a0483e"
     },
     "qt-kit": {
         "5.12.7-release": "a556d3a4323d81711717f160657bac76bf2f65a1"
