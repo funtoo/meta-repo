@@ -218,7 +218,8 @@
         },
         "xorg-kit": {
             "stability": {
-                "1.20-release": "prime"
+                "1.20-release": "prime",
+                "1.20.8-testing": "beta"
             },
             "type": "indy"
         }
@@ -318,7 +319,8 @@
             "4.13-release"
         ],
         "xorg-kit": [
-            "1.20-release"
+            "1.20-release",
+            "1.20.8-testing"
         ]
     },
     "release_info": {

@@ -56,7 +56,7 @@
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
     },
     "net-kit": {
-        "1.4-release": "b55f9cffb6fff361e22e51073112f62a260eab7f"
+        "1.4-release": "b14f115e8570f8642056489b1ed3f2ada33bf37f"
     },
     "nokit": {
         "1.4-release": "de8e5beb6012347a5c87bdb93da15a8906733063"
@@ -68,7 +68,7 @@
         "3.7-release": "1a2455fddbd9b268d949b54b5417c3d23ad4280b"
     },
     "python-modules-kit": {
-        "1.4-release": "01667d205c3b7b5f9a0c2911b45140393cc83f84"
+        "1.4-release": "b3bf4d6753e9776bc2a94dd7bfb31d8c184ece01"
     },
     "qt-kit": {
         "5.12.7-release": "a556d3a4323d81711717f160657bac76bf2f65a1"
@@ -93,6 +93,7 @@
         "4.13-release": "e741bde11b1e0ecd1d74b67438ab47a5ff872df3"
     },
     "xorg-kit": {
-        "1.20-release": "06a072760bc2f65b073670777af4b22ca8f4f363"
+        "1.20-release": "06a072760bc2f65b073670777af4b22ca8f4f363",
+        "1.20.8-testing": "0ebe337d6ff351efde3274d19bf522b796a8ac22"
     }
 }
