@@ -9,7 +9,7 @@
         "1.4-release": "6f256cd1c2c39f06cf3c6ff4b272a8e37f007d46"
     },
     "core-kit": {
-        "1.4-release": "3bb97d84b5624a67862c68c2f4411168befabbec"
+        "1.4-release": "45dcea82a3331445d301a65eaa5b562a588099f7"
     },
     "core-server-kit": {
         "1.4-release": "878e64752f42b122eeb851976a9cc425758fabff"
@@ -18,7 +18,7 @@
         "1.4-release": "2e0a5bb595e2039e84ae11d2a5dfc78d45ebaa20"
     },
     "dev-kit": {
-        "1.4-release": "02da1477491a90a41dc640481462b780fca2773f"
+        "1.4-release": "870cc2b3490643e266393421c9cc9a039b251079"
     },
     "editors-kit": {
         "1.4-release": "a7ed92658ddc892d4f65d407bcb769caa3a5c12f"
@@ -27,9 +27,8 @@
         "1.4-release": "7cb05c7a63fc04ebfaca71105ec39131f0e577ad"
     },
     "gnome-kit": {
-        "3.32-prime": "2c22d9bd66023995204ccb5a32c9d3dc2cea0289",
         "3.34-prime": "43518e8aac5be71846442254e0321af00d2f9570",
-        "3.34.4-testing": "88da89a6d5fb8be34e2359af9747cd10043c2f59"
+        "3.36-prime": "43518e8aac5be71846442254e0321af00d2f9570"
     },
     "haskell-kit": {
         "1.4-release": "9ac10c984157b3587d7838f0d773ddc83661761f"
@@ -56,10 +55,10 @@
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
     },
     "net-kit": {
-        "1.4-release": "b14f115e8570f8642056489b1ed3f2ada33bf37f"
+        "1.4-release": "d918f29bf2b09939305b35e2659aec5784e509b5"
     },
     "nokit": {
-        "1.4-release": "de8e5beb6012347a5c87bdb93da15a8906733063"
+        "1.4-release": "dc942b71fc560bca0ceeb8ef542f1bf297c2e122"
     },
     "perl-kit": {
         "5.28-release": "0819738a4f665d007db313ab3c5401f32cdf347f"
@@ -68,7 +67,7 @@
         "3.7-release": "1a2455fddbd9b268d949b54b5417c3d23ad4280b"
     },
     "python-modules-kit": {
-        "1.4-release": "f6b9a62e9d5c8eacc4c2f86eb57c0316c9a86bd8"
+        "1.4-release": "14e99bb0217a250cfca5b743691cc6035deadb2b"
     },
     "qt-kit": {
         "5.12.7-release": "a556d3a4323d81711717f160657bac76bf2f65a1"
@@ -81,7 +80,7 @@
         "1.37-prime": "8d405841c3cfb3e742e5d1bbd6db71ff778e29af"
     },
     "science-kit": {
-        "1.4-release": "f84338f1f8e3662883548545d87e0fc7baed3cc3"
+        "1.4-release": "024e8e5eb4d6fad8088d2cbc6bce83d65aa6962c"
     },
     "security-kit": {
         "1.4-release": "0362f04d6b20c559fbd576e8c6fe521b94675728"

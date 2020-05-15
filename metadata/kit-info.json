@@ -89,9 +89,8 @@
         },
         "gnome-kit": {
             "stability": {
-                "3.32-prime": "prime",
                 "3.34-prime": "prime",
-                "3.34.4-testing": "beta"
+                "3.36-prime": "beta"
             },
             "type": "indy"
         },
@@ -254,8 +253,7 @@
         ],
         "gnome-kit": [
             "3.34-prime",
-            "3.34.4-testing",
-            "3.32-prime"
+            "3.36-prime"
         ],
         "haskell-kit": [
             "1.4-release"
