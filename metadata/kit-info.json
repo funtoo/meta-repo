@@ -3,9 +3,9 @@
         "core-kit",
         "core-hw-kit",
         "core-server-kit",
+        "xorg-kit",
         "core-gl-kit",
         "security-kit",
-        "xorg-kit",
         "gnome-kit",
         "rust-kit",
         "xfce-kit",
@@ -41,7 +41,8 @@
         },
         "core-gl-kit": {
             "stability": {
-                "1.4-release": "prime"
+                "1.4-release": "prime",
+                "2.0-release": "prime"
             },
             "type": "auto"
         },
@@ -217,8 +218,7 @@
         },
         "xorg-kit": {
             "stability": {
-                "1.20-release": "prime",
-                "1.20.8-testing": "beta"
+                "1.20-release": "prime"
             },
             "type": "indy"
         }
@@ -228,7 +228,8 @@
             "1.4-release"
         ],
         "core-gl-kit": [
-            "1.4-release"
+            "1.4-release",
+            "2.0-release"
         ],
         "core-hw-kit": [
             "1.4-release"
@@ -317,8 +318,7 @@
             "4.13-release"
         ],
         "xorg-kit": [
-            "1.20-release",
-            "1.20.8-testing"
+            "1.20-release"
         ]
     },
     "release_info": {
