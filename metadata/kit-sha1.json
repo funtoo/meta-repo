@@ -1,16 +1,16 @@
 {
     "browser-kit": {
-        "1.4-release": "a5e45652169ced07408bd649035770cbb4867877"
+        "1.4-release": "4d4023851ab9094447c0473abefa99d64d9c502e"
     },
     "core-gl-kit": {
         "1.4-release": "7c8bb81bcbf9df7dd1b2496ddf89e53108cf5998",
-        "2.0-release": "6193957e8029bec184f6e4d3d2e3b78e4c9b0eed"
+        "2.0-release": "22775798410b14973ca00a7f0b0ca10db2d6adce"
     },
     "core-hw-kit": {
         "1.4-release": "c56c2eb11fea669adc77267cc1669f03998495cb"
     },
     "core-kit": {
-        "1.4-release": "4782e2492aec761a631599aad04aa80769db232a"
+        "1.4-release": "fb5990e074621282f38828cab1ad567bbc8e0f34"
     },
     "core-server-kit": {
         "1.4-release": "71edb272152960f35a96173812ac244bf5ce53cb"
@@ -29,7 +29,7 @@
     },
     "gnome-kit": {
         "3.34-prime": "dc0309508cdf4457a599ba9129f351926375d61f",
-        "3.36-prime": "15d7fd37a677cc440f14ffa6ed1bbb20ff8839fe"
+        "3.36-prime": "4f7fc9801ace9f249ce33a4bdd1a46547e143a78"
     },
     "haskell-kit": {
         "1.4-release": "9ac10c984157b3587d7838f0d773ddc83661761f"
@@ -56,7 +56,7 @@
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
     },
     "net-kit": {
-        "1.4-release": "c6311ada3ddd09a40fba47779796888c93d2690a"
+        "1.4-release": "5efc5c0b30636ccad615e8ccb11b2c0253e225e1"
     },
     "nokit": {
         "1.4-release": "ce079ab82fcf80389d40f9c18b39d7a9c98e16cf"
