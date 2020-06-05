@@ -3,8 +3,8 @@
         "1.4-release": "a5e45652169ced07408bd649035770cbb4867877"
     },
     "core-gl-kit": {
-        "1.4-release": "22be91421370b1ddde25469fa1ff90e33d3cf673",
-        "2.0-release": "55c19eeb63384eca3a40c4a2a89861e48f995f74"
+        "1.4-release": "7c8bb81bcbf9df7dd1b2496ddf89e53108cf5998",
+        "2.0-release": "6193957e8029bec184f6e4d3d2e3b78e4c9b0eed"
     },
     "core-hw-kit": {
         "1.4-release": "c56c2eb11fea669adc77267cc1669f03998495cb"
@@ -93,6 +93,6 @@
         "4.13-release": "e741bde11b1e0ecd1d74b67438ab47a5ff872df3"
     },
     "xorg-kit": {
-        "1.20-release": "353aa104547c9b9a25bd824fa03ea861ea9028de"
+        "1.20-release": "f2cd3c91aeee8ac46ab1d5c1d657d177644ca151"
     }
 }
