@@ -3,8 +3,7 @@
         "1.4-release": "53ff78b3e4d247069ade01e6120f8246cc75f9f7"
     },
     "core-gl-kit": {
-        "1.4-release": "019c6ea457d23b4a08df351757cac81c2ba180ee",
-        "2.0-release": "c2a7eb8c4714f4c25aa6d1be44dae7252520139a"
+        "2.0-release": "bc8e44ff4cd17b93bb1a206f255973d1f51ee0bf"
     },
     "core-hw-kit": {
         "1.4-release": "0ac01764c3273e6bf9eb8cc0a2845eb332855b07"
@@ -59,7 +58,7 @@
         "1.4-release": "f011cff4f183f1045f9d124759f8588cbcf58af8"
     },
     "nokit": {
-        "1.4-release": "58f9f63fbef0fef9c82dfbb55ca049e24dbaf48f"
+        "1.4-release": "e1449b1c17f932cb60dfcd6532aaa8a01e7c1e20"
     },
     "perl-kit": {
         "5.28-release": "0819738a4f665d007db313ab3c5401f32cdf347f"
@@ -77,7 +76,6 @@
         "2.6-prime": "06c055f6ccf8e71d4ef598a0673dee6f69caebb0"
     },
     "rust-kit": {
-        "1.32-prime": "412e0d9e3395050de8a7efc974ec5a0e3bec8c38",
         "1.37-prime": "8d405841c3cfb3e742e5d1bbd6db71ff778e29af"
     },
     "science-kit": {
@@ -91,8 +89,5 @@
     },
     "xfce-kit": {
         "4.13-release": "e741bde11b1e0ecd1d74b67438ab47a5ff872df3"
-    },
-    "xorg-kit": {
-        "1.20-release": "f2cd3c91aeee8ac46ab1d5c1d657d177644ca151"
     }
 }

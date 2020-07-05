@@ -3,7 +3,6 @@
         "core-kit",
         "core-hw-kit",
         "core-server-kit",
-        "xorg-kit",
         "core-gl-kit",
         "security-kit",
         "gnome-kit",
@@ -41,8 +40,7 @@
         },
         "core-gl-kit": {
             "stability": {
-                "1.4-release": "prime",
-                "2.0-release": "beta"
+                "2.0-release": "prime"
             },
             "type": "auto"
         },
@@ -187,7 +185,6 @@
         },
         "rust-kit": {
             "stability": {
-                "1.32-prime": "prime",
                 "1.37-prime": "prime"
             },
             "type": "indy"
@@ -215,12 +212,6 @@
                 "4.13-release": "prime"
             },
             "type": "indy"
-        },
-        "xorg-kit": {
-            "stability": {
-                "1.20-release": "prime"
-            },
-            "type": "indy"
         }
     },
     "release_defs": {
@@ -228,7 +219,6 @@
             "1.4-release"
         ],
         "core-gl-kit": [
-            "1.4-release",
             "2.0-release"
         ],
         "core-hw-kit": [
@@ -302,8 +292,7 @@
             "2.6-prime"
         ],
         "rust-kit": [
-            "1.37-prime",
-            "1.32-prime"
+            "1.37-prime"
         ],
         "science-kit": [
             "1.4-release"
@@ -316,9 +305,6 @@
         ],
         "xfce-kit": [
             "4.13-release"
-        ],
-        "xorg-kit": [
-            "1.20-release"
         ]
     },
     "release_info": {
