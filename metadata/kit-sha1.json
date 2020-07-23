@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "1bb01c569201c24ab94eb0a3c12122db6472506b"
+        "1.4-release": "834144717b189b6b842b05a6e202e72a57efad50"
     },
     "core-gl-kit": {
         "2.0-release": "9ec2bec8cf56024c12a9100930b601df035d4ed9"
@@ -9,13 +9,13 @@
         "1.4-release": "ae963a07b076ebdf27f5890dd1e3b962c231d93c"
     },
     "core-kit": {
-        "1.4-release": "48dbc2de22ba1f2fc3faae9e0e8092688b01f1d4"
+        "1.4-release": "33d926508998f44be57772fe91a677b0609d72ae"
     },
     "core-server-kit": {
         "1.4-release": "a1c2218214d341705884416fef8d4ab5e69ad258"
     },
     "desktop-kit": {
-        "1.4-release": "d26fc6e0fa4a2101ddbbfed9adf5c09de0dbfb60"
+        "1.4-release": "5255a4925a7c9b3fd7aae04f37ed944cdc960f0a"
     },
     "dev-kit": {
         "1.4-release": "c712bf1591751fed6d5b9fb4207e46de664e2c7e"
@@ -55,10 +55,10 @@
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
     },
     "net-kit": {
-        "1.4-release": "7f2de1aab429fa5cc8efd048d300d493ff317cdf"
+        "1.4-release": "53703eb62d5c89cc6b3d797fef16d7038cf15235"
     },
     "nokit": {
-        "1.4-release": "b54d66470df71d6e03732467a7cfcd650f32ff09"
+        "1.4-release": "d482326cb17c265df7d72fce6e3ab9031a4fc3bd"
     },
     "perl-kit": {
         "5.28-release": "0819738a4f665d007db313ab3c5401f32cdf347f"
@@ -70,7 +70,7 @@
         "1.4-release": "48339475e050a9613c5f1711db011b622ec88a6f"
     },
     "qt-kit": {
-        "5.12.7-release": "a556d3a4323d81711717f160657bac76bf2f65a1"
+        "5.12.7-release": "79a81f31e1b528110ab1173ba12f3e1de7385606"
     },
     "ruby-kit": {
         "2.6-prime": "06c055f6ccf8e71d4ef598a0673dee6f69caebb0"
@@ -82,7 +82,7 @@
         "1.4-release": "265ee45c75606120fc1cffe1ac1731d7f0d9a398"
     },
     "security-kit": {
-        "1.4-release": "541c5423f1991d0f23bf9881afbcfda38803cd61"
+        "1.4-release": "ae116fa0e8c45651140a9ebee8be318d67b4aa70"
     },
     "text-kit": {
         "1.4-release": "379c0702fa173f7917c44c9358aa055aa42477f8"
