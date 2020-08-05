@@ -11,6 +11,7 @@
         "qt-kit",
         "kde-kit",
         "browser-kit",
+        "mate-kit",
         "desktop-kit",
         "media-kit",
         "editors-kit",
@@ -128,6 +129,12 @@
                 "1.4-release": "prime"
             },
             "type": "auto"
+        },
+        "mate-kit": {
+            "stability": {
+                "1.24-prime": "prime"
+            },
+            "type": "indy"
         },
         "media-kit": {
             "stability": {
@@ -263,6 +270,9 @@
         ],
         "llvm-kit": [
             "1.4-release"
+        ],
+        "mate-kit": [
+            "1.24-prime"
         ],
         "media-kit": [
             "1.4-release"

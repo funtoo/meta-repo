@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "0b53e9b663126e7799777b0606a7dfb8fec6de5d"
+        "1.4-release": "ed6b37cbf71570488c74a0bb1d9f779e65313a5b"
     },
     "core-gl-kit": {
         "2.0-release": "ba30adbc4131bd228b72cbaab00f014c5eda632e"
@@ -15,13 +15,13 @@
         "1.4-release": "875954dd597f306714fdc01a3bc9c29e9ed72ba4"
     },
     "desktop-kit": {
-        "1.4-release": "17272b1f275dea5c4d9446755dfc8d2565e4ce72"
+        "1.4-release": "c57f74d5057810c3c43f005427eeca159fcfda23"
     },
     "dev-kit": {
-        "1.4-release": "3aac87478fb4e98c8e4e12259d3708fd9233fd3c"
+        "1.4-release": "fa0c1a1079b4b0851b531e95c5abd1c9dccac0c6"
     },
     "editors-kit": {
-        "1.4-release": "04772bf580b6fd96993ad9d1bb4fd208c5c6a171"
+        "1.4-release": "fa83779133554b3537ac870e0ded51d6c4b3474c"
     },
     "games-kit": {
         "1.4-release": "cbbdded945428dd02ee3e9dd4ab9ec5167d3c93a"
@@ -48,8 +48,11 @@
     "llvm-kit": {
         "1.4-release": "3f28d311f4e06f1d7c8af360b5e63a09920ed329"
     },
+    "mate-kit": {
+        "1.24-prime": "feac079ada1a23a85b20f78269bd1ff1189eea5d"
+    },
     "media-kit": {
-        "1.4-release": "a58459611ac66a9190bfb1674b77694a58533d8a"
+        "1.4-release": "a4b38d1e188c0710e12580ec4de604407e7902f8"
     },
     "ml-lang-kit": {
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
@@ -67,7 +70,7 @@
         "3.7-release": "1a2455fddbd9b268d949b54b5417c3d23ad4280b"
     },
     "python-modules-kit": {
-        "1.4-release": "f5857d1317055900411c75c4caaf12f1120675e5"
+        "1.4-release": "a44b822b3b21209ef6bf6cfd5e730bda6bfbce2b"
     },
     "qt-kit": {
         "5.12.7-release": "79a81f31e1b528110ab1173ba12f3e1de7385606"
@@ -85,7 +88,7 @@
         "1.4-release": "ae116fa0e8c45651140a9ebee8be318d67b4aa70"
     },
     "text-kit": {
-        "1.4-release": "aaf12389e1a5d5fcef40cc905e1f90262efb4d89"
+        "1.4-release": "6bc47bca49918aee5b6f41a65b471ce3e8fcb2d1"
     },
     "xfce-kit": {
         "4.13-release": "e741bde11b1e0ecd1d74b67438ab47a5ff872df3"
