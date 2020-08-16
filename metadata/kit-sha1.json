@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "3a63346b6d60b5a36925be09c784d4410acedd98"
+        "1.4-release": "6626cf9521552de600d6754e564ef08d2dc8746c"
     },
     "core-gl-kit": {
         "2.0-release": "ba30adbc4131bd228b72cbaab00f014c5eda632e"
@@ -18,7 +18,7 @@
         "1.4-release": "7f6bb0f7c6c58830718d49aa142a98cee20304b9"
     },
     "dev-kit": {
-        "1.4-release": "0147daa383b5492629d73b64cd185eb573d7265b"
+        "1.4-release": "8131959cf79001d62d79b331399f0be8d33b771f"
     },
     "editors-kit": {
         "1.4-release": "8528f70c18bc260725a3503ddb2c56c066c9e2fe"
@@ -27,8 +27,8 @@
         "1.4-release": "cbbdded945428dd02ee3e9dd4ab9ec5167d3c93a"
     },
     "gnome-kit": {
-        "3.34-prime": "dc0309508cdf4457a599ba9129f351926375d61f",
-        "3.36-prime": "b45a397b742ebc0f6a4cad3c9ba33b6b79d71c3b"
+        "3.34-prime": "bf143b22366d670d33d107f0be29bc535fff887b",
+        "3.36-prime": "1c8bfe337ea92ad24c94062c9afb5a37dbb7d0ad"
     },
     "haskell-kit": {
         "1.4-release": "9ac10c984157b3587d7838f0d773ddc83661761f"
@@ -64,13 +64,13 @@
         "1.4-release": "6e62f51e69a47f8fc173abcabd565ccb18fd6fc2"
     },
     "perl-kit": {
-        "5.28-release": "0819738a4f665d007db313ab3c5401f32cdf347f"
+        "5.28-release": "9df98cc97d010266de716038df69329dab2b64b6"
     },
     "python-kit": {
-        "3.7-release": "1a2455fddbd9b268d949b54b5417c3d23ad4280b"
+        "3.7-release": "85b8509a9ff9efe9e282f642173237fd875bacc6"
     },
     "python-modules-kit": {
-        "1.4-release": "3d9247573377668afa12f8d1aadcf1a3e71acb39"
+        "1.4-release": "938f9f7b2dcc13510691236bb333476a09a83ffb"
     },
     "qt-kit": {
         "5.12.7-release": "79a81f31e1b528110ab1173ba12f3e1de7385606"
@@ -91,7 +91,7 @@
         "1.4-release": "6bc47bca49918aee5b6f41a65b471ce3e8fcb2d1"
     },
     "xfce-kit": {
-        "4.13-release": "e741bde11b1e0ecd1d74b67438ab47a5ff872df3",
-        "4.14-release": "956dfdf521b4651ef2489542ed54e52f3ededd9b"
+        "4.13-release": "d35596b4686baf9341e089c626eda3f48dfabc1c",
+        "4.14-release": "6d275b677e648bf9b8e8862d583a7035457a18eb"
     }
 }
