@@ -1,18 +1,18 @@
 {
     "browser-kit": {
-        "1.4-release": "45205dc1d6d9c69266a02b99d8139b478d580c76"
+        "1.4-release": "611fee4ec603a1b452d293f10e7c7c10362d1bda"
     },
     "core-gl-kit": {
-        "2.0-release": "81543830d2f9c99ca13576d17107fc9fa5977f9c"
+        "2.0-release": "f0d32874e019ca96cd2fe23789402eac62a27319"
     },
     "core-hw-kit": {
         "1.4-release": "ebacbeb25b5363ddacf096bc31b3a80a7df2f76b"
     },
     "core-kit": {
-        "1.4-release": "def2d936c8515d2cd69c3a50a26a6aa020ab1c1a"
+        "1.4-release": "b52df9c514ea8bd36e1c25120567ae82f9ad5e3e"
     },
     "core-server-kit": {
-        "1.4-release": "607e7d65bac2048a96176c87cecaaff68db4db4c"
+        "1.4-release": "85733391fec7900cdf0827fd3bf493770a443635"
     },
     "desktop-kit": {
         "1.4-release": "4111225baed2f95c28c668117999b7a76ed91ebc"
@@ -58,10 +58,10 @@
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
     },
     "net-kit": {
-        "1.4-release": "814b03cd7167cbec7027a3f4d410e0812bf1ef87"
+        "1.4-release": "945ef8683345c207d65e729d80a7a6ca98121abd"
     },
     "nokit": {
-        "1.4-release": "badfcfc8093255c9eba9f6ea88e18ef8dfa41661"
+        "1.4-release": "a4c3a79f122ae38fc34b63132a35b65d32a684c8"
     },
     "perl-kit": {
         "5.28-release": "9df98cc97d010266de716038df69329dab2b64b6"
