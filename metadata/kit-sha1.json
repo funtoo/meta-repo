@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "3.34-prime": "bf143b22366d670d33d107f0be29bc535fff887b",
-        "3.36-prime": "b501c56a74c77c7c2736ae02f3412c2b12d6e111"
+        "3.36-prime": "2d71550edca5f9fc5279c8a7017aea502cda1c4c"
     },
     "haskell-kit": {
         "1.4-release": "9ac10c984157b3587d7838f0d773ddc83661761f"
@@ -52,7 +52,7 @@
         "1.24-prime": "2c0afccfa92e808649a22a6ac4a34baf8d2f287e"
     },
     "media-kit": {
-        "1.4-release": "f2fca722a682435a6b7e7f0c0ed3c616df587290"
+        "1.4-release": "3366215776ef0825ef48947ee6b37cab8ebcc854"
     },
     "ml-lang-kit": {
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
@@ -92,6 +92,6 @@
     },
     "xfce-kit": {
         "4.13-release": "d35596b4686baf9341e089c626eda3f48dfabc1c",
-        "4.14-release": "6d275b677e648bf9b8e8862d583a7035457a18eb"
+        "4.14-release": "e5c9cd3c16d6e2420cdc4959fb3ce3e1a7260ff4"
     }
 }
