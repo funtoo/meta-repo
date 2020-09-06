@@ -9,16 +9,16 @@
         "1.4-release": "bb0c2d3a1b0fd7829d7d8878cd3b3b610a9653f1"
     },
     "core-kit": {
-        "1.4-release": "9c7e2fc6f18266d300c872818231099b5d1a233b"
+        "1.4-release": "dbeb54a18fea28b8782661a405131a2109706b26"
     },
     "core-server-kit": {
         "1.4-release": "236c754666ff2abc91a58d1d8887470c251deb60"
     },
     "desktop-kit": {
-        "1.4-release": "f2ef57fb5ddc4a0b74a24e99ca188093ebabf126"
+        "1.4-release": "d234f6c61f90f8368c40155c2b7242340434ad72"
     },
     "dev-kit": {
-        "1.4-release": "cb9b1daad5d8f6d745ef1b3c038e388d738c1d8f"
+        "1.4-release": "ae08d910e6533dd813bcc5270c038583f7e9cafc"
     },
     "editors-kit": {
         "1.4-release": "5a45d4ca42b833795206c75e9387f9e67511a134"
@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "3.34-prime": "bf143b22366d670d33d107f0be29bc535fff887b",
-        "3.36-prime": "a59a7eba2881e7fed660ad7bef290b218d678b5f"
+        "3.36-prime": "5ff3880650cc13d8c6e207949ec212a883d3b477"
     },
     "haskell-kit": {
         "1.4-release": "9ac10c984157b3587d7838f0d773ddc83661761f"
@@ -52,13 +52,13 @@
         "1.24-prime": "2c0afccfa92e808649a22a6ac4a34baf8d2f287e"
     },
     "media-kit": {
-        "1.4-release": "3366215776ef0825ef48947ee6b37cab8ebcc854"
+        "1.4-release": "fd8c07e9686fd5b528e54a54d5c680f5ea5f33bc"
     },
     "ml-lang-kit": {
         "1.4-release": "aee71c3728636c343e8b8cc1099653f047b7b0a8"
     },
     "net-kit": {
-        "1.4-release": "e48d73d13c293c156cfeda90b72107c9578f9861"
+        "1.4-release": "77232e5f6b80002d4f2f434da5ee9af3a7d1a8c7"
     },
     "nokit": {
         "1.4-release": "a4c3a79f122ae38fc34b63132a35b65d32a684c8"
