@@ -3,13 +3,13 @@
         "1.4-release": "6bc891ab2975af013e6cfaf4dd83f4759ad9fbc6"
     },
     "core-gl-kit": {
-        "2.0-release": "b2c63f5197fa5e8b0c2c2f7eb55a3ba2c467fb0e"
+        "2.0-release": "561c7f609ce8f53db3fcbf033cd5950582afe0ab"
     },
     "core-hw-kit": {
         "1.4-release": "bb0c2d3a1b0fd7829d7d8878cd3b3b610a9653f1"
     },
     "core-kit": {
-        "1.4-release": "c78c1601628c8c34b6ab161bc98c1d356ddedc0e"
+        "1.4-release": "0c82b2d4222dab1a3742b6ceaf43cd9f176cc7cd"
     },
     "core-server-kit": {
         "1.4-release": "e2814155ebb0df58752148c9e867f4e9d6c2ddea"
@@ -18,7 +18,7 @@
         "1.4-release": "a9affa089a6593091c0e4d815a54a4e9339a1e61"
     },
     "dev-kit": {
-        "1.4-release": "86fcdfeadc023315ea6896e2fff526804f9e5579"
+        "1.4-release": "f67a04998c8439064dd68dc08435a535beeb65d3"
     },
     "editors-kit": {
         "1.4-release": "d7c7d572df5da4de540f691c9244601a99f31872"
@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "3.34-prime": "bf143b22366d670d33d107f0be29bc535fff887b",
-        "3.36-prime": "625d9ddddaf95331554b2dea5de58da8cd6e6a84"
+        "3.36-prime": "a80b6090cd2efacfd84cb7a29b00997ec6196a10"
     },
     "haskell-kit": {
         "1.4-release": "9ac10c984157b3587d7838f0d773ddc83661761f"
