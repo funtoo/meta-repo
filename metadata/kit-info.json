@@ -1,289 +1,314 @@
 {
     "kit_order": [
-        "core-kit",
+        "browser-kit",
+        "core-gl-kit",
         "core-hw-kit",
-        "security-kit",
-        "xorg-kit",
-        "gnome-kit",
-        "kde-kit",
-        "media-kit",
-        "perl-kit",
-        "python-modules-kit",
-        "python-kit",
-        "php-kit",
-        "java-kit",
-        "ruby-kit",
-        "haskell-kit",
-        "ml-lang-kit",
-        "lisp-scheme-kit",
-        "lang-kit",
-        "llvm-kit",
-        "dev-kit",
-        "xfce-kit",
+        "core-kit",
+        "core-server-kit",
         "desktop-kit",
+        "dev-kit",
         "editors-kit",
-        "net-kit",
-        "text-kit",
-        "science-kit",
         "games-kit",
-        "nokit"
+        "gnome-kit",
+        "haskell-kit",
+        "java-kit",
+        "lang-kit",
+        "lisp-scheme-kit",
+        "llvm-kit",
+        "mate-kit",
+        "media-kit",
+        "ml-lang-kit",
+        "net-kit",
+        "nokit",
+        "perl-kit",
+        "python-kit",
+        "python-modules-kit",
+        "qt-kit",
+        "ruby-kit",
+        "rust-kit",
+        "science-kit",
+        "security-kit",
+        "text-kit",
+        "xfce-kit"
     ],
     "kit_settings": {
+        "browser-kit": {
+            "stability": {
+                "1.4-release": "prime"
+            },
+            "type": "auto"
+        },
+        "core-gl-kit": {
+            "stability": {
+                "2.0-release": "prime"
+            },
+            "type": "auto"
+        },
         "core-hw-kit": {
             "stability": {
-                "master": "current"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "core-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.4-release": "prime"
+            },
+            "type": "auto"
+        },
+        "core-server-kit": {
+            "stability": {
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "desktop-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "dev-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "editors-kit": {
             "stability": {
-                "master": "current"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "games-kit": {
             "stability": {
-                "master": "current"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "gnome-kit": {
             "stability": {
-                "3.26-prime": "prime"
+                "3.36-prime": "prime"
             },
             "type": "indy"
         },
         "haskell-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "java-kit": {
             "stability": {
-                "1.2-prime": "prime"
-            },
-            "type": "auto"
-        },
-        "kde-kit": {
-            "stability": {
-                "5.12-prime": "prime"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "lang-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "lisp-scheme-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "llvm-kit": {
             "stability": {
-                "1.2-prime": "prime",
-                "master": "dev"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
+        "mate-kit": {
+            "stability": {
+                "1.24-prime": "prime"
+            },
+            "type": "indy"
+        },
         "media-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "ml-lang-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "net-kit": {
             "stability": {
-                "master": "current"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "nokit": {
             "stability": {
-                "master": "current"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "perl-kit": {
             "stability": {
-                "5.24-prime": "prime"
+                "5.28-release": "prime"
             },
-            "type": "auto"
-        },
-        "php-kit": {
-            "stability": {
-                "master": "current"
-            },
-            "type": "auto"
+            "type": "indy"
         },
         "python-kit": {
             "stability": {
-                "3.6-prime": "prime"
+                "3.7-release": "prime"
             },
-            "type": "auto"
+            "type": "indy"
         },
         "python-modules-kit": {
             "stability": {
-                "master": "current"
+                "1.4-release": "prime"
             },
             "type": "auto"
+        },
+        "qt-kit": {
+            "stability": {
+                "5.12.7-release": "prime"
+            },
+            "type": "indy"
         },
         "ruby-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "2.6-prime": "prime"
             },
-            "type": "auto"
+            "type": "indy"
+        },
+        "rust-kit": {
+            "stability": {
+                "1.37-prime": "prime"
+            },
+            "type": "indy"
         },
         "science-kit": {
             "stability": {
-                "master": "current"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "security-kit": {
             "stability": {
-                "1.2-prime": "prime"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "text-kit": {
             "stability": {
-                "master": "current"
+                "1.4-release": "prime"
             },
             "type": "auto"
         },
         "xfce-kit": {
             "stability": {
-                "4.12-prime": "prime"
-            },
-            "type": "auto"
-        },
-        "xorg-kit": {
-            "stability": {
-                "1.17-prime": "prime",
-                "1.19-prime": "prime",
-                "1.20-release": "dev"
+                "4.14-release": "prime"
             },
             "type": "indy"
         }
     },
     "release_defs": {
-        "1.2": {
-            "core-hw-kit": [
-                "master"
-            ],
-            "core-kit": [
-                "1.2-prime"
-            ],
-            "desktop-kit": [
-                "1.2-prime"
-            ],
-            "dev-kit": [
-                "1.2-prime"
-            ],
-            "editors-kit": [
-                "master"
-            ],
-            "games-kit": [
-                "master"
-            ],
-            "gnome-kit": [
-                "3.26-prime"
-            ],
-            "haskell-kit": [
-                "1.2-prime"
-            ],
-            "java-kit": [
-                "1.2-prime"
-            ],
-            "kde-kit": [
-                "5.12-prime"
-            ],
-            "lang-kit": [
-                "1.2-prime"
-            ],
-            "lisp-scheme-kit": [
-                "1.2-prime"
-            ],
-            "llvm-kit": [
-                "1.2-prime",
-                "master"
-            ],
-            "media-kit": [
-                "1.2-prime"
-            ],
-            "ml-lang-kit": [
-                "1.2-prime"
-            ],
-            "net-kit": [
-                "master"
-            ],
-            "nokit": [
-                "master"
-            ],
-            "perl-kit": [
-                "5.24-prime"
-            ],
-            "php-kit": [
-                "master"
-            ],
-            "python-kit": [
-                "3.6-prime"
-            ],
-            "python-modules-kit": [
-                "master"
-            ],
-            "ruby-kit": [
-                "1.2-prime"
-            ],
-            "science-kit": [
-                "master"
-            ],
-            "security-kit": [
-                "1.2-prime"
-            ],
-            "text-kit": [
-                "master"
-            ],
-            "xfce-kit": [
-                "4.12-prime"
-            ],
-            "xorg-kit": [
-                "1.19-prime",
-                "1.20-release",
-                "1.17-prime"
-            ]
-        }
+        "browser-kit": [
+            "1.4-release"
+        ],
+        "core-gl-kit": [
+            "2.0-release"
+        ],
+        "core-hw-kit": [
+            "1.4-release"
+        ],
+        "core-kit": [
+            "1.4-release"
+        ],
+        "core-server-kit": [
+            "1.4-release"
+        ],
+        "desktop-kit": [
+            "1.4-release"
+        ],
+        "dev-kit": [
+            "1.4-release"
+        ],
+        "editors-kit": [
+            "1.4-release"
+        ],
+        "games-kit": [
+            "1.4-release"
+        ],
+        "gnome-kit": [
+            "3.36-prime"
+        ],
+        "haskell-kit": [
+            "1.4-release"
+        ],
+        "java-kit": [
+            "1.4-release"
+        ],
+        "lang-kit": [
+            "1.4-release"
+        ],
+        "lisp-scheme-kit": [
+            "1.4-release"
+        ],
+        "llvm-kit": [
+            "1.4-release"
+        ],
+        "mate-kit": [
+            "1.24-prime"
+        ],
+        "media-kit": [
+            "1.4-release"
+        ],
+        "ml-lang-kit": [
+            "1.4-release"
+        ],
+        "net-kit": [
+            "1.4-release"
+        ],
+        "nokit": [
+            "1.4-release"
+        ],
+        "perl-kit": [
+            "5.28-release"
+        ],
+        "python-kit": [
+            "3.7-release"
+        ],
+        "python-modules-kit": [
+            "1.4-release"
+        ],
+        "qt-kit": [
+            "5.12.7-release"
+        ],
+        "ruby-kit": [
+            "2.6-prime"
+        ],
+        "rust-kit": [
+            "1.37-prime"
+        ],
+        "science-kit": [
+            "1.4-release"
+        ],
+        "security-kit": [
+            "1.4-release"
+        ],
+        "text-kit": [
+            "1.4-release"
+        ],
+        "xfce-kit": [
+            "4.14-release"
+        ]
     },
     "release_info": {
-        "default": "1.2"
+        "required": {
+            "ego": "2.7.2"
+        },
+        "version": 11
     }
 }
