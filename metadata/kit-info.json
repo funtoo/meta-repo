@@ -1,36 +1,35 @@
 {
     "kit_order": [
-        "core-kit",
-        "core-hw-kit",
-        "core-server-kit",
-        "core-gl-kit",
-        "security-kit",
-        "gnome-kit",
-        "rust-kit",
-        "xfce-kit",
-        "qt-kit",
-        "kde-kit",
         "browser-kit",
-        "mate-kit",
+        "core-gl-kit",
+        "core-hw-kit",
+        "core-kit",
+        "core-server-kit",
         "desktop-kit",
-        "media-kit",
-        "editors-kit",
-        "net-kit",
-        "text-kit",
-        "science-kit",
-        "games-kit",
-        "perl-kit",
-        "java-kit",
-        "ruby-kit",
-        "haskell-kit",
-        "ml-lang-kit",
-        "lisp-scheme-kit",
-        "python-kit",
-        "lang-kit",
-        "llvm-kit",
         "dev-kit",
+        "editors-kit",
+        "games-kit",
+        "gnome-kit",
+        "haskell-kit",
+        "java-kit",
+        "lang-kit",
+        "lisp-scheme-kit",
+        "llvm-kit",
+        "mate-kit",
+        "media-kit",
+        "ml-lang-kit",
+        "net-kit",
+        "nokit",
+        "perl-kit",
+        "python-kit",
         "python-modules-kit",
-        "nokit"
+        "qt-kit",
+        "ruby-kit",
+        "rust-kit",
+        "science-kit",
+        "security-kit",
+        "text-kit",
+        "xfce-kit"
     ],
     "kit_settings": {
         "browser-kit": {
@@ -89,7 +88,6 @@
         },
         "gnome-kit": {
             "stability": {
-                "3.34-prime": "prime",
                 "3.36-prime": "prime"
             },
             "type": "indy"
@@ -105,12 +103,6 @@
                 "1.4-release": "prime"
             },
             "type": "auto"
-        },
-        "kde-kit": {
-            "stability": {
-                "1.4-release": "prime"
-            },
-            "type": "indy"
         },
         "lang-kit": {
             "stability": {
@@ -216,7 +208,6 @@
         },
         "xfce-kit": {
             "stability": {
-                "4.13-release": "prime",
                 "4.14-release": "prime"
             },
             "type": "indy"
@@ -251,16 +242,12 @@
             "1.4-release"
         ],
         "gnome-kit": [
-            "3.36-prime",
-            "3.34-prime"
+            "3.36-prime"
         ],
         "haskell-kit": [
             "1.4-release"
         ],
         "java-kit": [
-            "1.4-release"
-        ],
-        "kde-kit": [
             "1.4-release"
         ],
         "lang-kit": [
@@ -315,11 +302,13 @@
             "1.4-release"
         ],
         "xfce-kit": [
-            "4.14-release",
-            "4.13-release"
+            "4.14-release"
         ]
     },
     "release_info": {
-        "default": "1.2"
+        "required": {
+            "ego": "2.7.2"
+        },
+        "version": 11
     }
 }
