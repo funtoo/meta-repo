@@ -25,7 +25,6 @@
         "python-modules-kit",
         "qt-kit",
         "ruby-kit",
-        "rust-kit",
         "science-kit",
         "security-kit",
         "text-kit",
@@ -182,12 +181,6 @@
             },
             "type": "indy"
         },
-        "rust-kit": {
-            "stability": {
-                "1.37-prime": "prime"
-            },
-            "type": "indy"
-        },
         "science-kit": {
             "stability": {
                 "1.4-release": "prime"
@@ -288,9 +281,6 @@
         ],
         "ruby-kit": [
             "2.6-prime"
-        ],
-        "rust-kit": [
-            "1.37-prime"
         ],
         "science-kit": [
             "1.4-release"

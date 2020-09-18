@@ -9,7 +9,7 @@
         "1.4-release": "479c689b1860ab8f039645abb75c73923defe932"
     },
     "core-kit": {
-        "1.4-release": "92cc3ea65f2c94bc83f378f8717760492c45d18d"
+        "1.4-release": "abcf2ac446cedb1754ee37baa9792c1d704742da"
     },
     "core-server-kit": {
         "1.4-release": "6286b7a76bde22c5e0451b0254221fa0a425d05f"
@@ -18,10 +18,10 @@
         "1.4-release": "2f82530512b4d4aed12579ef42972bbc1c5eb074"
     },
     "dev-kit": {
-        "1.4-release": "fb4a23e1ffe84046c1aa58ea77fb230f8447e48e"
+        "1.4-release": "6a652ac0594655fc0426058223eadc9c46969880"
     },
     "editors-kit": {
-        "1.4-release": "b0329df0b7d443796ad3fb70554b3c59ff1fdf23"
+        "1.4-release": "7143e38a2ea40eb34ef865d944c3216cdc78b315"
     },
     "games-kit": {
         "1.4-release": "76d44bbb8439b64a5660346288ca135207de5dec"
@@ -36,7 +36,7 @@
         "1.4-release": "9bd850313b11428ea6ef75b89f19edfc21055280"
     },
     "lang-kit": {
-        "1.4-release": "d5188de1744154d60d9dc92b965609ac22e676d2"
+        "1.4-release": "25440434c88ab08298dce66e6f5c0f777a18d72c"
     },
     "lisp-scheme-kit": {
         "1.4-release": "ea9778b23dda8c880b9234320162f918f0e1fe5c"
@@ -57,7 +57,7 @@
         "1.4-release": "35f666997fc929cc8095800e3f2dd16648245519"
     },
     "nokit": {
-        "1.4-release": "b2767f4832d50118b26855c7305a8ecdc3863afe"
+        "1.4-release": "a13dddebb86df4003aa17a4ce9d9d9d5d70113bf"
     },
     "perl-kit": {
         "5.28-release": "0603b6afc5285cebd15f3362ed14805e854cbd0a"
@@ -66,16 +66,13 @@
         "3.7-release": "917136add132f632b11f5e3596cd240e59ab6a60"
     },
     "python-modules-kit": {
-        "1.4-release": "e1b370b280f5115f717784c31607b58be99d0126"
+        "1.4-release": "414d68a4a9de8e85698eb08813f0a9d8289f5314"
     },
     "qt-kit": {
         "5.12.7-release": "23b6ce9f10abcf64f835ed9e90b1d2a27bebfa49"
     },
     "ruby-kit": {
         "2.6-prime": "d89088097760cc334298aa5f79d1d0370186d405"
-    },
-    "rust-kit": {
-        "1.37-prime": "8027ea442780d6c05fbfff0279edace6a84f912e"
     },
     "science-kit": {
         "1.4-release": "883440090ece5f597f882242b7dcbb1cc109d360"
@@ -84,7 +81,7 @@
         "1.4-release": "3c229576f3cc9dde58a8f359de4ba3d921407b38"
     },
     "text-kit": {
-        "1.4-release": "6557aa3c8e8db58e254fc550d6ccf2ba9342f01d"
+        "1.4-release": "d68d511dff08a5026f3d2abb11c7c857b93d4ea5"
     },
     "xfce-kit": {
         "4.14-release": "2ceff06937a5c63ff18535a30a9999caf7cac11b"
