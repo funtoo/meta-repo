@@ -3,7 +3,6 @@
         "browser-kit",
         "core-gl-kit",
         "core-hw-kit",
-        "core-kit",
         "core-server-kit",
         "desktop-kit",
         "dev-kit",
@@ -214,9 +213,6 @@
             "2.0-release"
         ],
         "core-hw-kit": [
-            "1.4-release"
-        ],
-        "core-kit": [
             "1.4-release"
         ],
         "core-server-kit": [
