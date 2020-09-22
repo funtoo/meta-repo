@@ -12,6 +12,7 @@
         "gnome-kit",
         "haskell-kit",
         "java-kit",
+        "kde-kit",
         "lang-kit",
         "lisp-scheme-kit",
         "llvm-kit",
@@ -102,6 +103,12 @@
                 "1.4-release": "prime"
             },
             "type": "auto"
+        },
+        "kde-kit": {
+            "stability": {
+                "1.4-release": "prime"
+            },
+            "type": "indy"
         },
         "lang-kit": {
             "stability": {
@@ -241,6 +248,9 @@
             "1.4-release"
         ],
         "java-kit": [
+            "1.4-release"
+        ],
+        "kde-kit": [
             "1.4-release"
         ],
         "lang-kit": [

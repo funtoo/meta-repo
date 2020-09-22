@@ -35,6 +35,9 @@
     "java-kit": {
         "1.4-release": "90c156c37f9804c607be2120ea56ade42bfd4c1e"
     },
+    "kde-kit": {
+        "1.4-release": "973078faea3b572187a3b6939203f3657c065e12"
+    },
     "lang-kit": {
         "1.4-release": "a88460203674628d5a1e64eb79fce2e1619962dc"
     },
@@ -66,7 +69,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "2e24102e5bc499aefe26636012e393e3f2dbe87d"
+        "1.4-release": "c2b64bae1dc6af74744f328c90ca68f760424cbe"
     },
     "qt-kit": {
         "5.12.7-release": "addbf9ef3f66fbbbe6a69913f6c2ca91ff605419"
