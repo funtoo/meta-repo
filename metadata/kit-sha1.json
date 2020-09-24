@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "0a28ef7d091b7b5a782944514b68f2947a5bc167"
+        "1.4-release": "edbdaf86fd140ae65a835ec0f4a74f90eeb0f4e7"
     },
     "core-gl-kit": {
         "2.0-release": "ac1033099202a86fc678b4b99f15d9b59166b9f2"
@@ -12,7 +12,7 @@
         "1.4-release": "80d2bcdc7bd80d15580e319ada715ecbfa3a921f"
     },
     "core-server-kit": {
-        "1.4-release": "cdd4afa4d9ab9877a348774d35027c6b8231a065"
+        "1.4-release": "8de900e95a1cacaeb74db96c698ab66624e58f61"
     },
     "desktop-kit": {
         "1.4-release": "3ea27829fd47e6746e6c6d50d5265af465e494ec"
@@ -57,7 +57,7 @@
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "56cdaaa0680f1ebf119096c375f848b688d0dd8e"
+        "1.4-release": "352700e940a7420b09eb248987ec6d3d6b7827b1"
     },
     "nokit": {
         "1.4-release": "77c48f03da438b64340e062111016b017d2e4400"
@@ -69,10 +69,10 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "aa10afbe6e1090c0124abd0220e6be245c6274d4"
+        "1.4-release": "a0876cd154c53c8c2368fb22e33cbe7db2ef569c"
     },
     "qt-kit": {
-        "5.12.7-release": "addbf9ef3f66fbbbe6a69913f6c2ca91ff605419"
+        "5.12.7-release": "e65478dbd981716e817f05f022d3afb8d742a714"
     },
     "ruby-kit": {
         "2.6-prime": "e121be41077ef6cfbb28ed73fff75542a4ee17b8"
