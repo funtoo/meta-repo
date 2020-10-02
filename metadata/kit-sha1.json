@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "27ba562a8c0cf07e4c9955331e63356a09d55b67"
+        "1.4-release": "0d2ddef7862c92f1c47017beaacfec2d635a1541"
     },
     "core-gl-kit": {
         "2.0-release": "57a194765a678a6f8392082ba8e7e74f1805512c"
@@ -9,10 +9,10 @@
         "1.4-release": "e80841041cc027f147a0ee0784402488958d730a"
     },
     "core-kit": {
-        "1.4-release": "a7da1e0bf2e404a4c4d2fbaf4d05ccfe11253f27"
+        "1.4-release": "0d56e5e35c45680d2d84524d0bb925d540e17ff1"
     },
     "core-server-kit": {
-        "1.4-release": "8de900e95a1cacaeb74db96c698ab66624e58f61"
+        "1.4-release": "4a256de14a3211a0a1d34e7e02b35c08130479c8"
     },
     "desktop-kit": {
         "1.4-release": "ac5779e97a8a074c8e1ace7b6cc2d7f0d86fd70e"
@@ -21,13 +21,13 @@
         "1.4-release": "6ec86c1af9f18c23294b1c1efe6a050bc2b5c220"
     },
     "editors-kit": {
-        "1.4-release": "11a4912ca4c1492dd709c55f30c8ceb1b382471e"
+        "1.4-release": "acd81f10c6f259795df0f0f761fbbf01bceb6bc3"
     },
     "games-kit": {
         "1.4-release": "2b6f570415888af0b487158c460995ed5fb0fc70"
     },
     "gnome-kit": {
-        "3.36-prime": "ef92d44a1b1187e7f9345cfaa37740ebdaf61eeb"
+        "3.36-prime": "080189ef80b7a9b80c34a2e6be2dc72a3dc3912b"
     },
     "haskell-kit": {
         "1.4-release": "6cf8e466beb13ee3fb3a56fac10fd16ef44bb89a"
@@ -57,7 +57,7 @@
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "36fdc3c68d792782a25fe67abfe5e0c86875c436"
+        "1.4-release": "c58c0095749bf68291ea81f33dfdf86cb5215025"
     },
     "nokit": {
         "1.4-release": "77c48f03da438b64340e062111016b017d2e4400"
@@ -69,7 +69,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "e1f458f0f19c3ad1068f7951f440686adfd20539"
+        "1.4-release": "a3e4018d83066aaf68e0fce10bfb314cf27394fd"
     },
     "qt-kit": {
         "5.12.7-release": "e65478dbd981716e817f05f022d3afb8d742a714"
