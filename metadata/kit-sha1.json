@@ -9,7 +9,7 @@
         "1.4-release": "e80841041cc027f147a0ee0784402488958d730a"
     },
     "core-kit": {
-        "1.4-release": "4c19fcb3e46c42ca8b36ad38ff34ccc049617c29"
+        "1.4-release": "726f04e04dd3477d5ad5b85ae4d9b81890220b83"
     },
     "core-server-kit": {
         "1.4-release": "ca7fd317f7e6ac25e31a625a5c27760f5abd0131"
@@ -21,7 +21,7 @@
         "1.4-release": "fbf03f8dc150a39bbec00ab152e0620a53f5f4e6"
     },
     "editors-kit": {
-        "1.4-release": "65732ba9226560545a7df3cbd955b0ad8441f904"
+        "1.4-release": "59059dc05d4f7f74323f9899cf5ec398240029c1"
     },
     "games-kit": {
         "1.4-release": "2b6f570415888af0b487158c460995ed5fb0fc70"
@@ -57,10 +57,10 @@
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "6e11bd0d20c9e44f7cb91154843ad12b12287c5d"
+        "1.4-release": "a053340434562d926b9bcfaec7132281cfc54783"
     },
     "nokit": {
-        "1.4-release": "97aac74bc114c9f8467e14c158d95416dad2d440"
+        "1.4-release": "3c8da01f4737b19ff4ac3565812b9be909f96abc"
     },
     "perl-kit": {
         "5.28-release": "18ca8a0e3ae00ace5c7a77307b49d456c7743e5c"
@@ -87,6 +87,6 @@
         "1.4-release": "d3848aba863dab78427f424de4baa31149b777a6"
     },
     "xfce-kit": {
-        "4.14-release": "9098a635df58d5dba76f9dde08e156c251ca7c17"
+        "4.14-release": "504d65c71370a8b98ea49d0c66779f0211b4385d"
     }
 }
