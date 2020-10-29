@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "6203da361786060deba201db79acbc2adf0176ba"
+        "1.4-release": "a4cceabc8f4f0534ea78c8a2d20e609ee6084f06"
     },
     "core-gl-kit": {
         "2.0-release": "73fa3a8fc9f7f0e92f34c9b73d2993de2aeede49"
@@ -12,7 +12,7 @@
         "1.4-release": "c9964f62f7a20b5f67b969609d713876e0c659d5"
     },
     "core-server-kit": {
-        "1.4-release": "b81986d24f24c1a5710ff56a6a39eb1873fb8dbd"
+        "1.4-release": "5191e0db01673d2468111e759d17ee8255f90775"
     },
     "desktop-kit": {
         "1.4-release": "978a235012f5b0bbcd92a9885ede005786b05787"
@@ -84,7 +84,7 @@
         "1.4-release": "9380c7b13913feaac5357282c6de4993b913f18f"
     },
     "text-kit": {
-        "1.4-release": "71dee210c521c102cb7c3665b4f912ee05a8ef18"
+        "1.4-release": "9b6aab0b99bb6e2f1787a389659a9a3d4d9943ee"
     },
     "xfce-kit": {
         "4.14-release": "be655f44e442b23f5fcbf07fdd91757f6b56d41c"
