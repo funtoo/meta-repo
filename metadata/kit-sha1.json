@@ -1,24 +1,24 @@
 {
     "browser-kit": {
-        "1.4-release": "0a6358fbd967a9a064a04d31476e22e1f199a29f"
+        "1.4-release": "0c99840f5c2d370ee4d77dc353e089c7fe32daea"
     },
     "core-gl-kit": {
-        "2.0-release": "bc11ee0dc6ab25227e62be6d404a065d1d9f2496"
+        "2.0-release": "9fab1c0699da836b6f9325f2918303c29cdbad39"
     },
     "core-hw-kit": {
         "1.4-release": "1a5425d79c0f0a0db32cef45b18bfd6e8517d575"
     },
     "core-kit": {
-        "1.4-release": "1ee013ae255113ee0503088e66a1afe21c92f561"
+        "1.4-release": "f87dc38fc2a58dca5a77d3ba615509bc5b7fb287"
     },
     "core-server-kit": {
-        "1.4-release": "5d538e5185ec96dd92ba4ed593d7556dffb8d6cb"
+        "1.4-release": "43a43533e343e08162bb7182d2b1787075e880d5"
     },
     "desktop-kit": {
         "1.4-release": "978a235012f5b0bbcd92a9885ede005786b05787"
     },
     "dev-kit": {
-        "1.4-release": "2e6aba3acb438c6c451b20a0d1b67e45f02fe965"
+        "1.4-release": "57bece26bd7e7b241397ab6a0124dbe1551cd5af"
     },
     "editors-kit": {
         "1.4-release": "18ef1e5227e976920376c42ef6b241bd57ebd46d"
@@ -51,13 +51,13 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "83555648cb66485a12fdce3286bd1993e0b25aa1"
+        "1.4-release": "4bba3140d82089c97f726c60ae0806b1d30a665e"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "618a9ef292dd8138d2ca930813d8083115160b6b"
+        "1.4-release": "6ff1d37d88ce5f36d7cb30f00a7666aa87d0980a"
     },
     "nokit": {
         "1.4-release": "2e5252ebd6c96faec8221d8c34c0171b41653174"
@@ -69,7 +69,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "c40ae8de3791c549824bf483157767d92b2ad048"
+        "1.4-release": "14eaf0c581fa302ae0484bc09922b3c589e1242e"
     },
     "qt-kit": {
         "5.12.7-release": "e65478dbd981716e817f05f022d3afb8d742a714"
