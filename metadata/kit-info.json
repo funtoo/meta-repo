@@ -163,7 +163,7 @@
             "stability": {
                 "5.28-release": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "python-kit": {
             "stability": {
