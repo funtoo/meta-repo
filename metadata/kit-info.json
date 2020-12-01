@@ -161,7 +161,8 @@
         },
         "perl-kit": {
             "stability": {
-                "5.28-release": "prime"
+                "5.28-release": "prime",
+                "5.32-release": "dev"
             },
             "type": "auto"
         },
@@ -280,7 +281,8 @@
             "1.4-release"
         ],
         "perl-kit": [
-            "5.28-release"
+            "5.28-release",
+            "5.32-release"
         ],
         "python-kit": [
             "3.7-release"
