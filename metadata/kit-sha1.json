@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "3c91fc0dca139e5a6d7349fc2c5137549eda442a"
+        "1.4-release": "491fca5f4f993cd59228ba84b9a150888754f537"
     },
     "core-gl-kit": {
         "2.0-release": "15616ca9f00694f43b46a853823903619fb106f9"
@@ -9,7 +9,7 @@
         "1.4-release": "d4762b96b6aff8b4ed1ea1976b8925b118a5b007"
     },
     "core-kit": {
-        "1.4-release": "f510db59581f84989ea3f4d420bf6b0c36efb65e"
+        "1.4-release": "b56818809534dc07dcc6fd9df6a0c4b5fa6218c6"
     },
     "core-server-kit": {
         "1.4-release": "bdfb4fae96ff38e78e73c8856e3aab0ce7775585"
@@ -18,10 +18,10 @@
         "1.4-release": "e5bb580348e4b29906d674c2c5d9268c8e58d680"
     },
     "dev-kit": {
-        "1.4-release": "60e202195ba6751bf7801f961a619cd9e077257e"
+        "1.4-release": "371df25c57d8f62a6203bbf0f23fdf6147f679c4"
     },
     "editors-kit": {
-        "1.4-release": "b8312f70e87f30d28fd298a87acabb83ed481007"
+        "1.4-release": "991ecfb74c96428430cb5529586301ec1ac9f4d4"
     },
     "games-kit": {
         "1.4-release": "400ad986813c0f4711a8a16b5a39d70676417e82"
@@ -52,13 +52,13 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "7c5afae25a80ee4bdd934e22ab7ab7ae4fadff56"
+        "1.4-release": "5e9c48c058e2b1564b8e721041c3bd86eea79962"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "3c5c8549a65254c809213765e9b62d8ba46d90eb"
+        "1.4-release": "8c58280db58a66b4eb3cbab85cbc59998bb2ddd8"
     },
     "nokit": {
         "1.4-release": "57c5e952eb33758e1c8823193f39076bd31dab33"
@@ -71,7 +71,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "ac6aa4046cbadae2f3980960ea471f3fe33ecee3"
+        "1.4-release": "063f6263fd9db3466647f6811533496917041caf"
     },
     "qt-kit": {
         "5.12.7-release": "67ead7e43c24326aa5d843246728779226008f41"
