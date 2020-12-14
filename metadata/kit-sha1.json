@@ -3,13 +3,13 @@
         "1.4-release": "211b3f1c22f05fae5c93f6ae77572b69cecf2d5c"
     },
     "core-gl-kit": {
-        "2.0-release": "15616ca9f00694f43b46a853823903619fb106f9"
+        "2.0-release": "dd418e0e4643e764fde12d84482259e50b3270c1"
     },
     "core-hw-kit": {
         "1.4-release": "d4762b96b6aff8b4ed1ea1976b8925b118a5b007"
     },
     "core-kit": {
-        "1.4-release": "476fe618085558e02d43060b081dbcc6d0465200"
+        "1.4-release": "02da263770c4d7aba063173e85fc9e4ea3bbbfc1"
     },
     "core-server-kit": {
         "1.4-release": "11b1855236730fd232f75a17ba955192200323cb"
@@ -18,7 +18,7 @@
         "1.4-release": "1b032957538ee936ac2888dc7dfcd9426f3ddd30"
     },
     "dev-kit": {
-        "1.4-release": "6bb90096819ec4cd49c75286b31005b81a8c0b64"
+        "1.4-release": "09dba64d8e9deb6e0f1d15bc3ba4ccb4c0aba207"
     },
     "editors-kit": {
         "1.4-release": "9203d5365862f8db9fde680f1115f50fcbceff19"
@@ -52,16 +52,16 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "ceb73dd30ad7c3e584bd3935ce3aca4482645fb8"
+        "1.4-release": "f1a776ade09cb6c80ddd9b2500dc935ca0e34725"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "7ab214e19dba115ba210d205162968d9c567217c"
+        "1.4-release": "6975dec2cba67f487eb02379d70a69bba8aba46e"
     },
     "nokit": {
-        "1.4-release": "57c5e952eb33758e1c8823193f39076bd31dab33"
+        "1.4-release": "a8817e2d42a6e272da769189c77d4b065b4a93f8"
     },
     "perl-kit": {
         "5.28-release": "4d44fd3ed03d4c7fa58d2dd9d81bc84f201c24b8",
@@ -71,7 +71,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "db406f064423f3cb65956c96d9bb6cb0a5084bc2"
+        "1.4-release": "11e34ab09480b4b5031bd3a69cefdd4a6733fc3f"
     },
     "qt-kit": {
         "5.12.7-release": "67ead7e43c24326aa5d843246728779226008f41"
