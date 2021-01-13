@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "4e4dc4b4f9076f91f27b2c40ea321ba3d8cd8b95"
+        "1.4-release": "dbd0e86c1111dbfcf7812d0dfdd1f47cf9dbe3e4"
     },
     "core-gl-kit": {
         "2.0-release": "70d6e114e0948f70c782c2f365039f4c711a3ef4"
@@ -9,19 +9,19 @@
         "1.4-release": "9441cd214226532fd6a632ed2a06f31a8628bdf2"
     },
     "core-kit": {
-        "1.4-release": "3e1f52a119fd113a5b49b641faa93d5d0b7db458"
+        "1.4-release": "4e8b43f68cd03ed37a115fecc7f110eb77017c3d"
     },
     "core-server-kit": {
         "1.4-release": "fdaf4a24a6e53f97bad5d4e5e85f4d3be0f8178b"
     },
     "desktop-kit": {
-        "1.4-release": "02daf0f0a7d7a4cc37c02c098f1badf7ea121ad2"
+        "1.4-release": "a5131e96326dff07f6c5aa0307edb9561bdfed21"
     },
     "dev-kit": {
         "1.4-release": "883ea8d76127de76f984802ae369c567338ee316"
     },
     "editors-kit": {
-        "1.4-release": "754f13b6d7a27c6fdbe341eb3766516ffe7ae810"
+        "1.4-release": "9d022326b6ebf09bd748f0bad8252a04b5e5c69c"
     },
     "games-kit": {
         "1.4-release": "a7fd5b0ed5018f3bfb793d96a4a5a1105d50c66c"
@@ -52,13 +52,13 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "816575d3992d0b4d6d8cb4c6758436505cff1d50"
+        "1.4-release": "d557b6a8d788ab5df61281a31960587cf39ed0b6"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "f3824cde617ba3cf2e023de8712d0d4cf8e92057"
+        "1.4-release": "826e0f3a62ab640639041867a431c0538e5ae6aa"
     },
     "nokit": {
         "1.4-release": "f3cf2ebeb5433330f8d66f5ac0b7e95b3bab6c6c"
@@ -70,7 +70,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "114e6a607aac51c99669ac35c290b06339afbd07"
+        "1.4-release": "68a94213b2bb7982b5a332780a5aeaaa58fee7cd"
     },
     "qt-kit": {
         "5.15.2-release": "a9804109907f5a99b81a3dbe3b00e1a9121e11bc"
