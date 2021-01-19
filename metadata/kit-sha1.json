@@ -1,15 +1,15 @@
 {
     "browser-kit": {
-        "1.4-release": "c6a1fc312abd43cdd98b0a281b81dc195c2a5759"
+        "1.4-release": "fcea4a7525accc799ba01db025c803e8f3d0d2cb"
     },
     "core-gl-kit": {
-        "2.0-release": "05e5b9b13c6400f17d9c627ca6aa4bd3347fcabd"
+        "2.0-release": "9505aa3780c1a5d1459f5f1f827dc47c0fbe5b4d"
     },
     "core-hw-kit": {
         "1.4-release": "9441cd214226532fd6a632ed2a06f31a8628bdf2"
     },
     "core-kit": {
-        "1.4-release": "b1cf1e76199af65e45604f8c1adca48fd3819a41"
+        "1.4-release": "a31608c5a9656dab6d43f169c7c3ddb0aa9fc803"
     },
     "core-server-kit": {
         "1.4-release": "17b3d06e5c1f704192a4e7fb6d63aa5a153921a7"
@@ -21,7 +21,7 @@
         "1.4-release": "5f7e5194defdb9ec42d1b35bd9908308e5bb8161"
     },
     "editors-kit": {
-        "1.4-release": "c82c052a97cb7882d7f1a664fa66e8ba938df6e3"
+        "1.4-release": "12a551f7df4769270574eac847fe320185cf62d8"
     },
     "games-kit": {
         "1.4-release": "4893559ad011544225c8f352d688d755d872081f"
@@ -52,7 +52,7 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "686135a712784d473ba46ed760254cd0e5d24784"
+        "1.4-release": "468f140abd557703115efd4dde4255b2548dea35"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
@@ -70,7 +70,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "16ccf680caeb89451d6c8b3dc03ef81ede7870f7"
+        "1.4-release": "f1d89cc8be5dbaae7ef08a63632cf056b81dcd74"
     },
     "qt-kit": {
         "5.15.2-release": "d65a70b4bc1dcb7c158b514fb376292b9a3b7600"
