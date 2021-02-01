@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "4b2a8a4d941663cbbc14458c16443a9ec2622300"
+        "1.4-release": "7f83f462cfe1a6f9583672c1ac34e6425a362dff"
     },
     "core-gl-kit": {
         "2.0-release": "090566aef6bf5a109af75e007a72ab1467df7aac"
@@ -15,16 +15,16 @@
         "1.4-release": "b38f9a4a78b68cd92502aa523fd5e9cb317c3a5f"
     },
     "desktop-kit": {
-        "1.4-release": "9664fcef1e35aa8fe79d121695405d8704cb93da"
+        "1.4-release": "5081141f081e6a4f433c3b487b053b90facb10bc"
     },
     "dev-kit": {
-        "1.4-release": "b07d21151f25eec52c6dfca7312c97a4d7d5dada"
+        "1.4-release": "7df5b103769a3f06b0ff0e54d0dc33802d56f7e5"
     },
     "editors-kit": {
-        "1.4-release": "14f9482e34efa9449580f28283ef08926ebf1e1a"
+        "1.4-release": "9e7a9aa4aa42fd327487a903b9759092c73f67ad"
     },
     "games-kit": {
-        "1.4-release": "45d159b5c25e142355aa3f178f37cd3dce008b5a"
+        "1.4-release": "80da73d9d5743ee843011ed6e6b708b41c857947"
     },
     "gnome-kit": {
         "3.34-prime": "4cbd5b95439b12adc6f819d43eedc0bc4a59cbaf",
@@ -52,13 +52,13 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "68735aaafa56e081209c3d0af2679c1a29a1d04d"
+        "1.4-release": "69934952ab81e7f40c1ebbc74e767a1bf88798e9"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "78fac2a626d73f7fac031558478ca0be69521000"
+        "1.4-release": "fbe5f8a36ec3f47b923e539b1ab83ad9a8ce3f33"
     },
     "nokit": {
         "1.4-release": "da3f34dcf95e692199e411bcf23639caed3147ce"
@@ -70,7 +70,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "90e08d01d8f919e11f8d96f733650c1e61085db6"
+        "1.4-release": "1d24dfbc571329ac751bf6077e9f788f4ea311d2"
     },
     "qt-kit": {
         "5.15.2-release": "d65a70b4bc1dcb7c158b514fb376292b9a3b7600"
