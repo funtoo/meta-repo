@@ -9,16 +9,16 @@
         "1.4-release": "9441cd214226532fd6a632ed2a06f31a8628bdf2"
     },
     "core-kit": {
-        "1.4-release": "8156c3125d405732983aba68618d18ddd992ef6b"
+        "1.4-release": "a1111424fd0113e45f4255c2266cfa64e3778f53"
     },
     "core-server-kit": {
-        "1.4-release": "b38f9a4a78b68cd92502aa523fd5e9cb317c3a5f"
+        "1.4-release": "9523571f6bf6050a4b1c91fb26505e149cc0d5ee"
     },
     "desktop-kit": {
-        "1.4-release": "5081141f081e6a4f433c3b487b053b90facb10bc"
+        "1.4-release": "7a1a3d197c6a639550ddb5b12fbc2a09e3bd6521"
     },
     "dev-kit": {
-        "1.4-release": "7df5b103769a3f06b0ff0e54d0dc33802d56f7e5"
+        "1.4-release": "a91b96ea3e76c5c2d566f2f7a5530b90c13c907d"
     },
     "editors-kit": {
         "1.4-release": "9e7a9aa4aa42fd327487a903b9759092c73f67ad"
@@ -37,8 +37,8 @@
         "1.4-release": "4097505d7e7a31a27876419eeebe710a92e93a4e"
     },
     "kde-kit": {
-        "5.19-release": "1d95f21922e2779fae9c0f58e5541dbf295ef8ff",
-        "5.20-release": "06e1ff0e4199da96d8d5b47ac39c94212827bd30"
+        "5.19-release": "47f4bb08834552e2a2e157d6157fad95f4cb1e86",
+        "5.20-release": "2c68d5985816dec00c15b3ed6091afc14a79cc49"
     },
     "lang-kit": {
         "1.4-release": "4b8a587a51111591e327cdef4482efee4d14f507"
@@ -53,13 +53,13 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "69934952ab81e7f40c1ebbc74e767a1bf88798e9"
+        "1.4-release": "84109a94ad535e9de34aac798a375a1c7f439321"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "fbe5f8a36ec3f47b923e539b1ab83ad9a8ce3f33"
+        "1.4-release": "36c1cbd44eeca8baa597e34d04fc68e7aedb2390"
     },
     "nokit": {
         "1.4-release": "da3f34dcf95e692199e411bcf23639caed3147ce"
@@ -71,7 +71,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "c764fb90678b4bb6d54f9ab987bf586d32ad8ad8"
+        "1.4-release": "507a4b5c8a12543d29658811284581c3e8223ca8"
     },
     "qt-kit": {
         "5.15.2-release": "d65a70b4bc1dcb7c158b514fb376292b9a3b7600"
@@ -80,7 +80,7 @@
         "2.7-prime": "72b8078a09faa498325c533c907e71572dc30a8f"
     },
     "science-kit": {
-        "1.4-release": "dac8ff6b4d24b795f3b4874d354f2657cab99c84"
+        "1.4-release": "598e6c04d2da7510b66bdb340776f5320d2e3d5a"
     },
     "security-kit": {
         "1.4-release": "e8ecdc6b04e7f025e9da481bef6edcf916ecf05f"
