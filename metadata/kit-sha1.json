@@ -37,7 +37,8 @@
         "1.4-release": "4097505d7e7a31a27876419eeebe710a92e93a4e"
     },
     "kde-kit": {
-        "5.19-release": "1d95f21922e2779fae9c0f58e5541dbf295ef8ff"
+        "5.19-release": "1d95f21922e2779fae9c0f58e5541dbf295ef8ff",
+        "5.20-release": "06e1ff0e4199da96d8d5b47ac39c94212827bd30"
     },
     "lang-kit": {
         "1.4-release": "4b8a587a51111591e327cdef4482efee4d14f507"
@@ -70,7 +71,7 @@
         "3.7-release": "98f5705a2f6fac04740aca0a2ff3eceaf61254b1"
     },
     "python-modules-kit": {
-        "1.4-release": "1d24dfbc571329ac751bf6077e9f788f4ea311d2"
+        "1.4-release": "9dd9f7a3fdf7060c71313624d61340db72aaeea2"
     },
     "qt-kit": {
         "5.15.2-release": "d65a70b4bc1dcb7c158b514fb376292b9a3b7600"
