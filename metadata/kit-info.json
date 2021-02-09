@@ -107,7 +107,6 @@
         },
         "kde-kit": {
             "stability": {
-                "5.19-release": "prime",
                 "5.20-release": "prime"
             },
             "type": "indy"
@@ -254,7 +253,6 @@
             "1.4-release"
         ],
         "kde-kit": [
-            "5.19-release",
             "5.20-release"
         ],
         "lang-kit": [
