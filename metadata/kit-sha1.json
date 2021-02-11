@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "b9d77cce231b901bb052e868074fda4bdb54ff36"
+        "1.4-release": "4535ef208a64af3a0f34483456c5aa7c399d0175"
     },
     "core-gl-kit": {
         "2.0-release": "9ec51672361d03a4c1ed53519bebb64deb2a1498"
@@ -9,16 +9,16 @@
         "1.4-release": "e641c0e5c7289a853df1ad1a63413934593a2657"
     },
     "core-kit": {
-        "1.4-release": "42c0104c8db3b124dc559cafaf7eff06be00aa9d"
+        "1.4-release": "ae3c044578de64f91960040621c4017786094234"
     },
     "core-server-kit": {
         "1.4-release": "bdbd457666b8319a46826efabdd7fd25dcc0c4ab"
     },
     "desktop-kit": {
-        "1.4-release": "cf0cfe4362f1852fa7b7c4edbbd79dfddbe1238e"
+        "1.4-release": "f11a36182308f931c920847b4751925bbcf76549"
     },
     "dev-kit": {
-        "1.4-release": "461ae9eb4e9970f9c11ec4908ef570c4e4b3c121"
+        "1.4-release": "f0436262f5588992182479b210b977b73be4b118"
     },
     "editors-kit": {
         "1.4-release": "54f05ede2a2c49070a67fa3698ff09fc4b8ee1b6"
@@ -52,7 +52,7 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "3bd222ebc1b4548426d9bc1701d24704d6d60e27"
+        "1.4-release": "94fecd3fa28acbd2b7e439637b9d980402ea519e"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
@@ -85,7 +85,7 @@
         "1.4-release": "cd2f7144fc0fa1dca7404efa51cb7332ca844b95"
     },
     "text-kit": {
-        "1.4-release": "c125eee406b3ebaebc4961ca77461ca288aea41d"
+        "1.4-release": "f02246f6865cafa7ea633e3ab04347aa026fad2c"
     },
     "xfce-kit": {
         "4.14-release": "fc386351317cd03474f0858655eec4f382541579"
