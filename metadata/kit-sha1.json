@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "8114a9c44b76d6d0b416dd644ab7681f6116bc2b"
+        "1.4-release": "ea80a2fcece50333b9539eec28fe147b88f50187"
     },
     "core-gl-kit": {
         "2.0-release": "7c0ec6d4246a691fa2acd239c3f59d9cbe404a7f"
@@ -9,22 +9,22 @@
         "1.4-release": "14d30bcda52e4a3f0516732a149908cd5728910b"
     },
     "core-kit": {
-        "1.4-release": "5a1a99de10fa1b2af20eba47341b9c12d2d1bbdd"
+        "1.4-release": "9127ee68fd334854269834b85487cdce52d0b1e8"
     },
     "core-server-kit": {
-        "1.4-release": "aab3a8924e25eb0db105cef693ddff4880f0a6a9"
+        "1.4-release": "b6b33d11feb00fe346783f8be59a80338d9bb5b3"
     },
     "desktop-kit": {
         "1.4-release": "794c21a3371d7302440a25fb02a40f0aca151414"
     },
     "dev-kit": {
-        "1.4-release": "dd744f8d5f89d4076ad619245e9500ef7d5e83dd"
+        "1.4-release": "b621e37b7b1cb07307c790ec84387ab0b7e21e1f"
     },
     "editors-kit": {
-        "1.4-release": "98222d69a0a6c3aa6bdd149bf8ca520308e336e5"
+        "1.4-release": "f58cd8799132f4ae2c4a4e0b16e45c96b9e7ca8a"
     },
     "games-kit": {
-        "1.4-release": "9b634c48e80bd342a7cab20a2aa06f32fdac9496"
+        "1.4-release": "13335f2b598c850a3dccfcf19cfc7598a3107412"
     },
     "gnome-kit": {
         "3.34-prime": "4cbd5b95439b12adc6f819d43eedc0bc4a59cbaf",
@@ -58,7 +58,7 @@
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "2980d11a6cdfb611800fa729248748682a3bf681"
+        "1.4-release": "109cb1a9fbeaa88ad2ec842de5e61f82f609b812"
     },
     "nokit": {
         "1.4-release": "d60f1df9fef836296ee070f1eccf077ca285773e"
@@ -70,7 +70,7 @@
         "3.7-release": "45f8d43dd852ab76a0a792e79ad99b66c55c8371"
     },
     "python-modules-kit": {
-        "1.4-release": "31968ce13e24f8b011c56f380a8a224b8b5f1a27"
+        "1.4-release": "8b77e4e759ba49ce7be8ac6cf524a7d2e95ec639"
     },
     "qt-kit": {
         "5.15.2-release": "11bdb8d52059e5642b86d143a5c198eb84bbf594"
@@ -82,7 +82,7 @@
         "1.4-release": "c9ac044254d35df8d620e0b0c7463f873cde7fe1"
     },
     "security-kit": {
-        "1.4-release": "cd2f7144fc0fa1dca7404efa51cb7332ca844b95"
+        "1.4-release": "ed647a2f130a9630706b1ef599a9d914a9191e88"
     },
     "text-kit": {
         "1.4-release": "3d54fbb8b4b270a15a2c4b0bad60818b187f8a97"
