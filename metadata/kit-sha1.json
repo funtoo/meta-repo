@@ -1,34 +1,34 @@
 {
     "browser-kit": {
-        "1.4-release": "9614e9aa22da87daaa3192b4a5b449e6d62b7364"
+        "1.4-release": "0f4b5f9469d665c63f70e1446a1d115cf27d3ac1"
     },
     "core-gl-kit": {
-        "2.0-release": "7e73a5f300ee5e9e7936e68c99b77447184ba7fb"
+        "2.0-release": "bc14dae3dba50ce3008512e270f0da99b07efa5c"
     },
     "core-hw-kit": {
-        "1.4-release": "f25f208c9fa97fd817f8aac8ea8059445f3025c5"
+        "1.4-release": "e4b572dd9cf50b352778e7369afc94145d922115"
     },
     "core-kit": {
-        "1.4-release": "c43f27c2f9084dd50020592b79187a262764b005"
+        "1.4-release": "cd813c8a9152f6315d17dc68947904316ae21350"
     },
     "core-server-kit": {
-        "1.4-release": "63035f4333f5bb9f7ce5d4f25671e0e796610522"
+        "1.4-release": "70505b47e38abaca7e48d4a91a9fadf3e48432fb"
     },
     "desktop-kit": {
-        "1.4-release": "5e0aac40c4608f2d9c67ca0afc319e1fb0ca03ee"
+        "1.4-release": "1189115d6e96bfff2da68312bd4f9e281d5a755e"
     },
     "dev-kit": {
-        "1.4-release": "6d16d743ab940f986c90bc80d0923468ad1696d9"
+        "1.4-release": "8f47250816d7ebe2d2253561313d913b7c998392"
     },
     "editors-kit": {
-        "1.4-release": "fbbcd83e44f05a094f2feb1ff49cd3d9b9673214"
+        "1.4-release": "0157965fbcb05f4485a131166b4f8f594030c3f9"
     },
     "games-kit": {
-        "1.4-release": "c9ba0a7a9887ec859098c8a7ca9b0e4738b2e78a"
+        "1.4-release": "a6e5df815ab7f564d9d20e29697908c6253d000f"
     },
     "gnome-kit": {
-        "3.34-prime": "d3fafefa63f0b70b764ca4aaf0b71294a2ea99a5",
-        "3.36-prime": "203e85f81f9ace17124c585f2378f591699902cd"
+        "3.34-prime": "2e5444ec43b5a1a9eb445ec1b90ed239e81fbb96",
+        "3.36-prime": "522774cf4d42fab20e8e31113453dba7bcf85e81"
     },
     "haskell-kit": {
         "1.4-release": "4fabcfe40f99b2b6ce41403601b61b21fd623d4a"
@@ -40,7 +40,7 @@
         "5.20-release": "6a5061f2db4659417b35b94a92df1221d7aa71c2"
     },
     "lang-kit": {
-        "1.4-release": "fa46d9d2f9926596495dfd5e02a2ed1257c40f6e"
+        "1.4-release": "225eb625df57ec6a01bed790a15591e7f82b6a8b"
     },
     "lisp-scheme-kit": {
         "1.4-release": "bd91ab270a2f4f08d6fbb7b91acb8f92466bc19c"
@@ -52,16 +52,16 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "37042b8bf88f76a77b274f9cab7748a3531427fd"
+        "1.4-release": "65d5654c31d6cc5dca23b9a71eec7ab6dcc63fd4"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "071a840f81914e9a8024d829bc3128a758aa52d0"
+        "1.4-release": "a289f8d49dbe59e21432c7d1530b16b1281be8b4"
     },
     "nokit": {
-        "1.4-release": "3207d49427ae01c2105ef1019e422dc5ba956a5b"
+        "1.4-release": "360f9e471ee8d9a9b7ef08dc18fe2b475a482281"
     },
     "perl-kit": {
         "5.32-release": "caf0ae1d2a6989b96721ef47402fa5b8d3b306fc"
@@ -70,22 +70,22 @@
         "3.7-release": "45f8d43dd852ab76a0a792e79ad99b66c55c8371"
     },
     "python-modules-kit": {
-        "1.4-release": "bd9b8ca08208cb88d9663a49443d41ba25a6878a"
+        "1.4-release": "af6282b6ccc156685ae6e6228a329aa7d0eb5f5f"
     },
     "qt-kit": {
-        "5.15.2-release": "8407ea19f8f45e38537bcc62de36fd8775fcb696"
+        "5.15.2-release": "15d7b39b1fd03666619fcbce2d5c5903b8eb0633"
     },
     "ruby-kit": {
         "2.7-prime": "72b8078a09faa498325c533c907e71572dc30a8f"
     },
     "science-kit": {
-        "1.4-release": "2efeb005b92dfcedd5b0ca7a1763ffc713182358"
+        "1.4-release": "867a817144b1782d38d381eba9b79a9e1730e88f"
     },
     "security-kit": {
-        "1.4-release": "0e77599ff7a0b15e91d3faf446426693d95b4529"
+        "1.4-release": "1d98dfbe43d6ef99f8e4e3e3ea00f49ff18c8fce"
     },
     "text-kit": {
-        "1.4-release": "4e1642d3e09e40286fb6811755b4c111cde6a6ad"
+        "1.4-release": "5c7232da8e092f12fdcc2435cb01b5a8ee90a93e"
     },
     "xfce-kit": {
         "4.14-release": "fc386351317cd03474f0858655eec4f382541579"
