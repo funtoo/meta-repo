@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "00f5e52c27951654bd0e1603c35dc953012d77ad"
+        "1.4-release": "385b9cc0952555c1f99e91534116d69b297d36d1"
     },
     "core-gl-kit": {
         "2.0-release": "bc14dae3dba50ce3008512e270f0da99b07efa5c"
@@ -9,22 +9,22 @@
         "1.4-release": "e4b572dd9cf50b352778e7369afc94145d922115"
     },
     "core-kit": {
-        "1.4-release": "b5564234ac064e0f9354308d32340933cad535c3"
+        "1.4-release": "2448c7f90f4ad037b31eaa7909758ccb26fb0adb"
     },
     "core-server-kit": {
         "1.4-release": "70505b47e38abaca7e48d4a91a9fadf3e48432fb"
     },
     "desktop-kit": {
-        "1.4-release": "1189115d6e96bfff2da68312bd4f9e281d5a755e"
+        "1.4-release": "3c98ed40e3e0f6bef537114aedc5686ab6a21052"
     },
     "dev-kit": {
-        "1.4-release": "2e7dfe6d90b0fecadf053ea06dd42659ae9cd60b"
+        "1.4-release": "959abe32e28444c1e3ba8d04bc065d0b38a05633"
     },
     "editors-kit": {
-        "1.4-release": "710a5a5311dd9745f26ee750a5983fc839d20721"
+        "1.4-release": "2ed31a137a01904fe756635832730425bff2da42"
     },
     "games-kit": {
-        "1.4-release": "a6e5df815ab7f564d9d20e29697908c6253d000f"
+        "1.4-release": "42aacfa96d69cb39d1fcfdea92a0cfbef613dc24"
     },
     "gnome-kit": {
         "3.34-prime": "2e5444ec43b5a1a9eb445ec1b90ed239e81fbb96",
@@ -40,7 +40,7 @@
         "5.20-release": "6a5061f2db4659417b35b94a92df1221d7aa71c2"
     },
     "lang-kit": {
-        "1.4-release": "225eb625df57ec6a01bed790a15591e7f82b6a8b"
+        "1.4-release": "b35227a8055662b04f39dec21cd1f62d013c020d"
     },
     "lisp-scheme-kit": {
         "1.4-release": "bd91ab270a2f4f08d6fbb7b91acb8f92466bc19c"
@@ -58,7 +58,7 @@
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "dbfe264a5c97420f42d38dff161bd49c7185d450"
+        "1.4-release": "d69c1efa77a095453e13485380a78dc690e3a0ad"
     },
     "nokit": {
         "1.4-release": "360f9e471ee8d9a9b7ef08dc18fe2b475a482281"
@@ -85,7 +85,7 @@
         "1.4-release": "1d98dfbe43d6ef99f8e4e3e3ea00f49ff18c8fce"
     },
     "text-kit": {
-        "1.4-release": "5c7232da8e092f12fdcc2435cb01b5a8ee90a93e"
+        "1.4-release": "38184c10bb82e4a5e23f20edde3551ee17c4e1d4"
     },
     "xfce-kit": {
         "4.14-release": "fc386351317cd03474f0858655eec4f382541579"
