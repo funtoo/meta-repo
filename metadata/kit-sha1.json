@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "e4f5a018fd28267bda19f10a5719fa33529250bd"
+        "1.4-release": "0506f21d299c1c5b702b369278b9cc27450422b7"
     },
     "core-gl-kit": {
         "2.0-release": "2e02cf8641f578fbc92d9c98d51a1f20aa4f9304"
@@ -9,7 +9,7 @@
         "1.4-release": "e4b572dd9cf50b352778e7369afc94145d922115"
     },
     "core-kit": {
-        "1.4-release": "2e1da56def7105ce32a4e38010457bcb922c7b0f"
+        "1.4-release": "9e64ab0d123859c530303e62003edafe20e80045"
     },
     "core-server-kit": {
         "1.4-release": "70505b47e38abaca7e48d4a91a9fadf3e48432fb"
@@ -21,10 +21,10 @@
         "1.4-release": "959abe32e28444c1e3ba8d04bc065d0b38a05633"
     },
     "editors-kit": {
-        "1.4-release": "a7c17f44f39b843026dccb8b1778a0685de4556d"
+        "1.4-release": "0e86c8277f04a26c2dddc9104115c90f610711e0"
     },
     "games-kit": {
-        "1.4-release": "ceb1d247fdf5bbae4a365568f8fe1a7d8dfd264c"
+        "1.4-release": "9bc3371d6148230e3776425d3832003b578c3f5c"
     },
     "gnome-kit": {
         "3.34-prime": "2e5444ec43b5a1a9eb445ec1b90ed239e81fbb96",
@@ -52,13 +52,13 @@
         "1.24-prime": "a1e770d19830ff13ea0c60f1c0bc3284e604c353"
     },
     "media-kit": {
-        "1.4-release": "8ed05e25d8f36c4163b144649dabb15848fad56b"
+        "1.4-release": "f041f1d77167bdf2c00dca3452da15fb4efce3e5"
     },
     "ml-lang-kit": {
         "1.4-release": "74dec6d3558c00bfa88950437056db610e827b89"
     },
     "net-kit": {
-        "1.4-release": "f529aadc2f30c69b46cbbdbec0dc0baab24fee4a"
+        "1.4-release": "8a43efb81aee1bc4f76ec9e0a0f72c066a31d76b"
     },
     "nokit": {
         "1.4-release": "360f9e471ee8d9a9b7ef08dc18fe2b475a482281"
@@ -70,7 +70,7 @@
         "3.7-release": "45f8d43dd852ab76a0a792e79ad99b66c55c8371"
     },
     "python-modules-kit": {
-        "1.4-release": "c1ffda9c12b5866214b1a017e2b1c65179a2b869"
+        "1.4-release": "7d3165c47e45f4764bfc52b87800fdbe44ba1ce2"
     },
     "qt-kit": {
         "5.15.2-release": "15d7b39b1fd03666619fcbce2d5c5903b8eb0633"
