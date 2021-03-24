@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "8ca2cae77f0cc3c4e3d5b48f0979bacd7825225b"
+        "1.4-release": "2660247c4ee0b63adaaff8315b8ac25b4b81a5f3"
     },
     "core-gl-kit": {
         "2.0-release": "5afbdf7a463cfb09b29c4314aae0ae49971316c3"
@@ -9,16 +9,16 @@
         "1.4-release": "dbf0bbfa69158cebbcb8a13fd44584e9b47875de"
     },
     "core-kit": {
-        "1.4-release": "ec3653c922ce20581641f5e70e5669c6cae45039"
+        "1.4-release": "a09bb4996fc3cde55bbebd5aa16df7d42cd0a36b"
     },
     "core-server-kit": {
         "1.4-release": "ace9ec2c61afc87a9f39cd513e5740df5836ceff"
     },
     "desktop-kit": {
-        "1.4-release": "d2cb8b96cd299b9475cb94d79d9a8d4ec610420d"
+        "1.4-release": "4bc7b975745f143be60bde6bb20695a20ccdb630"
     },
     "dev-kit": {
-        "1.4-release": "94365d3d2b1bf5c93d1dd5e9a0f15076959e87fd"
+        "1.4-release": "236c5b78ecd31eca0153d9554a941f671622b4c1"
     },
     "editors-kit": {
         "1.4-release": "f79f1bf2fb3382946fdbedddb9df00363ccea92b"
@@ -52,7 +52,7 @@
         "1.24-prime": "dd41581b61771b045dcd7ccea8c1c88cd1393b57"
     },
     "media-kit": {
-        "1.4-release": "5f93b86f81e195bb3b881b779f17818e45c55798"
+        "1.4-release": "bea862e824039bda068ee0049f41dfc176d18419"
     },
     "ml-lang-kit": {
         "1.4-release": "e67e91d0eb040d69ed3d319d861d5a01dd0252f6"
@@ -61,7 +61,7 @@
         "1.4-release": "0a895fcbb3d137e3e771ec035d66a8feb59be657"
     },
     "nokit": {
-        "1.4-release": "168122f91e32855503a4533aed8d8ddfc6e70fdb"
+        "1.4-release": "b527ddba319559a5640deff6ca41f0a7f7338226"
     },
     "perl-kit": {
         "5.32-release": "901d21c004f3a4f7c87dd665baaeb520a2cc3903"
@@ -82,7 +82,7 @@
         "1.4-release": "f98a7050bcdba848c72a24553b5dbdf294cfd826"
     },
     "security-kit": {
-        "1.4-release": "8b4eb12e6307510fcbbe343d08377378ee941cc4"
+        "1.4-release": "864c064795cdb0925762329ef42db23736382a3c"
     },
     "text-kit": {
         "1.4-release": "3244a76f0d8040b844c4b08c377c04241a0f1a63"
