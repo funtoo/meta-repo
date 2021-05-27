@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "5ba33964307e414e6cc0971c5afab494f1991735"
+        "1.4-release": "ec766de5d77ec071f6fb15c9197d03726c47e812"
     },
     "core-gl-kit": {
         "2.0-release": "3ebe7b116e0112534c3d2d42fd6af6d814b43852"
@@ -9,7 +9,7 @@
         "1.4-release": "2006750f4248380ad149cc206861628296bee701"
     },
     "core-kit": {
-        "1.4-release": "79fafd84b37255aa5d3633c32eb95d2bf34c2a08"
+        "1.4-release": "18c5daac25e5b43329e39884b3d171997e10b36a"
     },
     "core-server-kit": {
         "1.4-release": "e0fac5e7f79385fa21b36ca197ab7cd02d7d8c0d"
@@ -18,10 +18,10 @@
         "1.4-release": "f549c89c907b48360c958fcc1597106d5a5511eb"
     },
     "dev-kit": {
-        "1.4-release": "b163d66ef89ebfb3e524b683cdfaf9982f00fcfe"
+        "1.4-release": "04c9db02d5b8552baacb35d244f5bc3ddece75a6"
     },
     "editors-kit": {
-        "1.4-release": "17c3d5e2b7f906cebb12974fb7816212da5cfb9c"
+        "1.4-release": "e35df8626fa086ea864772e20c9b3a200a9453ec"
     },
     "games-kit": {
         "1.4-release": "08f90f395d0da4d5b0af9ddbae89d67f1fed2bb1"
@@ -52,13 +52,13 @@
         "1.24-prime": "dd41581b61771b045dcd7ccea8c1c88cd1393b57"
     },
     "media-kit": {
-        "1.4-release": "36ee8f3c257cfa8dfb22d6c8deca5621908d918a"
+        "1.4-release": "a21e3a18bb66f4609d6f995d243103201f20d3f9"
     },
     "ml-lang-kit": {
         "1.4-release": "e67e91d0eb040d69ed3d319d861d5a01dd0252f6"
     },
     "net-kit": {
-        "1.4-release": "f09071e2c7cce7adead52af7c0367ff6b46be983"
+        "1.4-release": "147578e4f6159a35e4044a360dede03b81ec186a"
     },
     "nokit": {
         "1.4-release": "02d44fb1b2cf77cf80861aa9278d3386d1657198"
@@ -70,7 +70,7 @@
         "3.7-release": "5ba47c437f18bcaddfcbdb95a417b9c9ceb3fbd9"
     },
     "python-modules-kit": {
-        "1.4-release": "9e31ec165caff0d74c543cff5dd5c3486cc59cdb"
+        "1.4-release": "7195f1b8dc0dd397b28ec4df08c840cbbe43e455"
     },
     "qt-kit": {
         "5.15.2-release": "9edd9883e5f88cb5460314f142ecc457577e30e7"
