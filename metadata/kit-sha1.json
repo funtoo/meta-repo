@@ -12,16 +12,16 @@
         "1.4-release": "64309e9a58a31690229ad141a8f77c01224b43c4"
     },
     "core-server-kit": {
-        "1.4-release": "694e78af423e06601723af1afb02e634145d8bf1"
+        "1.4-release": "58155519b1f9f3afab214536037aac3256cb9ba3"
     },
     "desktop-kit": {
-        "1.4-release": "ff81f9aab8942ca86249c97d48bb0be6f2956008"
+        "1.4-release": "dc59c50d1103d30a545100fdd3234382c3de4e3e"
     },
     "dev-kit": {
-        "1.4-release": "cd53a08904ca93755722b983e3cc55fb2821ea52"
+        "1.4-release": "a39d6f039fb73d99ccfb6863f762aa82077be2e9"
     },
     "editors-kit": {
-        "1.4-release": "1a9a1854e4076f3c4f54be2303fb6ad63edb8f57"
+        "1.4-release": "86f929bd39467e784987ab7b4e83723036a7c8c8"
     },
     "games-kit": {
         "1.4-release": "b3e96cd527f8ec2fd9e6a026d5703b7a9aba6707"
@@ -40,7 +40,7 @@
         "5.20-release": "b76b9b8c3594ea387c9465e893d5de2f4debf729"
     },
     "lang-kit": {
-        "1.4-release": "c429181fb1cd631c77e0ecb44374cee73990ac0b"
+        "1.4-release": "9a08f3c8f5cb69666c1fa6f514f617561ff6fccd"
     },
     "lisp-scheme-kit": {
         "1.4-release": "9d351cabe330f0eca4e0ca931d85732798e9432f"
@@ -58,7 +58,7 @@
         "1.4-release": "5aa09486a02f6c0e96bd90c48650dd9796c67937"
     },
     "net-kit": {
-        "1.4-release": "c7e3d26e8e13a99a006c05d29028f9dc54617de1"
+        "1.4-release": "258d9b90b977af779c1b4bdc81aa09ea68721da4"
     },
     "nokit": {
         "1.4-release": "ca633a0c317ae6f40933d90ddffd4aa74e80b810"
@@ -70,7 +70,7 @@
         "3.7-release": "8717e618a5e09766a4e1a0888e9d0fccf0d46cd0"
     },
     "python-modules-kit": {
-        "1.4-release": "29a16d2cabaac53ea56a508a0854eb426a1e451f"
+        "1.4-release": "c8a71b4b09206e5c2d97e991bbf4e29150a6b3a2"
     },
     "qt-kit": {
         "5.15.2-release": "691aa221cb6ee385f2b68b29b9c4b19c299d182e"
@@ -85,7 +85,7 @@
         "1.4-release": "5b11518579e3de5234a689879c54f79d005242fd"
     },
     "text-kit": {
-        "1.4-release": "82951d1d44d85da4dc5f11153addd1129f90c740"
+        "1.4-release": "62b978b90c45e962faff2ee0598beae9eaa1eda9"
     },
     "xfce-kit": {
         "4.14-release": "92b06271b1637baef71fa8dac4cbdf74604a1ce5"
