@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "4a1a49faa56e2d553a91438111bb73425ef1c8a8"
+        "1.4-release": "83977353725a3dbb6f7fce443d4eb61f1635c6e3"
     },
     "core-gl-kit": {
         "2.0-release": "72ac8e9c4668fc3f21360fd6f52bd127f95a0eb2"
@@ -12,16 +12,16 @@
         "1.4-release": "6fccbf5fe7bbf827085d7947def956064e17b12c"
     },
     "core-server-kit": {
-        "1.4-release": "0b0c2b8a66e62e1b13787abfd6f7c69e1bb4a0b7"
+        "1.4-release": "f6865be9daff5987cc2affaa218de90ad6b87621"
     },
     "desktop-kit": {
-        "1.4-release": "e1623b387da3cb6583d7ff81d8d8c68b68485434"
+        "1.4-release": "6a3ac599815cebe0a8b4758b73718689ca5675af"
     },
     "dev-kit": {
-        "1.4-release": "ebc2098fd68ac9061f8d3772eff03299bb3d1ec1"
+        "1.4-release": "5859b01630bc9458a4864722006600051fd14ab0"
     },
     "editors-kit": {
-        "1.4-release": "8af7bfbc501395f38b07d39b1a9d0226a2d060a8"
+        "1.4-release": "de21511a900c03eac1b716ffa923761a83334e0d"
     },
     "games-kit": {
         "1.4-release": "44a49d3bf5f6ddbbf9d2455dd079ee6c87cf2ace"
@@ -52,13 +52,13 @@
         "1.24-prime": "b76a579cfca94badf24f084d829512d9d4bd8f22"
     },
     "media-kit": {
-        "1.4-release": "bd95be74e9295719f3aeee5ea80b4ecfc979710d"
+        "1.4-release": "774008ffb0be1b05d936160f613880d1da021c83"
     },
     "ml-lang-kit": {
         "1.4-release": "f41130c80ab3e6a17036ab6ae76035368bdea19a"
     },
     "net-kit": {
-        "1.4-release": "753cf60fa72da09d8efb8d31f858f224fca42f14"
+        "1.4-release": "c398aaa26e7d1f14e23d3b8f19c57b980bc4b6c9"
     },
     "nokit": {
         "1.4-release": "e04f7b951b3a15fad2948e34d5acd18ac2022219"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "5b2dd7645ad5006b8a4b7382ad3a4c822f525fa7"
+        "1.4-release": "b6ba91b15806d33df7f0fa39ec31ae1e3a46f952"
     },
     "qt-kit": {
         "5.15.2-release": "4bec254bfaa2e807eb440df68e600dcc8faedc05"
