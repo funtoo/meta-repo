@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "91e5d7e317b0204e9b0967fa0d08c764583a165b"
+        "1.4-release": "75b061230618eff8c270265afe36576a4f807d12"
     },
     "core-gl-kit": {
         "2.0-release": "af79b91db44871dfe6b7ed99fca953ad51a29c85"
@@ -9,19 +9,19 @@
         "1.4-release": "44fe26417a368edb7b480ab994d13fdd3a2c1136"
     },
     "core-kit": {
-        "1.4-release": "cfb2453be426df1cf5f7fe0afd64c49f98f1d860"
+        "1.4-release": "21722e0e8cf6cafb56ec0d25433589d3d86d3513"
     },
     "core-server-kit": {
         "1.4-release": "8d0efe0c4ff8f9cc4a13e1d2dd12744b5cefb510"
     },
     "desktop-kit": {
-        "1.4-release": "863f3227f4efe7f29f8dad2b71e9a7fa4dc75ad1"
+        "1.4-release": "324c12b55c818f1bfaddd2162343bedf220128a9"
     },
     "dev-kit": {
         "1.4-release": "3a028fbe9a186b458bbc0265557f6da98bc75a2f"
     },
     "editors-kit": {
-        "1.4-release": "7cd4b355e7af755c95d7848f4ff1b919d0356e2a"
+        "1.4-release": "77f8aabfcfb0553c51778a9436914d2a1a63718d"
     },
     "games-kit": {
         "1.4-release": "81cbbabefd4c09c0ae41219d1384900c1ce4c6a7"
@@ -52,13 +52,13 @@
         "1.24-prime": "b76a579cfca94badf24f084d829512d9d4bd8f22"
     },
     "media-kit": {
-        "1.4-release": "20604845f4d0a9701877dea2845dfa7439bae139"
+        "1.4-release": "0c7a1e38410340cce9372542af92dff23cfa19fb"
     },
     "ml-lang-kit": {
         "1.4-release": "f41130c80ab3e6a17036ab6ae76035368bdea19a"
     },
     "net-kit": {
-        "1.4-release": "d3b3a180a89d4f4c72aa8c78d1b5e64f6ed21823"
+        "1.4-release": "d4836b7514e862a2c61a5a28b6ba87fe32691bca"
     },
     "nokit": {
         "1.4-release": "e04f7b951b3a15fad2948e34d5acd18ac2022219"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "cc1734906bd465ef07ee381961aa0ac296b17997"
+        "1.4-release": "d35d54cb6f9f770eb79280e10c2f68ed071aa446"
     },
     "qt-kit": {
         "5.15.2-release": "4bec254bfaa2e807eb440df68e600dcc8faedc05"
