@@ -26,11 +26,18 @@
     "games-kit": {
         "next": "2df86cf7a788d100852163c811587099d673bd9d"
     },
+    "gnome-kit": {
+        "3.34-prime": "e372eec750e120a70484b112679b2408772c2f73",
+        "3.36-prime": "1ef0656b2595bcdb34cc34ef188674192b93a95d"
+    },
     "haskell-kit": {
         "next": "5eedc771701d1f30aa65a8083327bcebbccd2d4d"
     },
     "java-kit": {
         "next": "2e91d2b9d977c774eee3bed47c91a295cf85fdb3"
+    },
+    "kde-kit": {
+        "5.20-release": "9d2d145c9ecdbaa400992370df764017edcb09cf"
     },
     "lang-kit": {
         "next": "3d291a5f257534a93fe57fa5ff817892678968e9"
@@ -40,6 +47,9 @@
     },
     "llvm-kit": {
         "next": "0b3e7fcf9a22d58a5ebfe830c752187a9c278a2d"
+    },
+    "mate-kit": {
+        "1.24-prime": "b76a579cfca94badf24f084d829512d9d4bd8f22"
     },
     "media-kit": {
         "next": "0af77cdc7b009b991a677b939ad8d3f80c159c10"
@@ -53,8 +63,14 @@
     "perl-kit": {
         "next": "586839f18c0c764168196cc9a0e71fb86bf724c2"
     },
+    "python-kit": {
+        "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
+    },
     "python-modules-kit": {
-        "next": "68d3cfd4f99e41321d1afcfa9826675a58a4e730"
+        "next": "4b2bf2e3037d071e3b6aae7ba2fbfcae8ed52e49"
+    },
+    "qt-kit": {
+        "5.15.2-release": "4bec254bfaa2e807eb440df68e600dcc8faedc05"
     },
     "ruby-kit": {
         "next": "ab9ada0a7984f978ba0fa78f3e3b53c430c0df38"
@@ -67,5 +83,8 @@
     },
     "text-kit": {
         "next": "06595a1477de851d5c479a68d095e137582040d0"
+    },
+    "xfce-kit": {
+        "4.14-release": "646722bbfadbf0aec45bff120418156e6a5585cc"
     }
 }
