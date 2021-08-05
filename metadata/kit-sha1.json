@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "96de921d20dc8cca8d9e93d3f122c9865440506e"
+        "next": "bc0de105ac4413bb51633cf2581a93bc57a1ad0b"
     },
     "core-gl-kit": {
         "next": "77b91982f7e75ca8f4217a47871bd96a699e42da"
@@ -9,19 +9,19 @@
         "next": "878d2ad12a87de8f083b8d67c2a2689590db84f0"
     },
     "core-kit": {
-        "next": "f55b171ed3e48b29cbddab913e7009959d65d0ab"
+        "next": "9905fd08242a6877c797711f0248383d0f7714a5"
     },
     "core-server-kit": {
-        "next": "3df00b5d158351fe38d3e5052638e155a88f3623"
+        "next": "5cd305a7eda188e9ad82fd05854639561563d761"
     },
     "desktop-kit": {
-        "next": "c25d689b4a1a94d612ddc1f730aafd6752daffee"
+        "next": "d61977fae9ba03b4afed75c1810b9cff8520d774"
     },
     "dev-kit": {
-        "next": "9d26bc516e0be21121932cad626fcc701e211842"
+        "next": "86718627e42cd25ba7666a7c223b04ae0fb47b86"
     },
     "editors-kit": {
-        "next": "71cab31c6764a83a8f718f5c096e5b0aa2ce4496"
+        "next": "3f740eb2de90bb5ff0005bd77d0f272998775a4c"
     },
     "games-kit": {
         "next": "2df86cf7a788d100852163c811587099d673bd9d"
@@ -52,13 +52,13 @@
         "1.24-prime": "b76a579cfca94badf24f084d829512d9d4bd8f22"
     },
     "media-kit": {
-        "next": "0af77cdc7b009b991a677b939ad8d3f80c159c10"
+        "next": "07f12a0270dd82d49b403d226d08458015066f35"
     },
     "ml-lang-kit": {
         "next": "431510f9f87df7e6abc3e5dda16212c95777e8d1"
     },
     "net-kit": {
-        "next": "a90829fd9462cc30440802bb49aae246e1138f04"
+        "next": "bc264b4bbc874097ac014691d83edc4fb0f1b713"
     },
     "perl-kit": {
         "next": "17352222463717016d0ae4b82d8acbc9315dc217"
@@ -67,7 +67,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "12c351f8bca453c8a9ae1a71af8bcab14b36c2c0"
+        "next": "92e0fe3a0fb175c394cd0bdb2280fece1b04b6aa"
     },
     "qt-kit": {
         "5.15.2-release": "4bec254bfaa2e807eb440df68e600dcc8faedc05"
