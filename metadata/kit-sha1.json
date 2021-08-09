@@ -1,34 +1,34 @@
 {
     "browser-kit": {
-        "next": "89668e773cd64f8e5ea4100cd2a60ac1d065eaae"
+        "next": "b4560c7dfc228fff30d19019f236a2f69c9bada6"
     },
     "core-gl-kit": {
-        "next": "77b91982f7e75ca8f4217a47871bd96a699e42da"
+        "next": "abc30d112ea46695c729a3efffcac30d067c7d16"
     },
     "core-hw-kit": {
         "next": "d5437ba14bf07f9a84385d73598c273f24383a2b"
     },
     "core-kit": {
-        "next": "340153a208ef54344975d0b9126eab0b32e7452c"
+        "next": "c8886b712ad3ca068c8ac4eb742f1b231c040e8b"
     },
     "core-server-kit": {
         "next": "dcb9d9db860e53b04554d1ccf70b21e0d25f6e8e"
     },
     "desktop-kit": {
-        "next": "7897159121647257c3e898265f0d6521786b856b"
+        "next": "bf6258e23ca7ad49b3a0cc278ad3c03434cd438b"
     },
     "dev-kit": {
-        "next": "4ae545b51702b5bedb52623cae563c4a77d1c91c"
+        "next": "243c1ec8cdf13948461a3ecb3e3a199e42df7e8e"
     },
     "editors-kit": {
-        "next": "3d2b1787790e76e8629e9cb2712d126471deba45"
+        "next": "6c8aeb407caa52ae6f53cb23c66ef03780ae3e0c"
     },
     "games-kit": {
         "next": "34d1cb3ca5ad285aab0df52161fceccf922d2eb5"
     },
     "gnome-kit": {
         "3.34-prime": "e372eec750e120a70484b112679b2408772c2f73",
-        "3.36-prime": "1ef0656b2595bcdb34cc34ef188674192b93a95d"
+        "3.36-prime": "8355bf9e7f892db7966166b0194cc41fc4ca22d6"
     },
     "haskell-kit": {
         "next": "5eedc771701d1f30aa65a8083327bcebbccd2d4d"
@@ -52,13 +52,13 @@
         "1.24-prime": "b76a579cfca94badf24f084d829512d9d4bd8f22"
     },
     "media-kit": {
-        "next": "4536993c1f2611f52eba5b5b72d07143d66bb28d"
+        "next": "ff1ca67ce0a2dd470d8df965ce157302d0be9983"
     },
     "ml-lang-kit": {
         "next": "431510f9f87df7e6abc3e5dda16212c95777e8d1"
     },
     "net-kit": {
-        "next": "01fb03b5872bf6dd39004d48dbd4808f9a0312f7"
+        "next": "8819e04bcbddecaaa6990906d97050df5aca2904"
     },
     "perl-kit": {
         "next": "17352222463717016d0ae4b82d8acbc9315dc217"
@@ -67,7 +67,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "783c72a793982703c2f812544de455dec262bc53"
+        "next": "ced03678a99dc867df1b18b56d965fd420b93890"
     },
     "qt-kit": {
         "5.15.2-release": "4bec254bfaa2e807eb440df68e600dcc8faedc05"
