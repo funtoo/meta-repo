@@ -1,34 +1,34 @@
 {
     "browser-kit": {
-        "1.4-release": "90f30b5ea4e5010fe54e093e8ee6d0d631ea4e5e"
+        "1.4-release": "55880e8bbb8c90e0639b29d6844a86ec42a5d2c0"
     },
     "core-gl-kit": {
-        "2.0-release": "af79b91db44871dfe6b7ed99fca953ad51a29c85"
+        "2.0-release": "e9cd63202c55a385b95b2b9650941030fd4b1abb"
     },
     "core-hw-kit": {
         "1.4-release": "44fe26417a368edb7b480ab994d13fdd3a2c1136"
     },
     "core-kit": {
-        "1.4-release": "24e937ad9e8a62fb894515eaef33febb213b78a9"
+        "1.4-release": "1316a93d89acce6113ccd31fbc4b5faabd166e8d"
     },
     "core-server-kit": {
         "1.4-release": "ca2d337b5439adc06e2a21c8fedff1059675d400"
     },
     "desktop-kit": {
-        "1.4-release": "ca8dc54e7d5ec995332b2a5d120130792e18858c"
+        "1.4-release": "317e101a21a1842f557d2209304f1c1bf02cd350"
     },
     "dev-kit": {
-        "1.4-release": "4e14c81ab60376e38dbf113c77bfbf6a010a8cf5"
+        "1.4-release": "db79fbd3003fc7463970db200576a75c3082d291"
     },
     "editors-kit": {
-        "1.4-release": "cb5e9c9016f6cb223d3786643d9bf2688910a83b"
+        "1.4-release": "d9db45bcebe89421458b50cea0e94824d19f0b39"
     },
     "games-kit": {
         "1.4-release": "81cbbabefd4c09c0ae41219d1384900c1ce4c6a7"
     },
     "gnome-kit": {
         "3.34-prime": "e372eec750e120a70484b112679b2408772c2f73",
-        "3.36-prime": "1ef0656b2595bcdb34cc34ef188674192b93a95d"
+        "3.36-prime": "8355bf9e7f892db7966166b0194cc41fc4ca22d6"
     },
     "haskell-kit": {
         "1.4-release": "560a85c98d1a3a24c0219666b1ff8a7bc6c7eb55"
@@ -52,13 +52,13 @@
         "1.24-prime": "b76a579cfca94badf24f084d829512d9d4bd8f22"
     },
     "media-kit": {
-        "1.4-release": "e4785d039b41911f98e6d58746d25b4a891e139e"
+        "1.4-release": "2b2154a16c75071002659e82276c243f7a1c91d3"
     },
     "ml-lang-kit": {
         "1.4-release": "f41130c80ab3e6a17036ab6ae76035368bdea19a"
     },
     "net-kit": {
-        "1.4-release": "d74e182d7e514920158333fef87272db76f4af02"
+        "1.4-release": "5e2c7021d7dae3501303fbf45bd88e260c3133ba"
     },
     "nokit": {
         "1.4-release": "e04f7b951b3a15fad2948e34d5acd18ac2022219"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "6b047a45f1c06b53b740e16a3b6112d91a4ccb51"
+        "1.4-release": "3a10e15a9282d1b1f8ba94362fff203d78748c27"
     },
     "qt-kit": {
         "5.15.2-release": "4bec254bfaa2e807eb440df68e600dcc8faedc05"
