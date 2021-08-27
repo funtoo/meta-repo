@@ -160,7 +160,7 @@
         },
         "python-kit": {
             "stability": {
-                "3.9-release": "prime"
+                "3.7-release": "prime"
             },
             "type": "indy"
         },
@@ -273,7 +273,7 @@
             "next"
         ],
         "python-kit": [
-            "3.9-release"
+            "3.7-release"
         ],
         "python-modules-kit": [
             "next"

@@ -1,88 +1,88 @@
 {
     "browser-kit": {
-        "next": "d09e6087a4b018cecc838dc380135cb7f619d5c4"
+        "next": "0da4d55757600feace4dc042785150f6958f1a50"
     },
     "core-gl-kit": {
-        "next": "5345cc440d291dc9a375698beaab17833704c21d"
+        "next": "8561da0fa633204b356586b41e2d797e81c8516b"
     },
     "core-hw-kit": {
-        "next": "2c222cecb6c54ba0448701260a33fed7333e74ea"
+        "next": "134a97a8957dfef95d65017e2fcc1497cb1fbd41"
     },
     "core-kit": {
-        "next": "83a1febebd8e52831d0c968fa024be56fb146546"
+        "next": "e48c71900ea67d94aeac97592373000d0b011f02"
     },
     "core-server-kit": {
-        "next": "de953ff0bb5c05f2c96b91853c960a9d52d4b771"
+        "next": "f2d51eb5967c8a566abed58530b6f55eb1322c50"
     },
     "desktop-kit": {
-        "next": "ae98a1bd0f7459a184dd3779fa87b973f9883bdf"
+        "next": "dcf4cf675bbf5a8e9b5fe533b673ed1ecd704d12"
     },
     "dev-kit": {
-        "next": "26d1b627c525e38ebf288ff0fbe155db1ff17d9a"
+        "next": "38d06b5ba4140b43d1f0fe965d0dd0c41a1d53be"
     },
     "editors-kit": {
-        "next": "4a264771bd507501a2f046d827d55dc5c8803a0d"
+        "next": "da4f281e5ba4eac79c410bcefbca9939901bc98d"
     },
     "games-kit": {
-        "next": "f5e4708d3883b6b1868ed369f463f580a0949d42"
+        "next": "2e150a4bce65573d24b0d9463d2ed087938b9566"
     },
     "gnome-kit": {
         "3.34-prime": "e372eec750e120a70484b112679b2408772c2f73",
         "3.36-prime": "8355bf9e7f892db7966166b0194cc41fc4ca22d6"
     },
     "haskell-kit": {
-        "next": "b57c84cb9d157554f2993ba2f28c06ce53a9211a"
+        "next": "0b7b15dac520d3a2b3df89df346f83f57cc2d34d"
     },
     "java-kit": {
-        "next": "832902aecfd8e980f72263ca084ecea0c8eeba14"
+        "next": "3ef00fd396e20fbd3736add5c0a06cd7de92eb69"
     },
     "kde-kit": {
         "5.20-release": "a552107c9ea0d2a7b3f6cb858e671f44cf38867f"
     },
     "lang-kit": {
-        "next": "515356fceab7a1bab7139902788cb971c7b2abcb"
+        "next": "4ea3b642621698449f3eb0500278ca546758ed5f"
     },
     "lisp-scheme-kit": {
-        "next": "2233933a78f3ccca85b3213588409eb0c2a6382c"
+        "next": "abc35e53b98afb82a5cf8c1ece996ff8002e6ab9"
     },
     "llvm-kit": {
-        "next": "b9084932510fc41965ccee23ce17aa3f391b114c"
+        "next": "16804854b7bc4d42be8faf0cfd3defb9507ce6b6"
     },
     "mate-kit": {
         "1.24-prime": "b76a579cfca94badf24f084d829512d9d4bd8f22"
     },
     "media-kit": {
-        "next": "c61c172455e029a054a79cc409d53f8c81faf136"
+        "next": "d73bdb4e36b9fea42e3974e954007b02da316839"
     },
     "ml-lang-kit": {
-        "next": "7baaf6fdc1f1bccd79f2ce1c320420ccd2e5b403"
+        "next": "276cc7b16ad826b4ca4ea355cb06d2afdc83bc71"
     },
     "net-kit": {
-        "next": "945b9d5c921afc63819e54d2e8976d9532aa279c"
+        "next": "57131e6dea01331165b4e11af2a804c3e9ff9895"
     },
     "perl-kit": {
-        "next": "5844b69a3a139c1939ecf6b480747f330a0b6929"
+        "next": "2bb2df8993829806642cbab5108839339874a11d"
     },
     "python-kit": {
-        "3.9-release": "3809b421c94505fe04a84b2dcf9975b78805f34f"
+        "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "56bf8ef68116acbda8dcfe76527f433fd1e36a42"
+        "next": "3e0ffd1edae05a74fdb82a849cbcda427ca7bc94"
     },
     "qt-kit": {
         "5.15.2-release": "413a74d07d44533cc277cbdb87ff021070f81b09"
     },
     "ruby-kit": {
-        "next": "7c752e44b48deb1ff7db238936ff23e314e99c82"
+        "next": "ae5c3226a7c459c9a72d9918d5d9e520ae847007"
     },
     "science-kit": {
-        "next": "5a66af7d6671c52cb1d1713d2cba98f9f9647408"
+        "next": "d8f791a5ed99041e343bc077f131aae3c8447d9c"
     },
     "security-kit": {
-        "next": "09ce3bb66009c2b00e15aab2695da20e70e3157f"
+        "next": "5ce4346bbb123b4ff7ce976e23754515f02c00ec"
     },
     "text-kit": {
-        "next": "97130229d163ab978220c7047e52c7885284bd34"
+        "next": "ccb2eaebac014b2b9a01dd581b8f170ff65879f7"
     },
     "xfce-kit": {
         "4.14-release": "646722bbfadbf0aec45bff120418156e6a5585cc"
