@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "1265ba96d7d8dfed31202bd6ce3d0950b78de0e7"
+        "next": "a4a978ad80532fd73b33a8945f8957d2cf6ce470"
     },
     "core-gl-kit": {
         "next": "14768b7f2e6938f4e13e79800e91a556a8d04b21"
@@ -15,13 +15,13 @@
         "next": "d396644e78a77b0a8da667d7f257f4998df9101d"
     },
     "desktop-kit": {
-        "next": "6c2fb673b73d5c812518b388c4bde3e347cb9afc"
+        "next": "39a60d8c8b30e4de4ed250d5b439de74664e7f41"
     },
     "dev-kit": {
-        "next": "21adafa421216af2adddc06605da8067f600f95e"
+        "next": "5b7931cd37f076c6e65463048b9ba01e3b4fdac7"
     },
     "editors-kit": {
-        "next": "f7c69f8beb3a2d2c94200925e5d2968bc4d48b7f"
+        "next": "f8e9b4dbefda3f8541b88d8d4ec9b2c1f3059de9"
     },
     "games-kit": {
         "next": "9ef607a43aad5571420cfd0e9b9bb5d91d35df1e"
@@ -52,13 +52,13 @@
         "1.24-prime": "b32cbadef2458e2f145c89baee808e7b472b64ba"
     },
     "media-kit": {
-        "next": "43862b58d1b309e99461324b282be1745e011268"
+        "next": "4f65759d23908ea34b372cb4b1bbef725dac865c"
     },
     "ml-lang-kit": {
         "next": "276cc7b16ad826b4ca4ea355cb06d2afdc83bc71"
     },
     "net-kit": {
-        "next": "7e087cb034cbd9157571693b26655794b901d2c1"
+        "next": "7061b7279bcbe9694f4221f98452a309449c2ee7"
     },
     "perl-kit": {
         "next": "2bb2df8993829806642cbab5108839339874a11d"
@@ -67,7 +67,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "03aa5daa6bc59be7e30c0a2b9491c86041667ac2"
+        "next": "26afd4438535e22d592ee2c0f74872ab07ba559b"
     },
     "qt-kit": {
         "5.15.2-release": "9e8ff2aa93679f2d163978f6ff9cfd40d575eb5b"
@@ -82,7 +82,7 @@
         "next": "a26f67386ea2f4055da4f31b4eb18b6a5be49336"
     },
     "text-kit": {
-        "next": "2dc70e59443628b306835dde55d7e09a5aed1015"
+        "next": "fbe9cda104968ceda2f2ef2f80b1ebf7f98943f5"
     },
     "xfce-kit": {
         "4.14-release": "7e35d37af770d979a3394d167be0002f55b08052"
