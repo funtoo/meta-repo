@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "a0ba27c438f9ea6c83e459ad2c4f9059045b4eed"
+        "1.4-release": "c5bf7e4f674363732bcd5821269cd85b297fa22d"
     },
     "core-gl-kit": {
         "2.0-release": "7324d1791db3db0234f40ea807a4550384a3edfd"
@@ -9,7 +9,7 @@
         "1.4-release": "e4a86a5ecee863224a1ca87c484cde20bb22e8b4"
     },
     "core-kit": {
-        "1.4-release": "ffe647939bd0d95fddcff3d17ae3280360af21bd"
+        "1.4-release": "d3861f9db0154a7fec580fd6f37d45db64e21bca"
     },
     "core-server-kit": {
         "1.4-release": "412dbb97af71559f65565e6dd211033368637e12"
@@ -21,10 +21,10 @@
         "1.4-release": "9b44f644b4ac9527a53afef5dfccc70125d99732"
     },
     "editors-kit": {
-        "1.4-release": "b8b62fe0854e35a22745b78e5c9ea06430613cbd"
+        "1.4-release": "b37b93899da7999be1bf15e81c4627e2876abaa1"
     },
     "games-kit": {
-        "1.4-release": "d36453d6b747f8fc1bada2a6bfe816cd176b226c"
+        "1.4-release": "ec9129e95511c7c1bd6b27a4ae86245b711382df"
     },
     "gnome-kit": {
         "3.34-prime": "a9c343fedb05e2b1e3d620d8128c2fae65fa31e3",
@@ -52,13 +52,13 @@
         "1.24-prime": "b32cbadef2458e2f145c89baee808e7b472b64ba"
     },
     "media-kit": {
-        "1.4-release": "7c22d85d82335a152e306dc97dc3aca6dc2189d4"
+        "1.4-release": "e8a768028aaf0e3bfb8db2b9623dacffc691a731"
     },
     "ml-lang-kit": {
         "1.4-release": "f41130c80ab3e6a17036ab6ae76035368bdea19a"
     },
     "net-kit": {
-        "1.4-release": "1b55ef68f93b2d268f3601844044cec87207b8a6"
+        "1.4-release": "24295030c8c24a439f78ef2c3956206f30320f03"
     },
     "nokit": {
         "1.4-release": "6bb848f876dc920e9bf835ff7396d93fd9bc999b"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "6e744cadcca9620e0a121d822df8d889302c5695"
+        "1.4-release": "6c7ca121aa4e424833ed50ff47f3b1f0490e3079"
     },
     "qt-kit": {
         "5.15.2-release": "c5b338d12a80c42e7ee594b7d2d1823736fda5e5"
