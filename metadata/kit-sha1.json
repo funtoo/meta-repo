@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "1fdb6e50e92125a820056508bac05d8766062b71"
+        "next": "f173fb62efc1d07918e888e153cb284bd0c0be1a"
     },
     "core-gl-kit": {
         "next": "f93b18e2c5885dfb4d3c5ea9421cc7362874ba1e"
@@ -9,7 +9,7 @@
         "next": "ead7642c2187ed2598648204df7dad2c931e9087"
     },
     "core-kit": {
-        "next": "0d1419b6f4c1e6e6f9d441d8669847068b699239"
+        "next": "4fed6f0b88b7cce1e973708eaf15900fd428e3da"
     },
     "core-server-kit": {
         "next": "b0ad46bb4b6a3a253ed814842908b262e1933825"
@@ -21,7 +21,7 @@
         "next": "6fc8bf28b3b612321e3fe13d42ef206a94aaba25"
     },
     "editors-kit": {
-        "next": "34712193eb458011cdc81767d5f42d3adebd169a"
+        "next": "772c1b478976f189a5b8052d04dbbe364aeefb85"
     },
     "games-kit": {
         "next": "dfdc372f86f08059923282a7e67f20c6e94d3b80"
@@ -40,7 +40,7 @@
         "5.20-release": "e37b9aa25b6000a2947cd45a2470fcd06b3f1ded"
     },
     "lang-kit": {
-        "next": "1e0b4bb3b660d8f63c06cc2d418b49525fa91bcb"
+        "next": "2f5222781b7138019173911ed89294ed2e358b49"
     },
     "lisp-scheme-kit": {
         "next": "abc35e53b98afb82a5cf8c1ece996ff8002e6ab9"
@@ -52,7 +52,7 @@
         "1.24-prime": "b32cbadef2458e2f145c89baee808e7b472b64ba"
     },
     "media-kit": {
-        "next": "8b4baaddf3654dc97273c3408d46a5cb634247ea"
+        "next": "63ffd005d6876bf8d646378f216bdf324f773bf5"
     },
     "ml-lang-kit": {
         "next": "276cc7b16ad826b4ca4ea355cb06d2afdc83bc71"
@@ -67,7 +67,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "b4ac4a34ea076fd5d4c330401a1809ca16460d52"
+        "next": "abf3cc946643fe5cb3e3ca0f6e6aa82183f3a3d4"
     },
     "qt-kit": {
         "5.15.2-release": "c5b338d12a80c42e7ee594b7d2d1823736fda5e5"
@@ -79,7 +79,7 @@
         "next": "ce34389054d037d4fd8eabe6520d74546f7919fb"
     },
     "security-kit": {
-        "next": "a26f67386ea2f4055da4f31b4eb18b6a5be49336"
+        "next": "082bc4f255c42d4bc32b85fa7dc730890ff0d432"
     },
     "text-kit": {
         "next": "71ed2da97b158cecd69265725f8089187cd7861c"
