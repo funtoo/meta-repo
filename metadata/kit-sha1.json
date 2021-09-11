@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "bcca1187c1d1d003af83f900c222c3b1d57ebc4f"
+        "next": "1fdb6e50e92125a820056508bac05d8766062b71"
     },
     "core-gl-kit": {
         "next": "f93b18e2c5885dfb4d3c5ea9421cc7362874ba1e"
@@ -9,7 +9,7 @@
         "next": "ead7642c2187ed2598648204df7dad2c931e9087"
     },
     "core-kit": {
-        "next": "adc4c93dfd1f45cfd2921d17aecee29ec7721e77"
+        "next": "f14e0b145e0b6236b02caa0dea0bc19a63a99dc2"
     },
     "core-server-kit": {
         "next": "b0ad46bb4b6a3a253ed814842908b262e1933825"
@@ -18,13 +18,13 @@
         "next": "1bf78548c6802429b5f67bc507c8a3e1978ae72d"
     },
     "dev-kit": {
-        "next": "8933d8ed60cbaf609af741b3210ed0bc0f67850e"
+        "next": "6fc8bf28b3b612321e3fe13d42ef206a94aaba25"
     },
     "editors-kit": {
-        "next": "8d693a01a7fbdcb9b7882437feecf992eea39a7b"
+        "next": "34712193eb458011cdc81767d5f42d3adebd169a"
     },
     "games-kit": {
-        "next": "30565018263a357168f71eeeeff76bcc27acdf41"
+        "next": "dfdc372f86f08059923282a7e67f20c6e94d3b80"
     },
     "gnome-kit": {
         "3.34-prime": "a9c343fedb05e2b1e3d620d8128c2fae65fa31e3",
@@ -52,13 +52,13 @@
         "1.24-prime": "b32cbadef2458e2f145c89baee808e7b472b64ba"
     },
     "media-kit": {
-        "next": "f3c24b2e0f764623d7b96ace9b7374c74e17c37e"
+        "next": "8b4baaddf3654dc97273c3408d46a5cb634247ea"
     },
     "ml-lang-kit": {
         "next": "276cc7b16ad826b4ca4ea355cb06d2afdc83bc71"
     },
     "net-kit": {
-        "next": "683af01a908b30f1928d06f8cc0cde359797cd84"
+        "next": "d6a7f9b2fbe2e3250cd37d4186acf40343e692d8"
     },
     "perl-kit": {
         "next": "2bb2df8993829806642cbab5108839339874a11d"
@@ -67,7 +67,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "9ae31ef8f694cdf10fa24780b203edac59c60be9"
+        "next": "e828aa9ec494191a037a9a691742de1a02f98999"
     },
     "qt-kit": {
         "5.15.2-release": "c5b338d12a80c42e7ee594b7d2d1823736fda5e5"
