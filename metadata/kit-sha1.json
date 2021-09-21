@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "6687882ed83ca4161e63aef086023a34153a4e8f"
+        "1.4-release": "91d2931e2e0c0524fdc491b3636b225471b2d790"
     },
     "core-gl-kit": {
         "2.0-release": "1d4702bebc56f3a8c6fa64fffcb00cae05b17a31"
@@ -9,7 +9,7 @@
         "1.4-release": "13a20576a4885fc55e4c15071ce0d05a064b9b53"
     },
     "core-kit": {
-        "1.4-release": "74b491c92b08d1b5be2795a8b4dff9e3ff07b920"
+        "1.4-release": "b29f5f437b5d5dc5ab8e386a82fafcd5780bcfe0"
     },
     "core-server-kit": {
         "1.4-release": "0dd516dc0c8214879a4d75a1f91d9906a70431ef"
@@ -18,10 +18,10 @@
         "1.4-release": "575211129c439e0920505b14701688c002f2bb14"
     },
     "dev-kit": {
-        "1.4-release": "9002388ef2516dbdca3c424bf6266a08ebf0d02a"
+        "1.4-release": "7894994376ad09ed67e3c54297e2b33692b08b76"
     },
     "editors-kit": {
-        "1.4-release": "e45068032771ffd44b90acaa5ef36a64d6abe4c9"
+        "1.4-release": "c70f25b655ef3f1539e7ef12f90b9513eaaabe88"
     },
     "games-kit": {
         "1.4-release": "b028854ee9e2967953a6f25550504fda9b950732"
@@ -52,13 +52,13 @@
         "1.24-prime": "b32cbadef2458e2f145c89baee808e7b472b64ba"
     },
     "media-kit": {
-        "1.4-release": "f3c2038ce887c78e3a357163f52015dbfc47322e"
+        "1.4-release": "49aa006c484f8229dfbb67fb106fcdb17071e8aa"
     },
     "ml-lang-kit": {
         "1.4-release": "f41130c80ab3e6a17036ab6ae76035368bdea19a"
     },
     "net-kit": {
-        "1.4-release": "4faa2cf200971b1b3e70f42481ee52e08d069ece"
+        "1.4-release": "8fc393bbf822fe48e59c8c459525f621a73c36f8"
     },
     "nokit": {
         "1.4-release": "4b5819812c0d203ed38d2b5dbcb96e65ad92a6db"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "f89cb4c1340f11232aadc9d83eed030467be813d"
+        "1.4-release": "28a36e6f0c5d42993e4ce4b3f8c022339678a876"
     },
     "qt-kit": {
         "5.15.2-release": "c5b338d12a80c42e7ee594b7d2d1823736fda5e5"
