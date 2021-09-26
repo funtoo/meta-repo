@@ -3,13 +3,13 @@
         "1.4-release": "90066e9cba760b1918202a20de2bbd15358841b6"
     },
     "core-gl-kit": {
-        "2.0-release": "b7e2cde9060bba91ab402b126d9c505b35d1944f"
+        "2.0-release": "026a1fe82923a8a069f4bd5f90106427bcad85b5"
     },
     "core-hw-kit": {
         "1.4-release": "eb56a21f2df2f5fc9248ba91a9bf55a8b439da7d"
     },
     "core-kit": {
-        "1.4-release": "ff755dbaf301d25d4fb45ecbc62955b3b36d55ed"
+        "1.4-release": "ef745675b84c99abc6747553e2caf7880d17de8e"
     },
     "core-server-kit": {
         "1.4-release": "99b4a7f84e2a152354033a4772c63ecad9a602f2"
@@ -18,17 +18,17 @@
         "1.4-release": "c727ddbbd872e16f047b26792408a54f5e67528b"
     },
     "dev-kit": {
-        "1.4-release": "ea137231811d45687d290e7710da222c902e87f8"
+        "1.4-release": "6c017ce60862cdd09402655532c799b991711709"
     },
     "editors-kit": {
-        "1.4-release": "c7d175a2bc05857647f39a5f13d6d4b7c65a0bf1"
+        "1.4-release": "e42f0126f7d94631c332a29699f0d9eb753ec9a8"
     },
     "games-kit": {
         "1.4-release": "b028854ee9e2967953a6f25550504fda9b950732"
     },
     "gnome-kit": {
         "3.34-prime": "a9c343fedb05e2b1e3d620d8128c2fae65fa31e3",
-        "3.36-prime": "3de08b510c5c313dae34c3a08cf01871db7c0189"
+        "3.36-prime": "a3a45a32f863de3c48b96ed8970ebe021c03ebf4"
     },
     "haskell-kit": {
         "1.4-release": "560a85c98d1a3a24c0219666b1ff8a7bc6c7eb55"
@@ -61,7 +61,7 @@
         "1.4-release": "74e68cd3bc11902026b5f71da384209d05bc171d"
     },
     "nokit": {
-        "1.4-release": "96c64d9a4b686ea8c6059ca1cdfda10214db002d"
+        "1.4-release": "9134cb69904577dd58f553462064c8708a60408e"
     },
     "perl-kit": {
         "5.32-release": "b4aca0a83329538daa55fcf10540484a3cd4cb48"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "5a96a3db0d6a6b44bb171577d6a713d06491e26e"
+        "1.4-release": "43dad128a57d90de6d42ac8a2a5917b27dfc05c7"
     },
     "qt-kit": {
         "5.15.2-release": "c5b338d12a80c42e7ee594b7d2d1823736fda5e5"
