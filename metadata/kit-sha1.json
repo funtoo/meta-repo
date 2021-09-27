@@ -9,7 +9,7 @@
         "1.4-release": "eb56a21f2df2f5fc9248ba91a9bf55a8b439da7d"
     },
     "core-kit": {
-        "1.4-release": "2c9bb428e4998f7cb1b5f8882ece89650262d4b6"
+        "1.4-release": "b1de76ee681e1bfaa47529e9b563daa7e1351384"
     },
     "core-server-kit": {
         "1.4-release": "99b4a7f84e2a152354033a4772c63ecad9a602f2"
@@ -21,14 +21,14 @@
         "1.4-release": "405007d3bc3298f0f7d034aa667c7454a290740d"
     },
     "editors-kit": {
-        "1.4-release": "bdc8a7669f1aa194e8e27494da9e0576cee3930c"
+        "1.4-release": "220c17bbff2ca8a64ffc6202a01c74b07f2822cd"
     },
     "games-kit": {
         "1.4-release": "b028854ee9e2967953a6f25550504fda9b950732"
     },
     "gnome-kit": {
         "3.34-prime": "a9c343fedb05e2b1e3d620d8128c2fae65fa31e3",
-        "3.36-prime": "0a15dfe4919f2cc827267a130fe4d03cac7cb501"
+        "3.36-prime": "f5e2c7d3c2877912642ca0b7066d936634f3e2fa"
     },
     "haskell-kit": {
         "1.4-release": "560a85c98d1a3a24c0219666b1ff8a7bc6c7eb55"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "a7f94af6140fd38bfeef9c0dd568e53b93665776"
+        "1.4-release": "f771c28cceca319e2aae17f18fa151e7984837eb"
     },
     "qt-kit": {
         "5.15.2-release": "c5b338d12a80c42e7ee594b7d2d1823736fda5e5"
