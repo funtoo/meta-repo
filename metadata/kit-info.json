@@ -202,7 +202,8 @@
         },
         "xfce-kit": {
             "stability": {
-                "4.14-release": "prime"
+                "4.14-release": "prime",
+                "4.16-release": "prime"
             },
             "type": "indy"
         }
@@ -294,7 +295,8 @@
             "next"
         ],
         "xfce-kit": [
-            "4.14-release"
+            "4.14-release",
+            "4.16-release"
         ]
     },
     "release_info": {
