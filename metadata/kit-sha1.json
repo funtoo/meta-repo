@@ -1,18 +1,18 @@
 {
     "browser-kit": {
-        "next": "d29fc999e10ef2a8c433eda04578d2c788a4c315"
+        "next": "bffe538f692fb964c51837cf99597b6636165e14"
     },
     "core-gl-kit": {
         "next": "17d4567ed59e94ba771718ec7f0b37e010622625"
     },
     "core-hw-kit": {
-        "next": "15837e3faa3015c00f079e82e6a68d2ef6a624d7"
+        "next": "3a6d9987a371680996f2e4822d6f345c89868e9b"
     },
     "core-kit": {
-        "next": "7f20ddf0abc490146c5eb4380c2b36cfe43912de"
+        "next": "655de1871731b148e74a515d14e48f65a66dac78"
     },
     "core-server-kit": {
-        "next": "2d55f3f1246eeb04bdc79fcc295d6cae5a8af74b"
+        "next": "0553fae46d3d0b2479fc05693fd0abe594835056"
     },
     "desktop-kit": {
         "next": "7bcabd690e58b5e8592dc845d710dc29dafc17cd"
@@ -21,7 +21,7 @@
         "next": "655ad6a581d147d15d06f76a4a6174475d44832b"
     },
     "editors-kit": {
-        "next": "d8f1adfa60bee7a2072637ee862a7093e5d9996c"
+        "next": "57dd73202b97559bb3bdc7aa23166ae11eb0e4e8"
     },
     "games-kit": {
         "next": "0e4b7ab01a1a61721d1a03f51e84e034bd50f18f"
@@ -52,13 +52,13 @@
         "1.24-prime": "8592050e311cb1bf96a3aebc55920bc5c54690d9"
     },
     "media-kit": {
-        "next": "1c470868a9724a47d1d9652b8a978378064e0ed1"
+        "next": "d462e5ee1f2e79c61c6c52546af465cbb044e4f7"
     },
     "ml-lang-kit": {
         "next": "276cc7b16ad826b4ca4ea355cb06d2afdc83bc71"
     },
     "net-kit": {
-        "next": "77a9db18b3987629b022b99901158a38d0e15425"
+        "next": "b5ec90a256750aeb6ebcc8533567346528b533f0"
     },
     "perl-kit": {
         "next": "2bb2df8993829806642cbab5108839339874a11d"
@@ -67,13 +67,13 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "4497189d8792a5d39a65430d5913f342190e866b"
+        "next": "ca51d538d2ce06c6347e4a3f4c37df01ee4afb69"
     },
     "qt-kit": {
         "5.15.2-release": "45bf17056d979d9049466c929bbf72c2c0a424b9"
     },
     "ruby-kit": {
-        "next": "437fec134407bdaf3384ca4a7d6e233d4dbf0681"
+        "next": "bdae3a9141b2c5ea875636e644e7d88b9aadddbf"
     },
     "science-kit": {
         "next": "ce34389054d037d4fd8eabe6520d74546f7919fb"
