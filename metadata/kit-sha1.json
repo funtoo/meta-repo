@@ -9,19 +9,19 @@
         "next": "7b3fdd7abc6d3407202d0622411c894e0a405d56"
     },
     "core-kit": {
-        "next": "4bb1d78f78984802366726048816196115c0eb2d"
+        "next": "ab5868b8d5a4fe5184301aeb5ca5ee264fb23335"
     },
     "core-server-kit": {
         "next": "96ad9fc39afe084cbba9de859c1b737dc634468f"
     },
     "desktop-kit": {
-        "next": "a05d643b64076387aee6a63cf634ecae585e130f"
+        "next": "dcc24f8954e93124f5f52343bd0c9964e1d648c6"
     },
     "dev-kit": {
-        "next": "6b159c023eb572fe0f3ef039b8941622205b34ca"
+        "next": "1e4d3b3d2640844371282e2b7d4fba6ac90b19c5"
     },
     "editors-kit": {
-        "next": "f08bbff488f895dd59d32cfe3a0a6dcc662f5e33"
+        "next": "04a4ef29adaca562004e8a903aecc78591b6e7e1"
     },
     "games-kit": {
         "next": "2f3fffb9e709e7b84082b90be837fa4efa01c83a"
@@ -40,7 +40,7 @@
         "5.22-release": "0c2d58b81bff88aa434a9039d31b8579435e6248"
     },
     "lang-kit": {
-        "next": "99c275d0b1c614a0a29522741dce1803e5c4a38a"
+        "next": "9c823034de66cc4f9033c40233e2e82d2eb67e48"
     },
     "lisp-scheme-kit": {
         "next": "abc35e53b98afb82a5cf8c1ece996ff8002e6ab9"
@@ -52,13 +52,13 @@
         "1.24-prime": "8592050e311cb1bf96a3aebc55920bc5c54690d9"
     },
     "media-kit": {
-        "next": "a7f596855e9b255c8b547d6e573f2fc529f7629b"
+        "next": "d6d6ed0db57481312276d738158e9faf28906cb9"
     },
     "ml-lang-kit": {
         "next": "276cc7b16ad826b4ca4ea355cb06d2afdc83bc71"
     },
     "net-kit": {
-        "next": "19d608b9a98de8b4508fe314e89c7874b568e004"
+        "next": "656e9ac7c59011ea0922795a0c5ed8d7a9e6d139"
     },
     "perl-kit": {
         "next": "2bb2df8993829806642cbab5108839339874a11d"
@@ -67,7 +67,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "17f5325ecb601f2b48ffe2986850d11fdc3dc00b"
+        "next": "2d880dee24933795c1bf448937ca431f8a04fe72"
     },
     "qt-kit": {
         "5.15.2-release": "1b91ba671b488e11204c8cb660811eb69cdb673c"
@@ -82,7 +82,7 @@
         "next": "e356eaa7e855e0ca6610532ed329d6875179fd9d"
     },
     "text-kit": {
-        "next": "27feda22691e90df0834fa66da7c7dc79b79212d"
+        "next": "fc7834042d63819a423a13edd0d62086efa56702"
     },
     "xfce-kit": {
         "4.14-release": "9fa2542b36458a15c0b788db0057b9a2f1cadbe8",
