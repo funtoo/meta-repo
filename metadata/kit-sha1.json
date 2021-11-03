@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "14fd4c3ab3ab4667cf230c22838a4c9eb1b7f796"
+        "1.4-release": "73f35558b61284a9804058343cb0e2da635d667f"
     },
     "core-gl-kit": {
         "2.0-release": "dc89640c81e153bf9f41f65be067a87e10766676"
@@ -9,16 +9,16 @@
         "1.4-release": "f6559749140b4ba089e32dca9c0b574b7bc78973"
     },
     "core-kit": {
-        "1.4-release": "4b6663cbc7826b3f03e8bdd90158c7b732bd0641"
+        "1.4-release": "a588c350a27af0ec60767519828952406a12393b"
     },
     "core-server-kit": {
         "1.4-release": "b9012e6dd31181c8c9493ebcf8b0c15b3ecd8889"
     },
     "desktop-kit": {
-        "1.4-release": "c009f0035ebfabc955d069195ebebd8a49ab2200"
+        "1.4-release": "80f6e6fcae45588259daf1d3031c83eb1d59f6ba"
     },
     "dev-kit": {
-        "1.4-release": "3d2facc8643183343317e201842a30d79ae4b2c3"
+        "1.4-release": "986be5ec00f3600ed01c770a3f1b01ba1c70ff28"
     },
     "editors-kit": {
         "1.4-release": "874043c18f4a6e4aa1a4d7b14916b3b3af572b98"
@@ -58,7 +58,7 @@
         "1.4-release": "f41130c80ab3e6a17036ab6ae76035368bdea19a"
     },
     "net-kit": {
-        "1.4-release": "b43a0b2b86a2ef3dd4c3f37cae66c7df54ce108a"
+        "1.4-release": "60d191f12bec8aaad002a9bb26b0ba7ee0857843"
     },
     "nokit": {
         "1.4-release": "969154003159dbf7f0759474d554826b27b39f4d"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "89324de80e529e13c223b4b6a6a5a44b75e73b48"
+        "1.4-release": "edecb18d12f472c83f1dcd98ace0f7afd9037177"
     },
     "qt-kit": {
         "5.15.2-release": "1b91ba671b488e11204c8cb660811eb69cdb673c"
@@ -82,7 +82,7 @@
         "1.4-release": "7d6edea5590b2a1ca782e2c709d36845d3c12503"
     },
     "security-kit": {
-        "1.4-release": "638eddf280290949fdcfaf461e5245b4902e7d86"
+        "1.4-release": "374d9bc17cae803801a038a7dd1e6fa22b9898dd"
     },
     "text-kit": {
         "1.4-release": "d923ed94f064e4d0e36c9f5c4401934671a3072e"
