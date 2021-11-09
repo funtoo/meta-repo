@@ -9,16 +9,16 @@
         "next": "d1f87bf0d163561ec994d961fd01a387a148a1b9"
     },
     "core-kit": {
-        "next": "9e5b505afc4707e22b6f9baf1c20ed239edbaeb7"
+        "next": "da0e9a40bbb34060c03c676300b8886f0b96e402"
     },
     "core-server-kit": {
         "next": "7b3435925f9fd62aca7fa220f096a377832dc2e1"
     },
     "desktop-kit": {
-        "next": "c00de1682d8c09bb28893fc244e57d54afc66682"
+        "next": "5102ff751eedf5535712c8e89675b47dc06951bb"
     },
     "dev-kit": {
-        "next": "e8405c44ccd711ba4b402c705abc876453145f37"
+        "next": "d1f953ff66d2519fd3a37e50c0c30352e0d3778e"
     },
     "editors-kit": {
         "next": "41a04585222f935fd7e347e51634bd5af4bd354e"
@@ -27,8 +27,8 @@
         "next": "d40245a4dc4c9e44264db67b0f8ba3092362d005"
     },
     "gnome-kit": {
-        "3.34-prime": "a9c343fedb05e2b1e3d620d8128c2fae65fa31e3",
-        "3.36-prime": "c0a7789efeecb85a7a6d155d9c17d202f1444a12"
+        "3.34-prime": "8c5db5578c24fdb1aa85a4b0c940808b5c0333be",
+        "3.36-prime": "63b95d4ba5833554c146a7c50a1814b31cbf6856"
     },
     "haskell-kit": {
         "next": "0b7b15dac520d3a2b3df89df346f83f57cc2d34d"
@@ -52,13 +52,13 @@
         "1.24-prime": "8592050e311cb1bf96a3aebc55920bc5c54690d9"
     },
     "media-kit": {
-        "next": "132bd1cec4b28cc9ddda33e161ece50329666349"
+        "next": "795f46b2f5350836c56240f7ba80e9cedd3e735a"
     },
     "ml-lang-kit": {
         "next": "276cc7b16ad826b4ca4ea355cb06d2afdc83bc71"
     },
     "net-kit": {
-        "next": "cd37ceb7b5e84553304caa270839aa17b07d0960"
+        "next": "ca61c896cdb0ad9ffee97c1b5971c4ffd42da079"
     },
     "perl-kit": {
         "next": "2bb2df8993829806642cbab5108839339874a11d"
@@ -67,7 +67,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "8bda5da5db7e967c113265a438f327dd3f0ec1b7"
+        "next": "37e81b77b1b7c8a72cd07727d363b715cdd80799"
     },
     "qt-kit": {
         "5.15.2-release": "48e140aabcc2d51c0fee7e12521f40d237f09dc1"
