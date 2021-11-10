@@ -1,15 +1,15 @@
 {
     "browser-kit": {
-        "next": "491dfc7612c4b150661ddfd8db35fe5eee80c185"
+        "next": "a343657bfdf589b2066f12813b1e1097b88f5be6"
     },
     "core-gl-kit": {
-        "next": "63be9a15098bf833181250a0c363d1af1fcdf728"
+        "next": "7182e327e0ee50350dfd1e676cfe043046938af7"
     },
     "core-hw-kit": {
         "next": "d1f87bf0d163561ec994d961fd01a387a148a1b9"
     },
     "core-kit": {
-        "next": "3728c96b988083b1ecb04a47ba3fdc290cc28c72"
+        "next": "7c05168d04f1fae5401a485afc82de7ae95943de"
     },
     "core-server-kit": {
         "next": "d8e46730171d51201c53e06b929026945e2cc7d3"
@@ -18,10 +18,10 @@
         "next": "6e16de9ebabb50eab63fe8537b0da8d798d9dc12"
     },
     "dev-kit": {
-        "next": "6e0678017283925eb84d6bc49863ad64fb56051a"
+        "next": "df605150315adb09504ef49606680fe03002e513"
     },
     "editors-kit": {
-        "next": "9472d2bc34b5c3b955904a7e574f1dea374d4129"
+        "next": "d4e9d03089dd2d88e0508c13a4da9b91dafb5492"
     },
     "games-kit": {
         "next": "d40245a4dc4c9e44264db67b0f8ba3092362d005"
@@ -52,7 +52,7 @@
         "1.24-prime": "8592050e311cb1bf96a3aebc55920bc5c54690d9"
     },
     "media-kit": {
-        "next": "795f46b2f5350836c56240f7ba80e9cedd3e735a"
+        "next": "35521a0f0efee51b2f7d7f8cc9d67e8e68bb0394"
     },
     "ml-lang-kit": {
         "next": "276cc7b16ad826b4ca4ea355cb06d2afdc83bc71"
@@ -67,7 +67,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "7dd61f283fd3df42b7fb350747a699b125ea32d6"
+        "next": "b7912a55014a859764f289388a64b907b78878bc"
     },
     "qt-kit": {
         "5.15.2-release": "e0709bfd5c2a6ba3634c4f7367db1453041bc100"
@@ -79,7 +79,7 @@
         "next": "35dc08e4d67bf9c67347f8d093a7d40c5f5d1ba3"
     },
     "security-kit": {
-        "next": "3cd6a41bdc3b1d9c34ca8d60d9e44a5fa922e87d"
+        "next": "aed3bb6ec0a6f6e8824f6570b6ac678f989e1cce"
     },
     "text-kit": {
         "next": "6cbd4699a15bfb404e8974642ef144b25ad0c584"
