@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "1.4-release": "4f7c4b744a6ad9056f9ac1f8bbaf147afe43e718"
+        "1.4-release": "f957d6413c61088a8c8a091b9e679507591e76c2"
     },
     "core-gl-kit": {
-        "2.0-release": "b5086a328dae39e388d9b239011b2de7b413123c"
+        "2.0-release": "46d4658348fab93a99afb404bd9c3cd58dba8a24"
     },
     "core-hw-kit": {
         "1.4-release": "0cdb76f7765e4abf79bde3d7769c4d159225b6e0"
@@ -18,7 +18,7 @@
         "1.4-release": "92e3729211e1ba8a8f74c7b1abe3c1e64bb49d7e"
     },
     "dev-kit": {
-        "1.4-release": "f8fa02ff455999ebd5dfdcce38d3eae5f56471c8"
+        "1.4-release": "cf2ef1fb9152254aa42052ea637edf646bd729df"
     },
     "editors-kit": {
         "1.4-release": "b527253595d621dbd239a5af2662351e89823faa"
@@ -28,7 +28,7 @@
     },
     "gnome-kit": {
         "3.34-prime": "8c5db5578c24fdb1aa85a4b0c940808b5c0333be",
-        "3.36-prime": "63b95d4ba5833554c146a7c50a1814b31cbf6856"
+        "3.36-prime": "aaf75fecfabe49a31973403b3e9f0f780ed9ba8c"
     },
     "haskell-kit": {
         "1.4-release": "560a85c98d1a3a24c0219666b1ff8a7bc6c7eb55"
@@ -52,13 +52,13 @@
         "1.24-prime": "8592050e311cb1bf96a3aebc55920bc5c54690d9"
     },
     "media-kit": {
-        "1.4-release": "33283dd3ee16629cb8ac88f03206dd5bb844cddf"
+        "1.4-release": "6795aa300845af397c86f743d5accd3ec36efda4"
     },
     "ml-lang-kit": {
         "1.4-release": "f41130c80ab3e6a17036ab6ae76035368bdea19a"
     },
     "net-kit": {
-        "1.4-release": "76b64bfa7c09143db9f25930d3d25676740f942a"
+        "1.4-release": "5f8d278518a72fa6df74da51b53d09457af903b1"
     },
     "nokit": {
         "1.4-release": "e6df934e980920beeb43a42668024f7346698f25"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "f80a799c823a9257a594e51bdfa5505fcd19192d"
+        "1.4-release": "72fe38be4d879fe4b2ba1a79e3e1246f5d1ecd4b"
     },
     "qt-kit": {
         "5.15.2-release": "62bc34b6edf0eda7b56b097d29853b23cf38f418"
