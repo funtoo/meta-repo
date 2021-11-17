@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "9879c6d8b966dc4b0399322616d704519fd8fafa"
+        "1.4-release": "fed76ab102da37dd85556158576ff74eb6e92984"
     },
     "core-gl-kit": {
         "2.0-release": "62125ffd9f56ca40927e38c18b33d6aa96d66a37"
@@ -9,10 +9,10 @@
         "1.4-release": "80841972d0a2a2c83e1bb552afd3025e567a60df"
     },
     "core-kit": {
-        "1.4-release": "66c9433bc9b78e2183d863ff15b5a34fb3d59a33"
+        "1.4-release": "475ca8ef41e5aa4df895e362a93cc7ddd4b86db9"
     },
     "core-server-kit": {
-        "1.4-release": "450a1183ff44d3a30756843c91ba99f42401c4a6"
+        "1.4-release": "9b99ee10783d9b36b7ace7ed052e8d39aaba39fe"
     },
     "desktop-kit": {
         "1.4-release": "478e48c55874ac8778e50fbdfd9350c001ba4e05"
@@ -21,7 +21,7 @@
         "1.4-release": "c93892c6f124b323abce0bb685629d8585e264eb"
     },
     "editors-kit": {
-        "1.4-release": "b7c7953b4cd6e186c7959d1df5167b9a51424810"
+        "1.4-release": "8d945ab4ca12b4f150aa45ed03e4beb9f473ef37"
     },
     "games-kit": {
         "1.4-release": "b6dfe418dd3bb50af5c7dbc6a4a847588fc41ed4"
@@ -52,13 +52,13 @@
         "1.24-prime": "8592050e311cb1bf96a3aebc55920bc5c54690d9"
     },
     "media-kit": {
-        "1.4-release": "9a9f19a73c313c0c2fb8244dadbc5142bcb4a50c"
+        "1.4-release": "9aa59c7aeccc70ca4cd1f81447a70684a0de4cfb"
     },
     "ml-lang-kit": {
         "1.4-release": "f41130c80ab3e6a17036ab6ae76035368bdea19a"
     },
     "net-kit": {
-        "1.4-release": "88a0b910c2adefbbd1ae765a22fc0d1197929300"
+        "1.4-release": "4d223f9f246d0304164e5965eb4f0926d32d3787"
     },
     "nokit": {
         "1.4-release": "e6df934e980920beeb43a42668024f7346698f25"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "003834c0072d6703fbf3a061f654db91c69c49b1"
+        "1.4-release": "60b38baea7c1e27041b032029e07626f37dcbbb1"
     },
     "qt-kit": {
         "5.15.2-release": "62bc34b6edf0eda7b56b097d29853b23cf38f418"
