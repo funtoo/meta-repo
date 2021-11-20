@@ -1,15 +1,15 @@
 {
     "browser-kit": {
-        "next": "89c3e0f726b0958e3299794757cf22f01261a9e1"
+        "next": "224ccabedc09fc3fafca5d0b6309da783d367189"
     },
     "core-gl-kit": {
-        "next": "5b7c1bf8b32d345b698d1d24b690b6d77f0138d4"
+        "next": "ff5a5ba06f73dd249970fb065a9a10a22cccd656"
     },
     "core-hw-kit": {
         "next": "53b40656858d4cd20bec5060405a9b1c6e10df09"
     },
     "core-kit": {
-        "next": "898f33c30616db653e3eea1b6988273708395202"
+        "next": "35e9ae92ec4cf0f71ee71644c13c3f8674a740c4"
     },
     "core-server-kit": {
         "next": "6c81cc153ba556e7a8567d092d2589953f6c1db8"
@@ -18,10 +18,10 @@
         "next": "356dcf28793236f8fd86cbb3d787b5b0f0faa3b9"
     },
     "dev-kit": {
-        "next": "6e43b1c9e0992c8743ebddc7584fb1d428384f5e"
+        "next": "d31488afb0ddca1ecd8080a884f1aa403be58b44"
     },
     "editors-kit": {
-        "next": "a1e412fd7aaba757528e431d48a83c641049da9c"
+        "next": "f8f63deae8d7d30aa86cb8e02058df1e8994fb0e"
     },
     "games-kit": {
         "next": "7935a2768367f51b26a30cc8613d2ba5e3d63ea1"
@@ -52,7 +52,7 @@
         "1.24-prime": "8592050e311cb1bf96a3aebc55920bc5c54690d9"
     },
     "media-kit": {
-        "next": "6da7160a970bc8e473fe1b6e3729eaa51f00c709"
+        "next": "338d28f9053019162d45decfdcefb3e26aedc3a0"
     },
     "ml-lang-kit": {
         "next": "276cc7b16ad826b4ca4ea355cb06d2afdc83bc71"
@@ -67,7 +67,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "next": "524e9ac911b11599ae745f9c4ca37a76a4feec47"
+        "next": "9eb248131a70e941a958c0e70f5954618cf6897f"
     },
     "qt-kit": {
         "5.15.2-release": "62bc34b6edf0eda7b56b097d29853b23cf38f418"
@@ -76,7 +76,7 @@
         "next": "2f04c7046f090760b01ad34e04b50c653ebb1357"
     },
     "science-kit": {
-        "next": "35dc08e4d67bf9c67347f8d093a7d40c5f5d1ba3"
+        "next": "e645d258474b494459a7b118a1f0844a2e763f07"
     },
     "security-kit": {
         "next": "40c20e49779f5410d61385e03edb2243773a653d"
