@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "e0127272460f6bb81944d547e722ebcfe3fa4697"
+        "1.4-release": "34ea3c87c87820959346bfc417924fdb5ede4140"
     },
     "core-gl-kit": {
         "2.0-release": "8f49a46ec1e65ef2a7f2e21118bb2c6b8d2ae011"
@@ -12,16 +12,16 @@
         "1.4-release": "f2a2697826868847c719e24914dbd87c3e95a7ee"
     },
     "core-server-kit": {
-        "1.4-release": "5b5ddbf9849be309ddb40b6efad75a81c8a5e396"
+        "1.4-release": "51c77b338ee24cf78a093a0bfdb4b236bbfa169e"
     },
     "desktop-kit": {
-        "1.4-release": "8b78093c734ef9a7474d43039c2573c2cc7c6155"
+        "1.4-release": "0fdf0b000a5dcecf8bb02a1982536f658fdef17f"
     },
     "dev-kit": {
-        "1.4-release": "1faa252d36d8f89f62137197c9332c86ec610dbd"
+        "1.4-release": "b385d4dce70d9c6d096274df309aee1a567a437d"
     },
     "editors-kit": {
-        "1.4-release": "9cda04e9bdf2bf6a9635e930aadf6764365e388c"
+        "1.4-release": "523df55aee6e7c2d195c0ed3f7096e72ddba10b9"
     },
     "games-kit": {
         "1.4-release": "07eaa78c251b6d2c6859c4f9e39032a932a01d4f"
@@ -52,13 +52,13 @@
         "1.24-prime": "8592050e311cb1bf96a3aebc55920bc5c54690d9"
     },
     "media-kit": {
-        "1.4-release": "9c106ad4e2f1e73f1467d95680b9e0f28eeffaf2"
+        "1.4-release": "afec215e0c610770cb227243c388d1bc37e99be6"
     },
     "ml-lang-kit": {
         "1.4-release": "f41130c80ab3e6a17036ab6ae76035368bdea19a"
     },
     "net-kit": {
-        "1.4-release": "75f6cd12c5197a2d3585dbb116734c7c7a9ef703"
+        "1.4-release": "3426f86f30fff4c441047f4ec3d42c3a4f3e2810"
     },
     "nokit": {
         "1.4-release": "3f2831ac9f882409140ef51e3de0a83660c1104e"
@@ -70,7 +70,7 @@
         "3.7-release": "baa08b0f580b08e1103851850d5cabe1e9442423"
     },
     "python-modules-kit": {
-        "1.4-release": "9e53c76fbf44985c9846655715e2d6a12b1c45e4"
+        "1.4-release": "211e6c596355e665025bf6e2ede4a147ea785136"
     },
     "qt-kit": {
         "5.15.2-release": "62bc34b6edf0eda7b56b097d29853b23cf38f418"
