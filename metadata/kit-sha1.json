@@ -1,27 +1,27 @@
 {
     "browser-kit": {
-        "1.4-release": "188b6318b560a0aab70cd57c45fbdd0ff61dc2e8"
+        "1.4-release": "81c467646f4f7dd59a2c438ba9bcd8831f841cb4"
     },
     "core-gl-kit": {
-        "2.0-release": "dc61d50088c29131f3bad51c35fac2f193f53cfe"
+        "2.0-release": "fdc161b6f7e37bb70c2f61ccda03d577eb603eb1"
     },
     "core-hw-kit": {
-        "1.4-release": "11d22549569af7a6938284daab51ef1cdac7007a"
+        "1.4-release": "f6d320427b6e94317fa2ad8f6c368e2ff1cf950d"
     },
     "core-kit": {
-        "1.4-release": "c1b59c21c35c2adcc471e96fcb00d82178eb3bca"
+        "1.4-release": "d549467354f92dc9393605c21506146b63a26f20"
     },
     "core-server-kit": {
-        "1.4-release": "d45c8954934416c3d9798e93ffc07aba3f498810"
+        "1.4-release": "11dbb6cdb6c4eb41328bf38a8b9bc9ac83a2fc7d"
     },
     "desktop-kit": {
-        "1.4-release": "42cc0cc4b258dc6bfd5839ccc2d6031b222aae99"
+        "1.4-release": "a60af0a4bccabe528d4518b6d99bbe19581af5a3"
     },
     "dev-kit": {
-        "1.4-release": "1ed3331210733f04c96ef1a56754df2e8bd4e4ec"
+        "1.4-release": "3d3bbfd13260bef6a6ff4e8350943d06bf7c046f"
     },
     "editors-kit": {
-        "1.4-release": "5377acd905930954e36b5afc866c3376853e5ae8"
+        "1.4-release": "bc9c050b0e523d342458ee5aa8442489b9c64ef0"
     },
     "games-kit": {
         "1.4-release": "7964f4e9cb763a44a56ac6aa625da5d430adb366"
@@ -52,13 +52,13 @@
         "1.24-prime": "4a2b4afe68087f4143e75eddc24b429e750f0dd9"
     },
     "media-kit": {
-        "1.4-release": "7accdbf96a493538134b3ef12e7382512fdde9e9"
+        "1.4-release": "dc36c6770564d2da1a33a24f7f51e25e5c2f764c"
     },
     "ml-lang-kit": {
         "1.4-release": "db1c6f4374b390f9fd403967af59cc62e5c8332f"
     },
     "net-kit": {
-        "1.4-release": "8a6adae05ef3dfbf6b95b450ecaf1f3ff8469ccd"
+        "1.4-release": "29df996341113d786ff1f712221e413d014a58fa"
     },
     "nokit": {
         "1.4-release": "45bda248eec7007fbef73a897ee37f68fe64114a"
@@ -70,7 +70,7 @@
         "3.7-release": "bf36eeae78942a52ecbfa276ed047832f2528bc4"
     },
     "python-modules-kit": {
-        "1.4-release": "3bb7f20f9852243431d076a889023229fa888038"
+        "1.4-release": "2d388818dc74fcc31e0107a06b81f99579b49ea2"
     },
     "qt-kit": {
         "5.15.2-release": "7470a1a8b99d81cb4acf4c4cab2c7eb6b3da5244"
