@@ -9,7 +9,7 @@
         "next": "01e1b626af3e42c61db530c5409d5b326b3dd9ee"
     },
     "core-kit": {
-        "next": "48375e659521a29ad237f43b06a38f06c39283d4"
+        "next": "2071b949741cd8f2228797b224876f3f16a523f8"
     },
     "core-server-kit": {
         "next": "d270985cdeb7edc55644ad79c5382269d2924e54"
@@ -18,7 +18,7 @@
         "next": "42af6d56b0cb8d887ca6f5199b08d75228a9056c"
     },
     "dev-kit": {
-        "next": "54300d9f2f8f85006597f686dcb5f13dbc1f1566"
+        "next": "ba0529478e9a5746c450f10dece88b4d6c2be5e1"
     },
     "editors-kit": {
         "next": "9d8b9f0cdeac2b0bbbfbb731db0d562215052af9"
@@ -27,8 +27,8 @@
         "next": "a488240e0a9fd4890d005002ad555bd07b011d2e"
     },
     "gnome-kit": {
-        "3.34-prime": "fecc2b60c486a1786944e09d7fb174b123c8de68",
-        "3.36-prime": "383ea6c4935d3602a3b66127033891fc025f6dc0"
+        "3.34-prime": "00a0e0e8fdf0bf96bd29066c735f09f181014ecd",
+        "3.36-prime": "fb2c013b809383b72804ddc2ebb944f8318e2d5c"
     },
     "haskell-kit": {
         "next": "df607d24db1d2f4ed5091319cbdb4e0d646c3574"
@@ -52,13 +52,13 @@
         "1.24-prime": "f4aca1f762c02d2d641f7f6732a531ea15e8f34b"
     },
     "media-kit": {
-        "next": "ac3d61c496cbbd33960d3a107db044280745f891"
+        "next": "10c40a32c09f689b6d57d646dd1cc60fc0aad04b"
     },
     "ml-lang-kit": {
         "next": "cff4f1209e5e39a0f3c17ee07e860d8386376306"
     },
     "net-kit": {
-        "next": "242c679a492a2c3073b9feeeab881263bc582259"
+        "next": "35c19476dd4dd93f647f9cb4f65bcebfe46a4e16"
     },
     "perl-kit": {
         "next": "21ae201d2fc317ac52663d99534ec2e4aa24f7de"
@@ -67,10 +67,10 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "next": "39905250a829c48d52ca4097b40277ecc7831dea"
+        "next": "e2f1b8d1181bf3a03e3e93478672f5e74e80fa38"
     },
     "qt-kit": {
-        "5.15.2-release": "594eb463efe4ff97fbe5de947fb8810f17ae0e03"
+        "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
     },
     "ruby-kit": {
         "next": "e193f854072918423e660ec8e4a5be490e3b4920"
