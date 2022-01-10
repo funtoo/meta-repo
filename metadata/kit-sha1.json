@@ -1,15 +1,15 @@
 {
     "browser-kit": {
-        "next": "53e016acfe6a7489b80e903399d6efc4ca73efce"
+        "next": "e2f4523cfa8db46286d28c1c6c12e5bd9fd7e909"
     },
     "core-gl-kit": {
         "next": "7a691e0694f566f6ab12c7900e54957f79d7f865"
     },
     "core-hw-kit": {
-        "next": "ecface106fd302f7e899466ed10aedca60f4df89"
+        "next": "a4ab5fc79e2d7e5cdd30c78a3276adea59a5ed07"
     },
     "core-kit": {
-        "next": "2f841af0d8e546557aee8dfa26c06b14fdb2beb9"
+        "next": "7b8594c4fbee43e6abcf1d459244189ae1a468d5"
     },
     "core-server-kit": {
         "next": "ba3bb8f527be3d7911cb00e5677e589693ce186e"
@@ -18,10 +18,10 @@
         "next": "8e967b1a5fd2e77664d37bfe9fedbef38c72388a"
     },
     "dev-kit": {
-        "next": "91fa81a05f2f929e539dc1b17c0918e880726d74"
+        "next": "b05b0090609a1b1a9302709c56abeb118c6137fb"
     },
     "editors-kit": {
-        "next": "1e66f0fd6360da8794724dd44f86b5fb0a8e7b52"
+        "next": "603c22abf4d89cdeb652eabecf44d19da2a2f953"
     },
     "games-kit": {
         "next": "16922e32c7a02911d60a2176513e3e295e928aa7"
@@ -37,7 +37,7 @@
         "next": "86bdaa227a0babfecaa6bcd059d84be23568a688"
     },
     "kde-kit": {
-        "5.22-release": "a7ecb17da23b13dc23c5321b2f79b8b662358647"
+        "5.22-release": "3132afc79fd84bcf78838fa27ec8167888b0d99e"
     },
     "lang-kit": {
         "next": "8bc077f459d77fb32ebb9e631889aa7f54ae8f3a"
@@ -52,7 +52,7 @@
         "1.24-prime": "f4aca1f762c02d2d641f7f6732a531ea15e8f34b"
     },
     "media-kit": {
-        "next": "7d08f03e99079c42a73e432f365d94af18afabf3"
+        "next": "32dab6de86f5f90e3989b627348531efdab0f131"
     },
     "ml-lang-kit": {
         "next": "cff4f1209e5e39a0f3c17ee07e860d8386376306"
@@ -67,7 +67,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "next": "a21f36112390c2b417d67f3bb98fb05df95ad652"
+        "next": "1bdb6977a4d841abce5ed7ca9e6b626322ba2222"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
