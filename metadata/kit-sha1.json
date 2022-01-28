@@ -1,15 +1,15 @@
 {
     "browser-kit": {
-        "1.4-release": "267517cba0536bcb0c4b49d8f8915c41e5fbe1a6"
+        "1.4-release": "f4befd89f0f650f0033e48f8bdc4abf54ebe38a7"
     },
     "core-gl-kit": {
-        "2.0-release": "778537d0c1014b57114bf30889d17c5eac47d705"
+        "2.0-release": "73b26de984875082d6fc4b71cb7cd4a428ce8b95"
     },
     "core-hw-kit": {
         "1.4-release": "2202adb605290a99a37c9f3ff7cfc0d8c3d00d87"
     },
     "core-kit": {
-        "1.4-release": "7082044b43e47cdce6f2588c6ac3bffb7fd7a37c"
+        "1.4-release": "d68966af4ac9b7ddb9d7f875b610bdf701eb3364"
     },
     "core-server-kit": {
         "1.4-release": "04ae924254926021cfedab2e5c7d6b9338cf90c3"
@@ -18,7 +18,7 @@
         "1.4-release": "3d0898e161145686e20eb9821638f39e25297a13"
     },
     "dev-kit": {
-        "1.4-release": "3bfcf97373d126a5a892acc9a553934ea7fed0c4"
+        "1.4-release": "350c0d10e8b7be601aca3b340c4869e17760420d"
     },
     "editors-kit": {
         "1.4-release": "b6995065398fdb8734175ac8ec83566998f68805"
@@ -40,7 +40,7 @@
         "5.22-release": "be0339ad6632acd58fb3a6596ee6ca8f76167868"
     },
     "lang-kit": {
-        "1.4-release": "a8153ae2fa69027fb733a8416e680ba447de4f55"
+        "1.4-release": "71e8bc72c88df6ac455675e9c8bc82be2e23a92d"
     },
     "lisp-scheme-kit": {
         "1.4-release": "37e052fb34979bce90d85a2b5f9065c61347458d"
@@ -70,7 +70,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "c196448b3c79a7e46a859be23ebc56af9e6a6683"
+        "1.4-release": "c7d7ffbe0d53bda445883268c679444926dd7666"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
@@ -85,7 +85,7 @@
         "1.4-release": "ba43829896a7d117991a2583ec080cd9c2f72544"
     },
     "text-kit": {
-        "1.4-release": "81cf3ad44d551a19890ad4cb4416acaafcb4e21b"
+        "1.4-release": "a12e4366894fda36d549bd76544e9f38ee35a3a7"
     },
     "xfce-kit": {
         "4.14-release": "dabe0d935969a843254b457d2e7f519fc15a9a0a",
