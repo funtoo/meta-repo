@@ -88,10 +88,9 @@
         },
         "gnome-kit": {
             "stability": {
-                "3.34-prime": "prime",
                 "3.36-prime": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "haskell-kit": {
             "stability": {
@@ -109,7 +108,7 @@
             "stability": {
                 "5.22-release": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "lang-kit": {
             "stability": {
@@ -133,7 +132,7 @@
             "stability": {
                 "1.24-prime": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "media-kit": {
             "stability": {
@@ -169,7 +168,7 @@
             "stability": {
                 "3.7-release": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "python-modules-kit": {
             "stability": {
@@ -181,7 +180,7 @@
             "stability": {
                 "5.15.2-release": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "ruby-kit": {
             "stability": {
@@ -209,10 +208,9 @@
         },
         "xfce-kit": {
             "stability": {
-                "4.14-release": "prime",
                 "4.16-release": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         }
     },
     "release_defs": {
@@ -244,8 +242,7 @@
             "1.4-release"
         ],
         "gnome-kit": [
-            "3.36-prime",
-            "3.34-prime"
+            "3.36-prime"
         ],
         "haskell-kit": [
             "1.4-release"
@@ -305,8 +302,7 @@
             "1.4-release"
         ],
         "xfce-kit": [
-            "4.16-release",
-            "4.14-release"
+            "4.16-release"
         ]
     },
     "release_info": {
