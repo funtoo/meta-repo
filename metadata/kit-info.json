@@ -87,10 +87,9 @@
         },
         "gnome-kit": {
             "stability": {
-                "3.34-prime": "prime",
-                "3.36-prime": "prime"
+                "next-3.36-prime": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "haskell-kit": {
             "stability": {
@@ -106,9 +105,9 @@
         },
         "kde-kit": {
             "stability": {
-                "5.22-release": "prime"
+                "next-5.22-release": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "lang-kit": {
             "stability": {
@@ -130,9 +129,9 @@
         },
         "mate-kit": {
             "stability": {
-                "1.24-prime": "prime"
+                "next-1.24-prime": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "media-kit": {
             "stability": {
@@ -160,9 +159,9 @@
         },
         "python-kit": {
             "stability": {
-                "3.7-release": "prime"
+                "next-3.7-release": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "python-modules-kit": {
             "stability": {
@@ -172,9 +171,9 @@
         },
         "qt-kit": {
             "stability": {
-                "5.15.2-release": "prime"
+                "next-5.15.2-release": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         },
         "ruby-kit": {
             "stability": {
@@ -202,10 +201,9 @@
         },
         "xfce-kit": {
             "stability": {
-                "4.14-release": "prime",
-                "4.16-release": "prime"
+                "next-4.16-release": "prime"
             },
-            "type": "indy"
+            "type": "auto"
         }
     },
     "release_defs": {
@@ -237,8 +235,7 @@
             "next"
         ],
         "gnome-kit": [
-            "3.36-prime",
-            "3.34-prime"
+            "next-3.36-prime"
         ],
         "haskell-kit": [
             "next"
@@ -247,7 +244,7 @@
             "next"
         ],
         "kde-kit": [
-            "5.22-release"
+            "next-5.22-release"
         ],
         "lang-kit": [
             "next"
@@ -259,7 +256,7 @@
             "next"
         ],
         "mate-kit": [
-            "1.24-prime"
+            "next-1.24-prime"
         ],
         "media-kit": [
             "next"
@@ -274,13 +271,13 @@
             "next"
         ],
         "python-kit": [
-            "3.7-release"
+            "next-3.7-release"
         ],
         "python-modules-kit": [
             "next"
         ],
         "qt-kit": [
-            "5.15.2-release"
+            "next-5.15.2-release"
         ],
         "ruby-kit": [
             "next"
@@ -295,8 +292,7 @@
             "next"
         ],
         "xfce-kit": [
-            "4.16-release",
-            "4.14-release"
+            "next-4.16-release"
         ]
     },
     "release_info": {
