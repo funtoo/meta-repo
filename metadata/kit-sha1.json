@@ -1,27 +1,27 @@
 {
     "browser-kit": {
-        "1.4-release": "87f62fe6f5ca16e601d6f297059599e66994cf1a"
+        "1.4-release": "b8cb8b9f990e8266295c1e52b46480ba18c6618c"
     },
     "core-gl-kit": {
         "2.0-release": "0aaaca2241f34d6460f92f19accc7863380b34ec"
     },
     "core-hw-kit": {
-        "1.4-release": "b8eb8a1a62d27716edb59e92b7922c9ef5790144"
+        "1.4-release": "a019362a4932be92ac9e5251d0522ebe28460017"
     },
     "core-kit": {
-        "1.4-release": "15a777e266e1b3bcc656ca8081258fa06ee39c3f"
+        "1.4-release": "a9db01299dc94e0902d95fdf9175d089095bde80"
     },
     "core-server-kit": {
-        "1.4-release": "04ae924254926021cfedab2e5c7d6b9338cf90c3"
+        "1.4-release": "5318f08d37f7f4bd6dceb59d02aa28a20f3be986"
     },
     "desktop-kit": {
         "1.4-release": "5dff1d49a06a88c222113f99342e76d2e1dce8a8"
     },
     "dev-kit": {
-        "1.4-release": "44f0666aaf760fb88c7454bbc9b733f89e9af3f0"
+        "1.4-release": "d2bd229a04339a46c939a8740241ee1d41767bf9"
     },
     "editors-kit": {
-        "1.4-release": "879fc5c6e8cd28019e632d2a34e051edcc705cc1"
+        "1.4-release": "4db556044fd9e25c74989c6fe26df99e836fc20b"
     },
     "games-kit": {
         "1.4-release": "de4069e3e4341c1b9206c8a36519304df0388340"
@@ -51,7 +51,7 @@
         "1.24-prime": "858f50c73a22b711dcdfab0829acfd8620d0178c"
     },
     "media-kit": {
-        "1.4-release": "96f8f62d5866da27ecf4ff9c145dd62bb1c910ca"
+        "1.4-release": "78c029843086f486dc9dd2ed552f1cbccc4f453a"
     },
     "ml-lang-kit": {
         "1.4-release": "20328dd7979262d6ab9d805a1f80f011fad92f00"
@@ -69,7 +69,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "2265b47ec7d434b515e26ea11feaa83952ec252e"
+        "1.4-release": "68c2ea498fc25f4ddb9bfae4be6a0e9ce740417a"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
