@@ -6,16 +6,16 @@
         "next": "03eec85f7cbb5dc36a4fc28dda86b8452b557b54"
     },
     "core-hw-kit": {
-        "next": "03a7824d8df986c652c546d46d81743fb10a5f79"
+        "next": "f3f3b9127673badbefa3e127d77d0fcef1a9cd9c"
     },
     "core-kit": {
-        "next": "7ee174a993e9fa94bc9e5283a44bc4d38b86b51a"
+        "next": "13251393273ecbbbe3cdd70220cc424ad1240a8d"
     },
     "core-server-kit": {
         "next": "4e4f077fa3e0b8b897c93b27d7a95da68d23e38d"
     },
     "desktop-kit": {
-        "next": "69d085093c5f48f02267bbeb947e5becd81d481a"
+        "next": "ab8b91663da230e8b2c15722565acdaa1788fb1a"
     },
     "dev-kit": {
         "next": "98c8bbf8a5257283c3739f89d01f8dbef66d7ccd"
@@ -36,7 +36,7 @@
         "next": "c2cffa8e3ebf720396a872785ad81eccf307ce6d"
     },
     "kde-kit": {
-        "next-5.22-release": "5df36aa6eddee6e10541e5158476ede96aab09a4"
+        "5.23-testing": "6deca743c50ae2406d7e5a6ab87d29bcbd69f048"
     },
     "lang-kit": {
         "next": "95f0526628c5ef9a145ef2e8cf2dda01ee274227"
@@ -66,7 +66,7 @@
         "next-3.7-release": "0bf6fe2678168979f5d165e20734e945ad3f1a25"
     },
     "python-modules-kit": {
-        "next": "c148e16aaf2a5ee7d4f4eb9d101eb6484f55350e"
+        "next": "1f8aebb846cca2893e4803c9931917f9d52c2301"
     },
     "qt-kit": {
         "next-5.15.2-release": "f76c1c7a46efd305b74ab5a698c0c18e47cf67cf"
