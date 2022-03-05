@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "fad601dbe574541cc9c2c87b116230720b7d9286"
+        "1.4-release": "b7cc1c67c3bc322f028a28c60662d596e069c6f7"
     },
     "core-gl-kit": {
         "2.0-release": "2864946e1a5169b38e1ce660e9705036e8ee4259"
@@ -9,7 +9,7 @@
         "1.4-release": "ec6840ab4e8f7ada113f02a0a9c3108782fba13c"
     },
     "core-kit": {
-        "1.4-release": "3f2631ead96483eb3b381117d4f175a333161ba3"
+        "1.4-release": "033aa5f2489c257c687d8e74d0d8b5d129ea8320"
     },
     "core-server-kit": {
         "1.4-release": "9f81059929dc052c28b31efadea2df0cb09ddd72"
@@ -18,16 +18,16 @@
         "1.4-release": "007e0fcce7da609b74c124710b6212206f923def"
     },
     "dev-kit": {
-        "1.4-release": "048ecfdd25260b50a0e06a916fb20c471da8bca7"
+        "1.4-release": "6c500edd63dee69a2327f20c68526a8e6d852fa6"
     },
     "editors-kit": {
         "1.4-release": "1c74b9b9ac3ad3bf67ee965f9841dcfb06a80cb7"
     },
     "games-kit": {
-        "1.4-release": "f4d8feed837f841f263382aabc59eca074164beb"
+        "1.4-release": "3f0317268ab2a5ed35f9631eaaf5af9e34ac7be5"
     },
     "gnome-kit": {
-        "3.36-prime": "2417d922e1cb03262c4b026856eda754630d3f35"
+        "3.36-prime": "f9d5bc7ae28ed9a1dbf1027e9d10eb8e971e4279"
     },
     "haskell-kit": {
         "1.4-release": "fe24f4313cd3d683bbabb7bf4601598c4f0827c2"
@@ -57,7 +57,7 @@
         "1.4-release": "20328dd7979262d6ab9d805a1f80f011fad92f00"
     },
     "net-kit": {
-        "1.4-release": "e391e396c2476f9a3b138f3b3940255f3f3a813b"
+        "1.4-release": "533af94bc60aac3d7acac182ba5dc042edb2e75b"
     },
     "nokit": {
         "1.4-release": "89562f6f49b9e587732cf1ef5eda07ed9b90b04a"
@@ -69,7 +69,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "9cd81a7d2e1ab2cf968a1769ef793998211d9dbe"
+        "1.4-release": "1a7d1c026a673bbd9fab2bdb5f48a24c6eff0d07"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
