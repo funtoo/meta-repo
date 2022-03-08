@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "b7cc1c67c3bc322f028a28c60662d596e069c6f7"
+        "1.4-release": "800a816124d923e3f4e0840d5d0244eba35356c8"
     },
     "core-gl-kit": {
         "2.0-release": "2864946e1a5169b38e1ce660e9705036e8ee4259"
@@ -12,19 +12,19 @@
         "1.4-release": "3ee17797f35cf08eed8134e59aecb6dae627c98e"
     },
     "core-server-kit": {
-        "1.4-release": "e4efbfca5795f3ce4ff62ab0c52a0854bae27a72"
+        "1.4-release": "bf4d6b986ed6ce6ce90e6a3a6dc1a3c2a9573385"
     },
     "desktop-kit": {
         "1.4-release": "007e0fcce7da609b74c124710b6212206f923def"
     },
     "dev-kit": {
-        "1.4-release": "8ca9c84c5564cd7574cb04e66d1b887f2d71bfcc"
+        "1.4-release": "7966180f6b5b4b0f7e0f3bd0b96be15947778945"
     },
     "editors-kit": {
-        "1.4-release": "c5af5bcef13e0ac1a857879ed792816a9d18a12c"
+        "1.4-release": "07a00ca1298cef1011928e0c36a602756e6d329d"
     },
     "games-kit": {
-        "1.4-release": "db099ebcaf03e350967551d7a2f9c80d79b5cb8f"
+        "1.4-release": "fe891e8140a282d417e02889e7d79c391b39df2e"
     },
     "gnome-kit": {
         "3.36-prime": "f9d5bc7ae28ed9a1dbf1027e9d10eb8e971e4279"
@@ -39,7 +39,7 @@
         "5.22-release": "14943ae33da1073cbe3a68fa4775dd296dd6f5c4"
     },
     "lang-kit": {
-        "1.4-release": "58fe81ea23dfad9006ae9e755befe69fb346147c"
+        "1.4-release": "92745b7391c11e850b96fe7738bfabcde395fea0"
     },
     "lisp-scheme-kit": {
         "1.4-release": "37e052fb34979bce90d85a2b5f9065c61347458d"
@@ -51,13 +51,13 @@
         "1.24-prime": "858f50c73a22b711dcdfab0829acfd8620d0178c"
     },
     "media-kit": {
-        "1.4-release": "6d41c68e907edb508f46ac0ff885c6e888ef0696"
+        "1.4-release": "a66a1e258cae4c8f29a41265ed2a88697d7fe304"
     },
     "ml-lang-kit": {
         "1.4-release": "20328dd7979262d6ab9d805a1f80f011fad92f00"
     },
     "net-kit": {
-        "1.4-release": "d8d37d29640815e59520981b522e998a71720aa1"
+        "1.4-release": "b08eb543814a17ed965760861c9e86b58dcdb35f"
     },
     "nokit": {
         "1.4-release": "89562f6f49b9e587732cf1ef5eda07ed9b90b04a"
