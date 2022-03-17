@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "01e69d18a559c9590ba4002520798d79752a479a"
+        "1.4-release": "3eb98d01c790f274b87316a41d634649082dede1"
     },
     "core-gl-kit": {
         "2.0-release": "a048ebb11f31ecabb87e7baa99e2c0120545fc96"
@@ -9,10 +9,10 @@
         "1.4-release": "220ce00ab2aa11259ffc5d1f972e450d4f32ef11"
     },
     "core-kit": {
-        "1.4-release": "a19c23e121ca95407994e6d625b46c90f236466f"
+        "1.4-release": "56f1c5af67143a643dd12e9d6fef2873ed936c43"
     },
     "core-server-kit": {
-        "1.4-release": "1aab5f74526c9090e14a13bb52808add68977219"
+        "1.4-release": "0f0aa699421d7e5879f583083540a9c1509a734f"
     },
     "desktop-kit": {
         "1.4-release": "476fd2ac953b2fab9238ef6b2931f07555359d1f"
@@ -33,13 +33,13 @@
         "1.4-release": "fe24f4313cd3d683bbabb7bf4601598c4f0827c2"
     },
     "java-kit": {
-        "1.4-release": "ea38194f8bdfe0ec7f87123b060cda43ae1429d6"
+        "1.4-release": "b737c46f4495c0d6d305fab8752776fc1852d624"
     },
     "kde-kit": {
         "5.22-release": "14943ae33da1073cbe3a68fa4775dd296dd6f5c4"
     },
     "lang-kit": {
-        "1.4-release": "ccd320be9ad71f0fd69c34ac213ac3269734e759"
+        "1.4-release": "73678394514f1ebd74fe79c164be7975c639cee0"
     },
     "lisp-scheme-kit": {
         "1.4-release": "37e052fb34979bce90d85a2b5f9065c61347458d"
@@ -69,7 +69,7 @@
         "3.7-release": "c70bac1e7f8cf16055a14048b86392b77e9cd1ad"
     },
     "python-modules-kit": {
-        "1.4-release": "0384a88562559100cfd53ed802ad40eec6d76c8a"
+        "1.4-release": "fae6fd5ab955260606a343ecb2a154003ec3d3e0"
     },
     "qt-kit": {
         "5.15.2-release": "396fa4a5c51e89a6439c6e5db753e952db75737a"
