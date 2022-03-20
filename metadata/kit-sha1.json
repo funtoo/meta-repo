@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "555ac621479a75e53e00c5d0f9ea07b2ac597ffa"
+        "next": "d717c8cf02b2fdae939d818f3a86223cad0dd762"
     },
     "core-gl-kit": {
         "next": "883c6848605614a0d11770da9d9285b6846f2182"
@@ -9,7 +9,7 @@
         "next": "7276ab4f84927acce34b04b8cd50b0eef4eb53b8"
     },
     "core-kit": {
-        "next": "b886a9003920c7d662b0c59861d69260ba5e8ef4"
+        "next": "4bb732775c200f4d42ff314704d5768c1ecbe8b3"
     },
     "core-server-kit": {
         "next": "0aea181046e38a98502d3e9642e41e4f1be43d55"
@@ -39,7 +39,7 @@
         "5.23-testing": "49ecf139b30b29da31185ebf80f17a39236a6920"
     },
     "lang-kit": {
-        "next": "3823f9dc594444ca9579c2c084f91af3995f9bd3"
+        "next": "a4e7c88eb175b62fcda1fe922e891923901ba169"
     },
     "lisp-scheme-kit": {
         "next": "9c2b8b16b294d631eb69d0e8926c3b25a4373dbc"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "39a12141ecc6fea1c9f9f20d658bd8febeea6c30"
     },
     "media-kit": {
-        "next": "181b85b97b6a5a3cdf86378dd2714e0f1758b272"
+        "next": "f090736300b6d023c5c4fcb65780441abac0bd58"
     },
     "ml-lang-kit": {
         "next": "444737b27c672c01db5ed9c080cf2d9530abfdb0"
     },
     "net-kit": {
-        "next": "3ec2d519246a5f482fb550d05239764d3dbd496c"
+        "next": "33cc84a5cac506df56cf53c555aa71bb0221002a"
     },
     "perl-kit": {
         "next": "b8aba054b909790f53a61b00c205cceede0266e5"
@@ -66,7 +66,7 @@
         "next-3.7-release": "881e56e74a05928fba188441753fd0f8f497f3c4"
     },
     "python-modules-kit": {
-        "next": "6d6c94a430fd8edb3086bc0404255460dce2a569"
+        "next": "71b82be35a6636f6667c83ecca9315d4617c9fb7"
     },
     "qt-kit": {
         "next-5.15.2-release": "223a37833bfdb67bf049d3079b76d40a4686c753"
@@ -81,7 +81,7 @@
         "next": "86d8e4569630b6a2354f4acf889628ea335b9733"
     },
     "text-kit": {
-        "next": "a7b48fdc5b806fc4dd450251937145be460bd806"
+        "next": "ad2cdb2115e60f68425b0e11586755b8ec5db9c2"
     },
     "xfce-kit": {
         "next-4.16-release": "b43024ae8845363ad79241f27e87222d1febfc49"
