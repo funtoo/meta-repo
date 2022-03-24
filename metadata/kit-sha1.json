@@ -1,15 +1,15 @@
 {
     "browser-kit": {
-        "next": "c075223590b665bfe07bc88fd6fa4fe814195c9a"
+        "next": "9a0d6e70da238c466257f734d780444f3ba72536"
     },
     "core-gl-kit": {
-        "next": "680fe3eefe86d81a84e3b124449d59d70322526c"
+        "next": "8cc450a76b0f49a999df25fb52edf897c30c5cd4"
     },
     "core-hw-kit": {
         "next": "ff36040f439660f864e42474fe699c3ba7abe3c9"
     },
     "core-kit": {
-        "next": "a3d1ee35fdb077652ea6a4298ffbe88f628aeb80"
+        "next": "ce6eac06be6214dfed6e3b7d3aad31219394096e"
     },
     "core-server-kit": {
         "next": "11ee84d0c308f17fb2eeb587416a98de7fb8b729"
@@ -18,10 +18,10 @@
         "next": "117aa78790582f97b1385b7dfe0ebfc97cc29e01"
     },
     "dev-kit": {
-        "next": "2d0d3bfea897dee1fb0641176c9eeb3b43ba4c15"
+        "next": "dbf925a8fc9fcacaf31db54956ba71e8c7b341fb"
     },
     "editors-kit": {
-        "next": "cc83350f057d434a84d742f025cdec5346751ac4"
+        "next": "ff9aa2a81db6d57fb5aaaf7355d00a4dd3ce61d0"
     },
     "games-kit": {
         "next": "c7cfa44ba0cb4aa7ebfdd6352fdcfabd964d777d"
@@ -39,7 +39,7 @@
         "5.23-testing": "49ecf139b30b29da31185ebf80f17a39236a6920"
     },
     "lang-kit": {
-        "next": "542cf9ecaebd1863cbc5af0400d42fbf83ed3507"
+        "next": "4495c5a1d529a95d475239dfa23fa47db8f37aca"
     },
     "lisp-scheme-kit": {
         "next": "9c2b8b16b294d631eb69d0e8926c3b25a4373dbc"
@@ -51,7 +51,7 @@
         "next-1.24-prime": "39a12141ecc6fea1c9f9f20d658bd8febeea6c30"
     },
     "media-kit": {
-        "next": "c055d0e3920aa3b8dadb67ee2a0d220be3f60fae"
+        "next": "d3365a3148c0cfae2e6364af4bf33fb72179a950"
     },
     "ml-lang-kit": {
         "next": "444737b27c672c01db5ed9c080cf2d9530abfdb0"
@@ -66,7 +66,7 @@
         "next-3.7-release": "881e56e74a05928fba188441753fd0f8f497f3c4"
     },
     "python-modules-kit": {
-        "next": "200c5d4b0509aa37303b6cc2df1ce04c94408246"
+        "next": "a9dafa9adfed3c5d7931179f49294f2b9775938e"
     },
     "qt-kit": {
         "next-5.15.2-release": "223a37833bfdb67bf049d3079b76d40a4686c753"
