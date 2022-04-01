@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "1.4-release": "52961358a43bb6513a5716dc2bbcb7193e07f631"
+        "1.4-release": "a61dc5594e6bc4584cbb3c77a876dd01dca4491f"
     },
     "core-gl-kit": {
-        "2.0-release": "6a746b2bfe1ec7bccece5a9520b5f50b1c2eae56"
+        "2.0-release": "520d01360746b5b46d784906ecffa2e2710d0acf"
     },
     "core-hw-kit": {
         "1.4-release": "236127ea119c50ca416cb01836ee6b773e0a55f4"
@@ -12,13 +12,13 @@
         "1.4-release": "379d9cf4b6e0557c7f1ac0a813463a2d4b128a3b"
     },
     "core-server-kit": {
-        "1.4-release": "c90fe6f19828930fb49fa6213e6e261833e199de"
+        "1.4-release": "01983edba51486fe975a2765fee0eea52cbc9583"
     },
     "desktop-kit": {
         "1.4-release": "a6f51d9404fe9b02701a849cde8bbdc1d823d2f2"
     },
     "dev-kit": {
-        "1.4-release": "d1bf0ff5f0da71cb028de4b56d6683502d490db6"
+        "1.4-release": "889edec4e25fbd2cc3eeb5d0b565e6c51254f239"
     },
     "editors-kit": {
         "1.4-release": "81bfae5620fd9ed443fc5ae67751f12a08785e17"
@@ -27,7 +27,7 @@
         "1.4-release": "2da89c72bb87ef112fb44b587e80a534499b05b8"
     },
     "gnome-kit": {
-        "3.36-prime": "4db0c67e901d44f27003c48d6284da1a5dc8ca04"
+        "3.36-prime": "d04852a14bf49a3c49681e80c5c423ac9b19ec3d"
     },
     "haskell-kit": {
         "1.4-release": "fe24f4313cd3d683bbabb7bf4601598c4f0827c2"
@@ -57,7 +57,7 @@
         "1.4-release": "20328dd7979262d6ab9d805a1f80f011fad92f00"
     },
     "net-kit": {
-        "1.4-release": "9e8992067c3aa579d5a7d44de68b602972365012"
+        "1.4-release": "a356f29975f90d87ec7bdc075d6a8ee2065757cc"
     },
     "nokit": {
         "1.4-release": "3fe3fbc42aa4c8894701ecd04a1533a09c29ae19"
@@ -69,7 +69,7 @@
         "3.7-release": "7eda6a4348f4045b8555055bb0f50e0eb0fe6cff"
     },
     "python-modules-kit": {
-        "1.4-release": "afe47e9d0af06ef84a7369eb2c9d3b9e0ab63887"
+        "1.4-release": "25d313c4d4b87714fdc35ca9821e1b4ab5e3ee34"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
