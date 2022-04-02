@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "5391670752bdf1b28069778b57d2130018584c59"
+        "next": "bef85652d7d0c626dc4412856fd497f5038619b2"
     },
     "core-gl-kit": {
         "next": "ad557374ce3039c745bdd07ebae2957122633c21"
@@ -9,7 +9,7 @@
         "next": "820be570c904557d49cea046156bbbad1b6affbc"
     },
     "core-kit": {
-        "next": "cae3f2ebbdd673ac2d486ab460a8871aa084f27c"
+        "next": "064d4b0c5e62d5b79bf6c7c87d40b66d5c363321"
     },
     "core-server-kit": {
         "next": "634d90caceff7f93bd05a40ff420d37044b65291"
@@ -18,7 +18,7 @@
         "next": "9e37efdd66bb4cbfc93c1ab635fdd1d2371e1ac1"
     },
     "dev-kit": {
-        "next": "e126ad2eba86656adb9a11897485325e34d8bc5f"
+        "next": "27bccb00cab3a0c02a2617e0eb113768df8a51cd"
     },
     "editors-kit": {
         "next": "42a911e957f80de916e79c20d00d0eefa05909a4"
@@ -39,7 +39,7 @@
         "5.23-testing": "c8b626e42c9a78ec2e2172116bedf9bc847bfa9d"
     },
     "lang-kit": {
-        "next": "53c187e7eb870746345c08b11421580c8f6279bc"
+        "next": "a910daf8362bcd0df407d23216a5d12735ce6e6c"
     },
     "lisp-scheme-kit": {
         "next": "9c2b8b16b294d631eb69d0e8926c3b25a4373dbc"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "c1c03ce32a2e27d3b7a54e2933c745eebf3aa63d"
     },
     "media-kit": {
-        "next": "c2c04c967b51dde8e099792cbd1279180712b7e9"
+        "next": "132510977399ea4f8236097f7b650a6f70693692"
     },
     "ml-lang-kit": {
         "next": "444737b27c672c01db5ed9c080cf2d9530abfdb0"
     },
     "net-kit": {
-        "next": "3b5fa3fb39ab3199c410c8d10eb2c3d430b1e3ae"
+        "next": "f11793f175dbfb725ae741067e725b44cb2a980a"
     },
     "perl-kit": {
         "next": "07a6cc830de5d563c9a70e97ff9e92a6eb109015"
@@ -66,7 +66,7 @@
         "next-3.7-release": "d34b08f42cfceea634e0edb8467cbf318c899077"
     },
     "python-modules-kit": {
-        "next": "0f4397817532125a75f78739f024508cc872f815"
+        "next": "14011489dcc469556857cbf82049d6dc78965791"
     },
     "qt-kit": {
         "next-5.15.2-release": "223a37833bfdb67bf049d3079b76d40a4686c753"
