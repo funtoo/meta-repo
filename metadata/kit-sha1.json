@@ -12,7 +12,7 @@
         "1.4-release": "a30003305ac74b1f23f10a30dd5426e84676a310"
     },
     "core-server-kit": {
-        "1.4-release": "58d5c70c67b827ddb8d0b336908eff138b86ed88"
+        "1.4-release": "2f5ac11ac735001694a9264bca61e0d3a37802a5"
     },
     "desktop-kit": {
         "1.4-release": "63ddc5c56a8adcb6c32d70755e6f2b4d0f6fb6a1"
@@ -39,7 +39,7 @@
         "5.22-release": "14943ae33da1073cbe3a68fa4775dd296dd6f5c4"
     },
     "lang-kit": {
-        "1.4-release": "0bd69fecb59cbc835002794f01bcb3265976bd7d"
+        "1.4-release": "1a606fba17aa46919425366be6767f9c53e4db35"
     },
     "lisp-scheme-kit": {
         "1.4-release": "37e052fb34979bce90d85a2b5f9065c61347458d"
@@ -57,7 +57,7 @@
         "1.4-release": "20328dd7979262d6ab9d805a1f80f011fad92f00"
     },
     "net-kit": {
-        "1.4-release": "9f2e8f920101366a353196bae4cb157d47e8ee1d"
+        "1.4-release": "56c0407bc3af99ac18ebd4a225474191c3f352d8"
     },
     "nokit": {
         "1.4-release": "3fe3fbc42aa4c8894701ecd04a1533a09c29ae19"
@@ -69,7 +69,7 @@
         "3.7-release": "7eda6a4348f4045b8555055bb0f50e0eb0fe6cff"
     },
     "python-modules-kit": {
-        "1.4-release": "4bf1b98e6151abe60bf51dce3fcc4d31ecbc67d2"
+        "1.4-release": "1eba781fc7db3c907b59db2cb115fc855c626be3"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
@@ -84,7 +84,7 @@
         "1.4-release": "b1f7ba03862cd1310d6e44d7842a9591ed3e98b9"
     },
     "text-kit": {
-        "1.4-release": "3dd1d712e815ebfba6961cb6da1389da615dc669"
+        "1.4-release": "14f63696031503b69a5d840fcca6bd410c98ecff"
     },
     "xfce-kit": {
         "4.16-release": "62ec19a686a9c3adf301b15662df85340007f719"
