@@ -159,7 +159,7 @@
         },
         "python-kit": {
             "stability": {
-                "next-3.7-release": "prime"
+                "next": "prime"
             },
             "type": "auto"
         },
@@ -271,7 +271,7 @@
             "next"
         ],
         "python-kit": [
-            "next-3.7-release"
+            "next"
         ],
         "python-modules-kit": [
             "next"
