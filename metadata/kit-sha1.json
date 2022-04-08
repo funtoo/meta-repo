@@ -1,27 +1,27 @@
 {
     "browser-kit": {
-        "next": "30a5d9508d1260d9d7fbef744af2d1f1eb15783c"
+        "next": "766ea26d09719a463ae445c1f84b2baa1ace042a"
     },
     "core-gl-kit": {
-        "next": "2034805a0268dc21e119fbc92b08714bbcc80a4f"
+        "next": "1aed1025362bdbc03f649ec570fdb86d14632fd1"
     },
     "core-hw-kit": {
         "next": "00d4e06adcee9d15d945c7e978fea02a544e2264"
     },
     "core-kit": {
-        "next": "ce0dc48c5c360a7da79e2ff679a5b27c2875258a"
+        "next": "039f1c817ab6caa131f3b12adf87686b65d4728f"
     },
     "core-server-kit": {
-        "next": "753eafebb51576d5fd2bac126ebcd37baf80f8fd"
+        "next": "4d499e78e3fe8e8df3ca4bd1629050c7fd5632dd"
     },
     "desktop-kit": {
         "next": "f35a669470fbc82f53a89e834fd34de2ab7a7c6e"
     },
     "dev-kit": {
-        "next": "11ca06c2d819b68700246f1fdbc9531fb6215487"
+        "next": "bd3542353b574abe3a2dbb1d161bf1398763bc7b"
     },
     "editors-kit": {
-        "next": "dae621c24cc98152757bf3a2c53b587f9078dc44"
+        "next": "8bfa0de111c2d87427fef8087cb88eaad6eec27d"
     },
     "games-kit": {
         "next": "e2fbca4995376e359684952f3e4a513f10a48916"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "567babfb99530ab21706f47369c3a2db2e8be765"
     },
     "media-kit": {
-        "next": "74b1c9762c111ea49e60ad392cd3c65a8c8d0d2b"
+        "next": "33792397b57817017df1530d6dd65a89c3b567f6"
     },
     "ml-lang-kit": {
         "next": "13e061e27c2625d962d74d2f839484f05bae02c6"
     },
     "net-kit": {
-        "next": "53b2841d26970917db969176f429507d39cf40ae"
+        "next": "e6929754d64e69f385fa94cba47ff670cf2b05c3"
     },
     "perl-kit": {
         "next": "48caf4c42c633d6821a04a9dacd9f0353e8e7b23"
@@ -66,7 +66,7 @@
         "next": "0ccd095da37b0ee1e8062cb865b4fecdd206f838"
     },
     "python-modules-kit": {
-        "next": "09c9e010dee7ebe7e293aaf298004597565eeb09"
+        "next": "47cac4a02d521ace357c8901f48b0efae3262034"
     },
     "qt-kit": {
         "next-5.15.2-release": "062a01ed91e66943a275417c8fb2e72319d294f8"
