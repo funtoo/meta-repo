@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "8e4563a74102f443dc13dd79c0d0a160d3913d0b"
+        "1.4-release": "6ba60f99db512135fac69d28c96e036cc2b0186a"
     },
     "core-gl-kit": {
         "2.0-release": "0b63ab052030a3ff15d65cdd4f275c217056128e"
@@ -12,7 +12,7 @@
         "1.4-release": "0a940d53107859ab9e2d9b5d3cc527e34c0eb71e"
     },
     "core-server-kit": {
-        "1.4-release": "eb0b4c42c37290994655a42518894a3ecaf0b667"
+        "1.4-release": "a5d4974d6324626b07d32f6b186f9eb007721613"
     },
     "desktop-kit": {
         "1.4-release": "baabb08b14c824ce0f5e3e1b348b0c0557ae511e"
@@ -21,13 +21,13 @@
         "1.4-release": "af53f0bded28f1f47b5a47361a77d1228eab0402"
     },
     "editors-kit": {
-        "1.4-release": "37c97b99a9620bb2af6781a6d7fa7a4a03fd6898"
+        "1.4-release": "ceef60c5f0178627e2cb01faebd7609947428f71"
     },
     "games-kit": {
         "1.4-release": "891b0d3af6efe5e997860fc773a8c753a4eb8c84"
     },
     "gnome-kit": {
-        "3.36-prime": "f54f53e8dafaa3d532ae5b39f30b2911cf6e2a64"
+        "3.36-prime": "62c3250695e0e8db22973b7bdde0c7b572be14e0"
     },
     "haskell-kit": {
         "1.4-release": "fe24f4313cd3d683bbabb7bf4601598c4f0827c2"
@@ -48,7 +48,7 @@
         "1.4-release": "5ee1746b5172ead5371814859a22dca5ba1e2217"
     },
     "mate-kit": {
-        "1.24-prime": "2d8fd4012907fc5341fa56f1c7a31bc4570c4ef5"
+        "1.24-prime": "20353e81d007f2d8e8d054f13a97bffc1ce0e7f0"
     },
     "media-kit": {
         "1.4-release": "c5b60a8a127983e50b6637d480cb3a1eb449ce7a"
@@ -69,7 +69,7 @@
         "3.7-release": "7eda6a4348f4045b8555055bb0f50e0eb0fe6cff"
     },
     "python-modules-kit": {
-        "1.4-release": "b40da02ff4f73a9d0a49429816daab4aaceb3f95"
+        "1.4-release": "a2ece000be96ad09e18572376d97b26e25545dc9"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
@@ -81,7 +81,7 @@
         "1.4-release": "0959296b923f7f6af6fca9bc819841d9a60e5260"
     },
     "security-kit": {
-        "1.4-release": "b1f7ba03862cd1310d6e44d7842a9591ed3e98b9"
+        "1.4-release": "28bc5e19d38b355bf52cbea1067bada5ca56287d"
     },
     "text-kit": {
         "1.4-release": "c8913f2dffeacbc5fc740cf46322b5849adb8685"
