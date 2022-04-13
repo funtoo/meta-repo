@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "6ba60f99db512135fac69d28c96e036cc2b0186a"
+        "1.4-release": "a5828102cb301978553902d708a4802f83b2e1c3"
     },
     "core-gl-kit": {
         "2.0-release": "0b63ab052030a3ff15d65cdd4f275c217056128e"
@@ -12,22 +12,22 @@
         "1.4-release": "0a940d53107859ab9e2d9b5d3cc527e34c0eb71e"
     },
     "core-server-kit": {
-        "1.4-release": "a5d4974d6324626b07d32f6b186f9eb007721613"
+        "1.4-release": "e657a69d42e2d69e78e3ae4b076d4c91bcc71348"
     },
     "desktop-kit": {
         "1.4-release": "baabb08b14c824ce0f5e3e1b348b0c0557ae511e"
     },
     "dev-kit": {
-        "1.4-release": "af53f0bded28f1f47b5a47361a77d1228eab0402"
+        "1.4-release": "5f0a6354d55e748072043e2a32072da91387d0c7"
     },
     "editors-kit": {
-        "1.4-release": "ceef60c5f0178627e2cb01faebd7609947428f71"
+        "1.4-release": "43425f0d913e2a62a7c03f423e831df764cf92bb"
     },
     "games-kit": {
-        "1.4-release": "891b0d3af6efe5e997860fc773a8c753a4eb8c84"
+        "1.4-release": "b8afdf0b5b1fc0c6c7c712ce7ab316a99992ba8c"
     },
     "gnome-kit": {
-        "3.36-prime": "62c3250695e0e8db22973b7bdde0c7b572be14e0"
+        "3.36-prime": "72aeb030a60a7d0d7eb7e0188cbd84bc7fffd738"
     },
     "haskell-kit": {
         "1.4-release": "fe24f4313cd3d683bbabb7bf4601598c4f0827c2"
@@ -39,7 +39,7 @@
         "5.22-release": "14943ae33da1073cbe3a68fa4775dd296dd6f5c4"
     },
     "lang-kit": {
-        "1.4-release": "9eb6ec3f545e3a3776b61ca35b2d2bec4040bfc2"
+        "1.4-release": "136cb60ca9d43a72006973f8fd5ed3d2e579c85c"
     },
     "lisp-scheme-kit": {
         "1.4-release": "37e052fb34979bce90d85a2b5f9065c61347458d"
@@ -51,7 +51,7 @@
         "1.24-prime": "20353e81d007f2d8e8d054f13a97bffc1ce0e7f0"
     },
     "media-kit": {
-        "1.4-release": "c5b60a8a127983e50b6637d480cb3a1eb449ce7a"
+        "1.4-release": "243fd9ba635d86802082de9884e93cbbca7df5c2"
     },
     "ml-lang-kit": {
         "1.4-release": "20328dd7979262d6ab9d805a1f80f011fad92f00"
@@ -69,7 +69,7 @@
         "3.7-release": "7eda6a4348f4045b8555055bb0f50e0eb0fe6cff"
     },
     "python-modules-kit": {
-        "1.4-release": "a2ece000be96ad09e18572376d97b26e25545dc9"
+        "1.4-release": "359ac1cd5d1506507847aa119c29ca7f4e8e746d"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
