@@ -1,7 +1,8 @@
 {
-    "features": "independent-kits",
-    "required": {
-        "ego": "2.7.2"
-    },
+    "required": [
+        {
+            "ego": "2.7.2"
+        }
+    ],
     "version": 11
 }
