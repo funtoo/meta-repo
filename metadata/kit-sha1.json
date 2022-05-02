@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "03a27f956b7a18450b472d5acdac53e05d8c67c5"
+        "next": "9f9c18f9701a3b8a6d80c087f9398325b692af32"
     },
     "core-gl-kit": {
         "next": "40011980ae8845b7e491fbad613bdde3d38a51b2"
@@ -9,19 +9,19 @@
         "next": "21538fae4dbbb16ee74cdb1a8d1f71f254fbbac4"
     },
     "core-kit": {
-        "next": "a185ce81acfbb8576fb98078f15e40356d29ba57"
+        "next": "899040b204a28560a152a7574099b7ec39fae2dd"
     },
     "core-server-kit": {
-        "next": "3fb86389d059a5ef95f4ad83bb6bdbc4c5651ef1"
+        "next": "84ac67270d20cb0c59a59ecc5c7b68b1ce1604bf"
     },
     "desktop-kit": {
-        "next": "5038cf317b2b400bd94f538e570ade78518c5147"
+        "next": "930017fb0b89ab231c819e2f0a375c8e46347ac5"
     },
     "dev-kit": {
-        "next": "fd93ea89ae4d3b939ccf20144654c6f8dd531ad3"
+        "next": "184ae501066d77b9fc0cf8f9d818e4b20f124f98"
     },
     "editors-kit": {
-        "next": "1f5d829fd3fed72818f6e7d32ff358351d2410e9"
+        "next": "6f1db7409fb2920c3ec629b4ff9b46a67d2119cb"
     },
     "games-kit": {
         "next": "d8a9557067284e0d60ebefa7841a1edebe265cd0"
@@ -39,7 +39,7 @@
         "5.23-testing": "f6439c12a9bfe3fca5cb247afbcd91c01b43d52d"
     },
     "lang-kit": {
-        "next": "93cf8a1f9a3cb5d390ea3dfc0f4f61dfdbb51ac1"
+        "next": "a993dba4c2604b973e8504ae3858beb627ba7da6"
     },
     "lisp-scheme-kit": {
         "next": "18b8aa6582ef6cd38a4d7251504c6ef0f21f36df"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "df6167d4c6a229ca3b746db5a4d06e8d148cb758"
     },
     "media-kit": {
-        "next": "a718cb1e4b4f0af214edd15bc1fe484296f37c49"
+        "next": "d368bacde48a12af024d868f201b9781e088e888"
     },
     "ml-lang-kit": {
         "next": "c2d5657f14f86071e0b71eac02083b427dda3071"
     },
     "net-kit": {
-        "next": "524d81cd7e3227602aecdf1492c8e64ed1c51858"
+        "next": "2b31d27c9e97f80f7b372752fac005a3fcaef405"
     },
     "perl-kit": {
         "next": "48caf4c42c633d6821a04a9dacd9f0353e8e7b23"
@@ -66,7 +66,7 @@
         "next": "1de476c9bdaa42932950b69f901436021107f1fd"
     },
     "python-modules-kit": {
-        "next": "3b8b0aa4af40a4ea4fcd6a721da1b0ab1c7bb33f"
+        "next": "a858b30e25ddeef585a55c7de7b09bd595c8b471"
     },
     "qt-kit": {
         "next-5.15.2-release": "0eaef2b4607382d67cf17b92d1c754dea240a9aa"
