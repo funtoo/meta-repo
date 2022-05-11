@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "1.4-release": "6b191a40377c2b7c34241ac6fa3949a744ebd6b6"
+        "1.4-release": "d572c5b7311e3eba9f329f7d84cc96c8e4a38164"
     },
     "core-gl-kit": {
-        "2.0-release": "04c400b1b96c21c96c64344c37ee43b69bf74cc3"
+        "2.0-release": "13ba6ef535e30dc18fb063c04a6243fcaa14f5a0"
     },
     "core-hw-kit": {
         "1.4-release": "8311f865f004ca55b41e7051ddb6991ee291c577"
@@ -12,13 +12,13 @@
         "1.4-release": "42155111d9fb3b42d815429a1da360ccd3301e4c"
     },
     "core-server-kit": {
-        "1.4-release": "07fb11a02151cca7fcb63c6c02122402f6ffc819"
+        "1.4-release": "fedf0b27cb8a02a5e831f3a2506ac8df82935f79"
     },
     "desktop-kit": {
         "1.4-release": "1a75cc227186ce2488adbc130f2028c7158d35cb"
     },
     "dev-kit": {
-        "1.4-release": "c4ac52a79343c115f0809a826bffc0af5e01162c"
+        "1.4-release": "397eb408b9470cbb7be22ecc9fccb40a6accd516"
     },
     "editors-kit": {
         "1.4-release": "63cba449ac4bf1e4a01c565d1e3d4f8475e72692"
@@ -39,7 +39,7 @@
         "5.22-release": "8e891d7d2ab23e8abaec0c0ef9abc47cfee12226"
     },
     "lang-kit": {
-        "1.4-release": "3bd15b5e9a745f039da64dd53f4a80b1e35a3a5c"
+        "1.4-release": "8dcd1e2cab6cd27e77113fb5245d5ea25d12a4ef"
     },
     "lisp-scheme-kit": {
         "1.4-release": "4c7104db5a1dc5ab8ea2d77551b77f4b90921143"
@@ -57,7 +57,7 @@
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
     },
     "net-kit": {
-        "1.4-release": "e8bb61fb6a6c1bd3ae229c5cba32aeabf9767a8f"
+        "1.4-release": "2247f6a11558c7fd7079af00e7d830a344747126"
     },
     "nokit": {
         "1.4-release": "ba96b31c7312d6dd52d94fefd7e845cfc87691de"
@@ -69,7 +69,7 @@
         "3.7-release": "7eda6a4348f4045b8555055bb0f50e0eb0fe6cff"
     },
     "python-modules-kit": {
-        "1.4-release": "5eee107294661913ecc08b0add7b6b0da047808a"
+        "1.4-release": "f78009511753243c5b3606f10526f4dd797f0312"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
