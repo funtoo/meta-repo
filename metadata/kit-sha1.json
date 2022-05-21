@@ -9,7 +9,7 @@
         "1.4-release": "44eb42c4658d5687d43a06ac1bca9e4658df5377"
     },
     "core-kit": {
-        "1.4-release": "1eb753a7a5d3b92c292d0d4e55479079cd90dab1"
+        "1.4-release": "1bd7f85d0bdafb59e2ee8c3977dca17d8a6cada7"
     },
     "core-server-kit": {
         "1.4-release": "895d916c1bd5d46d5f9e9ff7f93b3d08d38f0f32"
@@ -21,7 +21,7 @@
         "1.4-release": "cd6a841559dc443e868d7d53f44cb9a762db5725"
     },
     "editors-kit": {
-        "1.4-release": "0b8cb34b126acbb564e217099d63c2cdcbb5bfea"
+        "1.4-release": "27c869ce8a165d5052d58b771ea54a6c8d294571"
     },
     "games-kit": {
         "1.4-release": "803dfbf494de1964bd016e33d6bd6b619838b336"
@@ -39,7 +39,7 @@
         "5.22-release": "8e891d7d2ab23e8abaec0c0ef9abc47cfee12226"
     },
     "lang-kit": {
-        "1.4-release": "7f852e474ce92fb3a00783b45406dd2bdac0afa7"
+        "1.4-release": "ed9ce0caee8f37d9887c30af254f9fb1a59bccc9"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -51,7 +51,7 @@
         "1.24-prime": "20353e81d007f2d8e8d054f13a97bffc1ce0e7f0"
     },
     "media-kit": {
-        "1.4-release": "bc4cd0af10bda7f1af58fcdfbd171e9a8606dfe0"
+        "1.4-release": "d00e1dd8776d4079cb98b4e89304ad595c32c765"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
@@ -60,7 +60,7 @@
         "1.4-release": "e1144ad43a1fcf28b6af184e9684c1b5cf781a9d"
     },
     "nokit": {
-        "1.4-release": "ba96b31c7312d6dd52d94fefd7e845cfc87691de"
+        "1.4-release": "c232d8fe3b62104c364711644fea4270843f3883"
     },
     "perl-kit": {
         "5.32-release": "fa5b26efe19b1fabb2a21262876c582117f8d7f4"
@@ -69,7 +69,7 @@
         "3.7-release": "7eda6a4348f4045b8555055bb0f50e0eb0fe6cff"
     },
     "python-modules-kit": {
-        "1.4-release": "b9131099c6cbafb42aa9a17f548dab71c8c6ea5d"
+        "1.4-release": "f6a5a97264fb14a4cdd0788308cca6cda335c0a9"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
@@ -81,7 +81,7 @@
         "1.4-release": "e5cad27801625d3226d139004e8cad7a0ff9f8f5"
     },
     "security-kit": {
-        "1.4-release": "3b24c4a0a10afec2ffb897fe025b8ea4ddfc7dce"
+        "1.4-release": "cb9f455fc99f2ae60f4810e78705378b143add5e"
     },
     "text-kit": {
         "1.4-release": "4455d7210bb9799ab593f82fa8c0756b0929169e"
