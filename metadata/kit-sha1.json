@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "606692353a44b07449a4c60c0fdd629c07801551"
+        "1.4-release": "145d0cd0771b7a027ca97561450cf621917f8c3c"
     },
     "core-gl-kit": {
         "2.0-release": "d5d427e038e7cc58cba98071f6ee4492ee33e088"
@@ -9,22 +9,22 @@
         "1.4-release": "5c896d93fab3e3cdf281f84f54d7c3e497ca1f83"
     },
     "core-kit": {
-        "1.4-release": "4ce7ac5f792bed3460a319b7d8bf790940cc6a9f"
+        "1.4-release": "c054c8ed2e941915b0de56589a5289795aab09a9"
     },
     "core-server-kit": {
-        "1.4-release": "8e667eb4fab90fe84a336fc9ac32f2ee8e3e57fa"
+        "1.4-release": "a2c7990703757a4bf83a42f8d8c616f773655be0"
     },
     "desktop-kit": {
         "1.4-release": "447d40edcd2934b5b679fcd2a26e9d3529fd86b0"
     },
     "dev-kit": {
-        "1.4-release": "21c5778bbdc3510d54d447ba0ef940175fabaa83"
+        "1.4-release": "56e686d6306bd2df6ca42a52dea058258ed318b7"
     },
     "editors-kit": {
-        "1.4-release": "6cdba154be967008234cf60ea9073123b370bc9a"
+        "1.4-release": "c38d48891b7ce477c31cdb2102a3d951afcbbdb6"
     },
     "games-kit": {
-        "1.4-release": "beefc2f7879f89985ed96b02737821e8e1b30146"
+        "1.4-release": "6dd104e59daa564ca5e2809c66bd9144d9b30336"
     },
     "gnome-kit": {
         "3.36-prime": "bb9718f2ed6e2e15ae0e31589699f852e3854a37"
@@ -39,7 +39,7 @@
         "5.22-release": "6c39eb86a73b7f14129ab91c5a10ccde75957682"
     },
     "lang-kit": {
-        "1.4-release": "f6cb82cb6a6d3f5a1b4024a3a43977f60a6b1af6"
+        "1.4-release": "6f66bcf3c23df08c4d52f8d1720e09f6793e2e8e"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -69,7 +69,7 @@
         "3.7-release": "7eda6a4348f4045b8555055bb0f50e0eb0fe6cff"
     },
     "python-modules-kit": {
-        "1.4-release": "688ab9d8e345cd6e0380dc8b444c8eef3fdee00e"
+        "1.4-release": "2e8806c00e32e6d3d700e0b9910e2d57a66d7d3f"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
