@@ -3,13 +3,13 @@
         "1.4-release": "affde78cccbba3ac33bc1cc867dd26dfd95adb06"
     },
     "core-gl-kit": {
-        "2.0-release": "245c61d3520e04c256d66cfc057a19cc99d4db96"
+        "2.0-release": "87c93ae676f8c592fe6455a981cb8a13a0050541"
     },
     "core-hw-kit": {
         "1.4-release": "01c78eb62f3f948157483b92441627f592a161ed"
     },
     "core-kit": {
-        "1.4-release": "0e701b44774ac09bdd0b9b1eafbc91aa5b23a45c"
+        "1.4-release": "070976875a071a640d6446d4fbbf405abf7367b1"
     },
     "core-server-kit": {
         "1.4-release": "8b8abdf05ea6d610785963e40a822bb7a2db77bb"
@@ -18,16 +18,16 @@
         "1.4-release": "f3088e79aff6fb410336f1c0781dd09ba98e5847"
     },
     "dev-kit": {
-        "1.4-release": "92358f225b5a4876cdcf1b8d3040bbd87671e590"
+        "1.4-release": "04cdb53dec6b9a6ea56ba95fc351279eeeaa4907"
     },
     "editors-kit": {
-        "1.4-release": "894b4cc8e201d28ae1fa82aac99742baa6593c40"
+        "1.4-release": "6061c9f67a2b64f7854519ce2e43780d20c9c089"
     },
     "games-kit": {
         "1.4-release": "8566ae1f71998e6e46c66fae98bef69ce6ca2763"
     },
     "gnome-kit": {
-        "3.36-prime": "7138b0cff0c1de8278fbf3ae640a4460c0c03ad7"
+        "3.36-prime": "6e11882e7da735af24525148b01c11aea56f3748"
     },
     "haskell-kit": {
         "1.4-release": "0568fc9e50e7363e5e718c7695ea803c70b23301"
@@ -57,7 +57,7 @@
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
     },
     "net-kit": {
-        "1.4-release": "15280e69e159dabafb17e48e4e40d567c3af131b"
+        "1.4-release": "e066da92c79840d4b9afac2f0cc257dcb227be35"
     },
     "nokit": {
         "1.4-release": "cde80ea68660e87b2a70db4b5362dbd56f6fea94"
@@ -69,7 +69,7 @@
         "3.7-release": "7eda6a4348f4045b8555055bb0f50e0eb0fe6cff"
     },
     "python-modules-kit": {
-        "1.4-release": "301ee37487fd3d09d29c64dbfa210fdaafc3c9b1"
+        "1.4-release": "0b474e72304918eb5f5161199b4e8b39f47d2637"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
@@ -84,7 +84,7 @@
         "1.4-release": "cb9f455fc99f2ae60f4810e78705378b143add5e"
     },
     "text-kit": {
-        "1.4-release": "515e8946da68914ed61e0abfcb8217133a711d56"
+        "1.4-release": "98a85b7f4c04fcf2430bbd35abacf70b9e70f345"
     },
     "xfce-kit": {
         "4.16-release": "62ec19a686a9c3adf301b15662df85340007f719"
