@@ -3,22 +3,22 @@
         "1.4-release": "dbf84f4d477938d253e848ce9fe9826de9a173a4"
     },
     "core-gl-kit": {
-        "2.0-release": "1c26c355097c5d04a5aaf6bf2d203f3858ddc36c"
+        "2.0-release": "fb887f88b5c5d771a9497022673a592ca6ee8594"
     },
     "core-hw-kit": {
         "1.4-release": "01c78eb62f3f948157483b92441627f592a161ed"
     },
     "core-kit": {
-        "1.4-release": "070976875a071a640d6446d4fbbf405abf7367b1"
+        "1.4-release": "abcc73bd6aa2af703fefdcbcb29986212ccd82f2"
     },
     "core-server-kit": {
-        "1.4-release": "11d85330120c3148e887d462faf3dba9b9337d9d"
+        "1.4-release": "86a0896a0a2b3f822e43424d2ea7a4c55321cc82"
     },
     "desktop-kit": {
-        "1.4-release": "f3088e79aff6fb410336f1c0781dd09ba98e5847"
+        "1.4-release": "2ba9a00da232ac8a50f02ff30b616aa9dc6c1990"
     },
     "dev-kit": {
-        "1.4-release": "5d5b9580f117e7adbb7c84f36eec02e82994ca2b"
+        "1.4-release": "d2fa671444e1bbfe305445f65c55522e92e928a0"
     },
     "editors-kit": {
         "1.4-release": "528262f04726eeecc01a98c49552a5da1d7c51da"
@@ -51,7 +51,7 @@
         "1.24-prime": "20353e81d007f2d8e8d054f13a97bffc1ce0e7f0"
     },
     "media-kit": {
-        "1.4-release": "0fcf61f79dfda681b918faac65cba423d4a209c9"
+        "1.4-release": "2258c634913207d5b6c65efa9108e19822d5368c"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
@@ -69,7 +69,7 @@
         "3.7-release": "b4ce5036dfaabf21c21f7be49398372125ae8920"
     },
     "python-modules-kit": {
-        "1.4-release": "cb46a6b791dc470b1ff98bd250561b77dbf55ccc"
+        "1.4-release": "7af733ac66b7699c71a66939318cb2b42727f5c7"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
@@ -78,7 +78,7 @@
         "2.7-prime": "1b02498edc2b3c12ef19f1bf7d3a679f9e3a69c4"
     },
     "science-kit": {
-        "1.4-release": "8c376f8fd4dd38f087d5d48a961947e045a1bab8"
+        "1.4-release": "d99c5f442bfc5c0b6372f73f1430606add778fa0"
     },
     "security-kit": {
         "1.4-release": "4eb4c1ce199274578f0e93b836ab2540bbdacb36"
