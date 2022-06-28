@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "dc16a61501ee1f1b3d2c30802476145bec885c5d"
+        "next": "23f39046fb40a32158ce00dc58fe6da9fb0a395a"
     },
     "core-gl-kit": {
         "next": "3340303ace41b17d2324648d69a461986c8e131a"
@@ -15,13 +15,13 @@
         "next": "04bc944d0c89ef2dfe6a715e9e12f0845d70c2b3"
     },
     "desktop-kit": {
-        "next": "6c3dfa6e4dd77c032d35e67ddb58edc091e3abce"
+        "next": "bc5784c3dff9d8b3511f1d0fe04cb16b4f89345e"
     },
     "dev-kit": {
-        "next": "b1310722223ace7f82b0bbc8f6b27a1cf408294e"
+        "next": "61c7016f4a26ff8e272d10c7efe870065e8df722"
     },
     "editors-kit": {
-        "next": "ba56466a139610e3dadfbda03a8ef3fa435074a2"
+        "next": "e32d5d620392be2830fa74e35ed5286793a877f1"
     },
     "games-kit": {
         "next": "695c10b32164e231f8742501a47487dea3a410da"
@@ -39,7 +39,7 @@
         "5.23-testing": "1322eeaaffd20478da08dc1a1fc99ac63baf680a"
     },
     "lang-kit": {
-        "next": "de185a18b456f007322bb9006289e4aa4dd4132b"
+        "next": "40510bc756ac43b2d840f4c6733fed6d89a9b848"
     },
     "lisp-scheme-kit": {
         "next": "6e2f47d7b0e35134a2c61897dabcfb4e73232009"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "02bd7359bdc012dff6adc3a6b071278f0dd2cd72"
     },
     "media-kit": {
-        "next": "2521e66f458b2c274fca9143c1c1e31342e1f6fa"
+        "next": "ca23fda28acb32d70bb48eb6f9ae4af25f0f9195"
     },
     "ml-lang-kit": {
         "next": "c2d5657f14f86071e0b71eac02083b427dda3071"
     },
     "net-kit": {
-        "next": "55299ef2540f2a8346abcad90f388f3bdec1aed3"
+        "next": "09de7277eef5b1be0f5567c39524e5fd77753915"
     },
     "perl-kit": {
         "next": "48caf4c42c633d6821a04a9dacd9f0353e8e7b23"
@@ -66,7 +66,7 @@
         "next": "2bb61e59e9dd2c27207fcae945e92ff1bd538189"
     },
     "python-modules-kit": {
-        "next": "a54bebd194645d23c55a43a6cc459ab185bdcf46"
+        "next": "f35c3e0947cab41d010eec2a8fe8092b04ea7478"
     },
     "qt-kit": {
         "next-5.15.2-release": "479265104e80ca735bfc5214717187bc199e09a9"
