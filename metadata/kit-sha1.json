@@ -6,10 +6,10 @@
         "2.0-release": "8cdb1c3ad485e463734bbaba532a528f43de710d"
     },
     "core-hw-kit": {
-        "1.4-release": "17f7704f4211e58a91d58286b4f5f8e13b954e55"
+        "1.4-release": "d928758d6fdac29398e138a7ff3b2ba4f5b61998"
     },
     "core-kit": {
-        "1.4-release": "ee8e0cd843ffcbf2597f781a71b1c33bff24af97"
+        "1.4-release": "8757d7af7bb4b47e301ac6edfde905788892b5d2"
     },
     "core-server-kit": {
         "1.4-release": "405f7ee3eb1c15781df697660b8ce8b14cba2b8b"
@@ -18,10 +18,10 @@
         "1.4-release": "6241f6f3ad958e11e6ac75c9e31e79112a6da2a3"
     },
     "dev-kit": {
-        "1.4-release": "4f88b5ca28f4b5ffa614257d01851882867fa435"
+        "1.4-release": "16bc57e83ade3ec28fce9fc4b91058531d9ce32a"
     },
     "editors-kit": {
-        "1.4-release": "82d5023263dc39cc1b3411882e3ccba0d320e19c"
+        "1.4-release": "8f4b44d24a9b3b878a50987fdc548c9cbbd40fb1"
     },
     "games-kit": {
         "1.4-release": "95cad2104bfe6cecb3b4c7de142412f820840b1b"
@@ -39,7 +39,7 @@
         "5.22-release": "b96f55b4e373ddb8a52e913d7e869457ce7918f5"
     },
     "lang-kit": {
-        "1.4-release": "a540f516885ad3e6eb04ef9c79155e5dcc5216b9"
+        "1.4-release": "e53c40abb0bcb30f2bcfb581552b1ab85000bbb0"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -69,7 +69,7 @@
         "3.7-release": "08be920aeaefd1e0827d96667f6aa1b4846285d0"
     },
     "python-modules-kit": {
-        "1.4-release": "1891e248c4b3445aff0711181c5b1968979d21a3"
+        "1.4-release": "44d51cd462734cef034603d26176ef71b0c2ded5"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
@@ -84,7 +84,7 @@
         "1.4-release": "1066271b119d587333c9c68159083544123ea506"
     },
     "text-kit": {
-        "1.4-release": "18daf90ac8f73cb66f06c1037cb6a1dc6d1d7f0b"
+        "1.4-release": "fb4198fc8757464251d5ddef9e1beb6af9b6eab1"
     },
     "xfce-kit": {
         "4.16-release": "62ec19a686a9c3adf301b15662df85340007f719"
