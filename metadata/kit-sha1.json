@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "b434c8dce02c90e5013ed08606dc69cc15a27fc5"
+        "1.4-release": "6f55bfda0b4e2080beb0b86851cc70901c6cd148"
     },
     "core-gl-kit": {
         "2.0-release": "8cdb1c3ad485e463734bbaba532a528f43de710d"
@@ -12,13 +12,13 @@
         "1.4-release": "8757d7af7bb4b47e301ac6edfde905788892b5d2"
     },
     "core-server-kit": {
-        "1.4-release": "405f7ee3eb1c15781df697660b8ce8b14cba2b8b"
+        "1.4-release": "68bed47595f26f375bfe8bb5ac25607e3807a67d"
     },
     "desktop-kit": {
         "1.4-release": "6241f6f3ad958e11e6ac75c9e31e79112a6da2a3"
     },
     "dev-kit": {
-        "1.4-release": "16bc57e83ade3ec28fce9fc4b91058531d9ce32a"
+        "1.4-release": "d098bab232cc43d0e93a65b267dfd7f06874bcf2"
     },
     "editors-kit": {
         "1.4-release": "8f4b44d24a9b3b878a50987fdc548c9cbbd40fb1"
@@ -36,10 +36,10 @@
         "1.4-release": "855de741c45775033c01b5e545331e167fbbff35"
     },
     "kde-kit": {
-        "5.22-release": "b96f55b4e373ddb8a52e913d7e869457ce7918f5"
+        "5.22-release": "9acb153a8a26b34d731c0a4759ebd31286e86bbc"
     },
     "lang-kit": {
-        "1.4-release": "e53c40abb0bcb30f2bcfb581552b1ab85000bbb0"
+        "1.4-release": "6903a83c4bab521b92268faefcbe9ca6539bb223"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -51,7 +51,7 @@
         "1.24-prime": "047d1be0ac55c81c4d18364934530487666be423"
     },
     "media-kit": {
-        "1.4-release": "370a46493a1f4bb803275655594d0173a79e8bc6"
+        "1.4-release": "1a99c95fa9a401f04f4e6d29929eca5df929d101"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
@@ -69,7 +69,7 @@
         "3.7-release": "08be920aeaefd1e0827d96667f6aa1b4846285d0"
     },
     "python-modules-kit": {
-        "1.4-release": "c78a5b842adea206cc49f12dcb9fc3105adc256c"
+        "1.4-release": "0adee3cd44ed6742b113f712157dcaf610e92a41"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
