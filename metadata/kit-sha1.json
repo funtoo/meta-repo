@@ -12,22 +12,22 @@
         "1.4-release": "8757d7af7bb4b47e301ac6edfde905788892b5d2"
     },
     "core-server-kit": {
-        "1.4-release": "68bed47595f26f375bfe8bb5ac25607e3807a67d"
+        "1.4-release": "9d2217816d9427046f4ba29f1bf7be583d81497f"
     },
     "desktop-kit": {
         "1.4-release": "6241f6f3ad958e11e6ac75c9e31e79112a6da2a3"
     },
     "dev-kit": {
-        "1.4-release": "d098bab232cc43d0e93a65b267dfd7f06874bcf2"
+        "1.4-release": "ecdeea3f54f14ab512fd67e47c1408ae2e109f19"
     },
     "editors-kit": {
-        "1.4-release": "8f4b44d24a9b3b878a50987fdc548c9cbbd40fb1"
+        "1.4-release": "d45c0ca65e2fad616a5d6eefc100ff291d71d178"
     },
     "games-kit": {
         "1.4-release": "95cad2104bfe6cecb3b4c7de142412f820840b1b"
     },
     "gnome-kit": {
-        "3.36-prime": "9391199ca740c6989e097dc27928ccd6b659e114"
+        "3.36-prime": "90c7abe27415669647d2dada26bcd0a40d26aaf8"
     },
     "haskell-kit": {
         "1.4-release": "0568fc9e50e7363e5e718c7695ea803c70b23301"
@@ -39,7 +39,7 @@
         "5.22-release": "9acb153a8a26b34d731c0a4759ebd31286e86bbc"
     },
     "lang-kit": {
-        "1.4-release": "6903a83c4bab521b92268faefcbe9ca6539bb223"
+        "1.4-release": "cb2981df32884594bd61afea9566532ab0cc18cf"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -60,7 +60,7 @@
         "1.4-release": "7a37a289c779befca784e4ee59ab02732e8284fe"
     },
     "nokit": {
-        "1.4-release": "6f4588af68d4b4b8cd1678e9d63120f7218a4657"
+        "1.4-release": "b31c68704c4f85c0008ec02b3a78dfb912dfd8ec"
     },
     "perl-kit": {
         "5.32-release": "fa5b26efe19b1fabb2a21262876c582117f8d7f4"
@@ -69,7 +69,7 @@
         "3.7-release": "08be920aeaefd1e0827d96667f6aa1b4846285d0"
     },
     "python-modules-kit": {
-        "1.4-release": "1c769eaf0aaa616d56a3ceaf6d6e6347e4e28db8"
+        "1.4-release": "30bd0ad80f214ec7a1634c519c9dbf0271a0391d"
     },
     "qt-kit": {
         "5.15.2-release": "cce4c66ff7a42e443fc07311797411578e85c416"
