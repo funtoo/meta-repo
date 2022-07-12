@@ -9,16 +9,16 @@
         "1.4-release": "28428d9405aef07ecdc49ea337c42f0d3134886f"
     },
     "core-kit": {
-        "1.4-release": "b84f66f2f85399b9559651f72c5a8048a0d23f9e"
+        "1.4-release": "884ccf6f37fbd1553c0c3135f358620ed378204a"
     },
     "core-server-kit": {
-        "1.4-release": "b7f8507e807df48ade6d05f2a32b02850cd6fcef"
+        "1.4-release": "89e2778aafb01e194c0d3bf9cf26b89d9928fe6a"
     },
     "desktop-kit": {
         "1.4-release": "dc88d5accdd2edd3fcf88ba503a1768266fb20fd"
     },
     "dev-kit": {
-        "1.4-release": "5adcbd16a396191d00ccaf8ac02783530a9160af"
+        "1.4-release": "c3663377ca6e111a02626b3ccfcc2e42df905cbd"
     },
     "editors-kit": {
         "1.4-release": "6befbb377e9e7c9cec1bdb06007a4717d7b2d0d0"
@@ -39,7 +39,7 @@
         "5.22-release": "756f949746829541d9d8419269c9dba4ab75319b"
     },
     "lang-kit": {
-        "1.4-release": "41dd014e67303e1be49dc4087d03098235c35b13"
+        "1.4-release": "536260ed37f66efda5a376369483a636729dfc04"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -57,7 +57,7 @@
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
     },
     "net-kit": {
-        "1.4-release": "555071ff22324e4fc0ede23672c933a96685ab26"
+        "1.4-release": "327a98db8d09bcb6fa774e1faa8d191eef4fb507"
     },
     "nokit": {
         "1.4-release": "7b657b440d9a4c015802defc0ce7da4ff02a48f0"
@@ -69,7 +69,7 @@
         "3.7-release": "eae607bd5d6e1fc610e96023b75033481cebb99b"
     },
     "python-modules-kit": {
-        "1.4-release": "aff08f80ee3e5e6482af18d0fbd4f641a3b7ff69"
+        "1.4-release": "8aaf362d03d4befbf708f1012230cc14f071c8bf"
     },
     "qt-kit": {
         "5.15.2-release": "93b73658cfb5ce2f8c20b965a2b2778bcc193657"
@@ -81,7 +81,7 @@
         "1.4-release": "fb8ac73558a07c3b3d37f85e5306006cef5f6bee"
     },
     "security-kit": {
-        "1.4-release": "ad4d7d57dee6e69a21f2ac137d8aa81dd3f8a11e"
+        "1.4-release": "93a15d060b2d68c92f3a63fc9976ff17392e1b9c"
     },
     "text-kit": {
         "1.4-release": "3ca97e122840a3023b0d4693d6505c3ef86db537"
