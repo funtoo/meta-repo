@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "f80b4055b9fc478964b94b49b4eadefc21181555"
+        "1.4-release": "d5cd5aeb985e05d2783eafb52b3de1e46c61bde0"
     },
     "core-gl-kit": {
         "2.0-release": "4572b0a731e7ace9232abec19b29b9000e58e191"
@@ -9,16 +9,16 @@
         "1.4-release": "9e005c77927bccf517440521c34339f21a61215f"
     },
     "core-kit": {
-        "1.4-release": "a3f5d986e351266dff114ef26f7f2ab0468db40e"
+        "1.4-release": "ccc3584d28d87505a296e494a1a726e76912e9da"
     },
     "core-server-kit": {
-        "1.4-release": "12fb94a2a37d4992affebc019d847a4809e42e7c"
+        "1.4-release": "ec4a3b4577e9ace42b56c5b26fbcfe0e6f76d089"
     },
     "desktop-kit": {
         "1.4-release": "72f27671d3981b8fee9008f8041a51e328229ba7"
     },
     "dev-kit": {
-        "1.4-release": "d22cc57a4dedbc54a11bc4cc14d5449d5e65f950"
+        "1.4-release": "b9679c453a808495bebd4ec070c1204c64fe264a"
     },
     "editors-kit": {
         "1.4-release": "12162957dfde0e9227cae156ef3711f20f28a1a1"
@@ -51,7 +51,7 @@
         "1.24-prime": "778e1842d66bb7ad8de0c57981850556400c5e1b"
     },
     "media-kit": {
-        "1.4-release": "6f8e4ba4571452ac66c8a9d4f22498b1ac1d050c"
+        "1.4-release": "531184dbfd5f7d3758414d5de43089f8cf3ce89e"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
@@ -69,7 +69,7 @@
         "3.7-release": "a575334cd276f9263a50e352e928e7ad1cfedef1"
     },
     "python-modules-kit": {
-        "1.4-release": "d99801edffc330985523a6f1e1201c747358c0b1"
+        "1.4-release": "3d3f3ee315b378c5d340d1e4464fad443c1e41c3"
     },
     "qt-kit": {
         "5.15.2-release": "2bd9e2180d9e06ee7eb45effbca2111fa43a134f"
@@ -78,7 +78,7 @@
         "2.7-prime": "1b02498edc2b3c12ef19f1bf7d3a679f9e3a69c4"
     },
     "science-kit": {
-        "1.4-release": "e717eda6e170b7a86d45d1de5fa52768c17152c8"
+        "1.4-release": "22d263231789698eb8c3a54612fcbb725cebaafa"
     },
     "security-kit": {
         "1.4-release": "b1a3c60de35c51f97f3f37c1dba381524b0be97c"
