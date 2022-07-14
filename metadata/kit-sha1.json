@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "1.4-release": "3863cfc0cc9b85d00462a510b62902b4124d09a0"
+        "1.4-release": "e45d9c85801107ef9576e133209fb2d360ecfc39"
     },
     "core-gl-kit": {
-        "2.0-release": "4572b0a731e7ace9232abec19b29b9000e58e191"
+        "2.0-release": "0609ca43e93846cfe50c2df15b9e28375e582015"
     },
     "core-hw-kit": {
         "1.4-release": "9e005c77927bccf517440521c34339f21a61215f"
@@ -12,13 +12,13 @@
         "1.4-release": "27d4d49a9eae507dda550d92ad692890c1275cee"
     },
     "core-server-kit": {
-        "1.4-release": "b6f96d97e3535ba771ae509f7bc687f278896fe7"
+        "1.4-release": "439ca020b59052cd4eb858b0af7c88a7489415c6"
     },
     "desktop-kit": {
         "1.4-release": "a25132cd04a5ea22508b803891ebdad911bd418b"
     },
     "dev-kit": {
-        "1.4-release": "35dbc7332d4221b44f0f6e4f732e80de5f046d56"
+        "1.4-release": "14cc97a9e846f7d6e38befacd0dc853a499cbfa9"
     },
     "editors-kit": {
         "1.4-release": "03c6f2d33fb2d8e9851a44c19d70c4cb5acd81e3"
@@ -69,7 +69,7 @@
         "3.7-release": "a575334cd276f9263a50e352e928e7ad1cfedef1"
     },
     "python-modules-kit": {
-        "1.4-release": "6dc6c70c7013b2a902d6fa4d0f2683a4b3d282b2"
+        "1.4-release": "2441daabfe1f0ffe3cc4f2b8061f300d92272b52"
     },
     "qt-kit": {
         "5.15.2-release": "2bd9e2180d9e06ee7eb45effbca2111fa43a134f"
