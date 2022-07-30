@@ -3,22 +3,22 @@
         "1.4-release": "3f05dba72d6e5b41d3cfa69f53292de5de01d0ef"
     },
     "core-gl-kit": {
-        "2.0-release": "86781d60104698917c295228cce28cf8760b2717"
+        "2.0-release": "04d5f6aa953cf949ff950e37ba77dc9f9b7d2154"
     },
     "core-hw-kit": {
         "1.4-release": "67c8338c1fd0e261f5bc0d12f950ae9bb1e1cede"
     },
     "core-kit": {
-        "1.4-release": "1df599ed86bd4de86b4183f58c4440e8ac2869e3"
+        "1.4-release": "0867cd72ae18877624337c13fc4ca3270b576375"
     },
     "core-server-kit": {
-        "1.4-release": "79791256056562bfbc4713a175bf43fe7c971c64"
+        "1.4-release": "b4501f36855962ce46cbab1de3da9130ac0b59c7"
     },
     "desktop-kit": {
         "1.4-release": "a6c836f3a5e3368c23f7491e3372b318b1eb4750"
     },
     "dev-kit": {
-        "1.4-release": "de7de5111fbba30566fc3d3ea24e66ef3e3a8632"
+        "1.4-release": "8f48b45511fe6aa11cea74fedcfdabf23b224b19"
     },
     "editors-kit": {
         "1.4-release": "716c474f32fced4e63f51544e50b0c7309b15a20"
@@ -39,7 +39,7 @@
         "5.22-release": "75ae0f2c6d4decc7376e6ede67a4534b0094b85f"
     },
     "lang-kit": {
-        "1.4-release": "a72c1c733b8a17c08ea82f4d086c2d09e96bf915"
+        "1.4-release": "a0ba319f552cc2cdb59d3ee1275008d4b59a328f"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -69,7 +69,7 @@
         "3.7-release": "67cd89a8c63468c8cd8120f75e58f629caa15d30"
     },
     "python-modules-kit": {
-        "1.4-release": "44b9f5c405a9398245aa44388a8db66853c80fd1"
+        "1.4-release": "12bdcb47bccdc05bf87aa81479bab62be0742ca7"
     },
     "qt-kit": {
         "5.15.2-release": "139e3aa5e2f5e27f256203d3b315058cab2107ea"
@@ -78,7 +78,7 @@
         "2.7-prime": "260349fe0088dd01e1b77c4f8d2128743082c73e"
     },
     "science-kit": {
-        "1.4-release": "c6157bd9cee9098d93e380ebdc246b2536ff9557"
+        "1.4-release": "a3e1fe0415a5202ee5fe929bbd019bfb3cfdd0a0"
     },
     "security-kit": {
         "1.4-release": "0410b54e5cd3c586da36612bc53cfdd390226108"
