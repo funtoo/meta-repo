@@ -27,7 +27,7 @@
         "1.4-release": "5d546588bf8ccbcd58bf1c8f7f84bb73bc48b0c4"
     },
     "gnome-kit": {
-        "3.36-prime": "6fecd38db858518d607550b6be2d69dfdbb6981a"
+        "3.36-prime": "f47e4c1d446c4fdfe20d64aeaa275ece28aff459"
     },
     "haskell-kit": {
         "1.4-release": "0568fc9e50e7363e5e718c7695ea803c70b23301"
@@ -36,7 +36,7 @@
         "1.4-release": "97271cbc6c868638b0bef4709afcf8ac35e8ab95"
     },
     "kde-kit": {
-        "5.22-release": "9be06d333222deac7e57e93581df925a325a7348"
+        "5.22-release": "7e790fbe599043ffaeac91b1f8a2447f3354af38"
     },
     "lang-kit": {
         "1.4-release": "f47c6b0872ff7ce06ac13adccb599c761d6e85c0"
@@ -48,7 +48,7 @@
         "1.4-release": "1d05db7ae7f18fb62e7dda0821ded33909ac01ee"
     },
     "mate-kit": {
-        "1.24-prime": "21e66e5379b1fbdb28d0e6b2ba361dae51cf6486"
+        "1.24-prime": "212c5ac09feca88b003a06aabbdcc2cfd9c4571b"
     },
     "media-kit": {
         "1.4-release": "7b14938154db053ca29755d84c01f8a94cf09f5d"
@@ -63,16 +63,16 @@
         "1.4-release": "c6567985a220c793fa615f7c2cf83ba0e0f011c9"
     },
     "perl-kit": {
-        "5.32-release": "499b76a0abb4d2e112a1732ca001cef00d6881e9"
+        "5.32-release": "5448ff95a1841905ffe2186061c8570f25ada4ce"
     },
     "python-kit": {
         "3.7-release": "d45c8029c3798d61c73e10f0db3a162b88ad212a"
     },
     "python-modules-kit": {
-        "1.4-release": "ee063de77521caae07135a3713b4afcacb8252ba"
+        "1.4-release": "48e33ca7726f8bb8fde0b26e160977c0b5f95900"
     },
     "qt-kit": {
-        "5.15.2-release": "a8715b9e409193138997590a16d7ead81a448541"
+        "5.15.2-release": "a361885e934712e9e6122d7db2271c35f9c0a760"
     },
     "ruby-kit": {
         "2.7-prime": "260349fe0088dd01e1b77c4f8d2128743082c73e"
@@ -87,6 +87,6 @@
         "1.4-release": "d6493d04ffe50c233c02f81845c2cac9dc5cd8bc"
     },
     "xfce-kit": {
-        "4.16-release": "5306165e08139140cccf78f7d73301edf1fb5ecc"
+        "4.16-release": "23d150aef89202286ff2bb313db965206a9831b1"
     }
 }
