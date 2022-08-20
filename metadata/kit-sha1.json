@@ -9,16 +9,16 @@
         "1.4-release": "6ab23c2cfec7bcf6d978fcf662a37ca2a8a2b9b2"
     },
     "core-kit": {
-        "1.4-release": "926dfcb9cf760aa23a62c96a3f87044ded250ce8"
+        "1.4-release": "acf8ccd7bd55982448db4a35cc76c5be2515428c"
     },
     "core-server-kit": {
-        "1.4-release": "6d0b4b731e0592dc4e49d7fce24c25f241d7bf15"
+        "1.4-release": "dbf278fc114e3d5141189449fdc736dc1a4fb5bd"
     },
     "desktop-kit": {
-        "1.4-release": "f446f67d35e98c36caea710376a16079c39d6873"
+        "1.4-release": "7935c48325248906decd44e2246721956d20994e"
     },
     "dev-kit": {
-        "1.4-release": "db0181d0e3e3692937a35d61bf7f49daaf7275b3"
+        "1.4-release": "a098c077b09e2bf6a06de66624336dc8db6b395b"
     },
     "editors-kit": {
         "1.4-release": "1193c0da135a5e7ad27603662da6acb6476dc3fd"
@@ -33,13 +33,13 @@
         "1.4-release": "0568fc9e50e7363e5e718c7695ea803c70b23301"
     },
     "java-kit": {
-        "1.4-release": "51cd45d5d71bf4af5dfb1cc9d91ee227d0a351b4"
+        "1.4-release": "23286b96dde264a95a2f28beced1d4d241b4110b"
     },
     "kde-kit": {
         "5.22-release": "7e790fbe599043ffaeac91b1f8a2447f3354af38"
     },
     "lang-kit": {
-        "1.4-release": "4a12a89d1d000a1824a1314edc8d815f0bf7dd38"
+        "1.4-release": "9e1077e671a7a17a7adcaf51b034c062b9041c2f"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -57,7 +57,7 @@
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
     },
     "net-kit": {
-        "1.4-release": "27db266e789d2c07aaf4f1d7fba680e352079698"
+        "1.4-release": "58508a5be8f1df340ca198232a5581e98007cdc2"
     },
     "nokit": {
         "1.4-release": "c6567985a220c793fa615f7c2cf83ba0e0f011c9"
@@ -69,7 +69,7 @@
         "3.7-release": "d45c8029c3798d61c73e10f0db3a162b88ad212a"
     },
     "python-modules-kit": {
-        "1.4-release": "2b7182140d27c8be092509f28eca64be538c2740"
+        "1.4-release": "ff62944f90dc42b161fc4a9d075623ba89011a31"
     },
     "qt-kit": {
         "5.15.2-release": "a361885e934712e9e6122d7db2271c35f9c0a760"
@@ -78,7 +78,7 @@
         "2.7-prime": "260349fe0088dd01e1b77c4f8d2128743082c73e"
     },
     "science-kit": {
-        "1.4-release": "f7a9b78b007edfd31202b2af1cbc382b5133c688"
+        "1.4-release": "38641ed861e663dc4c85a664cde14101e0cb5a46"
     },
     "security-kit": {
         "1.4-release": "69e07b9ca9ac3a2456fae5aa7739971ec702f340"
