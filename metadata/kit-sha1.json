@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "9334b59bb39052cfe33db8580c09bff00a530fb3"
+        "next": "80f027cc9107e2dc17fdb2bf4aab8e31b9e21ab1"
     },
     "core-gl-kit": {
         "next": "6e2d1068aef4ab8f7ab94e3708de320c1ddfb157"
@@ -9,19 +9,19 @@
         "next": "81ed9b9d861c3d7249679de99918ebe882b140b3"
     },
     "core-kit": {
-        "next": "7b6d98721e8d906bf1f2921e2b3fc94b3d4935e0"
+        "next": "b4eff7a6be9bb71ea8060e407c5d74d1cb0837c0"
     },
     "core-server-kit": {
-        "next": "be302c774131ff0eadde6dde511dad79e69095fe"
+        "next": "99cb8f1b5ade4b78c010148175378a7852730964"
     },
     "desktop-kit": {
-        "next": "7848ae97605930581fa9b3b07c469bc8b67d827f"
+        "next": "3a657ca2b7f88493f23dc58c6d579a74bd3493db"
     },
     "dev-kit": {
-        "next": "c80af4dc486ae3df2d4cfb2dd0a431faeda5fae0"
+        "next": "da714fb359b8ef6bdbb6c6c882c1d74c78d88338"
     },
     "editors-kit": {
-        "next": "82e1a944ec5e73f58807d07244e0bc1dcf064829"
+        "next": "b620e6b0a449a98ee8ff296c5cfd6b3ddfb454c9"
     },
     "games-kit": {
         "next": "63d27ae633ba2cd95d5dbdcb7555ebb1a0e9802f"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "6d48fa9927902f8fac250484bda43edbe5b287e1"
     },
     "media-kit": {
-        "next": "bee1c034a3a1100590507f80d253c98e83b45c90"
+        "next": "a33fa2c67d0b34b24f135ec2b7046272d91743e0"
     },
     "ml-lang-kit": {
         "next": "c2d5657f14f86071e0b71eac02083b427dda3071"
     },
     "net-kit": {
-        "next": "d75aa126be64603d2fd6ee04617cfad16878f8bc"
+        "next": "0e115673af0d79794e8fe21e43793ec8a5c5bd1b"
     },
     "perl-kit": {
         "next": "3d537a523ea3385c26bc279c759a9bd0d0d54c26"
@@ -66,7 +66,7 @@
         "next": "7d29866d76c012a39c25dfedc93ebe9f82eb4525"
     },
     "python-modules-kit": {
-        "next": "3dd0273e5647e5af95ed0fce5d367b6d47154fc8"
+        "next": "f0876d60d2aaed4e9fe767d42d7a857eba044bcf"
     },
     "qt-kit": {
         "next-5.15.2-release": "3adca63524b7ee866d86da1657cbd8932c46deda"
@@ -78,7 +78,7 @@
         "next": "da9d642630ab7c167da6cdf9aade1e95735f75a4"
     },
     "security-kit": {
-        "next": "3f93ea38480a01161585cc2923e92a048a1d3562"
+        "next": "c9af5fa744851ec23c5edd5df7ab6b19406bdce0"
     },
     "text-kit": {
         "next": "15556b6eb5369dae6b531c5e025844a8c8d8484c"
