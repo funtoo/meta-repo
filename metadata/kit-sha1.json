@@ -1,30 +1,30 @@
 {
     "browser-kit": {
-        "next": "9e5b3fd7ed32e6d31c92aa0886f0a9ca9c5f101e"
+        "next": "ff2823bd9693c23aae98724d572c6d5656efe6e0"
     },
     "core-gl-kit": {
         "next": "712d9ee739985b69833016aade585083495c6e7b"
     },
     "core-hw-kit": {
-        "next": "16e5b84dac5ebeb6c7471470ee269c2ee80715ba"
+        "next": "fa7bd94415cf30b389b4ec409ffdc0fc759016cc"
     },
     "core-kit": {
-        "next": "1fb682825bb6de0847f1b9181c5fca0eee259c18"
+        "next": "af0bb5521f12f425e59061a98c4f8e94b0d961e2"
     },
     "core-server-kit": {
-        "next": "4153dcd43aac8b653ba754b7b328d5e34fbfa2da"
+        "next": "e6eb79a033ce1c36b60bcf466efff46ea84ca042"
     },
     "desktop-kit": {
-        "next": "abb8f18c842e3ac86181bf0768e4ceabf9105bd1"
+        "next": "e0ec946030469e9da7945666a16ed0400deea7af"
     },
     "dev-kit": {
-        "next": "49d739a80025b217a3e4d8dd6c2698eccf356bf6"
+        "next": "b98dbd726d1220f83b881bd36bff53a4aba1a848"
     },
     "editors-kit": {
-        "next": "5eeaf6faf3acc836830c1c9c9b31723e37d831b5"
+        "next": "82f1df1f79f2c833a3fd42ab754377207ecac0fa"
     },
     "games-kit": {
-        "next": "63d27ae633ba2cd95d5dbdcb7555ebb1a0e9802f"
+        "next": "8232f38d4e6b411192fd10164f850b3bea7bc4ec"
     },
     "gnome-kit": {
         "next-3.36-prime": "8c4512dbe25f1e74c08f2955d405fcad1c2edec8"
@@ -39,7 +39,7 @@
         "next-5.24-release": "95077f0bdecf50b63e72e2dcb4c06ca2d10584ff"
     },
     "lang-kit": {
-        "next": "e38923b144830668bfb6d50c40e27cb294e5acf9"
+        "next": "94715e997fe2525973c5f7ccc7ec902dd4ea3474"
     },
     "lisp-scheme-kit": {
         "next": "6e2f47d7b0e35134a2c61897dabcfb4e73232009"
@@ -66,7 +66,7 @@
         "next": "7d29866d76c012a39c25dfedc93ebe9f82eb4525"
     },
     "python-modules-kit": {
-        "next": "99ed3a5a07ea3c7749a9a257e67e06faa99a0383"
+        "next": "507aed63a61497c50637b216e513c6673c2f7139"
     },
     "qt-kit": {
         "next-5.15.2-release": "3adca63524b7ee866d86da1657cbd8932c46deda"
