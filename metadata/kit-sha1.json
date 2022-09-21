@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "533b05ff59aa3c8533185b5f60efa5018d258fb3"
+        "next": "6e2dca13e6e22328776c13da39de3921a780cc60"
     },
     "core-gl-kit": {
         "next": "69e4ef4e0d46e44c07f90847b58ee130a3f96a67"
@@ -9,19 +9,19 @@
         "next": "007cba2f407a766c56cd4781f0a419998ef2d592"
     },
     "core-kit": {
-        "next": "6e418964d794fc5e6c8473a874ba1fe7cd2c83d2"
+        "next": "23f22312df45ac26d42140374a4948fd72159eb0"
     },
     "core-server-kit": {
-        "next": "b73785df9c41c3e53943a47867c9e1e31af0e500"
+        "next": "4aa1c344a94e80f0bf84bcceebe5ac830641828f"
     },
     "desktop-kit": {
-        "next": "2513e8b266e11c28f3ddcc221e4c6fa057d86477"
+        "next": "78f214d9b998d39c65f5d088c4c13bf40178ba8b"
     },
     "dev-kit": {
-        "next": "73e64e26f2517a933cda2b5f6c6be1fd8f29437d"
+        "next": "3954820bced9073ebd2708adcf2b07ef378146b5"
     },
     "editors-kit": {
-        "next": "38006426eeda0d28fe6e0b0a214a9b41cb808a42"
+        "next": "069c766e137a1d784b040a3fac9bd27cbed47e41"
     },
     "games-kit": {
         "next": "c8216d0e22c4cdcf0b62d3cc373b6803f14b8fb4"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "d58148fc8ff1236bc50b4122123517d57659c391"
     },
     "media-kit": {
-        "next": "aaad46a7a347175f14f486c90ed759ca341c0739"
+        "next": "53f196e7a5139f89a65bf8697fd077b84bf0f551"
     },
     "ml-lang-kit": {
         "next": "c2d5657f14f86071e0b71eac02083b427dda3071"
     },
     "net-kit": {
-        "next": "03a04b2d38e50bbd29f6b310ae512c53dc3790e2"
+        "next": "f3b55399165f8811ce647c7f522b0b8cb10e2c0f"
     },
     "perl-kit": {
         "next": "f41f8541437d4981be60c9fb651073751527df2c"
@@ -66,7 +66,7 @@
         "next": "392e567a4017ec3b684f0f81e3a3e29274380100"
     },
     "python-modules-kit": {
-        "next": "f9532780d1b4cdb18e148428c570977cad90a253"
+        "next": "a26841effdd7abb350039b632d3cd8f64020f54e"
     },
     "qt-kit": {
         "next-5.15.2-release": "09f17adfcf66b71df55bcd59a207f1067bd38583"
@@ -75,7 +75,7 @@
         "next": "cf8c78971a6dc32ec7fffbdec5d949744383120a"
     },
     "science-kit": {
-        "next": "e2e006dc52129e57029440ed198fd6472b46751f"
+        "next": "cc5380547c848545eccc73773cd9e8ba7711fa66"
     },
     "security-kit": {
         "next": "49641ba85821690708fdafa99cc07e90a5e7deac"
