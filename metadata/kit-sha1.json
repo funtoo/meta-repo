@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "94e2bd6bcfd2f30b7aaac792a4d9c9eba7076ff6"
+        "1.4-release": "3d3241f94955360739585e0bff74af56e0083567"
     },
     "core-gl-kit": {
         "2.0-release": "a359d33dd37bc16110e7144e80995d0660f999d8"
@@ -9,13 +9,13 @@
         "1.4-release": "ecce04ce2b5d7200bda7535936ad05abbab9b619"
     },
     "core-kit": {
-        "1.4-release": "1b3367ff56dde6fbe8c88ab226a29c38308a6ff3"
+        "1.4-release": "4835ac701ed806a14000c3752d2a915a1a00938f"
     },
     "core-server-kit": {
-        "1.4-release": "ba96a8a3a43e55625969c222b997583fde70e737"
+        "1.4-release": "b9926cb2220a2989badc440eb41cc45a8f98114d"
     },
     "desktop-kit": {
-        "1.4-release": "c7d11d279cf18c25a26fae6ac85c7c7a733af21b"
+        "1.4-release": "dc64446f6db6e25e30c935b12c68fefd60aadc68"
     },
     "dev-kit": {
         "1.4-release": "681f74dab540d35ed88158855e0e1c829bb2f1ad"
@@ -51,7 +51,7 @@
         "1.24-prime": "2588aa91ff5038b421f817281dba1e311aa4976c"
     },
     "media-kit": {
-        "1.4-release": "97073655f6905c323f1a50f283e7fc39a0308141"
+        "1.4-release": "67a0a02d990c2e29ba5c81bc9fb94a809997d911"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
@@ -69,16 +69,16 @@
         "3.7-release": "f2ce898950e5b5b7f5e8b122f720af2f5d8f2be0"
     },
     "python-modules-kit": {
-        "1.4-release": "98710533d60498096f2b4b76a08195501bb0c5fe"
+        "1.4-release": "632622bc3b42411918df0accca9d66b90d3c7bdc"
     },
     "qt-kit": {
-        "5.15.2-release": "ff442c0d1f2bd35967a3cfe3f57de14016dc7b13"
+        "5.15.2-release": "00191173c93110e28ba25f925e92bbb94cc84400"
     },
     "ruby-kit": {
         "2.7-prime": "260349fe0088dd01e1b77c4f8d2128743082c73e"
     },
     "science-kit": {
-        "1.4-release": "fcf02ce1365e9b05aeff036e87db4cab62dd7f88"
+        "1.4-release": "c6344d2b11ab1dc3486d48e8b501344ca4fef93b"
     },
     "security-kit": {
         "1.4-release": "7f1f4d2e2387dc3e6cf22ebaf8c734a411299d71"
