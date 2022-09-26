@@ -9,16 +9,16 @@
         "1.4-release": "b126f65e072b4e308c3ab6747f09923c5ab41de8"
     },
     "core-kit": {
-        "1.4-release": "aa3882e9dd597c4980112496011d45420c3b2f5e"
+        "1.4-release": "adb56f4eee066ded4a91ff8079f83eaefad58468"
     },
     "core-server-kit": {
-        "1.4-release": "8e8eedd7ed04eb99e5272ad22fff5f012b78cfa9"
+        "1.4-release": "891e9166683a47b0c15600e2a4b0babfa5f24e29"
     },
     "desktop-kit": {
         "1.4-release": "7ac07dcd3409da3e47a05ba3458bd0bf7f4aa4af"
     },
     "dev-kit": {
-        "1.4-release": "aa632f9ec5ab48c2b65bdf7f8b4b6f5221615aa8"
+        "1.4-release": "0a8bc3c257782ec5661ee26e4a33cb0977174ddb"
     },
     "editors-kit": {
         "1.4-release": "0e7aaa7a9f2ebed8106bbff277be0e09d111e036"
@@ -51,13 +51,13 @@
         "1.24-prime": "2588aa91ff5038b421f817281dba1e311aa4976c"
     },
     "media-kit": {
-        "1.4-release": "4d0440a329441057d07ba2f9a0a536c513a1c91a"
+        "1.4-release": "5de28395d35e0997c7780c3a2722bda1746d081c"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
     },
     "net-kit": {
-        "1.4-release": "c00af84fa89caa3a628b18f1a7c7e4d11601d8e6"
+        "1.4-release": "512fc86648d8ec63d40f06f6c0595d87d7d3e9e6"
     },
     "nokit": {
         "1.4-release": "ddc851b5b16a9fc422202d2a386dbe8a58f6b881"
@@ -69,7 +69,7 @@
         "3.7-release": "f2ce898950e5b5b7f5e8b122f720af2f5d8f2be0"
     },
     "python-modules-kit": {
-        "1.4-release": "88813ccb651b08657a4bb1256e0bb540c5ceea33"
+        "1.4-release": "bce7c89e0a223d92aabe600ab79e6afdcdebf821"
     },
     "qt-kit": {
         "5.15.2-release": "00191173c93110e28ba25f925e92bbb94cc84400"
@@ -78,7 +78,7 @@
         "2.7-prime": "260349fe0088dd01e1b77c4f8d2128743082c73e"
     },
     "science-kit": {
-        "1.4-release": "7aa3b1596cadda3b8fb8836cedcd6d4b9e5aed85"
+        "1.4-release": "b3535a9349988165ba535d8cb4ad4943d43f99b2"
     },
     "security-kit": {
         "1.4-release": "7f1f4d2e2387dc3e6cf22ebaf8c734a411299d71"
