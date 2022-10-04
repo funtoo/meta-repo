@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "240a1c5b448b8c0697c6921dc3a9d611f98165f6"
+        "1.4-release": "3589a7730a8fbea711a84932a4d8e22f02044367"
     },
     "core-gl-kit": {
         "2.0-release": "931127be696a60fc503e68879a12a4cd60bfdf4b"
@@ -9,22 +9,22 @@
         "1.4-release": "b34fb1bf7aedc3a772ecd5fd829d18a04536357f"
     },
     "core-kit": {
-        "1.4-release": "410b0d3c8a039fdfb4cfa72e8881336dcf2e2250"
+        "1.4-release": "c3ccb44593996e57b0e708c66a847e866e0c7e91"
     },
     "core-server-kit": {
-        "1.4-release": "bcf828e4b8b7063ecbe9c0c0b6a77a5ded0b6be3"
+        "1.4-release": "edb001e90d6190cbcdd5fce39cf8ade211a1dc29"
     },
     "desktop-kit": {
-        "1.4-release": "782eee10b5200ee80a898d411d3b02f3454f4622"
+        "1.4-release": "cd01ad6089dee9ba83aedd61b75a2c045e2ad1a6"
     },
     "dev-kit": {
-        "1.4-release": "90bbff63873c4074a61af38eeb056cd8e6e23ad0"
+        "1.4-release": "f6a485a49fbf9902a67baac65e27999f4bd42a21"
     },
     "editors-kit": {
-        "1.4-release": "5d996757056bd7278276ebae0248d4dcf3171366"
+        "1.4-release": "8e8ea0339d09a9bca2eb5442fe48dcd9925c1253"
     },
     "games-kit": {
-        "1.4-release": "b2f8395ccc1732fd3d85148aa5ecafc21c642ccd"
+        "1.4-release": "6f1d2f43f47cceb77960137d2b0c1729e8443147"
     },
     "gnome-kit": {
         "3.36-prime": "683fdf041a34c80d63c5e009054ec0d24ef31a6a"
@@ -69,7 +69,7 @@
         "3.7-release": "f2ce898950e5b5b7f5e8b122f720af2f5d8f2be0"
     },
     "python-modules-kit": {
-        "1.4-release": "9dc237005be66620feb3c96122ad9483fbdc5251"
+        "1.4-release": "efcc6be3a74951affc320f8028ecc28360c4a1f4"
     },
     "qt-kit": {
         "5.15.2-release": "3cab7f9263f75b0baa5f4691546847841ce2218b"
@@ -78,7 +78,7 @@
         "2.7-prime": "260349fe0088dd01e1b77c4f8d2128743082c73e"
     },
     "science-kit": {
-        "1.4-release": "df18f38a507f660ac6f38b6f01bbfc08c1699041"
+        "1.4-release": "9e136ce3adc9ff3ddbc9a00ef8c93f5f6ff64e3f"
     },
     "security-kit": {
         "1.4-release": "8f7d0be66eb51f8157c5f33e879eabbf511b739a"
