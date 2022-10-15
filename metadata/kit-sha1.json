@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "fbd0dece9cde5008eb3ba0e0c4193bdc55d956be"
+        "1.4-release": "5d17f801db6a3ccde4c11dbfd78dfb5c3cd2395c"
     },
     "core-gl-kit": {
         "2.0-release": "9afa7e414d8d2c183f56ff71d2085435a0c25138"
@@ -9,7 +9,7 @@
         "1.4-release": "e39c708adbdf9260d37efefc45c6ade2aa5d1abc"
     },
     "core-kit": {
-        "1.4-release": "d9a371b8e7f633d1caf8c4e67338cee1bf9808d3"
+        "1.4-release": "d5cc5ea014c141e1ba4c5772f0917a3d06ba7859"
     },
     "core-server-kit": {
         "1.4-release": "a7918b4f5fd588047999ec919d8b9213660d3aa4"
@@ -18,7 +18,7 @@
         "1.4-release": "d358363f5f4f6f7a6c677f3a7f71b7b69018fdb3"
     },
     "dev-kit": {
-        "1.4-release": "29109cb5d47da22362d704bd462bb61a78857b4f"
+        "1.4-release": "68777c019c626696bc0acd990bb3424e9fd84d0e"
     },
     "editors-kit": {
         "1.4-release": "0f8f458125cba6f0246466c704f841fe031947a2"
@@ -39,7 +39,7 @@
         "5.22-release": "2ea1f5724f87490219f544c3c8b631d8f65dafec"
     },
     "lang-kit": {
-        "1.4-release": "c9c578a5b48b622592a28aab051eeeec031b59cb"
+        "1.4-release": "dca77a29549386a573f1944f8730590939fe66f3"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -51,13 +51,13 @@
         "1.24-prime": "2588aa91ff5038b421f817281dba1e311aa4976c"
     },
     "media-kit": {
-        "1.4-release": "bea18dfa9fb8a743d7e60976fa2af1de4dced1fe"
+        "1.4-release": "fdc2143b1170fbe8896cace7199a81bcf3dfbab3"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
     },
     "net-kit": {
-        "1.4-release": "6a39f616a4ada9f7bb775bbb1b932acc8e0501ce"
+        "1.4-release": "04e76d778c2568c425e1c522d4d7200924506f18"
     },
     "nokit": {
         "1.4-release": "4c73a92117e4731cef56fc7535896ae6bbb43918"
@@ -69,7 +69,7 @@
         "3.7-release": "211e59241e959676808dfb4c440903f0c3716bb5"
     },
     "python-modules-kit": {
-        "1.4-release": "3c257c778f414599058e18ae9703ce885de452ec"
+        "1.4-release": "1eac2ea36cdb22d509a42707f2486cfc71548dda"
     },
     "qt-kit": {
         "5.15.2-release": "ebac43fcbb44f0f9254216ca55c5ace30fce4b73"
