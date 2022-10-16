@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "5d17f801db6a3ccde4c11dbfd78dfb5c3cd2395c"
+        "1.4-release": "812d40e21c08fcc9ac61d2b6e6ac47ec5c071689"
     },
     "core-gl-kit": {
         "2.0-release": "9afa7e414d8d2c183f56ff71d2085435a0c25138"
@@ -9,7 +9,7 @@
         "1.4-release": "c1b699605361fe3be6a1a1c5cb42a2d078fcecb7"
     },
     "core-kit": {
-        "1.4-release": "c3a063f622e8c4ab664fbfd1adc2c2c7aeb9b307"
+        "1.4-release": "3a65e1bda575afea14a2c2468015be98a1fcb96f"
     },
     "core-server-kit": {
         "1.4-release": "a7918b4f5fd588047999ec919d8b9213660d3aa4"
@@ -39,7 +39,7 @@
         "5.22-release": "2ea1f5724f87490219f544c3c8b631d8f65dafec"
     },
     "lang-kit": {
-        "1.4-release": "db78005932130e2d5f57be3aa95a89755b3cb8d5"
+        "1.4-release": "53568b0beb27c484f7a25516d2b62b8dc90357be"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -51,13 +51,13 @@
         "1.24-prime": "2588aa91ff5038b421f817281dba1e311aa4976c"
     },
     "media-kit": {
-        "1.4-release": "7c66ed766b1d922180b3431db909c946d9df2c1f"
+        "1.4-release": "ea24854184c29e4d2149c6f18e8c3ccc0f79583e"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
     },
     "net-kit": {
-        "1.4-release": "6fa07efbff3c8acac66ee9e58314542cf3b8a1ed"
+        "1.4-release": "4807d02cee13b90e17031ec880cfc3a8921b179d"
     },
     "nokit": {
         "1.4-release": "4c73a92117e4731cef56fc7535896ae6bbb43918"
@@ -69,16 +69,16 @@
         "3.7-release": "211e59241e959676808dfb4c440903f0c3716bb5"
     },
     "python-modules-kit": {
-        "1.4-release": "af2ab906b781899e209ddfbfa0a06d84e06170e2"
+        "1.4-release": "32849f8852e698ab9c08d757b189148620f55f0e"
     },
     "qt-kit": {
-        "5.15.2-release": "ebac43fcbb44f0f9254216ca55c5ace30fce4b73"
+        "5.15.2-release": "36399d25f867618fb5f87ddf18bb88b17f279801"
     },
     "ruby-kit": {
         "2.7-prime": "1c3aaf2f40e7d632c290db028209eef3f27af56a"
     },
     "science-kit": {
-        "1.4-release": "afdc99c695c6a74628867e7dc87209334dc52827"
+        "1.4-release": "60e016801d78a5887596ff96b523b2206bddda86"
     },
     "security-kit": {
         "1.4-release": "8f7d0be66eb51f8157c5f33e879eabbf511b739a"
