@@ -9,16 +9,16 @@
         "1.4-release": "c9010608faf489f70621ee955f929cacdc90cd2b"
     },
     "core-kit": {
-        "1.4-release": "5197b65557ddea33929a785fbe4ac22e8bf03e26"
+        "1.4-release": "0bd745b2a22985ad2f8798e5618a925e9f7d7592"
     },
     "core-server-kit": {
         "1.4-release": "f11f3aeb0928ad2cfd50b648fff10dcf3816a5ba"
     },
     "desktop-kit": {
-        "1.4-release": "07847659b36e6e17680bffc0d6d0a6691d525ba5"
+        "1.4-release": "f4d731c7f4315eae784c4dbcd64bcd17d9ac77ce"
     },
     "dev-kit": {
-        "1.4-release": "10243337fc341a068cf93155144ff890abe6b8bb"
+        "1.4-release": "72477f0d6c543d7fc3908e353e4b8a2f46939cfc"
     },
     "editors-kit": {
         "1.4-release": "9e9a5fc5435f90691ab0a2ab10f8f8bef61ced47"
@@ -39,7 +39,7 @@
         "5.22-release": "2ea1f5724f87490219f544c3c8b631d8f65dafec"
     },
     "lang-kit": {
-        "1.4-release": "1f1eb3ddd5b0a0dbd01d49af28e361a808a02333"
+        "1.4-release": "4ee54bfa9a92fe8595d58f38a2f28280dee4443a"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -51,7 +51,7 @@
         "1.24-prime": "2588aa91ff5038b421f817281dba1e311aa4976c"
     },
     "media-kit": {
-        "1.4-release": "01bf3a439876a816451d214ebe93586df6c937d6"
+        "1.4-release": "14bee942be3bad2850c9045cbe993246ea5b5d69"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
@@ -69,16 +69,16 @@
         "3.7-release": "211e59241e959676808dfb4c440903f0c3716bb5"
     },
     "python-modules-kit": {
-        "1.4-release": "2b2617c627e0cb099065819e0b43672d373bb58c"
+        "1.4-release": "f80085bb39f197cf672cab27aa6984364ce946e9"
     },
     "qt-kit": {
-        "5.15.2-release": "36399d25f867618fb5f87ddf18bb88b17f279801"
+        "5.15.2-release": "66109e22be032e5d789ae42e4dcf652f84e4293e"
     },
     "ruby-kit": {
         "2.7-prime": "1c3aaf2f40e7d632c290db028209eef3f27af56a"
     },
     "science-kit": {
-        "1.4-release": "4366d90ff7e6a234f5f7b2e2b1e7fa812afd1cf2"
+        "1.4-release": "bec26b0e5bf6d2533791a5b786e277a3b374ccf9"
     },
     "security-kit": {
         "1.4-release": "8f7d0be66eb51f8157c5f33e879eabbf511b739a"
