@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "1.4-release": "69ac9cb99093d4a0f8a0fbacda22c17eaa131f8c"
+        "1.4-release": "7e0e7aaf8ff0137552da45d9fa3799767392cb2e"
     },
     "core-gl-kit": {
-        "2.0-release": "c13102c531bd8122c5f4a8d09101ecf826d801db"
+        "2.0-release": "0f69d262b697d464c974f9dad9d593e7253fec95"
     },
     "core-hw-kit": {
         "1.4-release": "5a0b409a18e281545dd2d822aba525f71585f1c0"
@@ -12,13 +12,13 @@
         "1.4-release": "89dfd04fa98a8f58f0928bcc45279a7559c1f8ec"
     },
     "core-server-kit": {
-        "1.4-release": "29d603842d19dd9adc2a8080120bdab9ff48fd5d"
+        "1.4-release": "3f9a38c03a629d6217ee62ceeb8e56d7e0b011a4"
     },
     "desktop-kit": {
-        "1.4-release": "6b4f08909c4740e8fca76d32fee187ac8341e56f"
+        "1.4-release": "a2111cada0ba96543f63773860dff11a07e60082"
     },
     "dev-kit": {
-        "1.4-release": "8bb5863bf4f49ce6d5ad4983ff262638d71dc286"
+        "1.4-release": "a9cf3a972a8f2192847c78f121fddac123a08ce1"
     },
     "editors-kit": {
         "1.4-release": "a8f1ccd0ea8bde4244678b5a34097245793a719f"
@@ -39,7 +39,7 @@
         "5.22-release": "2ea1f5724f87490219f544c3c8b631d8f65dafec"
     },
     "lang-kit": {
-        "1.4-release": "611f7761a77ead3576817883dbc6a1a1b92c51d7"
+        "1.4-release": "b2ab40f3fc0bdfd3e9fc14fc950845f2bdc7dc2a"
     },
     "lisp-scheme-kit": {
         "1.4-release": "0d6fa089087b62fb9c8d0800b08a7c4beb69af40"
@@ -51,13 +51,13 @@
         "1.24-prime": "2588aa91ff5038b421f817281dba1e311aa4976c"
     },
     "media-kit": {
-        "1.4-release": "b645efd7779c1c4d52ffd9eb6aa210c8a1ac28ce"
+        "1.4-release": "ca8399759a91bba7f9f94c5d1ceb97d239d10d91"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
     },
     "net-kit": {
-        "1.4-release": "471a329f025048718276b65b705fc40c69c2065f"
+        "1.4-release": "cf217aea1bca8b6ba1b9cee0577baaa69aed98b3"
     },
     "nokit": {
         "1.4-release": "26394939d8340d31227d466a40ed6810115b059d"
@@ -69,7 +69,7 @@
         "3.7-release": "211e59241e959676808dfb4c440903f0c3716bb5"
     },
     "python-modules-kit": {
-        "1.4-release": "85ad2a4fe6edda537a95c1a6d072ede1b64b24eb"
+        "1.4-release": "9cf7169ccc25ebae06294fb16ca79009148742df"
     },
     "qt-kit": {
         "5.15.2-release": "872316c2e913ba8eb9a4f0f3b87f918c73af7b06"
