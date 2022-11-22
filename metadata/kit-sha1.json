@@ -9,16 +9,16 @@
         "1.4-release": "c3ca65c71061893401e4c33642a6d62e274654d6"
     },
     "core-kit": {
-        "1.4-release": "c1c6fd8764c8d8c0337997d0a37d582e663aae7c"
+        "1.4-release": "b39dd1a013fe7058d0ba62bacabf637764f221b9"
     },
     "core-server-kit": {
-        "1.4-release": "0226dc15e7400a13168b6e57b46253cb05103f8d"
+        "1.4-release": "5186961b2c7a866d97f8228e3a2108c2bec38107"
     },
     "desktop-kit": {
-        "1.4-release": "e205b7efd2b14c301c63f7ebf60485a48eef0b49"
+        "1.4-release": "5e1ebee9ed6e22cf7e25a406a7378496b0581e31"
     },
     "dev-kit": {
-        "1.4-release": "116a2f630a331af179db118acc6db62cef27d038"
+        "1.4-release": "f7546146d60a224d0fbd656c35d386ff53793919"
     },
     "editors-kit": {
         "1.4-release": "2c2490c4fca77ca0c272f0123e2a85fbf7ecb1f4"
@@ -51,13 +51,13 @@
         "1.24-prime": "c85d278e036923231cdcaf6f4da6117e5c8110b4"
     },
     "media-kit": {
-        "1.4-release": "645f23739752612065506a28072c0806060213db"
+        "1.4-release": "a3cba7985db94dcc296c63e43573af18316b2534"
     },
     "ml-lang-kit": {
         "1.4-release": "621a9830cc6b0540a2ba448b2e0cbfd2ea083423"
     },
     "net-kit": {
-        "1.4-release": "015006bc8f351542bb9bdd2717eaa4a192412a05"
+        "1.4-release": "f862d279c6722666942c62cde728962514e07962"
     },
     "nokit": {
         "1.4-release": "65b82cd3ca756ff5d06bc1897f78a1a3562513de"
@@ -69,7 +69,7 @@
         "3.7-release": "211e59241e959676808dfb4c440903f0c3716bb5"
     },
     "python-modules-kit": {
-        "1.4-release": "a1bb549d26c392cfafff65331edf5064d8168ae0"
+        "1.4-release": "b8ab44ae09af10ce85f920b8f3f241926a9751d6"
     },
     "qt-kit": {
         "5.15.2-release": "7401ebf76e4ac3ef933bfb7dea9ba9b451b5e1d1"
@@ -78,7 +78,7 @@
         "2.7-prime": "1c3aaf2f40e7d632c290db028209eef3f27af56a"
     },
     "science-kit": {
-        "1.4-release": "075c3cfe7995b0916069d409a0adf1f38b5e4328"
+        "1.4-release": "8ee088899237c930e0a2fed70c96c672288dcdd2"
     },
     "security-kit": {
         "1.4-release": "27fa336d72b012166186d244bcd61f9300578737"
