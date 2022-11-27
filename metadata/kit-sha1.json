@@ -9,22 +9,22 @@
         "1.4-release": "243aba0790f8a720184410cfcf884bdc4efbe4af"
     },
     "core-kit": {
-        "1.4-release": "c16a5247068d4b14146835b15a4c6443164a152e"
+        "1.4-release": "10731e1843ec3fd31ab652a350e82d8473414e6c"
     },
     "core-server-kit": {
-        "1.4-release": "143358358afe62c16916f734559957da9621de57"
+        "1.4-release": "34e18e1e2c036d11004264f7268035b929fb158a"
     },
     "desktop-kit": {
         "1.4-release": "bb086b079d77d4f189d6501c9de1ff5fbb800fef"
     },
     "dev-kit": {
-        "1.4-release": "ddde475b7da3aef0f30cff0939bf1268be951951"
+        "1.4-release": "8b94dd58e9defac2f31a773b6d9fe8adaed564ba"
     },
     "editors-kit": {
-        "1.4-release": "0c2ec3c239d4c59ca28cbf9bfd4e15e88a2e61c2"
+        "1.4-release": "a49ce44c96a7459bcf6dcefc2b7cf327f2ecf22f"
     },
     "games-kit": {
-        "1.4-release": "ee9e436bbd57aba08ca1a73695195486ce211ef6"
+        "1.4-release": "951673e793afb39593c2875b5d1a9278785fb336"
     },
     "gnome-kit": {
         "3.36-prime": "55edf3a66f476b64733a80c6d52ba0de4a5c8da1"
@@ -69,7 +69,7 @@
         "3.7-release": "211e59241e959676808dfb4c440903f0c3716bb5"
     },
     "python-modules-kit": {
-        "1.4-release": "bcd880355775143f211966de85c643b255d88d63"
+        "1.4-release": "9147c98d4b5373057a89b37dad7346bac385b651"
     },
     "qt-kit": {
         "5.15.2-release": "e1e9c40cece10b6e81be417cab0c34a80abd4766"
@@ -78,7 +78,7 @@
         "2.7-prime": "1c3aaf2f40e7d632c290db028209eef3f27af56a"
     },
     "science-kit": {
-        "1.4-release": "213ae0f73f5810f933e4fb51f441693966df7838"
+        "1.4-release": "cf65ee0b36546700911a1929627fb2a7ca42ff0b"
     },
     "security-kit": {
         "1.4-release": "27fa336d72b012166186d244bcd61f9300578737"
