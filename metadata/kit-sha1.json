@@ -9,22 +9,22 @@
         "1.4-release": "ae033b5732f5cbed00787218e7bc0611fdda11dd"
     },
     "core-kit": {
-        "1.4-release": "6675d1b7e5c985a19be760219fc3440c70c54f3b"
+        "1.4-release": "aef550006f2d70b167db6ceeadaa44edb5567fa9"
     },
     "core-server-kit": {
-        "1.4-release": "421f57e1f060a91174a6b0be83d421acc80fb573"
+        "1.4-release": "2d369e1d3f67357149348b5106dbd1f78507ed5c"
     },
     "desktop-kit": {
         "1.4-release": "949da7905cb0c719e150c27eab0430b7b826c872"
     },
     "dev-kit": {
-        "1.4-release": "645dcd278c9cc349a601b2ed91155c6dbe7b1458"
+        "1.4-release": "84844c37f65d11d48c91108f828f85260f380a33"
     },
     "editors-kit": {
         "1.4-release": "de559c50ab9633243b7a4fc4fe701086ce57e7bb"
     },
     "games-kit": {
-        "1.4-release": "372be3b66931acc4783802505b0fd2dc473ed8c6"
+        "1.4-release": "fb83ef01e9abfa72cf91e199e1ae77965f2b6a3e"
     },
     "gnome-kit": {
         "3.36-prime": "0b0f5b972f088898940f12b86ea61a29089c067d"
@@ -39,7 +39,7 @@
         "5.22-release": "0c370e60d1d286527fcf1cd99a0d99fc0133b353"
     },
     "lang-kit": {
-        "1.4-release": "312e41e3df6404d69b6621b1949fe97285b58c6a"
+        "1.4-release": "0a6970405a0f5b7ec96ca7bd27034d1d3999d7cd"
     },
     "lisp-scheme-kit": {
         "1.4-release": "eaaea173773a6d09d97a4b4c5fd950b5bd5cab76"
@@ -51,7 +51,7 @@
         "1.24-prime": "7560daf7f888162a902fc51173b7f78c2898c3f0"
     },
     "media-kit": {
-        "1.4-release": "04a6396e1076f3fcb7e274c76304052901aae2ea"
+        "1.4-release": "5b8b1df9588172adeaeca731586a7e1b4ee2f40c"
     },
     "ml-lang-kit": {
         "1.4-release": "322df6645a630128f9c96822f730ea11737d48f8"
@@ -69,10 +69,10 @@
         "3.7-release": "988493901d3a699925d5de8a347f9a36cb1660f9"
     },
     "python-modules-kit": {
-        "1.4-release": "8e8782a3ceed156f5bb3941e5f49b938740ac585"
+        "1.4-release": "4d824d925cd6d0b9cbc2f3e23c7a22cb0910391a"
     },
     "qt-kit": {
-        "5.15.2-release": "bd7d7d4b067e57d3f7956c108a335ddb43525c83"
+        "5.15.2-release": "92ba598ea49a778fbe87c0e5aaaeea9968cc8769"
     },
     "ruby-kit": {
         "2.7-prime": "13c297bd4eeb163401a4a9e41885c2ab9cacd0e0"
