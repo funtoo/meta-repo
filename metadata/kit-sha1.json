@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "bfac1ed37c879d198f9f03cca6f2890cda925eac"
+        "next": "cdd4bd17c53cae729484a219e90568692ee1e627"
     },
     "core-gl-kit": {
         "next": "56f02898ff3f4aaea75768f581224be296562b5d"
@@ -9,7 +9,7 @@
         "next": "f28a7f7a8075b1e58b1be27511ac0c8e836d137b"
     },
     "core-kit": {
-        "next": "9d4f575aee69300305208cfb62ef86add2b1c9d2"
+        "next": "11fe839310291efee1c2923d7995318c6368fb51"
     },
     "core-server-kit": {
         "next": "661d60834e6d24247c284af5cd5e0497c233cfc6"
@@ -18,10 +18,10 @@
         "next": "9312fe657942b135716f2d5d626bea63b669accf"
     },
     "dev-kit": {
-        "next": "4e94dea6dbf65578bc7734ddb8595c569866df1b"
+        "next": "8f3d86e64084b9b8a392930b87140c7a04673ae2"
     },
     "editors-kit": {
-        "next": "15e42bc2ebfec2991df13a9f22bdd2d50f9ee488"
+        "next": "f27bd614864b3176b9e2762d666a855a26f7cef4"
     },
     "games-kit": {
         "next": "2e6357f67d6e94271ee2cb30b4c5cba5f5a62b96"
@@ -33,13 +33,13 @@
         "next": "3eb12e302cdfa2e1b37d61eb4b6d6b58b02cf001"
     },
     "java-kit": {
-        "next": "e1f68ccb8331d74bf51543870155e57cc27bc468"
+        "next": "6926cb1bf9d579723d09efd9caec2e6efc4a57cf"
     },
     "kde-kit": {
         "next/5.25-release": "713c2a22e14bda9844f1f04121a47a87bbed2768"
     },
     "lang-kit": {
-        "next": "ef8c942cbc16229018ca36951b725285d10b3de8"
+        "next": "f1ab8048f32c73f4d7812a33aa1789e13c153160"
     },
     "lisp-scheme-kit": {
         "next": "7f4e1204d215f1001fdf6f096b5c173ecc284799"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "70f7e5c22b8c985d829fe309bb661ffa05692c4f"
     },
     "media-kit": {
-        "next": "02bbccbd1f051c4beb6fcdb128edf1141d2e2252"
+        "next": "35b4bcd1a9c2167272fe7c2a037901c0b102362c"
     },
     "ml-lang-kit": {
         "next": "e9617fbadc4a5073850266c98b84d938dbc3d093"
     },
     "net-kit": {
-        "next": "5d6be6bb73cd2e6a5fac67004f7e42b2d111fa79"
+        "next": "b7cdbd299c7276b449932c3050a2119e24cf4903"
     },
     "perl-kit": {
         "next": "ba62f32f05eac93d4108aa320eeed261dfc345a2"
@@ -66,7 +66,7 @@
         "next": "456cc60446277c828122a6b40b947d2fa95cd50a"
     },
     "python-modules-kit": {
-        "next": "5fcf85809f1d7ad84c36421087805ca8cfbb9086"
+        "next": "e55acd14f12017eb3e15a9e1d971716cc08e5b95"
     },
     "qt-kit": {
         "next-5.15.2-release": "6e6afe6197d522d10b8ea0735d52e88831687da2"
@@ -75,13 +75,13 @@
         "next": "341c044572ba718ea65eec72fe3c067fb087af7e"
     },
     "science-kit": {
-        "next": "e48eaef0656d1380eb129e1233743abb92d7ab41"
+        "next": "7c0c63c8f895169e022b341eac12fdfa2cf50561"
     },
     "security-kit": {
         "next": "cf1e2bbc462ebc74d6e47ef58a12d41ea3b82211"
     },
     "text-kit": {
-        "next": "463f0d6a962dd35266796dadb84236b47bbd03fb"
+        "next": "a7032c2a5c7c00dd76d6809fe49f0e256d50abc0"
     },
     "xfce-kit": {
         "next-4.16-release": "095191fb35ffd806957d96a6c0035e107fbd338b"
