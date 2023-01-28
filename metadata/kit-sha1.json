@@ -1,18 +1,18 @@
 {
     "browser-kit": {
-        "1.4-release": "6f509a96e6ffe9ff20137e95d6aaf0f661457f1f"
+        "1.4-release": "baf718dc1b546842be8acfe7b307ce26766ddbe8"
     },
     "core-gl-kit": {
-        "2.0-release": "9bf15a0909fe0feeeefe272dbcf844120bd1ca20"
+        "2.0-release": "386115281ff26041904b6301a0ebff574952f13d"
     },
     "core-hw-kit": {
         "1.4-release": "5edb4162bd8876c12a75a010f5b615f5a4f3e2b7"
     },
     "core-kit": {
-        "1.4-release": "71eabc12f5896e1e17d8f4a91505fe946b0940a6"
+        "1.4-release": "71a65e9f6d46dce5b006a5d118a5d99602fbe109"
     },
     "core-server-kit": {
-        "1.4-release": "e910def1f3c1080aa6bbe6fdda40c840739aaaa0"
+        "1.4-release": "ffd2e958981010391543c96097712db32eccb13d"
     },
     "desktop-kit": {
         "1.4-release": "c11a76864876c875100053f345c312950f6ce9ca"
@@ -21,7 +21,7 @@
         "1.4-release": "e56cb34e32ac0d16d7a61ff338c46e81764cabbf"
     },
     "editors-kit": {
-        "1.4-release": "a36708dcdde9b270347ce9f97347e553eb1984af"
+        "1.4-release": "46e39aa5a45812ff67af9f8203afb8f79ea56229"
     },
     "games-kit": {
         "1.4-release": "963f53f7b10169c75228ecdb343c0acc0ecc079f"
@@ -69,7 +69,7 @@
         "3.7-release": "988493901d3a699925d5de8a347f9a36cb1660f9"
     },
     "python-modules-kit": {
-        "1.4-release": "b6fcbbe83f5cb2c475f2d4071595a71c985df5d2"
+        "1.4-release": "134c8a099e5fa31039705a5a9f1aa39ba4a9e145"
     },
     "qt-kit": {
         "5.15.2-release": "b40f2c77e53871a6607205ea1fb24ea6390c4ab1"
@@ -78,10 +78,10 @@
         "2.7-prime": "13c297bd4eeb163401a4a9e41885c2ab9cacd0e0"
     },
     "science-kit": {
-        "1.4-release": "a7ed050b3aa3610ce30e0024b23735a01c81e615"
+        "1.4-release": "68e8735544f07bf664612beb1a41d25a1ccbabaf"
     },
     "security-kit": {
-        "1.4-release": "c1011e646361a1815a7308574527230d8dd17287"
+        "1.4-release": "b3923fc9a725eb69ff0ae28b8c12d81ef778981f"
     },
     "text-kit": {
         "1.4-release": "f1755db96dfa64889b68fd29ceb110ece784a219"
