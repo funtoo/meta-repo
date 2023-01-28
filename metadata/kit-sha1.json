@@ -1,18 +1,18 @@
 {
     "browser-kit": {
-        "next": "a1b23212f18c017e3807b8b5e162a53fa985fe57"
+        "next": "f80c767f59a2a3b864456696d268cd8e74f04e63"
     },
     "core-gl-kit": {
-        "next": "04a07aeb77f1aff696b23efabe57ede46c0dcd3f"
+        "next": "9f18848b253bb65bb941c862e3b8b131695bc9a3"
     },
     "core-hw-kit": {
         "next": "e6c110fb2e393b271a3e44016dbc63ec72f8aa70"
     },
     "core-kit": {
-        "next": "30f5ecc16ab28f0e8fd7d9790cac2c222f2f674c"
+        "next": "cd022c4ce99bc33d5bd00135375fb35ed8a506c7"
     },
     "core-server-kit": {
-        "next": "4e265d34d89ea2884b04195f83647b0a85154bc5"
+        "next": "6ea7b5d6f46b2bdec6c9c40e435ffb6ead5ae971"
     },
     "desktop-kit": {
         "next": "4b69948ef51d9240c1b028cfc904cd06373fe8a5"
@@ -21,7 +21,7 @@
         "next": "b5c64f7e4b3b7d17df74ceb61bba58137837457f"
     },
     "editors-kit": {
-        "next": "3ace8b336fc7e6c570b1a7507aacddebc5fc8b8b"
+        "next": "e98857af87b448fa12e6d365222fe07952aa4443"
     },
     "games-kit": {
         "next": "a665eae54c185105fd14d996e7d8f8d1775aeb2c"
@@ -57,7 +57,7 @@
         "next": "e9617fbadc4a5073850266c98b84d938dbc3d093"
     },
     "net-kit": {
-        "next": "ae71810ae096fb04c81bb81a8cc66f0d7c575816"
+        "next": "93797ed98257c950b4b5ae2d1aa0028636563c32"
     },
     "perl-kit": {
         "next": "ba62f32f05eac93d4108aa320eeed261dfc345a2"
@@ -66,7 +66,7 @@
         "next": "456cc60446277c828122a6b40b947d2fa95cd50a"
     },
     "python-modules-kit": {
-        "next": "b10b7228d8b1aa6b32f95853ba8dada801166d92"
+        "next": "d41d9ca892ae39576583dbfdc4efc854ffc40439"
     },
     "qt-kit": {
         "next-5.15.2-release": "457185135b0451becf8a31daeb19257b152e28b1"
@@ -78,7 +78,7 @@
         "next": "423f72ae1db2cd7351073005ac9e298b917b3eb5"
     },
     "security-kit": {
-        "next": "cf1e2bbc462ebc74d6e47ef58a12d41ea3b82211"
+        "next": "3c2994211a482e718f2f19fce0f7c4a7be4d00ca"
     },
     "text-kit": {
         "next": "67dd505f16a6f97ad35a7de3556704ee5579915c"
