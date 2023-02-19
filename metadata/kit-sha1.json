@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "59a392ccd970440bf46d75ca8a98e64fc093faa2"
+        "1.4-release": "bf7e812c2b53c6b1025a5ab73a1b99085803971f"
     },
     "core-gl-kit": {
         "2.0-release": "ffd2a420aafac7a25c3809626f7050763a32ddf5"
@@ -9,16 +9,16 @@
         "1.4-release": "736f0d9f79ef7d1d8c3901e4d003831ba40110a9"
     },
     "core-kit": {
-        "1.4-release": "890d764f204de1a869d25d1d61a5bd944a447605"
+        "1.4-release": "a9e47d45bede8e0195a1bec9cd0c0233e7a0f946"
     },
     "core-server-kit": {
         "1.4-release": "a2da6416a055adf7b5bb66470f56d3489e16afa1"
     },
     "desktop-kit": {
-        "1.4-release": "0f43ea05770780dd33e80ca1eac928eb27892e69"
+        "1.4-release": "1d33b9c143844c3eeda974cb3cce12dbdf56ea68"
     },
     "dev-kit": {
-        "1.4-release": "3f2b4ba2c7ee84f0b9ba310b5b925d205dd3ed03"
+        "1.4-release": "c9fb77f7b86a4f13c246e45c184112ec6a24082a"
     },
     "editors-kit": {
         "1.4-release": "fabd62951200956c6387e77f03d1617e72385a2a"
@@ -39,7 +39,7 @@
         "5.22-release": "fa3ddeec1bc0c424b74cc38aeb7c526af6a18813"
     },
     "lang-kit": {
-        "1.4-release": "dc179a0b137993b03dabd73e56b33d9f69ae1cb7"
+        "1.4-release": "40d723c51d62a462aee8e875ecb7eb757e3ab065"
     },
     "lisp-scheme-kit": {
         "1.4-release": "eaaea173773a6d09d97a4b4c5fd950b5bd5cab76"
@@ -51,7 +51,7 @@
         "1.24-prime": "78a6e70790c86807770227354301021edbed8ba5"
     },
     "media-kit": {
-        "1.4-release": "ea261759714dead174cbf2ebfc224827ae7fde8b"
+        "1.4-release": "8142580602c6f9e2f6bf3789d28430f8229c2365"
     },
     "ml-lang-kit": {
         "1.4-release": "322df6645a630128f9c96822f730ea11737d48f8"
@@ -69,7 +69,7 @@
         "3.7-release": "55e3b983017da3a518cf71a3137535fa05cca1b3"
     },
     "python-modules-kit": {
-        "1.4-release": "f2b89361363334bb2473623e6ec1d142b4c0d996"
+        "1.4-release": "7ab75d7bcb7d68d01df314e67ec6da847ac72746"
     },
     "qt-kit": {
         "5.15.2-release": "bd0e45fd43c80efbb0fffde3ae8682d4daa048f7"
@@ -78,13 +78,13 @@
         "2.7-prime": "13c297bd4eeb163401a4a9e41885c2ab9cacd0e0"
     },
     "science-kit": {
-        "1.4-release": "43b86d1d630a38b2a34af1a044cfa0f8fa98e058"
+        "1.4-release": "67bfaf77a215eb909cb7fade28ca668e50807acd"
     },
     "security-kit": {
         "1.4-release": "3d18c50e0323b7a40b236ad0f9408aa2de84902c"
     },
     "text-kit": {
-        "1.4-release": "ad2dc15c4a4d93f315c9ff34f7ec367243405149"
+        "1.4-release": "96d04f1d7003daf19e63ded7c00381b2e45d0ee7"
     },
     "xfce-kit": {
         "4.16-release": "462a63547fcd8562808477893ead15356e893411"
