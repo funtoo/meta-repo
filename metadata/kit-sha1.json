@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "29bb1fb3f6f82e91c546bd8ae045662710a69ea3"
+        "next": "fad8b234e6674ebed10a9f8629eeb9379d8113eb"
     },
     "core-gl-kit": {
         "next": "d2495c7396aabf6bdd68d7f26362f526366c786e"
@@ -9,19 +9,19 @@
         "next": "fbdb0464297428a68711b6abff4c16b59b59747f"
     },
     "core-kit": {
-        "next": "8179ba220f63a8a7a343c8cf9a9deec836b1df48"
+        "next": "dce72828effbddb1b2d028049f51b25538305e8e"
     },
     "core-server-kit": {
-        "next": "334cdac10ebc34f5ebf97d971efc00aa1c8b81ba"
+        "next": "8d1a42bfd5d0f0dce96a91647b38f770e846b4eb"
     },
     "desktop-kit": {
-        "next": "6b70671ec4a16d64d892cab0456511d00e20e270"
+        "next": "3b7ff3b2971719518f670bbd76c2c56bd88050fc"
     },
     "dev-kit": {
-        "next": "132968c7665c0491d7095792bb084a037513b82e"
+        "next": "c6293926cb8adac17ea3582d1d7fdbbc5c404631"
     },
     "editors-kit": {
-        "next": "26fae2402e77a3118acd379772d04f454cff5054"
+        "next": "5deed2cddc4fb6babd9a6ce9c4965f27c2e8e308"
     },
     "games-kit": {
         "next": "0a5181e31924803275a3f23ddc483d9d8a241cde"
@@ -39,7 +39,7 @@
         "next/5.25-release": "25331ea85bacee4debd366869bef31348408b1c5"
     },
     "lang-kit": {
-        "next": "6ac75bc4295c1d7ba021ff856594b8695b88e33c"
+        "next": "ddfab468cbd44ba8c6c4f6fc26f4fe66e31ff28d"
     },
     "lisp-scheme-kit": {
         "next": "7f4e1204d215f1001fdf6f096b5c173ecc284799"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "aef0d13bc4445e5c963fedf062efd5c42bad1319"
     },
     "media-kit": {
-        "next": "538b2755199d1e2a6be6704d4aa5a729a1fd5f81"
+        "next": "245c274dd80620215a9cf0231f2818f97314605f"
     },
     "ml-lang-kit": {
         "next": "e9617fbadc4a5073850266c98b84d938dbc3d093"
     },
     "net-kit": {
-        "next": "0ab7d4c7b1ce3116221742a38e31b99f069d3b75"
+        "next": "d99bf6e5c1edee0f42b6600433665be7ec8194ae"
     },
     "perl-kit": {
         "next": "ba62f32f05eac93d4108aa320eeed261dfc345a2"
@@ -78,7 +78,7 @@
         "next": "5664b1d59ef3bd1b626bd7e053add5be055b4f28"
     },
     "security-kit": {
-        "next": "2838f3766f6f7e6b7e35f59a64dba85937b89835"
+        "next": "ac27e98b6c8104444d8f5fb62cf51e661d7a4cae"
     },
     "text-kit": {
         "next": "36df87f5a94d171f22914732b67a43421f828f5e"
