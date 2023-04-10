@@ -9,7 +9,7 @@
         "1.4-release": "59275bdb8f4808eb82a502659d0e76ae7d7d02ce"
     },
     "core-kit": {
-        "1.4-release": "7b44631e7ea3fe50ad672d55a6dd912107e4a3bb"
+        "1.4-release": "a4684823d5c6ab3c48e460d755f6a2c8c832280b"
     },
     "core-server-kit": {
         "1.4-release": "d21dffae4ceb4f861e5638a8ab2da032a7c3dd85"
@@ -18,10 +18,10 @@
         "1.4-release": "0f3c62dd061dcdc1c7857de701ac93c0f8306fe7"
     },
     "dev-kit": {
-        "1.4-release": "f54b65b6200c3e5be9f7ca830456f050e489ff93"
+        "1.4-release": "603c3d65b9684f47de3277b0283e2a986e9608d2"
     },
     "editors-kit": {
-        "1.4-release": "0a4063fe6fe695c413210c43aa5502fb6733a2ae"
+        "1.4-release": "11a841470ed0f84f24e16b790d49fce1b0ca50f4"
     },
     "games-kit": {
         "1.4-release": "ab5f23207c068cca1540a11435fa02b9bc6e4871"
@@ -39,7 +39,7 @@
         "5.22-release": "fa3ddeec1bc0c424b74cc38aeb7c526af6a18813"
     },
     "lang-kit": {
-        "1.4-release": "f0cf33d8752a594f497a77fc7afbca0603f8bf66"
+        "1.4-release": "6333e222058211950cb3b3695a049cc2dceabc96"
     },
     "lisp-scheme-kit": {
         "1.4-release": "eaaea173773a6d09d97a4b4c5fd950b5bd5cab76"
@@ -51,13 +51,13 @@
         "1.24-prime": "78a6e70790c86807770227354301021edbed8ba5"
     },
     "media-kit": {
-        "1.4-release": "57938fce888526280772d54b128ab8b0d75388ff"
+        "1.4-release": "2e79b2cd6a84ca16ffd5eaa82683dfe589af2464"
     },
     "ml-lang-kit": {
         "1.4-release": "322df6645a630128f9c96822f730ea11737d48f8"
     },
     "net-kit": {
-        "1.4-release": "3bd490eb92bb8ee794702002f28212f87a7e8396"
+        "1.4-release": "90bb268b2eb95b233a6ede2c07dab46460ba9299"
     },
     "nokit": {
         "1.4-release": "289508a2fe5b985d01d40f441f61e13e6528cd14"
@@ -69,16 +69,16 @@
         "3.7-release": "5a8585d796ca64f2b782cea04d2cab9521b303ee"
     },
     "python-modules-kit": {
-        "1.4-release": "5314907b4e29ac6ac5924b93500afb921f08c33a"
+        "1.4-release": "3f0d06c039a7e45fffb4abb40ecf6b735b27ca84"
     },
     "qt-kit": {
-        "5.15.2-release": "be6642a84f3769ebea9fa27aaebe23aa5f10c7e1"
+        "5.15.2-release": "ff047166722cf8b67e235874876001174bcfd8b9"
     },
     "ruby-kit": {
         "2.7-prime": "cbc775ec6b8e842e1994fbb60d8bfcf7b98a93ea"
     },
     "science-kit": {
-        "1.4-release": "ef25aefd496dd2adf1ccb175dadaf3c2393155c7"
+        "1.4-release": "b4c24a6e81572f06019b91f3dbf6c8cfc4b12eaf"
     },
     "security-kit": {
         "1.4-release": "3584ab9c7f9b83c492664108c01657acf63ed162"
