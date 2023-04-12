@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "3aea26f7494332909dd03b07fe3c5a79f6f1c45f"
+        "next": "58f38b0cf5883538a402cbca9832448d31ba607d"
     },
     "core-gl-kit": {
         "next": "d2495c7396aabf6bdd68d7f26362f526366c786e"
@@ -9,19 +9,19 @@
         "next": "fbdb0464297428a68711b6abff4c16b59b59747f"
     },
     "core-kit": {
-        "next": "6bb2f05ba546b4f686f607df68164d162feef145"
+        "next": "e4aeee393c7fee4902676462c36d52f98a857b60"
     },
     "core-server-kit": {
-        "next": "7de078b9c4ee5a7a54c7cec4fba4a6fe4b4c2b1f"
+        "next": "de85af9212ba81186758aca4a3b00061da77b956"
     },
     "desktop-kit": {
-        "next": "5f0ca7dfa948ae54e4c02c7db77fbcb9bd590e86"
+        "next": "fdab6b9d4e1dcc354f49510e35004f0997959775"
     },
     "dev-kit": {
-        "next": "5e1ea6eba4963650c95cdd68114b49795e75964a"
+        "next": "52b71b71429bfeb96292b6bf5355a2879faf33a4"
     },
     "editors-kit": {
-        "next": "3048c775fd95a8626dcccb16fab48233fd0cb0d6"
+        "next": "fcd54acfecda2823e96e2eb9d5ef0686726d9155"
     },
     "games-kit": {
         "next": "00c71d1cc7838529b6f13ef6b1fcbaf0b3591902"
@@ -39,7 +39,7 @@
         "next/5.25-release": "25331ea85bacee4debd366869bef31348408b1c5"
     },
     "lang-kit": {
-        "next": "471e7b4ba43bcc3adfbdd8e16b704330f597942f"
+        "next": "b35163e32ce369b6b3c3797a0adf6eda7a87b492"
     },
     "lisp-scheme-kit": {
         "next": "7f4e1204d215f1001fdf6f096b5c173ecc284799"
@@ -51,13 +51,13 @@
         "next-1.24-prime": "aef0d13bc4445e5c963fedf062efd5c42bad1319"
     },
     "media-kit": {
-        "next": "890f32b48a25f63692497e7f42ebf93cf804757c"
+        "next": "93c7a9e8157927dd21c98e3d4ec1efc8ea16891f"
     },
     "ml-lang-kit": {
         "next": "e9617fbadc4a5073850266c98b84d938dbc3d093"
     },
     "net-kit": {
-        "next": "8b35dce5cd671bdab8ea223ba279346780695f7d"
+        "next": "5af26ba0370e21af43ccea47f237788338d5c5dd"
     },
     "perl-kit": {
         "next": "ba62f32f05eac93d4108aa320eeed261dfc345a2"
@@ -66,19 +66,19 @@
         "next": "25c92f7112ea1d7c8a1ada6971e61cc769c8e3df"
     },
     "python-modules-kit": {
-        "next": "d7921262491ea4be87b27891d3f77cb7069b3c9e"
+        "next": "c3c7165b2f7818aaafe7a54a5bba3bd67ab9dbac"
     },
     "qt-kit": {
-        "next-5.15.2-release": "5c57c0df6260e3abb8c17cc91fa8785f2f16d7e7"
+        "next-5.15.2-release": "acfe231f6dba44e5bdd37e27fa87d07e27be368b"
     },
     "ruby-kit": {
-        "next": "2e5f8a28f3d3800882655da82820ea854dbb33b6"
+        "next": "f505f826d71d7658f9038155bdc4fa1b4c132ed3"
     },
     "science-kit": {
         "next": "7b26c9ba53d11e3cb9f6b4e73e37eccac8db1742"
     },
     "security-kit": {
-        "next": "ac27e98b6c8104444d8f5fb62cf51e661d7a4cae"
+        "next": "c986d9f6c9a25f2feabd11c10f3df5046a391904"
     },
     "text-kit": {
         "next": "edd2c29bec264634fa5eda1a7b68ecf436b3103c"
