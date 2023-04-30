@@ -9,22 +9,22 @@
         "1.4-release": "69ccae2db6ada8075d3016ad2a492ad8e7fe109d"
     },
     "core-kit": {
-        "1.4-release": "d3b45692edf8cfddeb5d55cd705488f0f0fac23e"
+        "1.4-release": "40391ffe6ee72cac180ff7a1c500aba202370e08"
     },
     "core-server-kit": {
-        "1.4-release": "e3efe0f8c6c078e2ca83da0c4f24247fd8175b74"
+        "1.4-release": "9d828df093ad7f7881a5c854e27196fb0bbcad3a"
     },
     "desktop-kit": {
-        "1.4-release": "1afda3ab5e6fd11ec9c61d8bb1197a12737a745c"
+        "1.4-release": "99a39ecddebf0e3892b88789bf1b677f0b01147d"
     },
     "dev-kit": {
-        "1.4-release": "019d69accae2c9aabd0cd15c9c57e27c896295ff"
+        "1.4-release": "c08d29f31a3fe8a0ad984fc5d871eb0c719269f3"
     },
     "editors-kit": {
-        "1.4-release": "8c81486c0a6d3b25c35e257cee5b10a858d74a6f"
+        "1.4-release": "9b1f4fb9e92cfbf05821efa74aa435e969b9fd72"
     },
     "games-kit": {
-        "1.4-release": "aee4d330f46afb125f28919131f9fa0cc0f9b59c"
+        "1.4-release": "8515190eb36267a57cba28a7494a008564aead4e"
     },
     "gnome-kit": {
         "3.36-prime": "9f11a7d98c0f1cca2efa38a76aa2e7c1a4cb4603"
@@ -51,7 +51,7 @@
         "1.24-prime": "78a6e70790c86807770227354301021edbed8ba5"
     },
     "media-kit": {
-        "1.4-release": "8bcfa89d7e9d6a996648da6d729803dc5d30219e"
+        "1.4-release": "3d84bc84eb34b8e6b625fde0e33162475be68b42"
     },
     "ml-lang-kit": {
         "1.4-release": "39a1e00544a76b8c61f86766d6b649ba8feb22d9"
@@ -69,7 +69,7 @@
         "3.7-release": "6e45607496bd4d6ace47981c6f6831d915227e9d"
     },
     "python-modules-kit": {
-        "1.4-release": "ccd4d22a08ee1da874cf43dc507d0feaef2f9aeb"
+        "1.4-release": "8ad0856e4b75f75668b8faecee234e550b78deb0"
     },
     "qt-kit": {
         "5.15.2-release": "79c317a68e55c0e2860c108d5a071af6193de74a"
@@ -78,7 +78,7 @@
         "2.7-prime": "05301db2ae1f7159f22fa165075548669760e675"
     },
     "science-kit": {
-        "1.4-release": "c10e44dae40e5b1e670c52efae366ef5cddb634d"
+        "1.4-release": "c6a57f6b1f3760035fb8280fc2e08ee1f8c46c45"
     },
     "security-kit": {
         "1.4-release": "486878f95edc4588604b3696f6084359b0268754"
