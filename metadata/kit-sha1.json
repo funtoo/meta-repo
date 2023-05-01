@@ -6,19 +6,19 @@
         "2.0-release": "ea18ca5ff5ca550462331a271a598da54fb94c45"
     },
     "core-hw-kit": {
-        "1.4-release": "69ccae2db6ada8075d3016ad2a492ad8e7fe109d"
+        "1.4-release": "e14ec487914330b8e188608678d885099704812e"
     },
     "core-kit": {
-        "1.4-release": "40391ffe6ee72cac180ff7a1c500aba202370e08"
+        "1.4-release": "10bfa51367e2bbc5fe01883e4f4f559f74c39160"
     },
     "core-server-kit": {
-        "1.4-release": "9d828df093ad7f7881a5c854e27196fb0bbcad3a"
+        "1.4-release": "d1aaba120c25352fbeef2924b41eaa821493ae76"
     },
     "desktop-kit": {
-        "1.4-release": "99a39ecddebf0e3892b88789bf1b677f0b01147d"
+        "1.4-release": "59536a57e4255b71e889f9f777ae8eb640351d27"
     },
     "dev-kit": {
-        "1.4-release": "c08d29f31a3fe8a0ad984fc5d871eb0c719269f3"
+        "1.4-release": "055bce43a79a74294326d9b0abf31b4a59062822"
     },
     "editors-kit": {
         "1.4-release": "9b1f4fb9e92cfbf05821efa74aa435e969b9fd72"
@@ -39,7 +39,7 @@
         "5.22-release": "ccac6ba97f1c859e7b1ae5ffcccc360b13b2bbb3"
     },
     "lang-kit": {
-        "1.4-release": "fadc0ffcac54b7a16c2d12f21712f427d793a46f"
+        "1.4-release": "bc98bd156045315c92ca209d241d38f9c43bab1a"
     },
     "lisp-scheme-kit": {
         "1.4-release": "55f16bbac8c92c9dead705d674b2d9565cfffa73"
@@ -69,16 +69,16 @@
         "3.7-release": "6e45607496bd4d6ace47981c6f6831d915227e9d"
     },
     "python-modules-kit": {
-        "1.4-release": "d63b7cc0ac2991eb674c3a90401b1c5dfe67c768"
+        "1.4-release": "5c0eb8783ce8bf6cb38215e24a15c1b5a95d690d"
     },
     "qt-kit": {
-        "5.15.2-release": "79c317a68e55c0e2860c108d5a071af6193de74a"
+        "5.15.2-release": "cacb8be2a26e2d97186107762b2f658442a76c0d"
     },
     "ruby-kit": {
         "2.7-prime": "05301db2ae1f7159f22fa165075548669760e675"
     },
     "science-kit": {
-        "1.4-release": "c6a57f6b1f3760035fb8280fc2e08ee1f8c46c45"
+        "1.4-release": "18f33ce6c5b72e8253497d788da5753a8547939e"
     },
     "security-kit": {
         "1.4-release": "486878f95edc4588604b3696f6084359b0268754"
@@ -87,6 +87,6 @@
         "1.4-release": "6a1945fdc3ef31dfa0200cbc002b236aa19048bc"
     },
     "xfce-kit": {
-        "4.16-release": "247522370631b6de1fa370d52b776bd041ae8faa"
+        "4.16-release": "a559f771597aed4f1fd39c3d0c550fab303cba99"
     }
 }
