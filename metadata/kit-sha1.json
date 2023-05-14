@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "cc44be69a693edb5d6604434b19041fc89feb4c3"
+        "1.4-release": "8ddb0e3e76902fa577e9536bab21a2ba970c8d7a"
     },
     "core-gl-kit": {
         "2.0-release": "55a8deab28342bd55ba39119ec7e92f1d4fa3e03"
@@ -9,16 +9,16 @@
         "1.4-release": "d3887223a8d7c386a703c1b18b890c4c1de559d0"
     },
     "core-kit": {
-        "1.4-release": "602dd4c5258fd2db9bf908b40b4756d1c840dad0"
+        "1.4-release": "02f92c58ee3bb0285924ecd288289aac1b1143aa"
     },
     "core-server-kit": {
         "1.4-release": "1df5a8d025957fc047be239837cd5d2870121cd2"
     },
     "desktop-kit": {
-        "1.4-release": "0267e86ef5b6092aae31d2ec2b37aef27ff6a9cc"
+        "1.4-release": "124b41bf89f8937273cc0c71457d99e5c3b7733b"
     },
     "dev-kit": {
-        "1.4-release": "68b5c2ad39d53f2a40e0daf8e298d3fd5bad35c7"
+        "1.4-release": "516f8f8034ce56a57f424629ebd00a94115e3cb9"
     },
     "editors-kit": {
         "1.4-release": "9bce3ba14c448574a40e648dcc2c89caa79ee185"
@@ -39,7 +39,7 @@
         "5.22-release": "ccac6ba97f1c859e7b1ae5ffcccc360b13b2bbb3"
     },
     "lang-kit": {
-        "1.4-release": "abf9e702fe56fdcdfa868c445aab9d47d046d3a9"
+        "1.4-release": "27bc1db327dcea546c0f10a095177b32bcc9c2fc"
     },
     "lisp-scheme-kit": {
         "1.4-release": "55f16bbac8c92c9dead705d674b2d9565cfffa73"
