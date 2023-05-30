@@ -11,6 +11,7 @@
         "games-kit",
         "gnome-kit",
         "haskell-kit",
+        "i18n-kit",
         "java-kit",
         "kde-kit",
         "lang-kit",
@@ -92,6 +93,12 @@
             "type": "auto"
         },
         "haskell-kit": {
+            "stability": {
+                "next": "prime"
+            },
+            "type": "auto"
+        },
+        "i18n-kit": {
             "stability": {
                 "next": "prime"
             },
@@ -238,6 +245,9 @@
             "next-3.36-prime"
         ],
         "haskell-kit": [
+            "next"
+        ],
+        "i18n-kit": [
             "next"
         ],
         "java-kit": [
