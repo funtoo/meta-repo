@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "0c49ae2e972697305041299afd027d66a0c5befe"
+        "1.4-release": "7e3f4cfe0259a72a7ca31e585ced46cafc8d2a31"
     },
     "core-gl-kit": {
         "2.0-release": "d400de8f18e0f989f0defb72d5bd7edbdec86484"
@@ -12,16 +12,16 @@
         "1.4-release": "2f2d86461efe067d082af1f510b2467a0436551d"
     },
     "core-server-kit": {
-        "1.4-release": "ee6f92693c6d4befa29476e97231aa493497cb59"
+        "1.4-release": "995ab6b575d274879556fbf2e0fa3ac882d9ed11"
     },
     "desktop-kit": {
         "1.4-release": "b1b0ad9cc1da1b7e68fcd2fe99160219ad580f91"
     },
     "dev-kit": {
-        "1.4-release": "35ce3889bf6685a11571fd30cba0d17cdf055872"
+        "1.4-release": "877a6baed93cdbae39af82bc9c245e2f7c225b94"
     },
     "editors-kit": {
-        "1.4-release": "eb84b616a1503527c1db0b28507b1117ce4d5803"
+        "1.4-release": "15299648a0885b769e272ec52ac14aafa079d69c"
     },
     "games-kit": {
         "1.4-release": "7d1abe2a916e6274153576287e670d0af377ed7b"
@@ -39,7 +39,7 @@
         "5.22-release": "ccac6ba97f1c859e7b1ae5ffcccc360b13b2bbb3"
     },
     "lang-kit": {
-        "1.4-release": "f7135a37de7ef8adb3247eb2da5320e1ba798979"
+        "1.4-release": "e9b26f38875168574b2621adb134466c98230fdd"
     },
     "lisp-scheme-kit": {
         "1.4-release": "55f16bbac8c92c9dead705d674b2d9565cfffa73"
@@ -57,7 +57,7 @@
         "1.4-release": "39a1e00544a76b8c61f86766d6b649ba8feb22d9"
     },
     "net-kit": {
-        "1.4-release": "31db9bd8aed902d0b5fb18ae1e5934025f6c5c3c"
+        "1.4-release": "61e8ff91eb578cfde0e14efe986904d40b3e126b"
     },
     "nokit": {
         "1.4-release": "207ae747dab1f258433658f91dbdd73042141201"
@@ -69,7 +69,7 @@
         "3.7-release": "6e45607496bd4d6ace47981c6f6831d915227e9d"
     },
     "python-modules-kit": {
-        "1.4-release": "4a3d3a7dbc87a96f84fabb4ca11cfa0aa243d44f"
+        "1.4-release": "5612b8140ba2cb242963a18b6d91d1daa73efc77"
     },
     "qt-kit": {
         "5.15.2-release": "c560908c53eee0098ecf42b5ef4e7496e7387cc1"
