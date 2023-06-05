@@ -1,27 +1,27 @@
 {
     "browser-kit": {
-        "next": "f868e38e7610a668e7216f1fc7c37d502f159d1b"
+        "next": "3201e3acadccb0955fc46769dbf1a8e5334a7383"
     },
     "core-gl-kit": {
         "next": "63bf43e8903ec0e29c31b56d3d3405d9cdf0d1e6"
     },
     "core-hw-kit": {
-        "next": "3735e5e78ceb9395c555c7a3df5ac71dbaabc2e2"
+        "next": "fb4dee0e93e2434940bc820b9ca98d9a3c2943ae"
     },
     "core-kit": {
-        "next": "02de5e03cda04924c14dcc1391e378192a9ebed5"
+        "next": "0d911883b09931c4895e4ec850f95c8f648d2512"
     },
     "core-server-kit": {
-        "next": "e94829244af9a2a7d9329d566ac73abfb721f4ac"
+        "next": "1c963bf89ef6f9a1a93849173be0ceccf5d3706b"
     },
     "desktop-kit": {
-        "next": "6a2ec058638dc4429d4f0609eeba3e1bc8473eda"
+        "next": "bc619fbc8a436fae64a1062caaafd79dbc942e50"
     },
     "dev-kit": {
-        "next": "f54454b217d7fbd4838077798097178bfc4a18ff"
+        "next": "fde6759028e0f7d87edf82f596ecb2e0d645d121"
     },
     "editors-kit": {
-        "next": "af25f25f2c5f10078d876f9315e0690602ea9de9"
+        "next": "ed3c86f59bf31d0dbd1c966d53552fea0bb95f8f"
     },
     "games-kit": {
         "next": "da0dc64245024ecd36df0c73f27f1160d3effe0b"
@@ -42,7 +42,7 @@
         "next/5.25-release": "4f87e4f5cdb5669f6b9be4f42759838333b72e14"
     },
     "lang-kit": {
-        "next": "bc2cc3c7da416166087a6407993affb5f35e4899"
+        "next": "14dac4a30cd6ef6f325bb5b2771b54abefbc80ec"
     },
     "lisp-scheme-kit": {
         "next": "2ec8b470ff654fa8814a3549e805199cf2669734"
@@ -54,13 +54,13 @@
         "next-1.24-prime": "aef0d13bc4445e5c963fedf062efd5c42bad1319"
     },
     "media-kit": {
-        "next": "0fd96e22364743c3d5d8eda0d6d5f0ac8775dec1"
+        "next": "9bb8b9a41b1b6c5d5de2ad22a79b2c6b4ba0f0eb"
     },
     "ml-lang-kit": {
         "next": "60066ee04258b5c89aca29ffead364665225154a"
     },
     "net-kit": {
-        "next": "c9e5f4e7b63d3f848fd8261d6f86dcccdbe9db03"
+        "next": "25b0a2a6e06a9d1d71d852a706b32032b7b80273"
     },
     "perl-kit": {
         "next": "bf6d053e713538bd75d1ad619e30fdc581cd6d73"
@@ -84,7 +84,7 @@
         "next": "197f04ec1d04063d52b2ca4c21c87f6851c5e913"
     },
     "text-kit": {
-        "next": "8cfabff29db424ab6b9bb2906e4d0cd76b972647"
+        "next": "94630e02f5b1d54e8477cc3405e955638a4897c6"
     },
     "xfce-kit": {
         "next-4.16-release": "b5aad8251f35e86ff61867471b198868e2997e52"
