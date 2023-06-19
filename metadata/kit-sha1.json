@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "34bbacbaab213ac708b7c253972f035f238e3ed5"
+        "1.4-release": "7ee52993aa7a86e1407bf308be56b32807bd8276"
     },
     "core-gl-kit": {
         "2.0-release": "d400de8f18e0f989f0defb72d5bd7edbdec86484"
@@ -18,10 +18,10 @@
         "1.4-release": "fc8e01243e8284322fbf8466c43ef7e708dc2919"
     },
     "dev-kit": {
-        "1.4-release": "a4c3eba20b13849b370d12024078e360d04bb682"
+        "1.4-release": "5f07be90b26c2ef65f2f10ef4eb2c9b7f677adf7"
     },
     "editors-kit": {
-        "1.4-release": "58b29eeee996779c0b3d476328fba0d50cea4363"
+        "1.4-release": "713052c8380fcf6a45456a74075b94ded2df9603"
     },
     "games-kit": {
         "1.4-release": "7d1abe2a916e6274153576287e670d0af377ed7b"
@@ -39,7 +39,7 @@
         "5.22-release": "ccac6ba97f1c859e7b1ae5ffcccc360b13b2bbb3"
     },
     "lang-kit": {
-        "1.4-release": "8f0a7d9e272c8d7803e13bde31ff9dec18128bb7"
+        "1.4-release": "ef477f497677a795b6d877c2af77b563b68adfb4"
     },
     "lisp-scheme-kit": {
         "1.4-release": "55f16bbac8c92c9dead705d674b2d9565cfffa73"
@@ -51,13 +51,13 @@
         "1.24-prime": "78a6e70790c86807770227354301021edbed8ba5"
     },
     "media-kit": {
-        "1.4-release": "3d7b6479b19370336c0a5c785c0efc7b2f138658"
+        "1.4-release": "05cc1d104f4148e216d74654ad7e0d5b30eebd04"
     },
     "ml-lang-kit": {
         "1.4-release": "39a1e00544a76b8c61f86766d6b649ba8feb22d9"
     },
     "net-kit": {
-        "1.4-release": "d35f0b2b1352ad35156dd3eef2cbfdeb0d927236"
+        "1.4-release": "b112fd3d01d819f4186b60444daacb74ce719178"
     },
     "nokit": {
         "1.4-release": "207ae747dab1f258433658f91dbdd73042141201"
@@ -69,7 +69,7 @@
         "3.7-release": "f2d3be59b74757bfa5fed88aa3c950cfee0d1446"
     },
     "python-modules-kit": {
-        "1.4-release": "8930d438a9995f954abd94e0ccafdea1acafd9d0"
+        "1.4-release": "e47b5c0d286540c874f1ae73915335c31f58b79c"
     },
     "qt-kit": {
         "5.15.2-release": "44695ae8cfdcb7824991c3266dcdcdd50b23b42a"
