@@ -6,7 +6,7 @@
         "2.0-release": "a8b96cec6968dabf1216e7986eb295da4217cc45"
     },
     "core-hw-kit": {
-        "1.4-release": "94e3e32cf3f4ddb3aca669fa169ee13b24901308"
+        "1.4-release": "6a1850edabac50023b05661421bd2d819728b15a"
     },
     "core-kit": {
         "1.4-release": "8a2c240f7ff908b4f87cd3e64d79d957f2c1fdd0"
@@ -18,7 +18,7 @@
         "1.4-release": "4dd471acbcc2be6fd7b6dcb3cadb406e9c02744b"
     },
     "dev-kit": {
-        "1.4-release": "38f90430e681c8efdb8103bcc79f51ce54db468e"
+        "1.4-release": "38825bea22c700bcdd5ee9261063b25b6f109eb7"
     },
     "editors-kit": {
         "1.4-release": "76c879109a36d646e68609b5756c0f7b4eeba785"
@@ -39,7 +39,7 @@
         "5.22-release": "ccac6ba97f1c859e7b1ae5ffcccc360b13b2bbb3"
     },
     "lang-kit": {
-        "1.4-release": "09cab3ddd238ff5683d1a7a0227f50f023a848f0"
+        "1.4-release": "92a0f72587d2ac3fafe8a7ba297e0791915a527a"
     },
     "lisp-scheme-kit": {
         "1.4-release": "78bc20ac2ebd48712f8f0ad722effd529511567b"
@@ -51,7 +51,7 @@
         "1.24-prime": "78a6e70790c86807770227354301021edbed8ba5"
     },
     "media-kit": {
-        "1.4-release": "5caa52314dcb47930504b7b6a5fc7827a3c20946"
+        "1.4-release": "3b136a46e534a8b819c251b22af6056571b31edd"
     },
     "ml-lang-kit": {
         "1.4-release": "c9aa3de91728f0f9cd15ac2785326b5334a074e9"
@@ -72,7 +72,7 @@
         "1.4-release": "dfa2005342fdd135491ff5d470867f25e3cd30a3"
     },
     "qt-kit": {
-        "5.15.2-release": "081d80430bbe5ff436f3bb18d979759d530e3d5d"
+        "5.15.2-release": "c5b5b58fd90fb6e75c3aaa8e0c7fedb19cb0ead9"
     },
     "ruby-kit": {
         "2.7-prime": "05301db2ae1f7159f22fa165075548669760e675"
