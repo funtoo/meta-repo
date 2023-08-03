@@ -1,27 +1,27 @@
 {
     "browser-kit": {
-        "next": "1a4ed925369db50c38d81f801bba6f8dbed609d0"
+        "next": "14d938126e18cf4b2c47e6459f408a27f6a14e6f"
     },
     "core-gl-kit": {
         "next": "2803c1e296860575358450e58efb811c6fd62637"
     },
     "core-hw-kit": {
-        "next": "2ec7a9ab3664fb7ad9f1d4e2d49aaf63a86dcfa5"
+        "next": "a58712c5b0d08beeaf4c2407d0c5cb73be72d8ce"
     },
     "core-kit": {
-        "next": "98da191000ea82340667666837019a9d79c43ec7"
+        "next": "6499203a385e992dbb0cac462dc5f3b21a5acf22"
     },
     "core-server-kit": {
-        "next": "a630d0649349918375ee4e0570f3b3718280acf5"
+        "next": "7df553bf03e617a46154e130c085a7bbb8281bd0"
     },
     "desktop-kit": {
-        "next": "3a6e82e0e5af62ebb2515ae7059c5f6523b1d09d"
+        "next": "c6c11250e43fcdf2554f4f2c6163a57b4dc9fdfe"
     },
     "dev-kit": {
-        "next": "128d9abd637d09864f6a1d88b468126146eb0863"
+        "next": "b31da177ae4afb41fadfb4414f28aab4791c89cf"
     },
     "editors-kit": {
-        "next": "649c8638a9dadc190a7ed86d8cb1725a53cf7317"
+        "next": "b76af45afceb4ef500afe04c1cafff754da0aea2"
     },
     "games-kit": {
         "next": "4cd7086e31c8b552578ecd6cfdcdcd291cd1ccbe"
@@ -33,7 +33,7 @@
         "next": "c469a106196ff38b15a2d70c331e1e05de976291"
     },
     "i18n-kit": {
-        "next": "f8a7cd45190da3ffa9590434e07a3c65673752aa"
+        "next": "33183e9b363da0ff10e107a009e2c61015cfec60"
     },
     "java-kit": {
         "next": "bd9859b5fba779dcefa721a1b70ee5fe74f31257"
@@ -42,7 +42,7 @@
         "next/5.25-release": "4489cc3bb031b20a3f70f5becd19fb6a218546ca"
     },
     "lang-kit": {
-        "next": "b67ecee2bf9620edadac5994355fd8771b6f6903"
+        "next": "138cbf21a8893f70dbbc7628fd9e86842dd9c320"
     },
     "lisp-scheme-kit": {
         "next": "f24928b765b8eef712a6818f39ec4763224ffe0c"
@@ -60,7 +60,7 @@
         "next": "6b0686af6a85cc471e7b176381a28232e8f0c3b1"
     },
     "net-kit": {
-        "next": "b80b7dfc10314f45955ca9336f2b3083cc65673f"
+        "next": "463f61690d54ea60538fce3d4d2b7d1c37bd21ff"
     },
     "perl-kit": {
         "next": "d3f48c07fd0ac9905bc8ef2c3ec24db8037a5022"
