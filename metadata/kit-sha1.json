@@ -9,16 +9,16 @@
         "next": "7a22b72f269a4b7b568a066b8195e343dfbb89dd"
     },
     "core-kit": {
-        "next": "30165ff585d8c4cf861712887e64ae0a690a1c0f"
+        "next": "426e766c9f4c5cb5491c559880f17a546b7aca97"
     },
     "core-server-kit": {
-        "next": "403035e40a922e5fb779e9dccd589c8b8b0271b5"
+        "next": "960c1eb7df4a09e00a6fe6c4b6d9a2531d565f7d"
     },
     "desktop-kit": {
         "next": "d9908a16c41b7c1702ff2a74db4ab3aa88f175e4"
     },
     "dev-kit": {
-        "next": "df4d0f83a816245c0aa34794796c989211cbd5b7"
+        "next": "f303960344a63fdd0f6620fc80010e2f9ab06d12"
     },
     "editors-kit": {
         "next": "29e12f00bf8b313bb21991d860c26ff4e4f3058e"
@@ -39,10 +39,10 @@
         "next": "bd9859b5fba779dcefa721a1b70ee5fe74f31257"
     },
     "kde-kit": {
-        "next/5.25-release": "4489cc3bb031b20a3f70f5becd19fb6a218546ca"
+        "next/5.25-release": "c6d5bf70d3f60cb857e29cc41a16b8976f11d5c8"
     },
     "lang-kit": {
-        "next": "fca2d7867c4ffe68ccda91da26ff7edcec24bcd3"
+        "next": "644fd57cf4c5290cd97ed2a9a624287049aee722"
     },
     "lisp-scheme-kit": {
         "next": "f24928b765b8eef712a6818f39ec4763224ffe0c"
@@ -54,13 +54,13 @@
         "next-1.24-prime": "aef0d13bc4445e5c963fedf062efd5c42bad1319"
     },
     "media-kit": {
-        "next": "2816d0e0a2f7590c053a5cc4f5bd9b812b156488"
+        "next": "0241a356d0bb997be2acb534eef3279226549147"
     },
     "ml-lang-kit": {
         "next": "6b0686af6a85cc471e7b176381a28232e8f0c3b1"
     },
     "net-kit": {
-        "next": "f4c170cc197dfeebf826ee96eca9705a47e977a8"
+        "next": "a5e4b8ea0b8c89a0538a2f22a93edca24ab11333"
     },
     "perl-kit": {
         "next": "d3f48c07fd0ac9905bc8ef2c3ec24db8037a5022"
@@ -69,7 +69,7 @@
         "next": "004a0ff15ba6fe3f9e5a5c21c63dca5c3dc1c63c"
     },
     "python-modules-kit": {
-        "next": "549854b90c8f53b2ca8c377c25da1710274b92a9"
+        "next": "54512334ec3265e8d08a6be55ebe73e9f77c0a3d"
     },
     "qt-kit": {
         "next-5.15.2-release": "df745d6b533d1a87c7ed19d085ab5f147c142028"
@@ -78,7 +78,7 @@
         "next": "74d5035e0a9ba120908a58ee8559ec3c63d7bdd3"
     },
     "science-kit": {
-        "next": "d559f6ece64716a3282c4abc2f91a6e03db331ef"
+        "next": "5c7ed4eee32e36fd6531072fe1d5cc2d7e76dff5"
     },
     "security-kit": {
         "next": "2b4963f63c5fc8166613a47a7d5f49a02c63d2c4"
