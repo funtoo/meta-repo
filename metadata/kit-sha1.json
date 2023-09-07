@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "c36365591fd21194f04d63dbde5eeecdd211f912"
+        "next": "df16a6359cd73ef05318b70258f08b26c1a43c61"
     },
     "core-gl-kit": {
         "next": "6601fa85b53a024dd84c8e30abe6fbadfaacf0d7"
@@ -9,19 +9,19 @@
         "next": "115fc8228d5e341f2108338c232d54c12bd6569e"
     },
     "core-kit": {
-        "next": "498bad0b452b3aa0e753487c948488b50fffd48b"
+        "next": "8b9d63212e25dcf64bb066d510a4989c8067d86a"
     },
     "core-server-kit": {
-        "next": "32e659eccf3858ecd5bb8142532dfafc7a7c87df"
+        "next": "04fb2e93b811a2d7ec816d621c816e98f3fe37fa"
     },
     "desktop-kit": {
         "next": "486ffb335619570e9dfb7b04190acde72933d2bc"
     },
     "dev-kit": {
-        "next": "777c152557f29742bca8c26de6acb8cd95ae3aa5"
+        "next": "e95300c17e17f4140d5bbf07ab4cb0ae31b759b6"
     },
     "editors-kit": {
-        "next": "a54abccf28cab07140c677114797f21a9dbb3ee5"
+        "next": "843294c2eb744a844930cab4604bdf09cc3aaa05"
     },
     "games-kit": {
         "next": "9a958e564da56a6a3229caec539253c359a33879"
@@ -42,7 +42,7 @@
         "next/5.25-release": "c6d5bf70d3f60cb857e29cc41a16b8976f11d5c8"
     },
     "lang-kit": {
-        "next": "0aca51c6b614508fcaae2b2d6810caa0874aecff"
+        "next": "e55aa113f90db805c2c6ca626b496808368e2d02"
     },
     "lisp-scheme-kit": {
         "next": "f24928b765b8eef712a6818f39ec4763224ffe0c"
@@ -60,7 +60,7 @@
         "next": "6b0686af6a85cc471e7b176381a28232e8f0c3b1"
     },
     "net-kit": {
-        "next": "0835db3a29a3414ec1c11d880c5871a38818531a"
+        "next": "d999bc9e8af190ee657f26303a04bdd8bdbb60b8"
     },
     "perl-kit": {
         "next": "d3f48c07fd0ac9905bc8ef2c3ec24db8037a5022"
@@ -69,7 +69,7 @@
         "next": "b9341b125c0ab958fb1c7cd763f35d38653ad445"
     },
     "python-modules-kit": {
-        "next": "3a518697e92cced7ca6cb1bbb3f1d104d8ef0daa"
+        "next": "a2ad8eb75a700b620894d94a2d8be0d83fc7c826"
     },
     "qt-kit": {
         "next-5.15.2-release": "9ef843799cb6779fb0113c6a9031e5b813f9c98b"
