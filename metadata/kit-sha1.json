@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "9ab1a3f9404542c757df73cae4c81920b26ffb67"
+        "next": "82f99c9bd2df51958c9498bef912beeb546fbf36"
     },
     "core-gl-kit": {
         "next": "9d26733b89117f11ef6b52365d99b36df3883ba3"
@@ -9,7 +9,7 @@
         "next": "993112020698f8c1bd07dc858a8a03491682c8c1"
     },
     "core-kit": {
-        "next": "442796d4037ad5887438cc7fcbeb665e4a39d4ea"
+        "next": "ea8391e9cc7b3aa9d89b047d493853cd35644325"
     },
     "core-server-kit": {
         "next": "bff0c0ee307fab0488d68c9ed8912a47d466296a"
@@ -18,7 +18,7 @@
         "next": "758d3ec07cf997f48dd4372d01775549f5606cec"
     },
     "dev-kit": {
-        "next": "01302eeaa2173903952f7efef5e257aae87c43e9"
+        "next": "283dae65a939ea1d76f623a6381e92dd6a13c8d9"
     },
     "editors-kit": {
         "next": "7417e5f20d8622c6b4878cf7ae343d4ab7a2f7ae"
@@ -42,7 +42,7 @@
         "next/5.25-release": "c6d5bf70d3f60cb857e29cc41a16b8976f11d5c8"
     },
     "lang-kit": {
-        "next": "ae6cb71514a638db48d00d32e108064690c452c3"
+        "next": "dea4627e59489c5b524d9847e07a955f6e62da0a"
     },
     "lisp-scheme-kit": {
         "next": "f24928b765b8eef712a6818f39ec4763224ffe0c"
@@ -54,13 +54,13 @@
         "next-1.24-prime": "aef0d13bc4445e5c963fedf062efd5c42bad1319"
     },
     "media-kit": {
-        "next": "9e3624b02867d2a100fc91e0611fa0c16acd850f"
+        "next": "bc3e3291e40af51b3a04bdd6b7779de0bf4ca5c6"
     },
     "ml-lang-kit": {
         "next": "6b0686af6a85cc471e7b176381a28232e8f0c3b1"
     },
     "net-kit": {
-        "next": "010a3ddaea9c447f578e9fa71116a7e4528fb460"
+        "next": "324a8356fa10799d8682cb8bdc38c5ea0481287a"
     },
     "perl-kit": {
         "next": "d3f48c07fd0ac9905bc8ef2c3ec24db8037a5022"
@@ -69,7 +69,7 @@
         "next": "b9341b125c0ab958fb1c7cd763f35d38653ad445"
     },
     "python-modules-kit": {
-        "next": "9d34e09a483baa5d1640579e0da88bec3caad25e"
+        "next": "8ca1c5f20e3543cc710d9f33d5a65b0629abc6ef"
     },
     "qt-kit": {
         "next-5.15.2-release": "9ef843799cb6779fb0113c6a9031e5b813f9c98b"
