@@ -1,15 +1,15 @@
 {
     "browser-kit": {
-        "next": "847ea9056cc4e223602c51847087029d3bab0074"
+        "next": "ae0a3c06830ca4572d73b725c571b8f13abec988"
     },
     "core-gl-kit": {
         "next": "a83bc70f470e9d5c13b012470c157ee87604e018"
     },
     "core-hw-kit": {
-        "next": "55dce4a0d4c4e2d0d9a0cb3f1629af6e2ba09b93"
+        "next": "6ad4a5694b5a5c6b31cfac290038ef1d2024d1c7"
     },
     "core-kit": {
-        "next": "16d5fac381e5378a87cca7e8466fe83302f02e31"
+        "next": "b3bcb66909ceeddd063615808edf48e6f619a4c6"
     },
     "core-server-kit": {
         "next": "7b20d3c0cb1fed6ec43a45e9937aaec1a9c08754"
@@ -18,10 +18,10 @@
         "next": "5709f77bcce9c4c4fe4bf2e227fd2c028de82fe1"
     },
     "dev-kit": {
-        "next": "6c99f99ea41dfee96bf4bee7fcd397f053bc1752"
+        "next": "91dcc2a331ad6ac91d48294a3a2c05790e5a81f2"
     },
     "editors-kit": {
-        "next": "e14a5cdf68605cdf6e7ac310d9be03b070f58666"
+        "next": "7ea30c09b5c3746cf9dde381b4ef144838000030"
     },
     "games-kit": {
         "next": "9a958e564da56a6a3229caec539253c359a33879"
@@ -42,7 +42,7 @@
         "next/5.25-release": "c6d5bf70d3f60cb857e29cc41a16b8976f11d5c8"
     },
     "lang-kit": {
-        "next": "36fbaffa104dbd2cb4b5de249ae3292d909fa54b"
+        "next": "e19373305562aafc2b0bc0308ce0289da712ed9f"
     },
     "lisp-scheme-kit": {
         "next": "f24928b765b8eef712a6818f39ec4763224ffe0c"
@@ -54,13 +54,13 @@
         "next-1.24-prime": "aef0d13bc4445e5c963fedf062efd5c42bad1319"
     },
     "media-kit": {
-        "next": "d242edc4c89616947202efb3b4d2d6fa76ea4e4b"
+        "next": "f32ed7c6d8a323eb166179ccd554897034adcbf3"
     },
     "ml-lang-kit": {
         "next": "6b0686af6a85cc471e7b176381a28232e8f0c3b1"
     },
     "net-kit": {
-        "next": "18834dc8af988d14fe5b1fa560bb7743a2b1006b"
+        "next": "a716115bd732e31c207546e6b7a9788ae32a318a"
     },
     "perl-kit": {
         "next": "d3f48c07fd0ac9905bc8ef2c3ec24db8037a5022"
@@ -81,7 +81,7 @@
         "next": "cae9a734cce3b5c22632627bc5ca7e323e64823f"
     },
     "security-kit": {
-        "next": "9b14709d9ee726c37997f8dbc6ab635e2784c919"
+        "next": "f03548e2c17b298bb907e889ce250ca3b421a1eb"
     },
     "text-kit": {
         "next": "31c9f284f7ff1ab0893b6215ee488e1ae7b79d85"
