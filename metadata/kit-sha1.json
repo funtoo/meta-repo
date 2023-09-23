@@ -1,30 +1,30 @@
 {
     "browser-kit": {
-        "next": "e2c98c59fd51ae4bc63185a5ed288f1a8759284c"
+        "next": "292cc6b74981fb923f439881f462402b3fab0884"
     },
     "core-gl-kit": {
         "next": "a83bc70f470e9d5c13b012470c157ee87604e018"
     },
     "core-hw-kit": {
-        "next": "6a5704445524f23da497294d7d4167dfbd905f2c"
+        "next": "afe98d2a7eee075ec65e020d4ef5c2e7d0d29bfa"
     },
     "core-kit": {
-        "next": "6cda8746abe2d5a24b94e0dc239a493be5ba850b"
+        "next": "645972a49ac8ab9f44503f6f9a344a7fdccdd049"
     },
     "core-server-kit": {
-        "next": "ffe58b9609c98eb2c04bfa1d9c32ef0e73dcde5a"
+        "next": "ee91d54f54ecae1874d528957ec7d51b51bd5ef5"
     },
     "desktop-kit": {
         "next": "6a808e9b13ab65a6987c108a3c30ccb5e5d068c4"
     },
     "dev-kit": {
-        "next": "5c8eeef0f2d1eb9a62fcbefa1e3ba591c3d3730e"
+        "next": "378c80c8d793aac1ddfdd1067059e099add5b205"
     },
     "editors-kit": {
         "next": "46d0643d6ca664f12da773d9bd9a737b9d23a14e"
     },
     "games-kit": {
-        "next": "9a958e564da56a6a3229caec539253c359a33879"
+        "next": "41b6a7ef4d06826876144c53857f2e2468fbaa47"
     },
     "gnome-kit": {
         "next-3.36-prime": "95942d43fb5f8eccc5ae5ae6ae0122129ce59102"
@@ -42,7 +42,7 @@
         "next/5.25-release": "c6d5bf70d3f60cb857e29cc41a16b8976f11d5c8"
     },
     "lang-kit": {
-        "next": "46e5c7c39c654d61143e7d14818935218612003e"
+        "next": "4cf0f43569f534120f8f9fc73c4e83dd06eaa560"
     },
     "lisp-scheme-kit": {
         "next": "f24928b765b8eef712a6818f39ec4763224ffe0c"
@@ -54,13 +54,13 @@
         "next-1.24-prime": "aef0d13bc4445e5c963fedf062efd5c42bad1319"
     },
     "media-kit": {
-        "next": "5fd254a48e1b71db290836cb60aaa95763f13420"
+        "next": "8062efcd96028e80d46d006fd422e9313458e53d"
     },
     "ml-lang-kit": {
         "next": "6b0686af6a85cc471e7b176381a28232e8f0c3b1"
     },
     "net-kit": {
-        "next": "e416ccc9204cb21750f7ee88ae498a38822ee606"
+        "next": "5677c36288443c17d11ba26350c9059716522467"
     },
     "perl-kit": {
         "next": "d3f48c07fd0ac9905bc8ef2c3ec24db8037a5022"
