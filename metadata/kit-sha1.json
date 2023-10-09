@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "1.4-release": "c9dc6b845db9a453e680c61e3b320e136bf961b3"
+        "1.4-release": "97901b67baaa05072cd79a23ffee392cb821c32d"
     },
     "core-gl-kit": {
         "2.0-release": "65a1b45a06a8ff94148b39e423e7977f1a18ebc2"
@@ -18,10 +18,10 @@
         "1.4-release": "6247e53d42002744117575d1627a98a101478759"
     },
     "dev-kit": {
-        "1.4-release": "0f01051cb308a6df92dc3a61133ed5c75eb4bf43"
+        "1.4-release": "2222b332a7658f7902d9e24b81302aa2400e32da"
     },
     "editors-kit": {
-        "1.4-release": "ff2008203b9340bb508e871bdc5b80320d913a6e"
+        "1.4-release": "cd2420f40684fbb6d03cc893852c5f0c434784bc"
     },
     "games-kit": {
         "1.4-release": "0a9c25b71bcc881ad9097966e76ed3b11c505eef"
@@ -39,7 +39,7 @@
         "5.22-release": "ccac6ba97f1c859e7b1ae5ffcccc360b13b2bbb3"
     },
     "lang-kit": {
-        "1.4-release": "15676c329a1f701b3d6de28c09965622f98f6969"
+        "1.4-release": "0c6bcf373c2825349bb4687393d69c1f2534fcef"
     },
     "lisp-scheme-kit": {
         "1.4-release": "78bc20ac2ebd48712f8f0ad722effd529511567b"
@@ -51,13 +51,13 @@
         "1.24-prime": "78a6e70790c86807770227354301021edbed8ba5"
     },
     "media-kit": {
-        "1.4-release": "3aeb243f9820e9b24f0d791d4e1aa91e483c7f7e"
+        "1.4-release": "989b5977b109c0296f4562ba58ef9c09736f118c"
     },
     "ml-lang-kit": {
         "1.4-release": "c9aa3de91728f0f9cd15ac2785326b5334a074e9"
     },
     "net-kit": {
-        "1.4-release": "d4f72cf5a4c0e87908791e71922a4d5e0229c1ad"
+        "1.4-release": "929941c13f53b09012dbaffa48a70907c7f86c53"
     },
     "nokit": {
         "1.4-release": "b225aca14991aa876fbb1e914d397882085fe927"
@@ -69,7 +69,7 @@
         "3.7-release": "be32aac2f8cdf3b6b4b0392bd09716964932a046"
     },
     "python-modules-kit": {
-        "1.4-release": "489c4f42ac2d4a65f98216f2eb8cc6bf69470c8f"
+        "1.4-release": "7dbd850770d49eda0888f2db619ec63e0afe2f2a"
     },
     "qt-kit": {
         "5.15.2-release": "9800e76b75a5461d2dba3f771156a564cb42c7ff"
