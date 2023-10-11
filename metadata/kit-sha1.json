@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "62bc27c97294ff70047a1a0df85dbb7c97060af0"
+        "next": "17b5986cb68594cc14b8dc9471a6c95acf76775d"
     },
     "core-gl-kit": {
         "next": "8687534fe44d8a3f31ca05d0c5a3816f7ef47ca3"
@@ -12,16 +12,16 @@
         "next": "df31e3f5f794a8a13788bc85f4d8aff9cfd7d778"
     },
     "core-server-kit": {
-        "next": "c75f22f0f5eb1d1b39dc55c82f9e318a921a3134"
+        "next": "1227165e2f812f34a953b743c91a7e704b479a14"
     },
     "desktop-kit": {
-        "next": "e08f2635129e2fc6462ae82956149952be111825"
+        "next": "ca7130c677d9075a28db7a5d03f395a078a7760e"
     },
     "dev-kit": {
-        "next": "cffc7dc27f95c059ac82f3a479c0c596ea877702"
+        "next": "9e2e4cbd0ab923ebd83745666fe24fadda16741a"
     },
     "editors-kit": {
-        "next": "daf5e917fa78d6bf9694df4da1732cf7a3774245"
+        "next": "ae284546135724d067c94cb78e1b6d7f22880fbb"
     },
     "games-kit": {
         "next": "d8e958534fe70275f5d6febec71489b5b4df0d7b"
@@ -36,13 +36,13 @@
         "next": "9d9ed81f34dcb7323e750a88cab83590d13ae567"
     },
     "java-kit": {
-        "next": "a59ed51dc26ef13ce366855426509a2726832a50"
+        "next": "d71e9ec88f225cd66f63e69c6913ee7b8471a50b"
     },
     "kde-kit": {
         "next/5.25-release": "c6d5bf70d3f60cb857e29cc41a16b8976f11d5c8"
     },
     "lang-kit": {
-        "next": "9bb32ea571cefd410f0861f7ecf6ae684ee882ed"
+        "next": "14d401e60aece124a43f4228089c6b4ef47ed3a9"
     },
     "lisp-scheme-kit": {
         "next": "f24928b765b8eef712a6818f39ec4763224ffe0c"
@@ -54,13 +54,13 @@
         "next-1.24-prime": "aef0d13bc4445e5c963fedf062efd5c42bad1319"
     },
     "media-kit": {
-        "next": "78affbb07f2d049e108c607c44a23f20b45b1fc3"
+        "next": "a9df48f40e9933c8f642ee291093674f8c56dfae"
     },
     "ml-lang-kit": {
         "next": "6b0686af6a85cc471e7b176381a28232e8f0c3b1"
     },
     "net-kit": {
-        "next": "47d7bd6fbaa3c5a4ea6ff65613240a86d1086457"
+        "next": "3231fba495695c99cd2ae39a2ee418fe74ab6a1d"
     },
     "perl-kit": {
         "next": "d3f48c07fd0ac9905bc8ef2c3ec24db8037a5022"
@@ -81,7 +81,7 @@
         "next": "58f1c4a5e79e0fe18a455879742055144cf2aac4"
     },
     "security-kit": {
-        "next": "c2d6aa6a2cc83a7e0439bf0919bd4ab94a292b4e"
+        "next": "5a66a2c08c6d5fdb5389de6d6d72fdafa151d94f"
     },
     "text-kit": {
         "next": "e3b254c5e8891146bcd7fae507a54d942bf28a60"
