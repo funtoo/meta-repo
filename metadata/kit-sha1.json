@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "0860bc2682aec0f34ba7e1214ce756514a6f36eb"
+        "next": "294cfb1d57cbffadf67b85cedbcf99d9cee2ab66"
     },
     "core-gl-kit": {
         "next": "8687534fe44d8a3f31ca05d0c5a3816f7ef47ca3"
@@ -9,19 +9,19 @@
         "next": "7217dec4b39e41a429933236ae48fb33fbbb58d8"
     },
     "core-kit": {
-        "next": "b492db23e87264cc241035b7e8da455680d04584"
+        "next": "24fecb24caa4161022ed844fe4edc273e0001c96"
     },
     "core-server-kit": {
-        "next": "de664626e2d91658cbc34c0aaa06fee1fbf691c0"
+        "next": "b3a4d7b4c1b31ac0d892a90bd1381157e3c69f78"
     },
     "desktop-kit": {
         "next": "8b4a78ac8c7efb63e44df16d24f5283c3114ad6d"
     },
     "dev-kit": {
-        "next": "bfc31ad6298fa1757b41ea3819ad716baa3296dd"
+        "next": "6d090b4c40909f8be51c2ec0b36b4e02d331de1a"
     },
     "editors-kit": {
-        "next": "f0d6fcf04462a3a8142014e37098db425223f739"
+        "next": "23db584607d0f1cb45e08b4ecd9c8e4e2d17c5e6"
     },
     "games-kit": {
         "next": "722fa4a2c83c35b1259d2ee32060b12e7feb9f19"
@@ -42,7 +42,7 @@
         "next/5.25-release": "c6d5bf70d3f60cb857e29cc41a16b8976f11d5c8"
     },
     "lang-kit": {
-        "next": "388267eba880ad85acadda6e8d73e6f02d532635"
+        "next": "a06b58c0c223a7a409d396954bda3186292a5ca9"
     },
     "lisp-scheme-kit": {
         "next": "f24928b765b8eef712a6818f39ec4763224ffe0c"
@@ -60,7 +60,7 @@
         "next": "6b0686af6a85cc471e7b176381a28232e8f0c3b1"
     },
     "net-kit": {
-        "next": "e727f2f6e5db06cad27e1e619ff23cace4e7765f"
+        "next": "c0dc84c88c4616335665800eb01015619b82ef04"
     },
     "perl-kit": {
         "next": "d3f48c07fd0ac9905bc8ef2c3ec24db8037a5022"
@@ -69,7 +69,7 @@
         "next": "b9341b125c0ab958fb1c7cd763f35d38653ad445"
     },
     "python-modules-kit": {
-        "next": "5897f96a69a1a5de273cfc90235271179c101cfc"
+        "next": "9afc2db366c1bc529fef448d7ebc4a2a9c1f2b4d"
     },
     "qt-kit": {
         "next-5.15.2-release": "21207fed867884df4936e750a2beee0ab500a857"
@@ -81,7 +81,7 @@
         "next": "d14fb0ffd92f54508924faf8fd8846c62a31c91d"
     },
     "security-kit": {
-        "next": "cb7dd9c5f70f4847164ad48d261be3f889d0b858"
+        "next": "77994413b86ebd5d206eca04e6f986eac1df1050"
     },
     "text-kit": {
         "next": "4df1fa5e9bbb984d1dfe49864b6ea754559b4d21"
