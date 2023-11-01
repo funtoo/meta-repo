@@ -136,7 +136,8 @@
         },
         "mate-kit": {
             "stability": {
-                "next-1.24-prime": "prime"
+                "next/1.24-prime": "prime",
+                "next/1.26-prime": "prime"
             },
             "type": "auto"
         },
@@ -266,7 +267,8 @@
             "next"
         ],
         "mate-kit": [
-            "next-1.24-prime"
+            "next/1.24-prime",
+            "next/1.26-prime"
         ],
         "media-kit": [
             "next"

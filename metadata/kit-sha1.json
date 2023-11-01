@@ -6,19 +6,19 @@
         "next": "8687534fe44d8a3f31ca05d0c5a3816f7ef47ca3"
     },
     "core-hw-kit": {
-        "next": "01e837afe730a3d7eeeca54b59d97448083d9eb1"
+        "next": "ced56ec8552012a0cd28c95bf6661f4955a84348"
     },
     "core-kit": {
-        "next": "523f2659810e634b29752e850126771902cd1316"
+        "next": "be986f0810630426da3b1138ed9b9a5234e911a6"
     },
     "core-server-kit": {
-        "next": "e20213e89a82de780d6d50d4015be8fb040650dd"
+        "next": "fea8e69014a117baaff9e5399d5072c26a648a16"
     },
     "desktop-kit": {
-        "next": "52fdb4c44f4765fb8ce05fa539bd4bf474226992"
+        "next": "91bd1a4a4ec8d80ecc84ce0ec5fe2a2f3e090651"
     },
     "dev-kit": {
-        "next": "cc10eefbb6140a4e1e9cd319f2a8586396409f15"
+        "next": "37cc0f671fea7c12bd7cdf5526878985dae7d2ac"
     },
     "editors-kit": {
         "next": "eb25a1fe3a7e4f22565e4082b9f59343c0b6bf2f"
@@ -51,16 +51,17 @@
         "next": "070e02b75a7f6f18e18a4845d004ea3f9e8141ad"
     },
     "mate-kit": {
-        "next-1.24-prime": "aef0d13bc4445e5c963fedf062efd5c42bad1319"
+        "next/1.24-prime": "e739492bd739e7deafe50978fc2acceaa5dc2792",
+        "next/1.26-prime": "4674e06ec8c384ef649df2f74033b551d315b665"
     },
     "media-kit": {
-        "next": "3929ab2920781bcfb86e7fea4df2f84e038693df"
+        "next": "d4c3e14011057194ae9b256f37bcab3179dcbf28"
     },
     "ml-lang-kit": {
         "next": "6b0686af6a85cc471e7b176381a28232e8f0c3b1"
     },
     "net-kit": {
-        "next": "f65b48a66d87261dc0935e59479c014b5ef97ea8"
+        "next": "54f6a6e6bb780c51159ea9d5daba796248f5d79a"
     },
     "perl-kit": {
         "next": "d3f48c07fd0ac9905bc8ef2c3ec24db8037a5022"
@@ -69,10 +70,10 @@
         "next": "b9341b125c0ab958fb1c7cd763f35d38653ad445"
     },
     "python-modules-kit": {
-        "next": "2614d7b1410cf50bf512f3909695ddc7d3e96867"
+        "next": "1ce0bedec3c4a224e685411df15d426d97f7c3dd"
     },
     "qt-kit": {
-        "next-5.15.2-release": "21207fed867884df4936e750a2beee0ab500a857"
+        "next-5.15.2-release": "df396a0c036bd54c0343ba2be40a021ac24f7659"
     },
     "ruby-kit": {
         "next": "b1add8b0a007e97a7e55579884eb5ee73021c75c"
@@ -84,7 +85,7 @@
         "next": "77994413b86ebd5d206eca04e6f986eac1df1050"
     },
     "text-kit": {
-        "next": "97790b614867af1b71bba21ab8922ad86b862141"
+        "next": "37dcd9f913db1415e25ca9adb7b8cac9ffeca75c"
     },
     "xfce-kit": {
         "next-4.16-release": "fdddcbe09fa75b416564e7178dd72823270af5a1"
