@@ -112,7 +112,7 @@
         },
         "kde-kit": {
             "stability": {
-                "next/5.25-release": "prime"
+                "next/5.27-release": "prime"
             },
             "type": "auto"
         },
@@ -136,7 +136,6 @@
         },
         "mate-kit": {
             "stability": {
-                "next/1.24-prime": "prime",
                 "next/1.26-prime": "prime"
             },
             "type": "auto"
@@ -255,7 +254,7 @@
             "next"
         ],
         "kde-kit": [
-            "next/5.25-release"
+            "next/5.27-release"
         ],
         "lang-kit": [
             "next"
@@ -267,7 +266,6 @@
             "next"
         ],
         "mate-kit": [
-            "next/1.24-prime",
             "next/1.26-prime"
         ],
         "media-kit": [
