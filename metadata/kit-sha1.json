@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "c18788a4e6b705654462fe5f57b3ce2640670f3c"
+        "next": "dd1920a8ec96339cbba2df4eba1488f6d0cd3b36"
     },
     "core-gl-kit": {
         "next": "1999ec7acad27ab2b25acece50fc2f461ebb4e4d"
@@ -9,19 +9,19 @@
         "next": "e2495e7e5268d10ef58abe547f404cdff496dd35"
     },
     "core-kit": {
-        "next": "724acf7da7649c86b57c5a460990cd32e99c6ea8"
+        "next": "a305b1b8d0b932fc3c4e88d842d31090d5ead6ae"
     },
     "core-server-kit": {
-        "next": "a69ca7c879754b0dc589b1e8039de57acef77908"
+        "next": "b40fae16cc98d5b3e5d7e966017cd4f68f753892"
     },
     "desktop-kit": {
         "next": "11fe174349a3d23308204dcb40b345b555c1a73b"
     },
     "dev-kit": {
-        "next": "67192ba97468c3af0f33179ab7e161343433292b"
+        "next": "4617b3ec5b12609f65edea4324583537895dc5f0"
     },
     "editors-kit": {
-        "next": "6aec3be9bba107b5d4b75b51330c09668a561566"
+        "next": "2a33d9d32ad1c63d07b33c48ae751dde439535cd"
     },
     "games-kit": {
         "next": "bde52544eeef4a5723e7daa4876a80306c2c5ccc"
@@ -42,7 +42,7 @@
         "next/5.27-release": "9d6c7199b59c5e0be1265405e40dc15d6bbbede2"
     },
     "lang-kit": {
-        "next": "1da12040a9162ed69d24f5eac29ee0b86d411e56"
+        "next": "6265a2a4247f40232c2a68d209e07890f3f59ddb"
     },
     "lisp-scheme-kit": {
         "next": "4c3e6e50cada004efde588547c78b2acb9d7b355"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "1db0f7354ae57ad5ac3724a0e80033014f76dc7b"
+        "next": "904b6e33aa707c202689d685ded0025465a2e565"
     },
     "perl-kit": {
         "next": "81b1ea6556ab2c3d8d481273b267153c1491da2c"
@@ -69,7 +69,7 @@
         "next": "753b1292bc7117dce37bfbd69ded4dfb8bf89cdd"
     },
     "python-modules-kit": {
-        "next": "50b497ef69ffba2ce44fd0d3a346cc330d7dd5ad"
+        "next": "65cde83a72b2ab9564d63cf63c65788b190370c9"
     },
     "qt-kit": {
         "next-5.15.2-release": "084d1ea36c1e15b3957b8b862981e03f39e6b525"
