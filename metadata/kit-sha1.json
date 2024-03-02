@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "dd1920a8ec96339cbba2df4eba1488f6d0cd3b36"
+        "next": "a4b4bd6e4341e9266099f973cfb342c9ac5ed73e"
     },
     "core-gl-kit": {
         "next": "1999ec7acad27ab2b25acece50fc2f461ebb4e4d"
@@ -12,16 +12,16 @@
         "next": "5d622d1ff80cd0a9757a475a293260517de617ff"
     },
     "core-server-kit": {
-        "next": "b26e77e2e2b84adfd1c62f1875686e2d6e4b4c49"
+        "next": "5366d26b0aa7cfaafbe0dd03649e72c72c8d98ad"
     },
     "desktop-kit": {
         "next": "11fe174349a3d23308204dcb40b345b555c1a73b"
     },
     "dev-kit": {
-        "next": "42dbeb74a2451d41c47dc73a1da5277bb70ecccc"
+        "next": "6f62066ad036d8a984d2a12dfd83beae9e84f517"
     },
     "editors-kit": {
-        "next": "2a33d9d32ad1c63d07b33c48ae751dde439535cd"
+        "next": "5218cec3da981bffef2b14fb1fbdfde203537c04"
     },
     "games-kit": {
         "next": "d25635f561f37538d0ad9f870682b7a9cc355b02"
@@ -42,7 +42,7 @@
         "next/5.27-release": "9d6c7199b59c5e0be1265405e40dc15d6bbbede2"
     },
     "lang-kit": {
-        "next": "bdbe0dbbfdfbe00aed41ad51c792648f56196c38"
+        "next": "7d8bdf31a045e0a31430e3cb8c8d2db21819b757"
     },
     "lisp-scheme-kit": {
         "next": "4c3e6e50cada004efde588547c78b2acb9d7b355"
@@ -54,7 +54,7 @@
         "next/1.26-prime": "ac053b7174b6900c338bfb4804848622f3469be5"
     },
     "media-kit": {
-        "next": "7d2d0f8bb15c20f888749703106bd01da0d41e78"
+        "next": "7b0fa9ffd142e15c9c22324fd7dcaf40c77213b9"
     },
     "ml-lang-kit": {
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
@@ -69,7 +69,7 @@
         "next": "753b1292bc7117dce37bfbd69ded4dfb8bf89cdd"
     },
     "python-modules-kit": {
-        "next": "b2d6bc7fe752979fbe490ff0fd4263d34ad51ec7"
+        "next": "cf52e936609ad7a53b9f7b2f2c807cd0cc74b38d"
     },
     "qt-kit": {
         "next-5.15.2-release": "084d1ea36c1e15b3957b8b862981e03f39e6b525"
@@ -78,7 +78,7 @@
         "next": "21e1b405408f5793e974f8d544f9159f58e69478"
     },
     "science-kit": {
-        "next": "e4161651d3cabfe6ed7c3c7f4317b2a610a80f31"
+        "next": "fecf99ce0afd85fe33055d4f93229a76bff2e8bc"
     },
     "security-kit": {
         "next": "b248b1497fc338c889a17a8b1ac96b6ac15a4647"
