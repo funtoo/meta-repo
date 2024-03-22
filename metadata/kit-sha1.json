@@ -1,6 +1,6 @@
 {
     "browser-kit": {
-        "next": "c4527cfb83378d609928522f36fa15b803daa257"
+        "next": "1c7c6741a82fd4d74b4e7db6afb8edcfda4745ab"
     },
     "core-gl-kit": {
         "next": "b38be67fe09a4d38e7c9f31f3aba2c952469697a"
@@ -9,7 +9,7 @@
         "next": "0a350a2c84105e3fb3bae253f0475f19e25a8365"
     },
     "core-kit": {
-        "next": "04e68723431483ed5fe7bf984771a99d5312dbda"
+        "next": "596751bdaea84fb754b70816725f98961b557047"
     },
     "core-server-kit": {
         "next": "0ffcb5870c93ec3d29dabe3e69d5f08f35e8e96d"
@@ -18,13 +18,13 @@
         "next": "5638cdb275709b9f01078a8728b8b71bf576bfee"
     },
     "dev-kit": {
-        "next": "e6fece21a13f113835ca83ce297797e641c07a2c"
+        "next": "40d995162661e41b2721e39fe31022413f1236d8"
     },
     "editors-kit": {
         "next": "47524664dd96945716e9ac2d2b1768ceb6d07fda"
     },
     "games-kit": {
-        "next": "84d36129a615a86a98e0c5aa332b2eb84f3b5b74"
+        "next": "aad91b20a3a9309653c46741a855c7329e307cdd"
     },
     "gnome-kit": {
         "next-3.36-prime": "ec9cede71dc5c1722001532abe0a25d9c726c822"
@@ -42,7 +42,7 @@
         "next/5.27-release": "4360899d7d946ff92de61fc6d464cdf52f80cb5b"
     },
     "lang-kit": {
-        "next": "853a1d54c0f0beeb3d424503135eb370e9a71c1f"
+        "next": "1af874bea067d578c1c8d1c634ab1e62f4a057ef"
     },
     "lisp-scheme-kit": {
         "next": "4c3e6e50cada004efde588547c78b2acb9d7b355"
@@ -60,7 +60,7 @@
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "e5e116986cecb4850067f10b71fdd75e32609386"
+        "next": "d3303dccd05243790489095ce3b15ba7d8ed58ad"
     },
     "perl-kit": {
         "next": "81b1ea6556ab2c3d8d481273b267153c1491da2c"
@@ -69,16 +69,16 @@
         "next": "9c044db5c8006f82080b5a8dc4d2b15219e2699a"
     },
     "python-modules-kit": {
-        "next": "b1f7c4cf1c6c1c8618ef4e4a516beb08af47db52"
+        "next": "2f25bb28363a3e6ffc8ab8500045b6bd97b56b5b"
     },
     "qt-kit": {
         "next-5.15.2-release": "6ab83d75d0490437c57c97097cb125091ac7fcb6"
     },
     "ruby-kit": {
-        "next": "8270d64d2e9430b6764464a635470fa1702fe00c"
+        "next": "a3a9889ac8939e5a7a671bbc01a38115aaec7f0d"
     },
     "science-kit": {
-        "next": "fecf99ce0afd85fe33055d4f93229a76bff2e8bc"
+        "next": "055961a092d765e79577d91d1875372f16b27402"
     },
     "security-kit": {
         "next": "86fe39eb7f6494449604a5f3c501ed7485fae995"
