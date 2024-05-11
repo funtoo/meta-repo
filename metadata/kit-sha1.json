@@ -1,24 +1,24 @@
 {
     "browser-kit": {
-        "next": "73d96605a8cd51601df1917a1b21228372eb75c9"
+        "next": "07307a788db7c39e72f9e2021f11b806b7398d2d"
     },
     "core-gl-kit": {
         "next": "9dcd3a164105ad374cd95e7469b16c5de44ee206"
     },
     "core-hw-kit": {
-        "next": "6d6ad6b210d07aa47830e863492fe6ede1f35b63"
+        "next": "cc01b9694075ffd5cd98f6cf21c8983bda553d01"
     },
     "core-kit": {
-        "next": "16dd80e6841001743c84ebfc8c1d38cf6e7bdf80"
+        "next": "41737e62905edf5c49a5882d06b8687c7795b661"
     },
     "core-server-kit": {
-        "next": "7cfcdd97725667f4c5c1ebe70ebea9472d4fa9df"
+        "next": "6542c032b69253441552d3c16959f9f442451c37"
     },
     "desktop-kit": {
-        "next": "aca9835148bcdd23526e11ba726acf50ba39300a"
+        "next": "6ae759e9cffdb085600a51220b558f407d4a47a3"
     },
     "dev-kit": {
-        "next": "54248d66ba8200517a1884df7d3cd5f1ebdd44a3"
+        "next": "0ce6293d9256e9982e2abb9e522347373d78e01f"
     },
     "editors-kit": {
         "next": "4e8170d0d1965f964796d1a6f0dd27e730a367d3"
@@ -54,13 +54,13 @@
         "next/1.26-prime": "ac053b7174b6900c338bfb4804848622f3469be5"
     },
     "media-kit": {
-        "next": "21824742366ca12800ecb10925041dcebbd246a2"
+        "next": "c976fad11291f0068cca8d15fd1e0f5f24472bde"
     },
     "ml-lang-kit": {
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "3c67dc1aceea38dc320ea4e5d7e25f7737ed3ab0"
+        "next": "53f1a406b64f972b4b3f5cafbab4a2222d6fcb5b"
     },
     "perl-kit": {
         "next": "81b1ea6556ab2c3d8d481273b267153c1491da2c"
@@ -69,7 +69,7 @@
         "next": "9aad2803c63ce84c9ba543c825d7e4a96c0bb01c"
     },
     "python-modules-kit": {
-        "next": "271316f30aafaceb3c163f6b484bb42d39bcaf4a"
+        "next": "021de00e1d76b18b18ff9cb471a06aa779636f35"
     },
     "qt-kit": {
         "next-5.15.2-release": "227caf4e84219624e89a3bbd9580d47e381756e1"
@@ -78,10 +78,10 @@
         "next": "fc7faa23624779a9455ef7f683221aa06ffe6aee"
     },
     "science-kit": {
-        "next": "e87ea84547770f0d98d47b42afdb0be912704985"
+        "next": "b75aceab3471cc2d6aba24b23a24d48929863483"
     },
     "security-kit": {
-        "next": "0192c0ff6f3c438d4656340d51a1432363daed08"
+        "next": "9af38852279403fa06c77bd373803cbb300ac0b5"
     },
     "text-kit": {
         "next": "ddfac0932d66fcc39cb57512cc5aa6d1608fede0"
