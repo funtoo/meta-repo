@@ -1,9 +1,9 @@
 {
     "browser-kit": {
-        "next": "c9d0b670fb792451f25dc92d1e2555887326a83d"
+        "next": "448b753c4de94ab6556591c7e60c3c1d6edb2661"
     },
     "core-gl-kit": {
-        "next": "27de8d19daa609724ae742745d97d427f02f00a8"
+        "next": "afdcf58b2273ed66305f7c35b504a5d9858d9dce"
     },
     "core-hw-kit": {
         "next": "ee5ebe0642f348f44ccd61c95b1e76b35bfb58b7"
@@ -12,7 +12,7 @@
         "next": "648e6a60a162f4b757ff74f0ad10e45b09751c51"
     },
     "core-server-kit": {
-        "next": "76259465fe00e9d3dca27cea1a61e678daa9e5f6"
+        "next": "f40843378cb27d82318e9a39626cc52c487fcbe5"
     },
     "desktop-kit": {
         "next": "699bad6cd3ae0085da4909426d9f04a95b881eb6"
@@ -69,7 +69,7 @@
         "next": "9aad2803c63ce84c9ba543c825d7e4a96c0bb01c"
     },
     "python-modules-kit": {
-        "next": "7f41c18f5a0cb94249eb162db9d57e031cc9333f"
+        "next": "ea9f618040d4cd2db2f9d5d76152929f4fb32a1a"
     },
     "qt-kit": {
         "next-5.15.2-release": "50fd557c457d37a89c95dfe9503e572439b40de0"
