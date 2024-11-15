@@ -8,7 +8,6 @@
         "desktop-kit",
         "dev-kit",
         "editors-kit",
-        "games-kit",
         "gnome-kit",
         "haskell-kit",
         "i18n-kit",
@@ -75,12 +74,6 @@
             "type": "auto"
         },
         "editors-kit": {
-            "stability": {
-                "next": "prime"
-            },
-            "type": "auto"
-        },
-        "games-kit": {
             "stability": {
                 "next": "prime"
             },
@@ -236,9 +229,6 @@
             "next"
         ],
         "editors-kit": [
-            "next"
-        ],
-        "games-kit": [
             "next"
         ],
         "gnome-kit": [
