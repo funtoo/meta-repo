@@ -1,27 +1,27 @@
 {
     "browser-kit": {
-        "next": "762c5d6c8d125411126e7a9af1ae2c7eb342d77b"
+        "next": "20e7f5c95786e7b4f1f3a090ae4b66aa4cd51f58"
     },
     "core-gl-kit": {
         "next": "eae5f93662320763158aabcf4492e00eab759137"
     },
     "core-hw-kit": {
-        "next": "84d369fec23530efa323775f410326c3b2b3b041"
+        "next": "7cffc19f94d43dff988f0094c11ef00bb2cb09ed"
     },
     "core-kit": {
-        "next": "a70c8a4387da60192bef91b79634e102ea0ba98d"
+        "next": "ba837231bea7530e13ba2d6408ad86a47b83b3e8"
     },
     "core-server-kit": {
-        "next": "c09639a7fdc1f44b2769c712981408488b998459"
+        "next": "aef37a285db722bce4bcffe5c60a35c0cb07177e"
     },
     "desktop-kit": {
         "next": "0c143a9ed5f48bdbb818fe000c3cafa2f6f266aa"
     },
     "dev-kit": {
-        "next": "2a65699a9b697a0ede7a868cf43f1c97619ee5ca"
+        "next": "79317be6facf967ee642a836c8c77f8d2c05bf4e"
     },
     "editors-kit": {
-        "next": "0120f8016ee2ce294553a03ea7a1c35ae4bb37f5"
+        "next": "7a121365e17afe62b1a277c7b4695bd7cffe6985"
     },
     "gnome-kit": {
         "next-3.36-prime": "3675fc03806f0b03d60d24d6598d29fac0024bd8"
@@ -30,7 +30,7 @@
         "next": "e63f0177e70649b7e5b1105918da9e43e9a7bb16"
     },
     "i18n-kit": {
-        "next": "421998889b0c81498200c3af5f2288b6331d258a"
+        "next": "820949e2fb6ff0ddf59a239d4a6225118591501f"
     },
     "java-kit": {
         "next": "54462538f8581cd8d4dc17558b3d26423d7a0765"
@@ -39,7 +39,7 @@
         "next/5.27-release": "320abafefaf40708a5b176e5cd976685010aa4b8"
     },
     "lang-kit": {
-        "next": "51b7ab3c3b572253b1080731e3f56f257d2d1822"
+        "next": "5b511a3423d3f2901eee19520cfaac158de79f82"
     },
     "lisp-scheme-kit": {
         "next": "17ff58fc6a4e1544167df4f3485fb1b4d259e833"
@@ -51,13 +51,13 @@
         "next/1.26-prime": "ac053b7174b6900c338bfb4804848622f3469be5"
     },
     "media-kit": {
-        "next": "388d04a0b230be56e0deeb8a6c9b2577592aef31"
+        "next": "5a697784abc0ee656cdfc702398af502ae95addd"
     },
     "ml-lang-kit": {
         "next": "88f33869560d2b3110d61605b95cafb55c4cd32c"
     },
     "net-kit": {
-        "next": "ce9fa49177b07a48f17324e360fee80f8eb9cb57"
+        "next": "b7229236cfc22a69921f0947fbec204544bce971"
     },
     "perl-kit": {
         "next": "b846634b5f8397861cada5f83b68ba4bf1f7e2f6"
@@ -66,10 +66,10 @@
         "next": "a7234e8f4b5fe428c20b79d7d16ba48fd9cf080a"
     },
     "python-modules-kit": {
-        "next": "62d6f63ffd996cb5bf683f5e0b327183b40417c1"
+        "next": "cc50c82fa78de3de4535a40952726590720f5911"
     },
     "qt-kit": {
-        "next-5.15.2-release": "1572095833e946a51feee178a46d39458ce29ffd"
+        "next-5.15.2-release": "bac7acdd2152750b8b5a8057a646238d364cb7ee"
     },
     "ruby-kit": {
         "next": "346f25001d98a9414b4b9e146166289151451748"
@@ -81,7 +81,7 @@
         "next": "042b1e7f8d92b7eaded64d59938a5905e14fda45"
     },
     "text-kit": {
-        "next": "b2089c048fe28285e1fa90f72c91440b73053fc9"
+        "next": "1bae8cd2c801833630b6d66e8ca599e43f25e808"
     },
     "xfce-kit": {
         "next-4.16-release": "71b07a0ff6ba42a8d2b278d9108d95f99d425a82"
